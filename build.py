@@ -1,16 +1,16 @@
 import os
+import re
 import json
-import glob
 from pathlib import Path
 from jinja2 import Template
 
-def build_site(data_dir, dist_dir, template_path):
+def build_site(data_dir: str | Path, dist_dir: str | Path, template_path: str | Path) -> None:
     Path(dist_dir).mkdir(parents=True, exist_ok=True)
     
     with open(template_path, 'r', encoding='utf-8') as f:
         template = Template(f.read())
         
-    json_files = glob.glob(os.path.join(data_dir, "standardized_*.json"))
+    json_files = Path(data_dir).rglob("standardized_*.json")
     
     exam_links = []
     
@@ -19,7 +19,8 @@ def build_site(data_dir, dist_dir, template_path):
             data = json.load(f)
             
         exam_title = data.get("exam_title", "Unknown Exam")
-        filename = f"{exam_title.replace(' ', '_')}.html"
+        slugified_title = re.sub(r'[^a-zA-Z0-9_\-]', '_', exam_title)
+        filename = f"{slugified_title}.html"
         
         # Render HTML
         rendered_html = template.render(
