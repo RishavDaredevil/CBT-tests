@@ -1,0 +1,658 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2017,
+    "exam_title": "DSE 2017",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Person A lexicographically prefers good x to good y, i.e., when comparing two bundles\nof x and y, she strictly prefers the bundle that has more of good x; if the bundles have\nequal amounts of good x, then she strictly prefers the bundle that has more of good y.\nA’s indifference curves in the (x,y)-space are",
+            "options": [
+                "(A) vertical lines",
+                "(B) horizontal lines",
+                "(C) diagonal lines",
+                "(D) none of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider person A as described above. Consider the bundle (2,1) and a sequence of\nbundles (sn) such that each bundle sn is strictly preferred to (2,1). If this sequence of\nbundles converges to a bundle s, then",
+            "options": [
+                "(A) s is strictly preferred to (2,1)",
+                "(B) s is indifferent to (2,1)",
+                "(C) (2,1) is strictly preferred to s",
+                "(D) any of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider an economy with two agents, A and B, and two goods, x and y. Both agents\ntreat the two goods as perfect complements. Suppose the total endowment of this\neconomy is (4,2). Which of the following allocations is not Pareto optimal?",
+            "options": [
+                "(A) A gets (1,1) and B gets (1,1).",
+                "(B) A gets (2,1) and B gets (3/2,1).",
+                "(C) A gets (1/2,3/2) and B gets (3,1/2).",
+                "(D) A gets (3,2) and B gets (0,0).\nThe next four questions are based on the following information. Consider an\nexchange economy with agents A and B and goods x and y. A’s endowment is (0,1)\n(i.e., no good x and 1 unit of y) and B’s endowment is (2,0) (i.e., 2 units of good x and\nno good y. The agents can consume only nonnegative amounts of x and y."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Suppose A lexicographically prefers x to y and B considers x and y to be perfect sub-\nstitutes, i.e., between bundles (x,y) and (x0,y0), she strictly prefers (x,y) if and only if\nx+y > x0 +y0. The competitive equilibrium allocation for this economy is",
+            "options": [
+                "(A) A gets (0,1) and B gets (2,0).",
+                "(B) A gets (2,0) and B gets (0,1).",
+                "(C) A gets (3/2,0) and B gets (1/2,1).",
+                "(D) A gets (1,0) and B gets (1,1)."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Refer to the previous question. The set of all possible competitive equilibrium prices\nconsists of all p > 0 and p > 0 such that\nx y",
+            "options": [
+                "(A) p /p = 1\nx y",
+                "(B) p /p ≥ 1\nx y",
+                "(C) p /p ≤ 1\nx y",
+                "(D) p /p > 0\nx y"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Now suppose A lexicographically prefers y to x and B considers x and y to be perfect\nsubstitutes. The set of all possible competitive equilibrium prices consists of all p > 0\nx\nand p > 0 such that\ny",
+            "options": [
+                "(A) p /p = 1\nx y",
+                "(B) p /p ≥ 1\nx y",
+                "(C) p /p ≤ 1\nx y",
+                "(D) p /p > 0\nx y"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Now suppose A lexicographically prefers y to x and B considers x and y to be perfect\ncomplements. The set of competitive equilibrium allocations",
+            "options": [
+                "(A) includes the allocation (1,0) for A and (1,1) for B",
+                "(B) includes the allocation (1,0) for A and (1,1) for B",
+                "(C) is empty",
+                "(D) includes all allocations (x,1) for A and (2−x,0) for B, where x ∈ [0,2]\nSuppose A is selling the Taj Mahal by the following auction procedure. There are two\nbidders, 1 and 2. Each bidder has a valuation v of the Taj and submits a bid b in a sealed\ni i\nenvelope. The Taj is given to the bidder who submits the highest bid; if both bidders submit\nthe same bid, then each gets the Taj with equal probability. If bidder i wins, then she pays\nthe price min(b ,b ) and gets payoff v −min(b ,b ). If bidder i loses, then she pays nothing\n1 2 i 1 2\nand her payoff is 0. Bidder i’s valuation v is known only to bidder i and her bid b may or\ni i\nmay not match v .\ni"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "In order to maximize her payoff, Bidder i must bid",
+            "options": [
+                "(A) b = v\ni i",
+                "(B) b < v\ni i",
+                "(C) b ≤ v\ni i",
+                "(D) b ≥ v\ni i"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "If b is the optimal bid for bidder i, then\ni",
+            "options": [
+                "(A) it varies with bidder i’s belief about the other bidder’s valuation",
+                "(B) it varies with bidder i’s belief about the other bidder’s bid",
+                "(C) both (A) and (B)",
+                "(D) neither (A) nor (B)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The Nash equilibrium of the Cournot duopoly model is a pair of quantities (x ,x ) such\n1 2\nthat",
+            "options": [
+                "(A) the best response curves of firms’ 1 and 2 are tangential at (x ,x )\n1 2",
+                "(B) isoprofit curves of firms’ 1 and 2 are tangential at (x ,x )\n1 2",
+                "(C) an isoprofit curve of each firm is tangential to the best response curve of the\nother firm at (x ,x )\n1 2",
+                "(D) none of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider the Stackelberg duopoly model with firm 1 choosing quantity x first. Firm 2\n1\nobserves x and sets quantity x thereafter. The equilibrium outcome of this game is a\n1 2\npair of quantities (x ,x ) such that\n1 2",
+            "options": [
+                "(A) isoprofit curves of firms’ 1 and 2 are tangential at (x ,x )\n1 2",
+                "(B) an isoprofit curve of firm 1 is tangential to the best response curve of firm 2\nat (x ,x )\n1 2",
+                "(C) an isoprofit curve of firm 2 is tangential to the best response curve of firm 1\nat (x ,x )\n1 2",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Consider the following game:\nL R\nT (x,x) (b,y)\nB (y,b) (a,a)\nWhich of the following statements is true when y > x > a > b?",
+            "options": [
+                "(A) The strategy profile (B,R) is the unique Nash equilibrium.",
+                "(B) (B,R) is one of many Nash equilibria.",
+                "(C) Both (B,R) and (B,R) are Nash equilibria.",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Consider a consumer with utility function u(x,y,z) = ymin{x,z}. The prices of all\nthree goods are the same. The consumer has Rs.100 to spend on these three goods. The\ndemands will be such that",
+            "options": [
+                "(A) y < x = z",
+                "(B) y > x = z",
+                "(C) x = y = z",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A firm uses two inputs to produce its output. For all positive input prices, the firm\nemploys an input combination of the form (x,αx) where α > 0 is a constant. Which of\nthe following production functions could represent this firm’s technology?",
+            "options": [
+                "(A) f(x,y) = min{xα,y}",
+                "(B) f(x,y) = min{αx,y}",
+                "(C) f(x,y) = min{x,αy}",
+                "(D) f(x,y) = min{x,yα}"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Suppose there are two telecom firms, 1 and 2, who have paid fees k > 0 and k > 0 for\n1 2\ntelecom spectrum. Let k > k . They produce an identical good (telecom service) at an\n1 2\nidentical average cost of production c > 0. If they engage in Bertrand competition, then\nthe Nash equilibrium prices (p ,p ) are such that\n1 2",
+            "options": [
+                "(A) p > p > c\n1 2",
+                "(B) p = p > c\n1 2",
+                "(C) p = p = c\n1 2",
+                "(D) are indeterminate"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider the following game with players 1 and 2; payoffs are denoted by (a,b) where\na is 1’s payoff and b is 2’s payoff. First, player 1 chooses either U or",
+            "options": [
+                "(A) This game has a unique Nash equilibrium",
+                "(B) This game has a unique subgame perfect equilibrium",
+                "(C) This game has no subgame perfect equilibrium",
+                "(D) This game has multiple subgame perfect equilibria"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The interval (0,1) can be expressed as",
+            "options": [
+                "(A) the union of a countable collection of closed intervals",
+                "(B) the intersection of a countable collection of closed intervals",
+                "(C) both (A) and (B)",
+                "(D) neither (A) nor (B)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "The interval [0,1] can be expressed as",
+            "options": [
+                "(A) the union of a countable collection of open intervals",
+                "(B) the intersection of a countable collection of open intervals",
+                "(C) both (A) and (B)",
+                "(D) neither (A) nor (B)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "A function f : Rn → R is a convex function if and only if",
+            "options": [
+                "(A) {(x,y) ∈ Rn ×R | y ≥ f(x)} is a convex set",
+                "(B) {(x,y) ∈ Rn ×R | y ≤ f(x)} is a convex set",
+                "(C) {(x,y) ∈ Rn ×R | y ≥ f(x)} is a concave set",
+                "(D) {(x,y) ∈ Rn ×R | y ≤ f(x)} is a concave set"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "A function f : Rn → R is a quasi-convex function if and only if",
+            "options": [
+                "(A) {(x,y) ∈ Rn ×R | y ≥ f(x)} is a convex set",
+                "(B) {x ∈ Rn | y ≥ f(x)} is a convex set for every y ∈ R",
+                "(C) {(x,y) ∈ Rn ×R | y ≤ f(x)} is a convex set",
+                "(D) {x ∈ Rn | y ≤ f(x)} is a convex set for every y ∈ R"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "If\nA = {(x,y) ∈ R2 | x ≥ 0,y ≥ 0,xy ≥ 1},\nB = {(x,y) ∈ R2 | x ≤ 0,y ≥ 0,xy ≤ −1} and\nC = {a+b | a ∈ A,b ∈ B}\nthen",
+            "options": [
+                "(A) {(x,y) ∈ R2 | x = 0,y ≥ 0} is a subset of C",
+                "(B) {(x,y) ∈ R2 | x = 0,y > 0} is a subset of C",
+                "(C) {(x,y) ∈ R2 | x ≥ 0,y = 0} is a subset of C",
+                "(D) {(x,y) ∈ R2 | x > 0,y = 0} is a subset of C\n(cid:18) 1 (cid:19)5n"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "lim 1+ equals\nn→∞\n2n",
+            "options": [
+                "(A) e2",
+                "(B) e2.5",
+                "(C) ∞",
+                "(D) e1.5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider the function\n\n ln x, if 0 < x < 1\nf(x) =\nax2 +b, if 1 ≤ x < ∞\nsuch that f(2) = 3. Function f is continuous if",
+            "options": [
+                "(A) a = 2 and b = −1",
+                "(B) a = −1 and b = 2",
+                "(C) a = −1 and b = 1",
+                "(D) a = 1 and b = −1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "If A and B are n×n matrices such that A+B = AB, then",
+            "options": [
+                "(A) AB = BA",
+                "(B) AB 6= BA",
+                "(C) B = A−1",
+                "(D) B = AT, where AT is the transpose of A"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "If B is an n×n real matrix and BT is the transpose of B, then",
+            "options": [
+                "(A) BTB is negative definite",
+                "(B) BTB is positive definite",
+                "(C) BTB is negative semidefinite",
+                "(D) BTB is positive semidefinite"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Consider a twice differentiable function f : R → R and a,b ∈ R such that a < b,\nf(a) = 0 = f(b) and D2f(x)+Df(x)−1 = 0 for every x ∈ [a,b]. Then,",
+            "options": [
+                "(A) f(x) ≤ 0 for every x ∈ [a,b]",
+                "(B) f(x) ≥ 0 for every x ∈ [a,b]",
+                "(C) f(x) = 0 for every x ∈ [a,b]",
+                "(D) f must take positive and negative values on the interval [a,b]"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Suppose f : R → R is decreasing and differentiable. If F : R → R satisfies F(x) =\n+ +\nRxf(t)dt, then F is\n0",
+            "options": [
+                "(A) convex",
+                "(B) concave",
+                "(C) increasing",
+                "(D) decreasing"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "If real numbers p and q satisfy 0 < q < p , then the following is true for the numbers\np,q,p+q and q −p:",
+            "options": [
+                "(A) their mean equals their median",
+                "(B) their mean is greater than their median",
+                "(C) their mean is less than their median",
+                "(D) there is insufficient information to compare their mean and their median"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "If a binomial random variable X has expectation 7 and variance 2.1, then the probability\nthat X = 11 is",
+            "options": [
+                "(A) 462(0.7)5(0.3)6",
+                "(B) 0",
+                "(C) 11(0.7)11",
+                "(D) 462(0.7)6(0.3)5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "A machine starts operating at time 0 and fails at a random time T. The distribution of\nT has density f(t) = (1/3)e−t/3 for t > 0. The machine will not be monitored until time\nt = 2.\nThe expected time of discovery of the machine’s failure is",
+            "options": [
+                "(A) 2+e−6/3",
+                "(B) 2−2e−2/3 +5e−4/3",
+                "(C) 2+3e−2/3",
+                "(D) 3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "An insuree has an insurance policy against a random loss X ∈ [0,1]. If loss X occurs,\nthen the insurer pays X − C to the insuree, who bears the remaining loss C ∈ (0,1).\nThe loss X is a continuous random variable with density function\n\n 2x, if 0 < x < 1\nf(x) =\n\n0, otherwise\nIf the probability of the insurance payment being less than 1/2 is equal to 0.64, then C\nis",
+            "options": [
+                "(A) 0.1",
+                "(B) 0.3",
+                "(C) 0.4",
+                "(D) 0.6"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "A tour operator has a bus that can accommodate 20 tourists. The operator knows that\ntourists may not show up, so he sells 21 tickets. The probability that an individual\ntourist will not show up is 0.02, independent of all other tourists. Each ticket costs 50,\nand is non-refundable if a tourist fails to show up. If a tourist shows up and a seat is\nnot available, the tour operator has to pay 100 to that tourist. The expected revenue of\nthe tour operator is",
+            "options": [
+                "(A) 950",
+                "(B) 967",
+                "(C) 976",
+                "(D) 985"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "An insurance policy-holder can submit up to 5 claims. The probability that the policy-\nholder submits exactly n claims is p , for n = 0,1,2,3,4,5. It is known that\nn\n• The difference between p and p is constant for n = 0,1,2,3,4, and\nn n+1\n• 40% of the policyholders submit 0 or 1 claim.\nWhat is the probability that a policyholder submits 4 or 5 claims?",
+            "options": [
+                "(A) 0.06",
+                "(B) 0.19",
+                "(C) 0.26",
+                "(D) 0.34"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Suppose n students are asked to solve a problem at time 0. The random time to\ncompletion for student i is T ≥ 0. Each T is uniformly distributed on [0,1]. If\ni i\nY = max{T ,...,T }, then the mean of Y is\n1 n\n(cid:20) n (cid:21)2\nA.\nn+1\nn\nB.\n2(n+1)\nn\nC.\n(n+1)\n2n\nD.\n(n+1)",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "A hospital determines that N, the number of patients in a week, is a random variable\nwith Pr[N = n] = 2−n−1, where n ≥ 0. The hospital also determines that the number\nof patients in a given week is independent of the number of patients in any other week.\nThe probability that there are exactly seven patients during a two-week period is",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/64",
+                "(C) 1/128",
+                "(D) 1/256\nThe next two questions are based on the following information.\nX and Y are random variables and their joint probability distribution is as follows:\nY = 1 Y = 2 Y = 3 Y = 4 Y = 5 Y = 6\nX = −1 0.1 α 0.3 0 0 0\nX = 1 0 0 β 0.1 0.1 0.1\nIt is known that the expectations of the two random variables are E(X) = −0.2 and\nE(Y) = 3.2. Then"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "The value of α is",
+            "options": [
+                "(A) 0",
+                "(B) 0.1",
+                "(C) 0.2",
+                "(D) 0.3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "The value of β is",
+            "options": [
+                "(A) 0",
+                "(B) 0.1",
+                "(C) 0.2",
+                "(D) 0.3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "There are 3 red and 5 black balls in an urn. You draw two balls in succession without\nreplacing the first ball. The probability that the second ball is red equals",
+            "options": [
+                "(A) 2/7",
+                "(B) 3/8",
+                "(C) 5/7",
+                "(D) 1/4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "SupposeX andY areindependentrandomvariableswithstandardNormaldistributions.\nThe probability of X > 1 is p. The probability of the event X2 > 1 and Y3 < 1 is",
+            "options": [
+                "(A) 2p(1−p)",
+                "(B) 4p",
+                "(C) p(1−p)",
+                "(D) 2p2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Suppose 1/10 of the population has a disease. If a person has the disease, then a\ntest detects it with probability 8/10. If a person does not have the disease, then the\ntest incorrectly shows the presence of the disease with probability 2/10. What is the\nprobability that the person tested has the disease if the test indicates the presence of\nthe disease?",
+            "options": [
+                "(A) 1",
+                "(B) 9/13",
+                "(C) 4/13",
+                "(D) 7/13"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Two patients share a hospital room for two days. Suppose that, on any given day, a\nperson independently picks up an airborne infection with probability 1/4. An individual\nwho is infected on the first day will certainly pass it to the other patient on the second\nday. Once contracted, the infection stays for at least two days. What is the probability\nthat fewer than two patients have the infection by the end of the second day?",
+            "options": [
+                "(A) 135/256",
+                "(B) 121/256",
+                "(C) 131/256",
+                "(D) 125/256\nAnswer the next question using the following information. Let w = W/P be the real wage\nrate, where W is the nominal wage rate and P is the aggregate price level. The demand\nfor labour is given by D(w) = 1−w and the supply of labour is described by the equation\nS(w) = w. If N is the employment level, then f(N) is the aggregate output."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "If nominal wage is always such that the labour market clears, then the aggregate supply\ncurve is given by the equation",
+            "options": [
+                "(A) Y = Pf(N)",
+                "(B) Y = f(N)",
+                "(C) Y = Pf(1/2)",
+                "(D) Y = f(1/2)\nAnswerthenextfivequestionsusingthefollowinginformation. Considertheabove-described\nlabour market with the following change: the nominal wage rate W minimizes |D(W/P)−\nS(W/P)|subjecttotheconstraintW ≥ W , whereW > 0isanexogenouslygivenminimum\n0 0\nnominal wage."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Given the price level P, the nominal wage W is",
+            "options": [
+                "(A) max{W ,P/2}\n0",
+                "(B) min{W ,P/2}\n0",
+                "(C) 1/2",
+                "(D) W /2\n0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Given the price level P, the employment level is",
+            "options": [
+                "(A) min{1/2,1−W /P}\n0",
+                "(B) max{1/2,1−W /P}\n0",
+                "(C) 1−W /2P\n0",
+                "(D) 1−1/2P"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Given the price level P such that 1/2 ≤ 1−W /P, the aggregate supply is\n0",
+            "options": [
+                "(A) f(1/2)",
+                "(B) f(1−1/2P)",
+                "(C) f(1−W /P)\n0",
+                "(D) f(1−W /2P)\n0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "If the marginal productivity of capital is positive and the stock of capital increases, then\nthe aggregate supply schedule will",
+            "options": [
+                "(A) shift up",
+                "(B) shift down",
+                "(C) shift to the left",
+                "(D) shift to the right"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "If the fixed nominal wage W increases, then the aggregate supply schedule will\n0",
+            "options": [
+                "(A) shift up",
+                "(B) shift down",
+                "(C) shift to the left",
+                "(D) shift to the right"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Consider a closed economy. If the nominal wage is flexible and nominal money supply\nis increased, then which of the following will be true in equilibrium?",
+            "options": [
+                "(A) Real wage decreases and real money supply decreases",
+                "(B) Real wage decreases and real money supply increases",
+                "(C) Real wage is unchanged and real money supply is unchanged",
+                "(D) Real wage decreases and real money supply is unchanged"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Which of the following would make the LM curve flatter in the (Y,r) space?",
+            "options": [
+                "(A) An increase in income sensitivity of money demand",
+                "(B) An increase in interest sensitivity of planned investment",
+                "(C) An increase in the marginal propensity to consume",
+                "(D) An increase in the interest sensitivity of money demand"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "In an IS-LM model with fixed exchange rates and perfect capital mobility, an increase\nin government spending will lead to",
+            "options": [
+                "(A) a deterioration in the trade balance",
+                "(B) an improvement in the trade balance",
+                "(C) no change in the trade balance",
+                "(D) an increase in export without affecting imports"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

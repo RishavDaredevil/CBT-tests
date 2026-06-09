@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2010,
+    "exam_title": "DSE 2010",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A number, say X , is chosen at random from the set {1,2}. Then a number, say X , is\n1 2\nchosen at random from the set {1,X }. The probability that X = 2 given that X = 1\n1 1 2\nis",
+            "options": [
+                "(A) 1",
+                "(B) 1/2",
+                "(C) 1/3",
+                "(D) 1/4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Suppose a random variable X takes values -2, 0, 1 and 4 with probabilities 0.4, 0.1, 0.3\nand 0.2 respectively.",
+            "options": [
+                "(A) The unique median of the distribution is 1",
+                "(B) The unique median of the distribution is 0",
+                "(C) The unique median of the distribution lies between 0 and 1",
+                "(D) The distribution has multiple medians"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Two persons A and B, shoot at a target. Suppose the probability that A will hit the\ntarget is 1/3 and the probability that B will hit the target on any shot is 1/4. Suppose\nA shoots first and takes turns shooting. What is the probability that the target is hit\nfor the first time by A0s third shot?",
+            "options": [
+                "(A) 1/24",
+                "(B) 1/12",
+                "(C) 1/6",
+                "(D) 1/3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A fair coin is tossed repeatedly until a head is obtained for the first time. Let X denote\nthe number of tosses that are required. The value of the distribution function of X at 3\nis",
+            "options": [
+                "(A) 3/4",
+                "(B) 1/2",
+                "(C) 7/8",
+                "(D) 7/16"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Using a random sample, an ordinary least squares regression of Y on X yields the 95%\nconfidence interval 0.43 < β < 0.59 for the slope parameter β. Which of the following\nstatements is false?",
+            "options": [
+                "(A) This interval contains the parameter β with probability 0.95",
+                "(B) The point estimate of β obtained from our regression always lies within this\ninterval",
+                "(C) The 90% confidence interval for β is a subset of the interval obtained above",
+                "(D) If such intervals are constructed from repeated samples drawn from the pop-\nulation in question, then on average 95 out of 100 of these intervals are likely\nto contain the true parameter value"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Consider a binary relation (cid:23) defined on the set A = {x,y,z}. Define relations (cid:31) and ∼\non A by: for a,b ∈ A,\na (cid:31) b if and only if a (cid:23) b and not b (cid:23) a a ∼ b if and only if a (cid:23) b and b (cid:23) a\nSuppose x (cid:31) y, y ∼ z and x ∼ z. Then",
+            "options": [
+                "(A) (cid:31) is transitive",
+                "(B) ∼ is transitive",
+                "(C) both (cid:31) and ∼ are transitive",
+                "(D) we cannot conclude anything about the transitivity of (cid:31) and ∼"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "The utility function u(x,y) = (x+y)1, for (x,y) = (0,0), exihibits\n2",
+            "options": [
+                "(A) diminishing marginal rate of substitution and diminishing marginal utilities",
+                "(B) increasing marginal rate of substitution and diminishing marginal utilities",
+                "(C) constant marginal rate of substitution and diminishing marginal utilities",
+                "(D) increasing marginal rate of substitution and constant marginal utilities"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Suppose there are just two goods, say x and x . Consider a consumer who chooses\n1 2\nx = 0 for all income levels w > 0 and all prices p > 0 and p > 0. These choices are\n2 1 2\nconsistent with the consumer",
+            "options": [
+                "(A) having utility function u(x ,x ) = x +2x\n1 2 1 2",
+                "(B) having utility function u(x ,x ) = 2x +x\n1 2 1 2",
+                "(C) lexicographically preferring x to x\n2 1",
+                "(D) lexicographically preferring x to x\n1 2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider a Cournot duopoly with firms 1 and 2 that produces a homogeneous good. The\ninverse demand curve for this good is given by P(x) = 5−x, where x is the total output\nof the two firms. Firm 1 has a constant average cost 5/2 and firm 2 has a constant\naverage cost 3/2. In equilibirum,",
+            "options": [
+                "(A) only firm 1 produces a positive output",
+                "(B) only firm 2 produces a positive output",
+                "(C) both firms produces positive outputs with firm 1 producing more than firm 2",
+                "(D) both firms produces positive outputs with firm 2 producing more than firm 1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "If all input prices double, then what happens to the minimum cost of producing a given\noutput?",
+            "options": [
+                "(A) It doubles",
+                "(B) It more than doubles",
+                "(C) It less than doubles",
+                "(D) It depends on the production function"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "In models where expectations adjust slowly, a progressive income tax schedule is",
+            "options": [
+                "(A) a means to maximize tax revenue",
+                "(B) a means to ensure tax compliance",
+                "(C) always an automatic stabilizer in the long run",
+                "(D) often an automatic stabilizer in the short run"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Open market operations decrease the supply of base money by",
+            "options": [
+                "(A) selling government bonds",
+                "(B) selling gold",
+                "(C) reducing foreign currency holdings",
+                "(D) all of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "If an economy is experiencing hyperinflation, then",
+            "options": [
+                "(A) government seigniorage goes up",
+                "(B) government seigniorage goes down",
+                "(C) government seigniorage remains unchanged",
+                "(D) the impact on government seigniorage is ambiguous"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "When the nominal interest rate changes but the real rate of interest remains unchanged",
+            "options": [
+                "(A) it affects both the investment function as well the money demand function",
+                "(B) it affects the investment function but does not affect the money demand func-\ntion",
+                "(C) it affects the money demand function but does not affect the investment func-\ntion",
+                "(D) neither the investment function not the money demand function gets affected"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Ceteris paribus, higher velocity of money circulation leads to",
+            "options": [
+                "(A) an increase in both the real and the nominal demand for money",
+                "(B) anincreaseintherealdemandformoneyandadecreaseinthenominaldemand\nfor money",
+                "(C) adecreaseintherealdemandformoneyandanincreaseinthenominaldemand\nfor money",
+                "(D) a decrease in both the real and the nominal demand for money"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider a 3×3 nonsingular matrix A with real entries. If the matrix B is derived from\nA by interchanging the first and last columns of A, then the determinant of B, denoted\ndet B, is equal to",
+            "options": [
+                "(A) det A",
+                "(B) − det A",
+                "(C) 0",
+                "(D) 1/det A"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The sequence (−1)n(1+1/n), for positive integers n,",
+            "options": [
+                "(A) has limit point 1",
+                "(B) has limit point -1",
+                "(C) has limit points 1 and -1",
+                "(D) has no limit points"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Consider the following two games in strategic form.\nPlayer Y\nHawk\nEnter (−1,1)\nPlayer X\nNot enter (0,6)\nPlayer Y\nHawk Dove\nEnter (−1,1) (3,3)\nPlayer X\nNot enter (0,6) (0,7)\nIn every payoff “x,y”, x is the payoff of the row-player and y is the payoff of column-\nplayer. Analyze these games. These games illustrates that, in a strategic situation",
+            "options": [
+                "(A) an expanded set of strategic options can be disadvantageous",
+                "(B) a contracted set of strategic options can be advantageous",
+                "(C) one should view the situation from one’s own, as well as from one’s opponent’s,\nperspective",
+                "(D) all of the above are true"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Ice-cream vendors A and B know that they have to locate simultaneously on a beach.\nThe beach is identified with the interval [0,1] and at every point in [0,1] there is a\nperson who wants exactly one ice-cream cone. Each person will buy the ice-cream from\nthe nearest vendor; if there are equidistant vendors, then the buyer randomizes among\nthem with equal probabilities. Each vendor wants to maximize his own expected market\nshare. The vendors will locate at",
+            "options": [
+                "(A) 0 and 1",
+                "(B) 1/4 and 3/4",
+                "(C) 1/2 and 1/2",
+                "(D) 1/3 and 2/3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose there is only one future period and the (presently unknown) state of the world\ninthatperiodcanbeeithers ors . Thefuturereturnonashareofagivencompanyis5\n1 2\nin state s and −1 in state s . The future return on a government bond is 1 independent\n1 2\nof the state. Suppose a third asset is offered on the market whose return is 3 in state s\n1\nand 0 in state s . The current prices of the stock and the bond are 3 and 1 respectively.\n2\nIf the price of the new asset rules out the possibility of arbitrage profit (which arises\nwhen portfolio of assets that are identical in terms of returns have different prices), what\nis the price of the new asset?",
+            "options": [
+                "(A) It depends on the probabilities of the future states",
+                "(B) Strictly between 2 and 3",
+                "(C) Strictly between 1 and 2",
+                "(D) 2\nThe following notational conventions apply wherever the following symbols are used. R\ndenotes the set of real numbers. Given a function f, Df(x) and D2f(x) denote the first and\nsecond derivatives of f (if they exist), respectively, evaluated at x."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Suppose X and X are real valued random variables with f as their common probability\n1 2\ndensity function. Suppose (x ,x ) is a sample generated by these random variables. The\n1 2\nexpectation of observations in the sample that fall within a specified interval [a,b] is\nA.\n(cid:16)\nRbf(x)dx\n(cid:17)2\na",
+            "options": [
+                "(A) ",
+                "(B) Rbx2f(x)dx\na",
+                "(C) 2Rbf(x)dx\na",
+                "(D) Rbxf(x)dx\na"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Suppose X ....X are observed completion times of an experiment with values in [0,1].\n1 n\nEach of these variables is uniformly distributed on [0,1]. If Y is the maximum observed\ncompletion time, then mean of Y is\n(cid:16) (cid:17)2",
+            "options": [
+                "(A) n\nn+1",
+                "(B) n\n2(n+1)",
+                "(C) n\nn+1",
+                "(D) 2n\nn+1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Suppose the random variable X takes values in the set {−1,0,1} and the probability of\neach value is equal. Let Y = X2.Which of the following statements is true?",
+            "options": [
+                "(A) X and Y are correlated but independent",
+                "(B) X and Y are uncorrelated but dependent",
+                "(C) X and Y are dependent and have same mean",
+                "(D) X and Y are correlated and have different means"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Suppose player 1 has five coins and player 2 has four coins. Both players toss all their\ncoins and observe the number that comes up heads. Assuming all the coins are fair,\nwhat is the probability that player 1 obtains more heads than player 2?",
+            "options": [
+                "(A) 1\n2",
+                "(B) 4\n9",
+                "(C) 5\n9",
+                "(D) 4\n5"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose 10 athletes are running in a race and exactly 2 of them are taking banned drugs.\nAn investigator randomly selects 2 athletes for drug testing. What is the probability\nthat neither of the cheaters will be caught?",
+            "options": [
+                "(A) 16\n25",
+                "(B) 4\n5",
+                "(C) 3\n5",
+                "(D) 28\n45"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose θ is a random variable with uniform distribution on the interval [−π/2,π/2].\nThe value of the distribution function of the random variable X = sinθ at x ∈ [−1,1] is",
+            "options": [
+                "(A) sin−1(x)",
+                "(B) sin−1(x)+ π\n2",
+                "(C) sin−1(x) + 1\nπ 2",
+                "(D) sin−1(x) + π\nπ 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Let X be a normally distributed random variable with mean 0 and variance σ2.Then,\nthe mean of X2 is",
+            "options": [
+                "(A) 0",
+                "(B) σ",
+                "(C) 2σ",
+                "(D) σ2\nThe next three questions are based on the following data:\nThe number of loaves of bread sold by a bakery in a day is a random variable X. The\ndistribution of X has a probability density function f given by\n kx, if x ∈ [0,5)\n\nf(x) = k(10−x), if x ∈ [5,10)\n0,\nif x ∈ [10,∞)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "As f is a probability density function, the value of k must be",
+            "options": [
+                "(A) 0",
+                "(B) −2\n25",
+                "(C) 1\n25",
+                "(D) 2\n75"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Let A be the event that X ≥ 5 and let B be the event that X ∈ [3,8]. The probability\nof A conditional on B is",
+            "options": [
+                "(A) 16\n37",
+                "(B) 21\n37",
+                "(C) 25\n37",
+                "(D) 1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Events A and B are",
+            "options": [
+                "(A) not independent",
+                "(B) independent",
+                "(C) conditionally independent",
+                "(D) unconditionally independent\nThe next four questions are based on the following data:\nConsideranexchangeeconomywithagents1and2andgoodsxandy. Agent1’sendowment\nis (0,1) (i.e. no good x and 1 unit of good y) and agent 2’s endowment is (2,0) (i.e. 2 units\nof good x and no good y).The agents can consume only nonnegative amounts of x and y."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Suppose agent 1 lexicographically prefers x to y, i.e., between any two bundles of goods,\nshe strictly prefers the bundle containing more of x, and if the bundles contain equal\namounts of x, then she strictly prefers the bundle with more of y. Suppose agent 2\ntreats x and y as perfect substitutes, i.e., between any two bundles (x,y) and (x0,y0) she\nstrictly prefers (x,y) if and only if x+y > x0 +y0.\nThe competitive equilibrium allocation for this economy is",
+            "options": [
+                "(A) 1 gets (0,1) and 2 gets (2,0)",
+                "(B) 1 gets (2,0) and 2 gets (0,1)",
+                "(C) 1 gets (3,0) and 2 gets (1,1)\n2 2",
+                "(D) 1 gets (1,0) and 2 gets (1,1)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Suppose agents 1 and 2 have the preferences described above. The set of all possible\ncompetitive equilibrium prices consists of all p > 0 and p > 0 such that\nx y",
+            "options": [
+                "(A) p /p = 1\nx y",
+                "(B) p /p ≥ 1\nx y",
+                "(C) p /p ≤ 1\nx y",
+                "(D) p /p > 1\nx y"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Now Suppose agents 1 lexicographically prefers y to x and agent 2 treats x and y as\nperfect substitutes.The set of all possible competitive equilibrium prices consists of all\np > 0 and p > 0 such that\nx y",
+            "options": [
+                "(A) p /p = 1\nx y",
+                "(B) p /p ≥ 1\nx y",
+                "(C) p /p ≤ 1\nx y",
+                "(D) p /p > 1\nx y"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Now Suppose agents 2 lexicographically prefers x to y and agent 1 treats x and y as\nperfect complements. The set of competitive equilibrium allocations",
+            "options": [
+                "(A) includes the allocation (1,0) for agent 1 and (1,1) for agent 2",
+                "(B) includes the allocation (0,1) for agent 1 and (2,0) for agent 2",
+                "(C) is empty",
+                "(D) includes all allocations (x,1) for agent 1 and (2 − x,0) for agent 2, where\nx ∈ [0,2]"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Consider a person who chooses among lotteries. Each lottery is of the form (p ,p ,p ),\n1 2 3\nwhere p is the probability of getting Rs.5, p is the probability of getting Rs.1 and p is\n1 2 3\nthe probability of getting Rs.0. This person prefers lottery (0,1,0) to (0.1,0.89,0.01). If\nthis person maximizes expected utility and is faced with the lotteries (0,0.11,0.89) and\n(0.1,0,0.9), which lottery should he prefer?",
+            "options": [
+                "(A) the lottery (0,0.11,0.89)",
+                "(B) the lottery (0.1,0,0.9)",
+                "(C) he should be indifferent between these lotteries",
+                "(D) there is insufficient data to decide"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Consider an economy with two agents, A and B, and two goods x and x . Both agents\n1 2\ntreat x and x as perfect complements. Suppose the total endowment of x is 4 and\n1 2 1\ntotal endowment of x is 2. Which of the following allocations is not Pareto optimal?\n2\n(Note that a bundle (a,b) represents a units of x and b units of x .)\n1 2",
+            "options": [
+                "(A) A gets (1, 1) and B gets (1, 1)",
+                "(B) A gets (2, 1) and B gets (3, 1)\n2",
+                "(C) A gets (1, 3) and B gets (3, 1)\n2 2 2",
+                "(D) A gets (3, 2) and B gets (0, 0)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Aconsumerhastheutilityfunctionu(x,y) = xy. Supposetheconsumerdemandsbundle\n(x∗,y∗). Now suppose the seller of good x offers a “buy one, get one free” scheme: for\neach unit of good x purchased, the consumer gets another unit of x for free. Given this\nscheme, suppose the consumer buys bundle (x ,y ) and gets an additional x for free.\nd d d\nWhich of the following statements must be true?",
+            "options": [
+                "(A) x > x∗ and y > y∗\nd d",
+                "(B) x > x∗ and y = y∗\nd d",
+                "(C) x > x∗ and y < y∗\nd d",
+                "(D) x = x∗ and y = y∗\nd d"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Consider a Bertrand duopoly with firms 1 and 2 that produce a homogenous good and\nsets prices p and p respectively. Suppose p and p have to be positive integers. If\n1 2 1 2\np < p (resp. p > p ), then firm 1(resp. firm 2) sells 5−p (resp. 5−p ) and the other\n1 2 1 2 1 2\nfirm sells nothing. If p = p , then each firm sells (5 − p )/2. Firm 1 has a constant\n1 2 1\naverage cost 5/2 and firm 2 has a constant average cost 3/2. In equilibrium",
+            "options": [
+                "(A) p = 2 = p\n1 2",
+                "(B) p = 3 = p\n1 2",
+                "(C) p = 3 and p = 2\n1 2",
+                "(D) p = 3 and p is 2 or 3\n1 2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Consider a Stackelberg duopoly with firm 1 as the leader and firm 2 as the follower. If\n(q ,q ) is the Stackelberg equilibrium, then\n1 2",
+            "options": [
+                "(A) firm 1’s optimal isoprofit curve and firm 2’s reaction curve intersect at (q ,q )\n1 2\nand are tangential at (q ,q )\n1 2",
+                "(B) firm 2’s optimal isoprofit curve and firm 1’s reaction curve intersect at (q ,q )\n1 2\nand are tangential at (q ,q )\n1 2",
+                "(C) isoprofitcurvesofthetwofirmsintersectat(q ,q )andaretangentialat(q ,q )\n1 2 1 2",
+                "(D) reaction curves of the two firms intersect at (q ,q )\n1 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Firm1isthepotentialentrantintoamarketinwhichfirm2istheincumbentmonopolist.\nFirm 1 moves first and chooses to “enter” or “not enter”. If it does “not enter”, then\nfirm 1 gets profit 0 and firm 2 gets the monopoly profit 10. If firm 1 “enters”, then firm\n2 chooses to “fight” or “not fight”. If firm 2 fights, then firm 1’s profit is -2 and firm 2’s\nprofit is 6. If firm 2 does “not fight”, then firm 1’s profit is 2 and firm 2’s profit is 8.\nFirm 2’s strategy of “fight” is best response as",
+            "options": [
+                "(A) a commitment",
+                "(B) a non-credible threat",
+                "(C) a punitive action",
+                "(D) acquiescence"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Consider a closed economy. If the nominal wage is flexible and nominal money supply\nis increased, then which of the following will be true in equilibrium?",
+            "options": [
+                "(A) Real wage decreases and real money supply decreases",
+                "(B) Real wage decreases and real money supply increases",
+                "(C) Real wage is unchanged and real money supply is unchanged",
+                "(D) Real wage decreases and real money supply is unchanged"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Suppose an economy is at less than full employment and it consists of an aggregate\n“worker”andaggregate“capitalist”,withtheformerhavingahighermarginalpropensity\nto consume from his disposable income. Suppose both agents pay income tax according\nto the same linear schedule. If the government’s budget is in balance and a lump sum\nincome transfer is made from the capitalist to the workers, then the government’s",
+            "options": [
+                "(A) budget will go into deficit",
+                "(B) budget will go into surplus",
+                "(C) income and expenditure will be unchanged",
+                "(D) income and expenditure will change but the budget will stay in balance\nThe next four questions are based on the following information.\nConsider an economy with an aggregate production function Y = αK +βL, where α and β\nare positive constants, K is capital, L is labor and Y is output. K is fixed in the short run.\nPerfectlycompetitiveproducerstakethenominalwagerateW andthepricelevelP asgiven,\nand employ labor so as to maximize profit. This generates the labor demand schedule. The\nlabor supply schedule is LS = −γ+δW/P, where γ and δ are positive constants. Producers\nand workers have perfect information about P and W"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "The labour market will clear if and only if",
+            "options": [
+                "(A) β > γ/δ",
+                "(B) β < γ/δ",
+                "(C) β > δ/γ",
+                "(D) β < δ/γ"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Assume that required parametric condition of the previous question holds and the nom-\ninal wage is fixed. The short run aggregate supply curve schedule for this economy, with\nP along the vertical axis and Y along horizontal axis, will look as follows:",
+            "options": [
+                "(A) for high values of P it will be horizontal; for some mid-range values of P it\nwill be downward sloping; for low values of P it will be horizontal again",
+                "(B) for high values of P it will be horizontal; for some mid-range values of P it\nwill be upward sloping; for low values of P it will be horizontal again",
+                "(C) for high values of P it will be vertical; for some mid-range values of P it will\nbe downward sloping; for low values of P it will be vertical again",
+                "(D) for high values of P it will be vertical; for some mid-range values of P it will\nbe upward sloping; for low values of P it will be vertical again"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "If there is a one shot increase in the fixed stock of the capital stock, then the short run\naggregate supply schedule will",
+            "options": [
+                "(A) shift up",
+                "(B) shift down",
+                "(C) shift to the left",
+                "(D) shift to the right"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Ifthereisaoneshotincreaseinthefixednominalwagerate, thentheshortrunaggregate\nsupply schedule will",
+            "options": [
+                "(A) shift up",
+                "(B) shift down",
+                "(C) shift to the left",
+                "(D) shift to the right\nThe next four questions are based on the following information: Consider a closed economy\nwith a simple Keynesian model of goods market, where prices are fixed and output in equilib-\nrium is determined by aggregate demand. Investment is fixed at I∗. There is no government\nsector. Suppose there are two groups of households, called A and B, and the total income\nY is distributed among these two groups in such a way that group A gets YA = λY, and\ngroup B gets YB = (1−λ)Y, where λ ∈ (0,1) is a constant. The consumption function of\ngroup A is CA = c + c YA and the consumption function of group B is CB = c + c YB,\nA B\nwhere 0 < c < c < 1, i.e., the two groups have different consumption propensities.\nA B"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "The value of the investment multiplier in this economy is given by",
+            "options": [
+                "(A) 1\n1−λcA−λcB",
+                "(B) 1\n1−(1−λ)cA−(1−λ)cB",
+                "(C) 1\n1−cB+λ(cB−cA)",
+                "(D) 1\n1−cA+(1−λ)(cB−cA)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "If there is a one shot increase in the parameter λ,",
+            "options": [
+                "(A) equilibrium output unambiguously increases",
+                "(B) equilibrium output unambiguously decreases",
+                "(C) equilibrium output remains unchanged",
+                "(D) equilibrium output increases or decreases depending on whether λ ≥ 1/2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "If there is a one shot increase in the parameter c ,\nA",
+            "options": [
+                "(A) equilibrium output unambiguously increases",
+                "(B) equilibrium output unambiguously decreases",
+                "(C) equilibrium output remains unchanged",
+                "(D) equilibrium output increases or decreases depending on whether λ ≥ 1/2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "If there is a one shot increase in the parameter c ,\nB",
+            "options": [
+                "(A) equilibrium output unambiguously increases",
+                "(B) equilibrium output unambiguously decreases",
+                "(C) equilibrium output remains unchanged",
+                "(D) equilibrium output increases or decreases depending on whether λ ≥ 1/2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Suppose the function f : R → R is given by f(x) = x3 −3x+b. Find the number of\npoints in the closed interval [−1,1] at which f(x) = 0.",
+            "options": [
+                "(A) None",
+                "(B) At most one",
+                "(C) One",
+                "(D) At least one"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "Suppose a function f : R → R is differentiable at x. Consider the statements:\nf(x)−f(x−h)\n(i) Df(x) = lim\nh→0\nh\nf(x+2h)−f(x+h)\n(ii) Df(x) = lim\nh→0 2h\nIn general,",
+            "options": [
+                "(A) (i) is true and (ii) is false",
+                "(B) (i) is false and (ii) is true",
+                "(C) Both are true",
+                "(D) Both are false"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "Consider the statements: for x,y ∈ R. Consider the statements:\n(i) |x|−|y| ≤ |x−y|\n(ii) ||x|−|y|| = |x−y|\nIn general,",
+            "options": [
+                "(A) (i) is true and (ii) is false",
+                "(B) (i) is false and (ii) is true",
+                "(C) Both are true",
+                "(D) Both are false"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Suppose the function f : R2 → R is increasing in both arguments, i.e, f(x,y) is increas-\ning in x and increasing in y. For x,y ∈ R, let\n\nx, if x ≤ y\nx∧y =\ny, if x > y\nDefine g : R2 → R by\n\nf(x,y)− 1f(x∧y,x∧y), if x ≥ y\ng(x,y) = 2\n 1f(x∧y,x∧y), if x < y\n2\nWhich of the following statements is correct?",
+            "options": [
+                "(A) g is increasing in x and decreasing in y",
+                "(B) g is increasing in both x and y",
+                "(C) g is increasing in x but may or may not be increasing in y",
+                "(D) g may or may not be increasing in x\nThe next three questions are based on the following definitions.\nConsider the set A = {(x,y) ∈ R2 | x2+y2 ≤ 1}. Given (a,b) ∈ R2 such that (a,b) 6= (0,0)\nand c > 1, let\nX = {(x,y)+(a,b) | (x,y) ∈ A}\nn (cid:12) o\nY = (2−1/2(x+y),2−1/2(x−y)) (cid:12) (x,y) ∈ A\n(cid:12)\nZ = {c(x,y) | (x,y) ∈ A}"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Which set is not a disc (i.e., the region inside a circle)?",
+            "options": [
+                "(A) X",
+                "(B) Y",
+                "(C) Z",
+                "(D) None"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Which set has a larger area than A?",
+            "options": [
+                "(A) X",
+                "(B) Y",
+                "(C) Z",
+                "(D) None"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Which set does not contain all the points that belong to A?",
+            "options": [
+                "(A) X",
+                "(B) Y",
+                "(C) Z",
+                "(D) None"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "Consider a twice differentiable function f : R → R and a,b ∈ R such that a < b, f(a) =\n0 = f(b) and D2f(x)+Df(x)−1 = 0 for every x ∈ [a,b]. Then,",
+            "options": [
+                "(A) f has a maximum but not a minimum over the open interval (a,b)",
+                "(B) f has a minimum but not a maximum over (a,b)",
+                "(C) f has neither a maximum not a minimum over (a,b)",
+                "(D) f has a maximum and a minimum over (a,b)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "Consider f as described in the previous question. Then,",
+            "options": [
+                "(A) f(x) ≤ 0 for every x ∈ [a,b]",
+                "(B) f(x) ≥ 0 for every x ∈ [a,b]",
+                "(C) f(x) = 0 for every x ∈ [a,b]",
+                "(D) f must take positive and negative values on the interval [a,b]"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Suppose f : [0,1] → [0,1] is a continuous nondecreasing function with f(0) = 0 and\nf(1) = 1. Define g : [0,1] → [0,1] by g(y) = min{x ∈ [0,1] | f(x) ≥ y}. Then,",
+            "options": [
+                "(A) g is non-decreasing",
+                "(B) If g is continuous, then f is strictly increasing",
+                "(C) Neither (a) not (b) is true",
+                "(D) Both (a) and (b) are true"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,826 @@
+{
+    "exam_name": "IIT JAM",
+    "exam_year": 2023,
+    "exam_title": "IIT JAM 2023",
+    "duration": 180,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A competitive firm can sell any output at price $P=1$. Production depends on capital alone, and the production function $y=f(K)$ is twice continuously differentiable, with $f(0)=0, f'>0, f''<0, \\lim_{K\\to 0}f'(K)=\\infty, \\lim_{K\\to \\infty}f'(K)=0$. The firm has positive capital stock $\\bar{K}$ to start with, and can buy and sell capital at price $r$ per unit of capital. If the firm is maximizing profit then which of the following statements is NOT CORRECT?",
+            "options": [
+                "(A) If $K$ is large enough, profit maximizing $y=0$",
+                "(B) If $f'(\\bar{K}) > r$, the firm will buy additional capital",
+                "(C) If $f'(\\bar{K}) < r$, the firm will sell some of its capital",
+                "(D) If $f'(\\bar{K}) = r$, the firm will neither buy nor sell any capital"
+            ],
+            "correct_option": "A",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 2,
+            "question_text": "Let $f, g: \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = \\begin{cases} x+2, & x \\le 1 \\\\ 2x+1, & x > 1 \\end{cases}$ and $g(x) = \\begin{cases} 2x, & x \\le 2 \\\\ x+2, & x > 2 \\end{cases}$. Then",
+            "options": [
+                "(A) $f$ is convex and $g$ is concave",
+                "(B) $f$ is concave and $g$ is convex",
+                "(C) both $f$ and $g$ are concave",
+                "(D) both $f$ and $g$ are convex"
+            ],
+            "correct_option": "A",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let $S$ be a feasible set of a linear programming problem (P). If the dual problem of (P) is unbounded then",
+            "options": [
+                "(A) (P) is unbounded",
+                "(B) $S$ is empty",
+                "(C) $S$ is unbounded",
+                "(D) (P) has multiple optimal solutions"
+            ],
+            "correct_option": "B",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 4,
+            "question_text": "Which of the following is NOT CORRECT?",
+            "options": [
+                "(A) A quasiconcave function is necessarily a concave function",
+                "(B) A concave function is necessarily a quasiconcave function",
+                "(C) A quasiconcave function can also be a quasiconvex function",
+                "(D) A quasiconcave function can also be a convex function"
+            ],
+            "correct_option": "A",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 5,
+            "question_text": "Among the following statements which one is CORRECT?<br> S1: $x^2+y^2=6$ is a level curve of $f(x,y)=\\sqrt{x^2+y^2} - x^2 - y^2 + 2$<br> S2: $x^2-y^2=-3$ is a level curve of $g(x,y)=e^{-x^2}e^{y^2} + x^4 - 2 - 2x^2y^2 + y^4$",
+            "options": [
+                "(A) both S1 and S2",
+                "(B) only S1",
+                "(C) only S2",
+                "(D) neither S1 nor S2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 6,
+            "question_text": "Which of the following is NOT a component of Gross Domestic Product?",
+            "options": [
+                "(A) Investment",
+                "(B) Rental Income",
+                "(C) Transfer Payments",
+                "(D) Wages and Salaries"
+            ],
+            "correct_option": "C",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 7,
+            "question_text": "Which of the following are the monetary policy instruments exercised by the Reserve Bank of India to control the money supply?<br> (i) Cash Reserve Ratio<br> (ii) Open Market Operations<br> (iii) Foreign Exchange Rate<br> (iv) Statutory Liquidity Ratio",
+            "options": [
+                "(A) (i, ii, iii)",
+                "(B) (i, ii, iv)",
+                "(C) (ii, iii, iv)",
+                "(D) (i, iii, iv)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 8,
+            "question_text": "Which of the following committees for the first time recommended for India:<br> (i) use of implicit prices derived from quantity and value data collected in household consumer expenditure surveys for computing and updating the poverty lines<br> (ii) Mixed Reference Period (MRP) in estimating poverty lines",
+            "options": [
+                "(A) YK Alagh Committee",
+                "(B) DT Lakdawala Committee",
+                "(C) SD Tendulkar Committee",
+                "(D) C Rangarajan Committee"
+            ],
+            "correct_option": "C",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 9,
+            "question_text": "Which of the following Five Year Plans focused on rapid industrialization and heavy and basic industries, and advocated for a socialistic pattern of society as the goal of economic policy?",
+            "options": [
+                "(A) 1st Five Year Plan (1951-56)",
+                "(B) 2nd Five Year Plan (1956-61)",
+                "(C) 3rd Five Year Plan (1961-66)",
+                "(D) 4th Five Year Plan (1969-74)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 10,
+            "question_text": "Let M and N be events defined on the sample space S. If $P(M) = \\frac{1}{3}$ and $P(N^c) = \\frac{1}{4}$, then which one of the following is necessarily CORRECT?",
+            "options": [
+                "(A) M and N are disjoint",
+                "(B) M and N are not disjoint",
+                "(C) M and N are independent",
+                "(D) M and N are not independent"
+            ],
+            "correct_option": "B",
+            "positive_marks": 1,
+            "negative_marks": 0.3333333333333333
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider a 2-agent, 2-good exchange economy where agent $i$ has utility function $u_i(x_i, y_i) = \\max\\{x_i, y_i\\}$, $i=1,2$. The initial endowments of goods X and Y that the agents have are $(\\bar{x}_1, \\bar{y}_1, \\bar{x}_2, \\bar{y}_2) = (25, 5, 5, 25)$. Then select the CORRECT choice below where the price vector $(p_x, p_y)$ specified is part of a competitive equilibrium.",
+            "options": [
+                "(A) $(p_x, p_y) = (2, 1)$",
+                "(B) $(p_x, p_y) = (2, 2)$",
+                "(C) $(p_x, p_y) = (1, 2)$",
+                "(D) $(p_x, p_y) = (4, 2)$"
+            ],
+            "correct_option": "B",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 12,
+            "question_text": "For a firm operating in a perfectly competitive market which of the following statements is CORRECT?",
+            "options": [
+                "(A) Profit function is convex and homogeneous of degree 1 in prices",
+                "(B) Profit function is concave and homogeneous of degree 1 in prices",
+                "(C) Profit function is convex but not homogeneous in prices",
+                "(D) Profit function is neither concave nor convex in prices"
+            ],
+            "correct_option": "A",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 13,
+            "question_text": "A firm is operating in a perfectly competitive environment. A change in market condition leads to an increase in the firm's profit by an amount K. Which of the following describes the change in the Producer's Surplus due to the above change in the market condition?",
+            "options": [
+                "(A) The Producer's Surplus increases by K",
+                "(B) The Producer's Surplus increases by less than K but greater than 0",
+                "(C) The Producer's Surplus changes by more than K",
+                "(D) The Producer's Surplus doesn't change"
+            ],
+            "correct_option": "A",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 14,
+            "question_text": "Two people, 1 and 2, are engaged in a joint project. Person $i \\in \\{1,2\\}$ puts in effort $x_i$ ($0 \\le x_i \\le 1$), and incurs cost $C_i(x_i) = x_i^2$. The monetary outcome of the project is $4x_1x_2$ which is split equally between them. Considering the situation as a strategic game, the set of all Nash Equilibria in pure strategies is",
+            "options": [
+                "(A) $\\{(0,0), (1,1)\\}$",
+                "(B) $\\{(0,0), (1/4, 1/4), (1/2, 1/2), (3/4, 3/4), (1,1)\\}$",
+                "(C) $\\{(0,0), (1/2, 1/2), (1,1)\\}$",
+                "(D) a null set"
+            ],
+            "correct_option": "C",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 15,
+            "question_text": "Two firms, X and Y, are operating in a perfectly competitive market. The price elasticity of supply of X and Y are respectively 0.5 and 1.5. Then",
+            "options": [
+                "(A) if the market price increases by 1%, X supplies 0.5% less quantity",
+                "(B) Y experiences a slower increase in marginal cost in comparison to X",
+                "(C) if market price increases by 0.5%, Y supplies 1% more quantity",
+                "(D) Y experiences a rapid increase in marginal cost in comparison to X"
+            ],
+            "correct_option": "B",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 16,
+            "question_text": "Let $y=y(x)$ be a solution curve of the differential equation $x \\frac{dy}{dx} = y \\ln(\\frac{y}{x})$, $y>x>0$. If $y(1)=e$ and $y(2)=\\alpha$, then the value of $\\frac{dy}{dx}$ at $(2, \\alpha)$ is equal to",
+            "options": [
+                "(A) $\\alpha$",
+                "(B) $\\alpha/2$",
+                "(C) $2\\alpha$",
+                "(D) $3\\alpha/2$"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let $2z = -3 + \\sqrt{3}i$, $i=\\sqrt{-1}$. Then $2z^8$ is equal to",
+            "options": [
+                "(A) $-81(1 + \\sqrt{3}i)$",
+                "(B) $81(-1 + \\sqrt{3}i)$",
+                "(C) $81(\\sqrt{3} + i)$",
+                "(D) $9(-\\sqrt{3} + i)$"
+            ],
+            "correct_option": "B",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 18,
+            "question_text": "Let $a_n = (1 + \\frac{1}{n})^{n^2}$ be the $n^{th}$ term of the sequence $\\langle a_n \\rangle, n=1,2,3...$. Then which one of the following is NOT CORRECT?",
+            "options": [
+                "(A) $\\langle a_n \\rangle$ is bounded",
+                "(B) $\\langle a_n \\rangle$ is increasing",
+                "(C) $\\sum_{n=1}^{\\infty} \\ln(a_n)$ is a convergent series",
+                "(D) $\\lim_{n\\to\\infty} (\\frac{1}{n} \\sum_{k=1}^{n} a_k)$ exists"
+            ],
+            "correct_option": "C",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 19,
+            "question_text": "Consider a linear programming problem (P): $\\min z = 4x_1 + 6x_2 + 6x_3$ subject to $x_1 + 3x_2 \\ge 3$, $x_1 + 2x_3 \\ge 5$, $x_1, x_2, x_3 \\ge 0$. If $x^*=(x_1^*, x_2^*, x_3^*)$ is an optimal solution and $z^*$ is an optimal value of (P) and $w^*=(w_1^*, w_2^*)$ is an optimal solution of the dual of (P) then",
+            "options": [
+                "(A) $x_2^* + x_3^* = w_1^* + w_2^*$",
+                "(B) $z^* = 4(x_1^* + w_2^*)$",
+                "(C) $z^* = 6(y_1 + x_3^*)$",
+                "(D) $x_1^* + x_3^* = w_1^* + w_2^*$"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 20,
+            "question_text": "For $\\alpha, \\beta \\in \\mathbb{R}$ consider the system of linear equations: $x+y+z=1$, $3x+y+2z=2$, $5x+\\alpha y+\\beta z=3$. Then",
+            "options": [
+                "(A) for every $(\\alpha, \\beta)$, $\\alpha=\\beta$, the system is consistent",
+                "(B) there exists $(\\alpha, \\beta)$ satisfying $\\alpha-2\\beta+5=0$, for which the system has a unique solution",
+                "(C) there exists a unique pair $(\\alpha, \\beta)$ for which the system has infinitely many solutions",
+                "(D) for every $(\\alpha, \\beta)$, $\\alpha \\ne \\beta$, satisfying $\\alpha-2\\beta+5=0$, the system has infinitely many solutions"
+            ],
+            "correct_option": "C",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 21,
+            "question_text": "For a positively sloped LM curve, which of the following statements is CORRECT?",
+            "options": [
+                "(A) A decrease in the price level will shift the LM curve to the left",
+                "(B) A lower nominal money supply will shift the LM curve to the right",
+                "(C) An increase in the price level will shift the LM curve to the right",
+                "(D) A higher nominal money supply will shift the LM curve to the right"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 22,
+            "question_text": "Consider an Economy that produces only Apples and Bananas. <br>2010 (Base): Apple (P=1, Q=100), Banana (P=2, Q=50)<br>2011: Apple (P=2, Q=100), Banana (P=4, Q=100)<br>2012: Apple (P=2, Q=200), Banana (P=4, Q=200)<br>Using GDP deflator to calculate inflation, which is CORRECT?",
+            "options": [
+                "(A) GDP deflator for year 2011 is 200 and the inflation rate for the year 2011 is 100%",
+                "(B) GDP deflator for the year 2012 is 50 and the inflation rate for the year 2012 is 100%",
+                "(C) GDP deflator for the year 2011 is 50 and the inflation rate for the year 2011 is 50%",
+                "(D) GDP deflator for the year 2012 is 100 and the inflation rate for the year 2012 is 100%"
+            ],
+            "correct_option": "A",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 23,
+            "question_text": "Which of the following statements is NOT CORRECT in the context of an Open Economy IS-LM Model under Floating Exchange Rate (with fixed price) and Perfect Capital Mobility?",
+            "options": [
+                "(A) An expansionary fiscal policy would appreciate the domestic currency value",
+                "(B) An expansionary monetary policy would depreciate the domestic currency value",
+                "(C) Exchange rate has significant impact on determining the equilibrium level of income and employment",
+                "(D) Monetary policy is fully effective in determining income and employment whereas fiscal policy is ineffective"
+            ],
+            "correct_option": "C",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 24,
+            "question_text": "Among the following statements which one is CORRECT?<br> S1: Structural unemployment arises in between two jobs, the first job which an individual has quit in order to find the second job<br> S2: Frictional unemployment arises due to the mismatch of vacancies and skills of the individual",
+            "options": [
+                "(A) only S1",
+                "(B) only S2",
+                "(C) both S1 and S2",
+                "(D) neither S1 nor S2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 25,
+            "question_text": "Match List-I and List-II:<br> List-I: (a) Fiscal Deficit, (b) Revenue Deficit, (c) Primary Deficit<br> List-II: (i) Difference between Govt total expenditure and total non-debt receipts, (ii) Difference between Govt revenue expenditure and revenue receipts, (iii) Difference between Govt total expenditure and total non-debt receipts minus interest payments",
+            "options": [
+                "(A) (a, iii), (b, i), (c, ii)",
+                "(B) (a, i), (b, ii), (c, iii)",
+                "(C) (a, i), (b, iii), (c, ii)",
+                "(D) (a, ii), (b, i), (c, iii)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 26,
+            "question_text": "A production function at time t is $Y_t = A_t K_t^{\\alpha} L_t^{1-\\alpha}, \\alpha \\in (0,1)$. Define per capita output $y_t \\equiv Y_t/L_t$ and capital-output ratio $k_t \\equiv K_t/Y_t$. The per capita output growth rate is",
+            "options": [
+                "(A) $\\frac{\\dot{y}}{y} = \\frac{1}{1-\\alpha} \\frac{\\dot{A}}{A} + \\frac{\\alpha}{1-\\alpha} \\frac{\\dot{k}}{k}$",
+                "(B) $\\frac{\\dot{y}}{y} = \\frac{\\alpha}{1-\\alpha} \\frac{\\dot{A}}{A} + \\frac{1}{1-\\alpha} \\frac{\\dot{k}}{k}$",
+                "(C) $\\frac{\\dot{y}}{y} = (1-\\alpha) \\frac{\\dot{A}}{A} + \\alpha \\frac{\\dot{k}}{k}$",
+                "(D) $\\frac{\\dot{y}}{y} = \\alpha \\frac{\\dot{A}}{A} + (1-\\alpha) \\frac{\\dot{k}}{k}$"
+            ],
+            "correct_option": "A",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 27,
+            "question_text": "Match Institutions with establishment year:<br> List-I: (a) RBI, (b) SEBI, (c) IRDAI, (d) IBBI<br> List-II: (i) 2016, (ii) 1934, (iii) 1992, (iv) 1999",
+            "options": [
+                "(A) (a, ii), (b, iv), (c, iii), (d, i)",
+                "(B) (a, iii), (b, ii), (c, iv), (d, i)",
+                "(C) (a, ii), (b, iii), (c, i), (d, iv)",
+                "(D) (a, ii), (b, iii), (c, iv), (d, i)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 28,
+            "question_text": "Let $X \\sim \\text{Normal}(0,1)$ and $Y = |X|$. If the PDF of Y is $f_Y(y)$ then for $y>0$, $\\sqrt{\\frac{\\pi}{2}} f_Y(y)$ is",
+            "options": [
+                "(A) $e^{-y^2/2}$",
+                "(B) $e^{y^2/2}$",
+                "(C) $e^{-y^2}$",
+                "(D) $e^{-y/2}$"
+            ],
+            "correct_option": "A",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 29,
+            "question_text": "PDF of X is $f_X(x, \\lambda) = \\lambda e^{-\\lambda x}$ for $x \\ge 0$, else 0. Sample: 1.75, 2.25, 2.50, 2.75, 3.25. MLE of $\\lambda$ is",
+            "options": [
+                "(A) 5/2",
+                "(B) 1/5",
+                "(C) 5/12",
+                "(D) 2/5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 30,
+            "question_text": "Set of 10 students: 4 girls ($G_1..G_4$), 6 boys ($B_1..B_6$). Team of 5 formed. Probability team has 2 girls, 3 boys, with at least one of them being $B_1$ or $B_2$, is",
+            "options": [
+                "(A) 3/7",
+                "(B) 6/7",
+                "(C) 8/21",
+                "(D) 5/21"
+            ],
+            "correct_option": "C",
+            "positive_marks": 2,
+            "negative_marks": 0.6666666666666666
+        },
+        {
+            "question_number": 31,
+            "question_text": "Suppose utility function $u$ represents a complete, transitive, continuous preference relation. Select choices where function represents the same preference relation.",
+            "options": [
+                "(A) $f(x) = u(x) + (u(x))^3$",
+                "(B) $g(x) = u(x) + \\sum x_i$",
+                "(C) $h(x) = (u(x))^{1/n}$",
+                "(D) $m(x) = u(x) + (\\sum x_i^2)^{0.1}$"
+            ],
+            "correct_option": [
+                "A",
+                "C"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 32,
+            "question_text": "2-agent, 2-good economy. Agg endowments: 30 X, 10 Y. $u_i(x_i, y_i) = \\max\\{x_i, y_i\\}$. Select Pareto optimal allocations $(x_1, y_1, x_2, y_2)$:",
+            "options": [
+                "(A) (5, 5, 25, 5)",
+                "(B) (10, 10, 20, 0)",
+                "(C) (30, 0, 0, 10)",
+                "(D) (0, 10, 30, 0)"
+            ],
+            "correct_option": [
+                "C",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 33,
+            "question_text": "3-player game. P1: Up/Down. P2: Left/Right. P3: Table 1/Table 2. Payoffs given in matrices. Which strategy profiles are Nash Equilibria?",
+            "options": [
+                "(A) (Up, Left, Table 1)",
+                "(B) (Down, Right, Table 1)",
+                "(C) (Down, Left, Table 2)",
+                "(D) (Up, Right, Table 2)"
+            ],
+            "correct_option": [
+                "A",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 34,
+            "question_text": "Let $f(x,y) = \\frac{x^2 - y^3}{x^2 + y^2}$ if $(x,y)\\ne(0,0)$, else 0. Then",
+            "options": [
+                "(A) f is not continuous at (0,0)",
+                "(B) $f_x(0,0) = 0$",
+                "(C) $f_y(0,0) = -1$",
+                "(D) $f_x(0,0)$ does not exist"
+            ],
+            "correct_option": [
+                "A",
+                "C",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 35,
+            "question_text": "For $\\alpha, \\beta \\in \\mathbb{R}, \\alpha \\ne \\beta$. If $-2$ and $5$ are eigenvalues of $M = \\begin{pmatrix} 1-\\alpha & 1+\\beta \\\\ \\beta & \\alpha+\\beta \\end{pmatrix}$ and $X=[x_1, x_2]^T$ is eigenvector for 2 (Note: Text says 2, usually typo for -2 or 5 in these questions, but assuming text logic), then:",
+            "options": [
+                "(A) $2x_1 + x_2 = 0$",
+                "(B) $\\beta - \\alpha = 5$",
+                "(C) $\\alpha^2 - \\beta^2 = 5$",
+                "(D) $x_1 + 3x_2 = 0$"
+            ],
+            "correct_option": [
+                "A",
+                "B",
+                "C"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 36,
+            "question_text": "Which of the following statements is/are CORRECT in the context of the Absolute Income Hypothesis?",
+            "options": [
+                "(A) The marginal propensity to consume (MPC) is a constant",
+                "(B) As income increases, the average propensity to consume (APC) tends to approach the MPC",
+                "(C) APC increases as income increases",
+                "(D) Current saving/dis-saving has no bearing on future consumption"
+            ],
+            "correct_option": [
+                "A",
+                "B",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 37,
+            "question_text": "Which of the following expressions is/are CORRECT? (GDP_F = Factor Cost, GDP_M = Market Price, NIA = Net Income from Abroad)",
+            "options": [
+                "(A) $GDP_F = C + I + G + X - M$",
+                "(B) $GDP_M = C + I + G + X - M + T - S$",
+                "(C) $NNP_F = C + I + G + X - M - T + S - D + NIA$",
+                "(D) $NNP_F = C + I + G + X - M - T + S - D$"
+            ],
+            "correct_option": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 38,
+            "question_text": "Which of the following major developments have been undertaken after the initiation of structural reforms in 1991 of the Indian Economy?",
+            "options": [
+                "(A) Deregulation of interest rates and greater role for market forces",
+                "(B) Phase out of ad hoc Treasury Bills",
+                "(C) Exchange rate anchor under Proportional Reserve System",
+                "(D) Commitment to FRBM Act"
+            ],
+            "correct_option": [
+                "A",
+                "B",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 39,
+            "question_text": "Which functions qualify to be a Cumulative Density Function of a random variable X?",
+            "options": [
+                "(A) $F(x) = 1 - e^{-x}, x \\in (0, \\infty)$",
+                "(B) $F(x) = (1 + e^{-x})^{-1}, x \\in (-\\infty, \\infty)$",
+                "(C) $F(x) = 1 - x^{-1} \\ln x, x \\in (e, \\infty)$",
+                "(D) $F(x) = 1 - (\\ln x)^{-1}, x \\in (e, \\infty)$"
+            ],
+            "correct_option": [
+                "A",
+                "B",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 40,
+            "question_text": "Joint PDF $f(x,y)=1$ for $0<x<1, x<y<x+1$. Which are correct?",
+            "options": [
+                "(A) $f_X(x) = 2x, 0<x<1$",
+                "(B) $f_Y(y) = y (0<y<1), 2-y (1 \\le y < 2)$",
+                "(C) $E(X) = 1/2, Var(X)=1/12$",
+                "(D) $E(Y)=1, Var(Y)=1/6$"
+            ],
+            "correct_option": [
+                "B",
+                "C",
+                "D"
+            ],
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 41,
+            "question_text": "Let $X \\sim \\text{Uniform}(8,20)$ and $Z \\sim \\text{Uniform}(0,6)$ be independent. $Y=X+Z$, $W=X-Z$. Then $\\text{Cov}(Y,W)$ is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 42,
+            "question_text": "Let $Y \\sim N(3,1)$, $W \\sim N(1,2)$, $X \\sim \\text{Bernoulli}(0.9)$. $S = XY + (1-X)W$. $E(S) = $ (1 decimal place).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 43,
+            "question_text": "X is sum of two fair dice. Probability $P(7 < X < 10) =$ (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 44,
+            "question_text": "Using table: 2010 (Pop: 20,000, GDP: 25,000), 2020 (Pop: 25,000, GDP: 40,000). Average annual growth rate of per capita GDP (in percent, 2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 45,
+            "question_text": "Keynesian Cross: $C = C_0 + b(Y-T)$, $T = T_0 + tY$, $Y = C + I_0 + G_0$. If $b=0.7, t=0.2$, Keynesian multiplier is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 46,
+            "question_text": "$f(x) = [x^2 - 3x + 2]$ where $[.]$ is greatest integer function. Number of points of discontinuity in $[0,4]$ is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 47,
+            "question_text": "Let E be area bounded by $y=x^2$ and $y=8\\sqrt{x}, x \\ge 0$. Then $30E$ is equal to (1 decimal place).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 48,
+            "question_text": "Firm production function $y=K^{0.5}L^{0.5}$, wage $w=4$, rental $r=4$. Marginal cost is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 49,
+            "question_text": "Regression $\\hat{y} = 5.5 + 3.2x$, 95% CI of coeff is [0.26, 6.14]. Standard error of estimated coefficient is (1 decimal place).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 50,
+            "question_text": "Sample proportion $\\hat{pi} = 0.64$, $n=100$. Z-statistic for $H_0: \\pi = 0.58$ is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 1,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 51,
+            "question_text": "3 firms (1,2,3) Cournot. MC: $c_1=9/30, c_2=10/30, c_3=11/30$. Demand $P=1-Q$. $Q_C$ is industry output. $15(Q_C)$ is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 52,
+            "question_text": "Utility $u = \\max\\{0.5x_1, 0.5x_2\\} + \\min\\{x_1, x_2\\}$. $p_2=1$. Lowest price $\\bar{p}_1$ such that if $p_1 > \\bar{p}_1$ consumer buys ONLY good 2. $\\bar{p}_1$ is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 53,
+            "question_text": "Firm X produces output $Q_X$. Benefit to Y: 700. Cost to Z: 300. X's cost $C(Q_X) = 2Q_X^2 + 10$. Market Price 1600. Difference between socially optimal output and private profit maximizing output (in INR) is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 54,
+            "question_text": "If $\\int \\sin^9 x \\cos(11x) dx = \\cos(10x)f(x) + c$. If $f''(\\pi/4) - k f'(\\pi/4) = 0$, then k is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 55,
+            "question_text": "Matrix $M = \\begin{pmatrix} k & 1 & 1 \\\\ 1 & k & 1 \\\\ 1 & 1 & k \\end{pmatrix}$. If rank is 2, k is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 56,
+            "question_text": "Utility $W_t = \\ln(c_t) + \\frac{1}{1+\\theta} \\ln(c_{t+1})$. Constraint $c_t + \\frac{c_{t+1}}{1+r} \\le y_t + \\dots$. If $\\theta=0.05, r=0.08$. Ratio $c_{t+1}/c_t$ is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 57,
+            "question_text": "Portfolio of S ($E=0.08, Var=0.07$) and T ($E=0.05, Var=0.05$). $Cov=0.04$. $w$ is prop of S. Value of w minimizing Var is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 58,
+            "question_text": "x randomly chosen from first 100 natural numbers. Probability $x + \\frac{300}{x} > 65$ is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 59,
+            "question_text": "$f(x) = x^4 + 2x^3 + kx^2 - k$. $x=3/2$ is local minima. m is global min. $f(0)-m$ is (integer).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        },
+        {
+            "question_number": 60,
+            "question_text": "Max $f(x,y) = 100 - e^{-x} - e^{-y}$ s.t. $ex + y = \\frac{e}{e-1}$. $(x^*, y^*)$ optimal. $\\sqrt{y^*/x^*}$ is (2 decimal places).",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 2,
+            "negative_marks": 0
+        }
+    ]
+}

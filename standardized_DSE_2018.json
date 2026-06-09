@@ -1,0 +1,671 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2018,
+    "exam_title": "DSE 2018",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Let R be the set of real numbers and f : R → R be a continuous and concave function.\nWhich of the following statements is correct?",
+            "options": [
+                "(A) |f| must be concave",
+                "(B) −f must be concave",
+                "(C) f +f must be concave",
+                "(D) f ◦f must be concave"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The maximum value of f(x,y) = (xy)1, subject to |x| ≥ |y| and |x|+|y| ≤ 1 is\n2",
+            "options": [
+                "(A) 1",
+                "(B) 2",
+                "(C) 0.5",
+                "(D) 0.25"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider an exchange economy with two agents, 1 and 2, and two goods, X and Y. Each\nagent’s consumption set is R2. The endowments of agents 1 and 2 are (10,1) and (0,9)\n+\nrespectively. (In any commodity bundle, the first entry is a quantity of X and the second\none is a quantity of Y.) If a > c, or a = c and b > d, then Agent 1 strictly prefers bundle\n(a,b) to (c,d). If b > d, or b = d and a > c, then Agent 2 strictly prefers bundle (a,b)\nto (c,d). Which of the following allocations is a competitive equilibrium allocation?",
+            "options": [
+                "(A) 1 gets (10,1) and 2 gets (0,9)",
+                "(B) 1 gets (10,10) and 2 gets (0,0)",
+                "(C) 1 gets (5,5) and 2 gets (5,5)",
+                "(D) None of the above\nE. Incorrect options provided for this question."
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": ". Let R be the set of real numbers and let D be the set of functions d : R×R → R that\nsatisfy the following properties for all x,y,z ∈ R:\n• d(x,y) ≥ 0\n• d(x,y) = 0 if and only if x = y\n• d(x,y) = d(y,x)\n• d(x,z) ≤ d(x,y)+d(y,z)\nWhich of the following is not a function in D?",
+            "options": [
+                "(A) d(x,y) = min{|x−y|,1}\nB.\n( 0, if x = y )\nd(x,y) =\n1, if x 6= y\nC.\n( 0, if |x−y| ≤ 1 )\nd(x,y) =\n1, if otherwise",
+                "(B) ",
+                "(C) ",
+                "(D) d(x,y) = |x−y|"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Let f : [0,1] → R be twice differentiable. Suppose that the line segment joining the\npoints (0,f(0)) and (1,f(1)) intersects the graph of f at a point (a,f(a)), where 0 < a <",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Then,",
+            "options": [
+                "(A) there exists z ∈ [0,1] such that f0(z) = 0",
+                "(B) there exists z ∈ [0,1] such that f00(z) = |f(1)−f(0)|",
+                "(C) there exists z ∈ [0,1] such that f00(z) = f(1)−f(0)",
+                "(D) there exists z ∈ [0,1] such that f00(z) = 0\n(cid:16) (cid:17)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Consider the matrix A = cosθ −sinθ where θ ∈ (0,2π) . The inner product of vectors\nsinθ cosθ\nv = (v ,v ) and w = (w ,w ) in R2 is defined by < v,w >= v w + v w . So, for the\n1 2 1 2 1 1 2 2\nvectors v and w in R2",
+            "options": [
+                "(A) < Av,Aw >>< v,w >",
+                "(B) The comparison of < Av,Aw > and < v,w > depends on θ",
+                "(C) < Av,Aw >=< v,w >",
+                "(D) < Av,Aw ><< v,w >"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "The set [0,1]",
+            "options": [
+                "(A) cannot be the intersection of a countable collection of sets of the form (a,b).",
+                "(B) is the intersection of a countable collection of sets of the form (a,b).",
+                "(C) is the union of a countable collection of sets of the form (a,b).",
+                "(D) is the union of a countable collection of sets of the form [a,a]"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "A sequence of real numbers (x ) converges to x. Consider the following claims: (I) The\nn\nsequence (xn+1) converges to 1 (II) The sequence x +x converges to 2x.\nxn n n+1",
+            "options": [
+                "(A) Only statement II is correct.",
+                "(B) Ouly Statement I is correct.",
+                "(C) None of the statements is correct.",
+                "(D) Both the statements are correct.\nPersons 1, 2 and 3 have to divide 12 indivisible chocolates among themselves. Each person’s\npreference is strictly increasing in chocolates. The procedure for dividing the chocolates is as\nfollows: Person 1 proposes a division. Each person votes either Y (Yes) or N (No). If at least\ntwo persons vote Y, then the proposal is implemented. If not, then Person 1 is eliminated\nfrom the voting and Person 2 makes a proposal. Now, only persons 2 and 3 can vote Y or N.\nIf at least one of them votes Y, then Person 2’s proposal is implemented, Otherwise, Person\n3 makes a proposal, which will be implemented."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "What division of chocolates will occur from a subgame perfect.equilibrium of this game?\n(Assume that a person votes N if voting Y and N are expected to result in the same\nnumber of chocolates for that person.)",
+            "options": [
+                "(A) 1 gets 11, 2 gets 1. 3 gets 0",
+                "(B) l gets 11, 2 gets 0, 3 gets 1",
+                "(C) 1 gets 12, 2 gets 0, 3 gets 0",
+                "(D) 1 gets 4, 2 gets 4, 3 gets 4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Suppose the above procedure for dividing the chocolates is changed as follows: if Person\n1’s proposal is rejected and Person 2 makes a proposal, if both the remaining voters,\n2 and 3, vote Y, then Person 2’s proposal is implemented. Otherwise, Person 3 makes\na proposal, which will be implemented. What division of chocolates will occur from a\nsubgame perfect equilibrium of this game? (Assume that a person votes N if voting Y\nand N are expected to result in the same number of chocolates for that person.)",
+            "options": [
+                "(A) 1 gets 11, 2 gets 1. 3 gets 0",
+                "(B) l gets 11, 2 gets 0, 3 gets 1",
+                "(C) 1 gets 12, 2 gets 0, 3 gets 0",
+                "(D) 1 gets 4, 2 gets 4, 3 gets 4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The set {f ,f ,...,f } where each f is a real-valued function defined on R, is said to\n1 2 n k\nbe linearly independent if c ,c ,...,c ∈ R and Pc f (x) = 0 for every x ∈ R implies\n1 2 n k k\nc = c = ··· = c = 0 Suppose f (x) = xk for all x ∈ R and k = 1,...,n. Then,\n1 2 n k",
+            "options": [
+                "(A) the set {f1,...,f } is linearly independent.\nn",
+                "(B) each pair of these functions is linearly independent, but larger n-tuples are not.",
+                "(C) only the subset of odd-numbered functions and the subset of even-numbered\nfunctions are linearly independent.",
+                "(D) every “proper subset of this set of functions is linearly independent, but the\nwhole set is not."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Let f : [0,1] → R be differentiable and suppose that |f0(x)| < 1 for every x ∈ [0,1].\nThen, there",
+            "options": [
+                "(A) is at least one c ∈ [0,1] such that f(c) = c.",
+                "(B) are two numbers c and c such that f(c ) = c for i = 1,2.\n1 2 i i",
+                "(C) is exactly one c ∈ [0,1] such that f(c) = c.",
+                "(D) is at most one c ∈ [0,1] such that f(c) = c."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Consider a closed macroeconomy whose demand side is represented by Y = C +c(Y −\n0\nτY)−αr+G M = KPY −βr where C ,G ,M ,K,c,τ,α,β are all positive constants\n0 0 0 0 0\nand c,τ ∈ (0,1). The AD curve for this economy is given by",
+            "options": [
+                "(A) Y = M0+βr\nKP",
+                "(B) Y = C0+α β M0+G0\n1−c(1−τ)+αKP\nβ",
+                "(C) Y = C0+M0+G0\n1−c(1−τ)+KP",
+                "(D) Y = C0+M0+G0\n1−c(1−τ)+KP\nβ"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Consider a closed macroeconomy whose demand side is represented by Y = C +c(Y −\n0\nτY) − αr + G and M = KPY − βr where C ,G ,M ,K,c,τ,α,β are all positive\n0 0 0 0 0\nconstants and c,τ ∈ (0,1). Now suppose the government, instead of following a given\nmoney supphy rule, follows an interest rate targeting policy such that the quantity of\nmoney demanded is always supplied so as to keep the interest rate fixed at given level\nr . The AD curve for this economy is\n0",
+            "options": [
+                "(A) Y = C0−ar0+G0\n1−c(1−τ)",
+                "(B) Y = C0+M0+G0\n1−c(1−τ)+KP",
+                "(C) Y = C0+M0+G0\n1−c(1−τ)+KP\nβ",
+                "(D) Y = C0+α β M0+G0\n1−c(1−τ)+αKP\nβ"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider a closed macroeconomy whose demand side is represented by Y = C +c(Y −\n0\nτY)−αr+G M = KPY −βr where C ,G ,M ,K,c,τ,α,β are all positive constants\n0 0 0 0 0\nand c,τ ∈ (0,1). Suppose there an increase in the interest sensitivity of the IS curve\n(parameter α), which is accompanied by an increase in the (interest sensitivity of the\nLM curve (parameter β) by exactly the same proportion. As a result,",
+            "options": [
+                "(A) the AD curve will be steeper but there will be no shift of the entire curve",
+                "(B) the entire AD curve will shift to the right and it will also be steeper",
+                "(C) the entire AD curve will shift to the right with no change in its slope",
+                "(D) there will be no change in the AD curve (neither any change in its slope, nor\na shift)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "In a multiple regression model involving three right-hand-side variables with 105 obser-\nvations estimated using OLS, the researcher needs to decide whether to include a fourth\nright-had-side variable or not. The residual sum of squares is 250 when four variables are\nincluded and is 300 when three variables are included. Some critical values of the F-table\n(with α = 0.05) are: F(1,100) = 3.89,F(2,100) = 3.09,F(3,100) = 2.70,F(4,100) =\n2.46 and F(5,100) = 2.31. This means when the fourth variable is included, the fit of\nthe regression",
+            "options": [
+                "(A) there is insufficient information to make a determination about fit",
+                "(B) worsens significantly",
+                "(C) has no significant change",
+                "(D) improves significantly"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "For a variable x the standard error of the sample mean is calculated as 20 when samples\nof size 25 are taken and as 10 when samples of size 100 are taken. A quadrupling of\nsample size has only halved the error. What must be the value of the standard error of\nx?",
+            "options": [
+                "(A) 1000",
+                "(B) 900",
+                "(C) 100",
+                "(D) 377.5"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Suppose a consumer lives for two periods and chooses consumptions C and C to max-\n1 2\n(cid:18) (cid:19)\nσ−1\nimise utility U(C ) = σ C σ −1 Future consumption is discounted by ρ. The\nT σ−1 t\nintertemporal elasticity of substitution in consumption between the two periods is",
+            "options": [
+                "(A) σ",
+                "(B) 1",
+                "(C) σ−1\nσ",
+                "(D) σ\nσ−1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Consider the game\nL M R\nU  2,0 3,3 0,0\nM −1,1 0,0 1,0\n \nD 4,−4 2,2 1,1\nwheretherowplayer’spayoffisgivenfirst, followedbythecolumnplayer’spayoff. Which\nof the following statements is false?",
+            "options": [
+                "(A) There is a Nash equilibrium of this game in which the column player plays a\nstrictly dominated strategy.",
+                "(B) Column player has a strictly dominated strategy.",
+                "(C) Row player has a weakly dominated strategy.",
+                "(D) There is a Nash equilibrium of this game in which both players play weakly\ndominated strategies."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "In a multiple regression model, the Durbir Watson test statistic is 1.3, while the critical\nlower and upper values are 1.5 and 1.7 respectively. This implies that",
+            "options": [
+                "(A) There is positive autocorrelation,",
+                "(B) There is no positive autocorrelation:",
+                "(C) The test is inconclusive about autocorrelation.",
+                "(D) There is heteroscedasticity but no autocorrelation."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Consider the model y = β + β X + β X + (cid:15) estimated using OLS. Which of the\n0 1 1 2 2\nˆ\nfollowing will lead to a higher Var(β )?\n2\n• Smaller sample size\n• Less variation in X\n2\n• More variation in (cid:15)\n• High correlation between X and X\n1 2\nThe correct answer is:",
+            "options": [
+                "(A) (i), (ii), (iii) and (iv)",
+                "(B) (ii), (iii) and (iv)",
+                "(C) (ii) and (iii)",
+                "(D) (iii) and (iv)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider an exchange economy with two agents, 1 and 2, and two goods, X and Y. Each\nagent’s consumption set is R2 The endowments of agents 1 and 2 are (10,1) and (0,9)\nrespectively. (In any commodity bundle, the first entry is a quantity of X and the second\none is a quantity of Y.) If a > c, or a = c and b > d, then Agent 1 strictly prefers bundle\n(a,b) to (b,d). If b > d, or b = d and a > c, then Agent 1 strictly prefers bundle (a,b)\nto (b,d). Which of the following allocations is an efficient allocation?",
+            "options": [
+                "(A) 1 gets (5,5) and 2 gets (5,5)",
+                "(B) 1 gets (10,1) and 2 gets (0,9)",
+                "(C) 1 gets (10,10) and 2 gets (0.0)",
+                "(D) All of the above\nE. Incorrect options provided for this question."
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider a country with two citizens, 1 and 2. The government is considering a scheme\nthat will cost 100. The government does not know the true benefits of the scheme to the\ncitizens, say B , and B , and must decide whether to implement the scheme on the basis\n1 2\nof their reported benefits. say R and R . It will implement the scheme if and only if\n1 2\nR +R ≥ 100. If it is implemented, the government will impose tax 100−R on person\n1 2 2\n1 and tax 100−R , on person 2. Each citizen’s reported benefit seeks to maximize the\n1\ndifference between her true benefit (known only to her) and the tax that must be paid if\nand only if the scheme is implemented. The optimal choices of R and R must be such\n1 2\nthat",
+            "options": [
+                "(A) R < B and R < B\n1 1 2 2",
+                "(B) Nothing systematic can be said about R and R\n1 2",
+                "(C) R = B and R = B\n1 1 2 2",
+                "(D) R > B and R > B\n1 1 2 2\n1 1\nConsider a Solovian economy with the aggregate production function Y = K2N2 . The\nt t t\ninitial size of the population is 100 and the initial capital stock is given by 9 units. The\nentire output produced in each period is distributed to the households as factor incomes\n(sincehouseholdsaretheownersofthecapitalstockandJabouratanytimet), whoconsume\nhalf of their income and save the rest. All savings are automatically invested which augment\nthe capital stock available for production over time. Population does not grow and there is\n100% depreciation of capital stock within one period."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The corresponding steady state value of aggregate output is",
+            "options": [
+                "(A) 30",
+                "(B) 50",
+                "(C) 5",
+                "(D) 10"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The corresponding steady state value of aggregate consumption is",
+            "options": [
+                "(A) 50",
+                "(B) 10",
+                "(C) 30",
+                "(D) 25"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "The steady state value of aggregate capital stock is",
+            "options": [
+                "(A) 9",
+                "(B) 25",
+                "(C) 2.5",
+                "(D) 10"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Suppose households were free to choose their savings rate. If they wanted to maximize\nthe steady state level of consumption, the savings rate would be",
+            "options": [
+                "(A) 1\n2",
+                "(B) 1\n4",
+                "(C) 1\n5",
+                "(D) 1\n10"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "In the previous problem, where households choose their savings rate, at that savings\nrate, the steady state value of the aggregate capital stock is",
+            "options": [
+                "(A) 25",
+                "(B) 2.5",
+                "(C) 10",
+                "(D) 9\nE. Incorrect options provided for this question."
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose X ,...,X are observed completion times of an experiment with values in [0,1].\n1 n\nEach of these random variables is uniformly distributed on (0,1). If Y is the maximum\nobserved completion time, then the mean of Y is",
+            "options": [
+                "(A) n\n2(n+1)",
+                "(B) 2n\nn+1",
+                "(C) ( n )2\n(n+1)",
+                "(D) n\nn+1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "If f : R2 → R is given by\n( xy , for xy 6= 0 )\nf(x) = x2+y2\n0, for xy = 0\nthen",
+            "options": [
+                "(A) f is differentiable at (0,0) and both partial derivatives at (0,0) are 0",
+                "(B) f is non-differentiable at (0,0) and both partial derivatives at (0,0) are 0",
+                "(C) f is differentiable at (0,0) and neither partial derivatives at (0,0) is 0",
+                "(D) f is non-differentiable at (0,0) and neither partial derivatives at (0,0) exist"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Suppose we have estimated y = 10+1.5x+4D, where y is earnings, is experience and\n(cid:28)\nD is 0 for females and 1 for males. If we had coded the dummy as −1 for females and 1\nfor males, the new estimated coefficients (in the same order) would have been:",
+            "options": [
+                "(A) 12,1.5,−2",
+                "(B) 12,4.5,2",
+                "(C) 14,1.5,−4",
+                "(D) 10,1.5.4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Which of the following is/are the consequence(s) of including an irrelevant variable in a\nmultiple linear regression model? (i) The variances of the OLS coefficients may be larger\n(ii) The OLS coefficients will be biased unless the irrelevant variable is orthogonal to the\nother included variables (iii) The variances of the OLS coefficients will be unaffected.\nThe correct answer is:",
+            "options": [
+                "(A) (i) only",
+                "(B) (ii) and (iii) only",
+                "(C) (iii) only",
+                "(D) (i) and (ii)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Suppose Y is a random variable with uniform distribution of the interval [−π/2,π/2].\nThe value of the (cumulative) distribution function of th´e random variable X = sinY\nat x ∈ [−1,1] is",
+            "options": [
+                "(A) sin−1(x) + 1\nπ 2",
+                "(B) sin−1(x)+ π\n2",
+                "(C) sin−1(x)+π",
+                "(D) sin−1(x) + π\nπ 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Astudentisansweringamultiple-choiceexamination. Supposeaquestionhasmpossible\nanswers. The student knows the correct answer with probability p. If the student knows\nthe correct answer, then she picks that answer; otherwise, she picks randomly from the\nchoices with probability 1/m each. Given that the student picked the correct answer,\nthe probability that she knew the correct answer is",
+            "options": [
+                "(A) p\n1+(1−p)m",
+                "(B) p\n1+(m−1)p",
+                "(C) mp\n1+(1−p)m",
+                "(D) mp\n1+(m−1)p"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Consider the game\nL R\n!\nU x,x z,y\nD y,z y,y\nwhere the row player’s payoff is given first, followed by the column player’s payoff. This\ngame has only one Nash equilibrium when",
+            "options": [
+                "(A) x > y > z",
+                "(B) x < y < z",
+                "(C) x = y = z",
+                "(D) y > z > x"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Consideraneconomywherethereisnocapital. Productionofthefinalgoodiscarriedout\nin each period using a linear production function that uses only labour. The production\ntechnology is specified as follows: Y = A (1−λ )L where L is the constant labour force\nt t t 0 0\nintheeconomy, 1−λ , istheproportionoflabourforceengagedinfinalgoodsproduction\nt\nand A is the state of technology in period t. The index of technology A changes over\nt t\ntime depending on the proportion of the labour force engaged in R&D, which is λ . The\nt\nevolution of technology in the R&D sector is determined by the equation dA = λ L A\ndt t 0 t\nwhere the initial A is a positive constant. Now suppose that the relative price of the\n0\nnew technologies generated in the R&D sector in terms of the final commodity is unity.\nAlso suppose the labour across two sectors are employed in such a way that the value\nof marginal product of labour across the two sectors are identical. In this case, the\nequilibrium value of λ will be\nt",
+            "options": [
+                "(A) λ\n0",
+                "(B) 1\n2",
+                "(C) 1",
+                "(D) 1−λ\n0"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Consideraneconomywherethereisnocapital. Productionofthefinalgoodiscarriedout\nin each period using a linear production function that uses only labour. The production\ntechnology is specified as follows: Y = A (1−λ )L where L is the constant labour force\nt t t 0 0\nintheeconomy, 1−λ , istheproportionoflabourforceengagedinfinalgoodsproduction\nt\nand A is the state of technology in period t. The index of technology A changes over\nt t\ntime depending on the proportion of the labour force engaged in R&D, which is λ . The\nt\nevolution of technology in the R&D sector is determined by the equation dA = λ L A\ndt t 0 t\nwhere the initial A is a positive constant. For any exogenously given value of λ = λ ,\n0 t 0\nthe long run balanced growth rate in this economy is",
+            "options": [
+                "(A) (1−λ )L\n0 0",
+                "(B) (1−λ )\n0",
+                "(C) λ\n0",
+                "(D) λ L\n0 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Duopolist firms 1 and 2 sell a homogeneous good in a market with demand function\nQ = 100 − 2P, where Q is the quantity demanded at price P. Firms 1 and 2 have\nconstant marginal costs of 0 and 30 respectively. The firms simultaneously announce\nprices and consumers buy from the firm whose price is lower. If the firms choose the\nsame price, all the consumers buy from firm 1. Firm 1’s equilibrium price is",
+            "options": [
+                "(A) 30",
+                "(B) 0",
+                "(C) 25",
+                "(D) 20"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Voters arrive at a social ranking of alternatives by consulting a “holy book”: the social\nrankingistherankingfoundinthisbook. WhichofArrow’saxiomsdefininganattractive\npreference aggregation method is violated by this method?",
+            "options": [
+                "(A) Independence of irrelevant alternatives",
+                "(B) Non-dictatorship",
+                "(C) Unrestricted domain",
+                "(D) The Pareto principle"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "A consumer weakly prefers a basket (a ,a ,a ) to a basket (b ,b ,b ) if a ≥ b ,a +a ≥\n1 2 3 1 2 3 1 1 1 2\nb +b ,a +a +a ≥ b +b +b Which of the following statements about this preference\n1 2 1 2 3 1 2 3\nis false?",
+            "options": [
+                "(A) It is transitive.",
+                "(B) It is monotonic.",
+                "(C) It is continuous.",
+                "(D) It is complete,"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Suppose the economy-wide union sets wage for employed workers by W = Pe(Z −αu)\nwith unemployment rate u and labour force of the economy L. The producer levies price\nover wage W with mark-up m as P = (1+m)W. If each employed worker produces one\nunit of output Y, then the aggregate supply function is",
+            "options": [
+                "(A) P = −Pe(1+m)(Z −1+ αY )\nL",
+                "(B) P = Pe(1+m)(Z −1+ αY )\nL",
+                "(C) P = −Pe(1+m)(Z −α+ αY )\nL",
+                "(D) P = Pe(1+m)(Z −α+ αY )\nL"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Consider the following regression model y = α +α x +α x +u Suppose a researcher\ni 0 1 1i 2 2i i\nis interested in conducting White’s heteroscedasticity test using the residuals from an\nestimation of the above equation. What would be the most appropriate form for the\nauxiliary regression?",
+            "options": [
+                "(A) u2 = γ +γ x +γ x +γ x2 +γ x2 +γ x x +ν\ni 0 1 1i 2 2i 3 1i 4 2i 5 1i 2i i",
+                "(B) u2 = γ +γ u +ν\ni 0 1 i−1 i",
+                "(C) u2 = γ +γ x +γ x +γ x2 +γ x2 +ν\ni 0 1 1i 2 2i 3 1i 4 2i i",
+                "(D) u = γ +γ u +ν\ni 0 1 i−1 i"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Suppose you have run the following regression: y = α+β +γUrban+θImmigration+\nx\nδUrbanImmigration+(cid:15) where Urban is a dummy indicating that the person lives in a\ncity rather than a rural area, Immigrant is a dummy indicating that the person is an\nimmigrant rather than a native. The coefficient θ is interpreted as the ceteris paribus\ndifference in y between",
+            "options": [
+                "(A) A rural immigrant and a rural native",
+                "(B) An immigrant and a native",
+                "(C) An urban immigrant and an urban native",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Consider an exchange economy with two agents, 1 and 2, and two goods, X and Y. Each\nagent’s consumption set is R2. Given bundles (a,b),(c,d) ∈ R2 such that (a,b) ≥ (c,d)\n+\nand (a,b) 6= (c,d), agent 1 strictly prefers (a,b). (In any commodity bundle, the first\nentry is a quantity of X and the second one is a quantity of Y.) Consider the following\nclaims: In a competitive equilibrium for this economy, (I) both prices must be positive,\nand (II) the sum of the allocations to 1 and 2 must equal the sum of their endowments.\nWhich of the following statements is correct?",
+            "options": [
+                "(A) i and ii are true",
+                "(B) i and ii are false",
+                "(C) i is true and ii is false",
+                "(D) i is false and ii is true"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "A monopolist faces a demand function D(p) = α−p and cost function C(q) = cq. She\ncan advertise her product to increase demand. Advertisement level θ costs θ2 and it\n2\nshifts the demand function by θ, i.e., the new demand function is D(p) = α+θ−p. The\nmonopolist’s profit is",
+            "options": [
+                "(A) (α−c)2\n4",
+                "(B) (α−c)2\n2",
+                "(C) (α−c−θ)2\n2",
+                "(D) (α−θ)2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Consider the following game. Player 1 moves first and chooses L or R. If she plays R, the\ngame ends and the payoffs are (10,0). If she plays L, then player 2 moves and chooses\ncither L or R. If he plays R, the game ends and the payoffs are (0,20). If he plays L,\nthen player 1 moves and chooses either L or R. The game ends in both cases. If player\n1 chooses L, then the payoffs are (30.30). If she chooses L, then the payoffs are (40,0).\nThis game",
+            "options": [
+                "(A) bas three subgame perfect equilibria",
+                "(B) has a unique Nash equilibrium",
+                "(C) has a subgame perfect equilibrium in which 2 plays L",
+                "(D) has a unique Nash equilibrium outcome"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "If the function f : R2 → R is concave, then",
+            "options": [
+                "(A) {(x,r) ∈ R2 ×R|f(x) < r} is convex",
+                "(B) {(x,r) ∈ R2 ×R|f(x) = r} is convex",
+                "(C) {(x,r) ∈ R2 ×R|f(x) ≥ r} is convex",
+                "(D) {(x,r) ∈ R2 ×R|f(x) ≤ r} is convex"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Let R be the set of real numbers. A subset of R, say E, is said to be open-if for every\nx ∈ E, there exists r > 0, such that (x−r,x+r) is a subset of E. Then,",
+            "options": [
+                "(A) E ∩···∩E is open, for every collection of open sets {E ,...,E }\n1 n 1 n",
+                "(B) E ∪···∪E is open, for every collection of open sets {E ,...,E }\n1 n 1 n",
+                "(C) φ is open",
+                "(D) all of the above are true"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "You have 100 observations on y with average value 15, and on x, with average value 8.\nFrom an OLS regression, you have estimated the slope on x to be 2. Your estimate of\nthe mean of y conditioned on x is",
+            "options": [
+                "(A) 15",
+                "(B) 16",
+                "(C) 17",
+                "(D) None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Suppose your data produces the regression result y = 10+3x. Scale y by multiplying\nobservations by 0.9 and do not scale x. The new intercept and slope estimates will be",
+            "options": [
+                "(A) 10 and 3",
+                "(B) 9 and 3",
+                "(C) 9 and 2.7",
+                "(D) 10 and 2.7"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

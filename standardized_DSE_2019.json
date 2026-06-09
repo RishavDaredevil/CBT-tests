@@ -1,0 +1,658 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2019,
+    "exam_title": "DSE 2019",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "The range of the function f : R → R defined by f(x) = x2+x+2 is\nx2+x+1",
+            "options": [
+                "(A) (1,∞)",
+                "(B) [1, 4]\n3",
+                "(C) [1, 7]\n3",
+                "(D) [1, 8]\n3 3\nThe next six questions pertain to the following Data from a random sample of 107 home sales\nˆ\nin 2003 yielded the regression P = 119.2+0.485∗BD+ 23.4∗BA+0.156∗HS+ 0.002 ∗PS+\n(23.9) (2.61) (10.76) (0.011) (0.00048)\n0.090∗A−35.6∗PC R2 = 0.72; SER = 41.5,P is price or value (Rs. 1000),BD is number\n(0.311) (10.5)\nof bedrooms, BA is number of baths, HS is house size (sq. ft.), PS is plot size (sq. ft.), A is\nage (years), PC is a dummy variable = 1 if the house is in poor condition and = 0 otherwise;\nand the parentheses contain standard errors of the corresponding coefficients. SER is the\nstandard error of the regression."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "If a homeowner adds a new bathroom to her house which increases the house size by 100\nsq. ft., what is the expected increase in the value of the house?",
+            "options": [
+                "(A) Rs.37,000",
+                "(B) Rs.39,450",
+                "(C) Rs.37,200",
+                "(D) Rs.39,000"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "If a homeowner converts a bedroom into a bathroom, what is the expected increase in\nthe value of house?",
+            "options": [
+                "(A) Rs.22,800",
+                "(B) Rs.22,915",
+                "(C) Rs.21,800",
+                "(D) Rs.23,915"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Are the coefficients of BA and PC individually statistically significant at the 5% level.",
+            "options": [
+                "(A) Coefficient of BA is significant, but that of PC is not",
+                "(B) Coefficient of PC is significant, but that of BA is not",
+                "(C) Both are significant",
+                "(D) Neither is significant"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "What is the loss in value if a homeowner allows his house to get into poor condition?",
+            "options": [
+                "(A) Rs.34,300",
+                "(B) Rs.36,000",
+                "(C) Rs.35,600",
+                "(D) Rs.35,100"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "If variable age were measured in decades, what would be its coefficient?",
+            "options": [
+                "(A) 0.090",
+                "(B) 0.900",
+                "(C) 0.009",
+                "(D) 9.000"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "What is the adjusted coefficient of determination?",
+            "options": [
+                "(A) 0.7032",
+                "(B) 0.7042",
+                "(C) 0.7022",
+                "(D) 0.7052\nThe next two questions pertain to the following Consider utility functions\n 2x, if y/x > 2\n\nu (x,y) = max{x,y}, if y/x ∈ [1/2,2]\n1\n 2y, if y/x < 1/2\nand\n 2x, if y/x > 2\n\nu (x,y) = x+y, if y/x ∈ [1/2,2]\n2\n 2y, if y/x < 1/2\nLet p > 0 and p > 0 be the prices of goods x and y respectively. Let w > 0 denote wealth\nx y\n(or income)."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "For i = 1,2, let h (p ,p ,U) denote the set of solutions of the problem: choose x > 0\ni x y\nand y > 0 to minimise p x+p y subject to u (x,y) ≥ U. Let e (p ,p ,U) = p X+p Y,\nx y i i x y x y\nwhere (X,Y) ∈ h (p ,p ,U)\ni x y",
+            "options": [
+                "(A) h (p ,p ,U) ⊂ h (p ,p ,U)\n1 x y 2 x y",
+                "(B) h (p ,p ,U) ⊃ h (p ,p ,U)\n1 x y 2 x y",
+                "(C) h (p ,p ,U) = h (p ,p ,U)\n1 x y 2 x yr",
+                "(D) None of the above hold necessarily"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Letm (p ,p ,w) denote the set of Marshallian demands for utility u and v (p ,p ,w) =\ni x y i 1 x y\nu ◦m (p ,p ,w)\ni i x y",
+            "options": [
+                "(A) m (p ,p ,w) ⊂ m (p ,p ,w) and v (p ,p ,w) = v (p ,p ,w)\n1 x y 2 x y 1 x y 2 x y",
+                "(B) m (p ,p ,w) ⊃ m (p ,p ,w) and v (p ,p ,w) = v (p ,p ,w)\n1 x y 2 x y 1 x y 2 x y",
+                "(C) m (p ,p ,w) ⊂ m (p ,p ,w) and v (p ,p ,w) ≤ v (p ,p ,w)\n1 x y 2 x y 1 x y 2 x y",
+                "(D) m (p ,p ,w) ⊃ m (p ,p ,w) and v (p ,p ,w) ≥ v (p ,p ,w)\n1 x y 2 x y 1 x y 2 x y\nThe next Three questions pertain to the following Trader 1 is endowed with 100 identical\nLeft shoes. Trader 2 is endowed with 99 identical Right shoes. Each trader’s utility from\nher allocation of shoes is equal to the mumber of complete pairs of shoes in the allocation.\nTraders 1 and 2 trade shoes in competitive markets and arrive at a competitive equilibrium.\nAssume that shoes are infinitely divisible."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Given their endowments, an efficient allocation",
+            "options": [
+                "(A) must give trader 1 at least 50 left shoes",
+                "(B) must give trader 1 at least 50 right shoes",
+                "(C) must give trader 1 at least 99 left shoes",
+                "(D) none of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "An equilibrium allocation of shoes gives trader 2:",
+            "options": [
+                "(A) at most 50 left shoes",
+                "(B) at least 99 left shoes",
+                "(C) at most 99 left shoes",
+                "(D) at most 50 right shoes"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The equilibrium price of left shoe divided by the equilibrium price of right shoe is",
+            "options": [
+                "(A) 1",
+                "(B) slightly less than 1",
+                "(C) slightly more than 1",
+                "(D) 0\n√"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Assume that the aggregate production of an economy is Y = K L , where K =\ni t t t+1\n(1−δ)K +I ,S = sY and L = L (i.e., the notation and meanings correspond to the\nt t t i t\nsetting for the Solow Model with constant population). Then, the savings rate s that\nmaximizes the steady state rate of consumption equals",
+            "options": [
+                "(A) 1\n2",
+                "(B) δ\n1+δ",
+                "(C) 1\n1+δ",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Consider a function f : R2 → R. Suppose, for every p ∈ R2, there exists x(p) ∈ R2\nsuch that f(x(p)) ≥ 1 and p · x(p) ≤ p.y for every y ∈ R2 such that f(y) ≥ 1. Define\ng : R2 → R by g(p) = p.x(p). Then, g is",
+            "options": [
+                "(A) linear",
+                "(B) convex",
+                "(C) quasi-convex",
+                "(D) concave\nn"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Given nonempty-subsets of R2, say Y ,...,Y , let Y∗ = Pn y | y ∈ Y ,...,y ∈\n1 n j=1 j 1 1 n\nY }. Given p ∈ R2 and a nonempty set Y ⊂ R2 let v(p,Y) = sup{p·y | y ∈ Y} Then,\nn\nfor every p",
+            "options": [
+                "(A) v(p,Y∗) < Pn v(p,Y ) or v(p,Y∗) > Pn v(p,Y )\nj=1 j j=1 j",
+                "(B) v(p,Y∗) = Pn v(p,Y )\nj=1 j",
+                "(C) v(p,Y∗) ≤ Pn v(p,Y )\nj=1 j",
+                "(D) v(p,Y∗) ≥ Pn v(p,Y )\nj=1 j"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Aconsumerlivesfortwoperiods1and2.ThelifetimeutilityfunctionisU =u(c )+u(c2).\n1 (1+p)\nTheconsumerearnsw andw inthetwoperiods,andherconsumptionc andc satjsfies\n1 2 1 2\na lifetime budget constraint c + c2 = w + w2 . Assume that u(c ) = c1 t −σ, t = 1,2.\n1 1+r 1 1+r t 1−σ\nThen, if r ≥ ρ, it follows that",
+            "options": [
+                "(A) c ≥ c\n1 2",
+                "(B) c ≤ c\n1 2",
+                "(C) c = c\n1 2",
+                "(D) None of the above is necessarily true"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The price-setting relation determines the real wage paid by firms depending on the level\nof technology (A) and mark-up m, and is represented by W = A . Under the wage-\nP 1+m\nsetting relation, the real wage is determined by the level of productivity (A) and the\nunemployment u. This is represented by W = A(1−u). The effect of an increase in the\nP\nlevel of technology on the unemployment is:",
+            "options": [
+                "(A) Positive",
+                "(B) Negative",
+                "(C) Zero",
+                "(D) ambiguous"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "If f : R → R and g : R → R are defined by\n( 0, if x is rational )\nf(x) =\nx, if x is irrational\nand\n( 0, if x is irrational )\ng(x) =\nx, if x is rational\nThen, h : R → R, defined by h(x) = f(x)−g(x) is",
+            "options": [
+                "(A) injective but not surjective",
+                "(B) surjective but not injective",
+                "(C) neither injective nor surjective",
+                "(D) bijective"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let k·k and k·k be norms on Rn and Rm respectively. Let L be the space of linear\nn m\ntransformations from Rn to Rm and let kLk = sup{kL(x)k | x ∈ Rn} and kLk =\n∗ m ∗∗\nsup{kL(x)k | x ∈ Rn and kxk ≤ 1} Then,\nm n",
+            "options": [
+                "(A) k·k defines a norm on L\n∗",
+                "(B) k·k defines a norm on L\n∗∗",
+                "(C) k·k and k·k are norms on L\n∗ ∗∗",
+                "(D) Neither k·k nor k·k is a norm on L\n∗ ∗∗"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose that the mark-up over cost is 20% for a representative firm in an economy with\nlabour being the single factor; and the wage-setting equation is: W = P(1−u) (where,\nu = the unemploynent rate, P = Price and W = wage rate). Then the natural rate of\nunemployment is:",
+            "options": [
+                "(A) 20%",
+                "(B) 17%",
+                "(C) 13%",
+                "(D) 10%"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "What is the money demand function when the utility of money for the representative\nhousehold is given by, U(Y,M/P) = 0.5lnY +0.5ln(M/P) (i represents the opportunity\ncost of holding money)?",
+            "options": [
+                "(A) MD/P = Y\ni",
+                "(B) MD/P = 2Y\ni",
+                "(C) MD/P = Y\n2i",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let\n 1 0 0 \nA =  2 1 0 \n \n3 2 1\nand B ,B ,B be three 3×1 column vectors, such that,\n1 2 3\n 1   2   2 \nAB =  0 ,AB =  3 ,AB =  3 \n1   2   3  \n0 0 1\nLet B be the 3×3 matrix whose 3 columns are B ,B and B respectively. Then the\n1 2 3\ndeterminant det (B) equals",
+            "options": [
+                "(A) −3",
+                "(B) 3",
+                "(C) −3\n2",
+                "(D) 3\n2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "A random number X, uniformly distributed on [0,1], divides [0,1] into 2 segments of\nlengths X and (1 − X). Let R be the ratio of the smaller to the larger segment (i.e.,\nR = X/(1−X), or R = (1−X)/X, depending on whether, X ≤ 1/2 or X > 1/2 The\ndistribution of R,F(r), that is the probability that R ≤ r equals",
+            "options": [
+                "(A) r\nr+1",
+                "(B) 2r\nr+1",
+                "(C) 1\nr+1",
+                "(D) 1−r\nr+1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "If the marginal propensity to save is 0.3 and the marginal propensity to import is 0.1\n, and the government increases expenditures by Rs. 10 billion, ignoring foreign-income\nrepercussions, by how much will GDP rise?",
+            "options": [
+                "(A) Rs.20 billion",
+                "(B) Rs.10 billion",
+                "(C) Rs.25 billion",
+                "(D) Rs.15 billion"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The formula for the effective tariff rate is given by the following formula:\n(n−ab)\ne =\n1−a\nwheree =theeffectiverateofprotection,n =thenominaltariffrateonthefinalproduct,\na = the ratio of the value of the imported input to the yalue of the final product, and\nb = the nominal tariff rate on the imported input. Suppose that the tariff rate on the\nfinal product is 5 percent, If no imported inputs are used in the domestic production of\nthe final product, the effective tariff rate is",
+            "options": [
+                "(A) 3%",
+                "(B) 5%",
+                "(C) 8%",
+                "(D) 12%"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose that in the Solow Model of an economy with some positive savings rate, popu-\nlation growth rate, and rate of depreciation, k∗ is the steady state capital-labour ratio.\nSuppose k and k are capital-labour ratios such that k < k < k∗, and let g ,g be the\n1 2 1 2 1 2\ngrowth rates of per capita output at k and k respectively. Then\n1 2",
+            "options": [
+                "(A) g > g\n1 2",
+                "(B) g = g\n1 2",
+                "(C) g > g\n1 2",
+                "(D) None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "The maximum value attained by the function f(x) = x3 − x2 − x − 1 on the set S =\n{x | x2 −x−2 ≤ 0} occurs at x =",
+            "options": [
+                "(A) 1",
+                "(B) 1\n3",
+                "(C) 2",
+                "(D) 5\n2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "A random variable X has a standard normal distribution. What is the closest guess to\nthe probability that X lies in the interval [2,3]?",
+            "options": [
+                "(A) 0.001",
+                "(B) 0.025",
+                "(C) 0.25",
+                "(D) 0.05\n(cid:16) (cid:17)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "lim x2−x+1 −c x−c = −5. So, it must be that (c ,c ) equals\nx→∞ x+1 1 2 1 2",
+            "options": [
+                "(A) (2,−3)",
+                "(B) (2,3)",
+                "(C) (1,2)",
+                "(D) (1,3)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Theefficiencywagetheoryarguesthatfirmschoosetopaya wagethantheclassical\nequilibrium wage, thus the real wage is than the wage at which the labor market\nclears.",
+            "options": [
+                "(A) lower, lower",
+                "(B) lower, higher",
+                "(C) higher, lower",
+                "(D) higher, higher"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "According to the theory of comparative advantage, countries gain from trade because",
+            "options": [
+                "(A) All firms can take advantage of cheap labour",
+                "(B) Trade makes firms behave more competitively, reducing their market power",
+                "(C) Output per worker in each firm increases",
+                "(D) World output can rise when each country specializes in what it does relatively\nbest"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "In the 2 factor, 2 good Heckscher-Ohlin model, the two countries differ in",
+            "options": [
+                "(A) tastes",
+                "(B) relative availabilities of factors of production",
+                "(C) labour productivities",
+                "(D) technologies"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "The line y = 2x+5 is tangent to a circle with equation x2 +y2 +16x+12y+c = 0, at\npoint P. So, P equals",
+            "options": [
+                "(A) (−9,−7)",
+                "(B) (−10,−12)",
+                "(C) (−6,−7)",
+                "(D) (−11,−15)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "The random variable X denotes the number of successes in a sequence of independent\n¯\ntrials, each with probability p of success. Let X denote the mean number of successes.\n¯\nWe know that X",
+            "options": [
+                "(A) has a binomial distribution with mean p",
+                "(B) has a normal distribution with mean p",
+                "(C) approximates a normal distribution with mean p",
+                "(D) none of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "A family has two children and it is known that at least one is a girl. What is the\nprobability that both are girls given that at least one is a girl?",
+            "options": [
+                "(A) 1\n2",
+                "(B) 1\n3",
+                "(C) 3\n4",
+                "(D) 2\n3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "It is known that there is a rational number between any two distinct irrational numbers.\nConsider a continuous function f : R → R such that f(x) = sinx for every rational\nnumber x. If x is an irrational number then,",
+            "options": [
+                "(A) f(x) = sin(x)+cos(x)\n2 2",
+                "(B) f(x) = sinx + cosx\n2 2",
+                "(C) f(x) = cosx",
+                "(D) f(x) = sinx"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "In a simple open economy framework, an increase in government spending leads to",
+            "options": [
+                "(A) a rise in budget deficit and a fall in current account deficit",
+                "(B) a fall in budget deficit and a rise in current account deficit",
+                "(C) a fall in both budget deficit and current account deficit",
+                "(D) a rise in both budget deficit and current account deficit\n√\n!\n3 1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "The matrix Q = PAPT where PT is the transpose of P, and P = 2 √2 and\n−1 3\n2 2\n1 1 !\nA = . Then, PTQ12P equals\n0 1\n1 12 !\nA.\n0 1\n1 144 !\nB.\n0 1\n1 0 !\nC.\n144 1\n√\n2+ 3 1 !",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) √\n−1 2− 3"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Nitin is a stamp collector and consumes only stamps and cheese sandwiches. His utility\nfunction is u(s,c) = s+logc. If Nitin is at a point where he is consuming both goods,\nthen the total amount that he is spending on cheese sandwiches depends",
+            "options": [
+                "(A) only on price of sandwiches",
+                "(B) only on price of stamps",
+                "(C) only on his income",
+                "(D) on all three of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Consider the following set of 2 equations: (2x)ln2 = (3y)ln3 and 3lnx = 2lny Suppose a\npair (x,y) of numbers is a solution to this set of equations. Then x equals",
+            "options": [
+                "(A) 1\n4",
+                "(B) 1\n2",
+                "(C) 1\n3",
+                "(D) 1\n6"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Your budget is such that if you spend your entire income, you can afford either 4 units\nof good x and 6 units of good y or 12 units of good x and 2 units of y. What is the ratio\nof price of x to price of y?",
+            "options": [
+                "(A) 1\n2",
+                "(B) 2",
+                "(C) 1\n3",
+                "(D) 2\n3\n1 1 !"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Let A = Then, A4 −4A3 +2A2 +A equals\n1 3",
+            "options": [
+                "(A) I",
+                "(B) I +A",
+                "(C) A",
+                "(D) A−1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Consider a small open economy. If there is a positive productivity shock in the country,\nhow will the domestic capital market be affected?",
+            "options": [
+                "(A) There will be net capital inflow",
+                "(B) There will be net capital outflow",
+                "(C) Net capital inflow is zero",
+                "(D) The investment demand will fall"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "You have a single draw from a Bernoulli distribution. The maximum likelihood estimate\nof the probability of success p is",
+            "options": [
+                "(A) 0",
+                "(B) 1",
+                "(C) either 0 or 1",
+                "(D) strictly between 0 and 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "The function f(x) is twice differentiable, and f(2) = 4,f(3) = 9,f(4) = 16. Then, it\nmust be that",
+            "options": [
+                "(A) f00(x) = 3 for some x ∈ (2,3)",
+                "(B) f00(x) = 2 for some x ∈ (2,4)",
+                "(C) f00(x) = 4 for some x ∈ (2,3)",
+                "(D) f00(x) = 3 for some x ∈ (2,4)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Under a floating exchange rate regime, following an expansion in the money supply,\nmonetary authorities will:",
+            "options": [
+                "(A) buy domestic currency in the foreign exchange market",
+                "(B) sell domestic currency in the foreign exchange market",
+                "(C) do nothing in the foreign exchange market",
+                "(D) buy foreign currency in the foreign exchange market"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "In a roll of two fair dice, X is the number on the first die and Y is the number on the\nsecond die. Which of the following is true?",
+            "options": [
+                "(A) X −Y and X +Y are dependent random variables",
+                "(B) X2 and Y are independent random variable",
+                "(C) X2 and Y2 are independent random variable",
+                "(D) All of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "A random variable has a uniform distribution on the interval [−1,1]. The probability\ndensity function of X conditional on X > 0.3 is given by:",
+            "options": [
+                "(A) 7\n10",
+                "(B) 10\n7",
+                "(C) 1",
+                "(D) 3\n10"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "The interval (0,∞) can be expressed as",
+            "options": [
+                "(A) ∪∞ [a ,b ] where each a ,b is a rational number\nn=1 n n n n",
+                "(B) ∪∞ (a ,b ) where a and b is a real number\nn=1 n n n n",
+                "(C) ∪∞ [a ,b ] where each a and b is a real number\nn=1 n n n n",
+                "(D) All of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "What is the probability that at least one 6 appears when 6 fair dice are rolled?",
+            "options": [
+                "(A) (5)6\n6",
+                "(B) 1\n6",
+                "(C) 1−(5)6\n6",
+                "(D) 5\n6"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

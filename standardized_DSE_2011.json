@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2011,
+    "exam_title": "DSE 2011",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "For the real-valued function f(x) = x4−4x3+6x2−4x+1, (defined for all real numbers\nx), the point x = 1 is",
+            "options": [
+                "(A) a local minimum",
+                "(B) a local maximum",
+                "(C) a point of inflection",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider the function f mapping points of the plane into the plane, defined by f(x,y) =\n(x−y,x+y). The range of this function is",
+            "options": [
+                "(A) the 45 degree line",
+                "(B) a ray through the origin but not the 45 degree line",
+                "(C) the entire plane",
+                "(D) the first and third quadrants"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Suppose {v ,v ,··· ,v } is a set of linearly dependent vectors , none of them being the\n1 2 n\nzero vector. Suppose c ,c ,··· ,c are scalars, not all zero, such that Pn c v = 0. Then\n1 2 n i=1 i i\nthe minimum number of non-zero scalars is",
+            "options": [
+                "(A) 1",
+                "(B) 2",
+                "(C) n−1",
+                "(D) cannot be determined"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Suppose the non-zero n × 1 column vector x solves the system of equations Ax = b,\nwhere A is an m × n matrix whose columns are the vectors a ,a ,··· ,a and b is an\n1 2 n\nm×1 column vector. Then the set of vectors {a ,a ,··· ,a ,b} is\n1 2 n",
+            "options": [
+                "(A) linearly independent",
+                "(B) linearly dependent",
+                "(C) linearly dependent only if a ,a ,··· ,a are linearly dependent\n1 2 n",
+                "(D) linearly dependent only if m = n"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "For a system of linear equations Ax = b with m equations and n variables, where m > n\nand b is a given vector, the following is true.",
+            "options": [
+                "(A) It can never have a unique solution",
+                "(B) It always has at least one solution",
+                "(C) It has at least a one-dimensional solution space",
+                "(D) If Rank(A) = n and a solution exists, it must be unique"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Suppose we are interested in estimating the mean height of M.A. students in Delhi\nUniversity. An avergae height estimated from a random sample of size 30 is better than\nestimated from a random sample of size 20 because:",
+            "options": [
+                "(A) Thesampleofsize20islikelytobemorebiasedbecauseitislessrepresentative",
+                "(B) The sample of size 30 is likely to yield more precise estimates of average height\nthan the sample of size 20",
+                "(C) The Central Limit Theorem prescribes a minimum sample size of 30",
+                "(D) Both (a) and (b)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "A doctor testing a diagnostic tool for a rare disease wants to minimize the chance that\nthe test will find a patient to be healthy when she is in fact sick (the null hypothesis\nbeing that the patient is healthy). The doctor should minimize the probability of:",
+            "options": [
+                "(A) Type I error, which would denote a false positive",
+                "(B) Type II error, which would denote a false positive",
+                "(C) Type I error, which would denote a false negative",
+                "(D) Type II error, which would denote a false negative"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Supposeyouhavethefollowingestimatedregressionequation: lnY=1.2+0.5X.Which\nof the following is a good interpretation of the estimated relationship between X and Y?",
+            "options": [
+                "(A) A unit change in X is associated with a 50 percent change in Y",
+                "(B) A unit change in X is associated with a 0.5 percent change in Y",
+                "(C) A one percent change in X is associated with a 50 unit change in Y",
+                "(D) A one percent change in X is associated with a 0.5 unit change in Y"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Let A ,A ,A be independent events with probabilities p ,p ,p respectively. The prob-\n1 2 3 1 2 3\nability that none of these events occurs equals",
+            "options": [
+                "(A) 1−(p +p +p )\n1 2 3",
+                "(B) 1−(p +p +p )+p p +p p +p p\n1 2 3 1 2 1 3 2 3",
+                "(C) (1−p )(1−p )(1−p )\n1 2 3",
+                "(D) (1−p )(1+p p )\n2 1 3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The market for good X has the demand function D(p) = 100−15p where p is the price\nof good X. There are ten price taking firms , each having a cost function c(q) = q2,\nwhere q is the firm’s own output. There is no new entry.",
+            "options": [
+                "(A) Rs. 20",
+                "(B) Rs. 15",
+                "(C) Rs. 10",
+                "(D) Rs. 5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "The market for good X has the demand function D(p) = 100−p and the supply function\nS(p) = 20+3p where p is the price of good X. If the government imposes a sales tax of\nRs. 10 per unit of the good on sellers, the equilibrium market price will increase by",
+            "options": [
+                "(A) Rs. 10",
+                "(B) Rs. 7.5",
+                "(C) Rs. 5",
+                "(D) Rs. 0"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "A monopolist, who can produce output at a cost of Rs. 20 per unit faces an inverse\ndemand curve given by p = 60−2q. The profit maximizing price for the monopolist is",
+            "options": [
+                "(A) Rs. 40",
+                "(B) Rs. 20",
+                "(C) Rs. 30",
+                "(D) Rs. 60"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Consider a duopoly market in which both firms choose quantities. Suppose we have the\nreaction curve of each firm, i.e , the curve that yields the firm’s optimal quantity choice\nin response to a quantity choice in response to a quantity chosen by the other firm. If\none firm is the Stackelberg leader and the other is the Stackelberg follower, then which\nof the following conditions characterizes the quantity chosen by the leader?",
+            "options": [
+                "(A) The quantity at which the leader’s isoprofit curve is tangential to the follower’s\nreaction curve",
+                "(B) The quantity at which the follower’s isoprofit curve is tangential to the leader’s\nreaction curve",
+                "(C) The quantity where the leader’s isoprofit curve attains a maximum",
+                "(D) The quantity where the two reaction curves intersect"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A society has 3 individuals and 3 alternatives A,B and",
+            "options": [
+                "(A) A",
+                "(B) B",
+                "(C) C",
+                "(D) A or C"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "A natural monopoly is said to occur when",
+            "options": [
+                "(A) the long run average cost curve is U-shaped",
+                "(B) the long run average cost curve is decreasing",
+                "(C) the long run average cost curve is flat",
+                "(D) the long run average cost curve is increasing"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "If everybody in the economy decides to consume a higher proportion of their income,\nthe corresponding IS curve",
+            "options": [
+                "(A) will be flatter",
+                "(B) will be steeper",
+                "(C) will remain unchanged",
+                "(D) will become horizontal"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "An increase in the expected rate of inflation will",
+            "options": [
+                "(A) shift the LM curve up",
+                "(B) shift the LM curve down",
+                "(C) leave the LM curve unchanged",
+                "(D) have an ambiguous effect on the LM curve"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "A devaluation of domestic currency will improve the country’s trade balance only if the\nfollowing is true for price elasticities of demand:",
+            "options": [
+                "(A) the sum of price elasticities of exports and imports equals 1",
+                "(B) the sum of price elasticities of exports and imports is less than 1",
+                "(C) the sum of price elasticities of exports and imports is greater than 1",
+                "(D) the price elasticity of exports exactly matches the price elasticity of imports"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Under nominal wage rigidity, the short run aggregate supply schedule will be",
+            "options": [
+                "(A) vertical",
+                "(B) horizontal",
+                "(C) upward sloping",
+                "(D) downward sloping"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Okun’s Law refers to",
+            "options": [
+                "(A) a negative relationship between inflation and unemployment",
+                "(B) a negative relationship between unemployment and real GDP",
+                "(C) a negative relationship between interest rate and money demand",
+                "(D) a negative relationship between inflation and growth\nThe following notational conventions apply wherever the following symbols are used. R\ndenotes the set of real numbers. R denotes the set of positive real numbers. Q denotes\n++\nthe set of rational numbers."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Suppose the function f : R → R is given by f(x) = Rxt−1dt. Consider the following\n++ 1\nstatements: for x,y ∈ R ,\n++\nf(x+y) = f(x)+f(y)\nf(xy) = f(x)+f(y)\nIn general,",
+            "options": [
+                "(A) (i) is true and (ii) is false",
+                "(B) (i) is false and (ii) is true",
+                "(C) Both are true",
+                "(D) Both are false"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Suppose a real valued function f is defined for all real numbers excepting 0, and satisfies\nthe following conditions: f(xy) = f(x)+f(y) for all x,y in the domain. Consider the\nstatements:\nf(1) = f(−1) = 0\nf(x) = f(−x) for every x",
+            "options": [
+                "(A) (i) is true and (ii) is false",
+                "(B) (i) is false and (ii) is true",
+                "(C) Both are true",
+                "(D) Both are false"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "The closest point on the parabola y = 1x2 from a given point (0,b) on the vertical axis,\n4\nwith b > 0, is the origin if and only if",
+            "options": [
+                "(A) b < 3",
+                "(B) b > 3",
+                "(C) b < 2",
+                "(D) b > 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Let f be a real valued differentiable function defined for all x ≥ a. Consider the function\nF defined by F(x) = Rxf(t)dt. If f is increasing on any interval, then on that interval\na\nF is",
+            "options": [
+                "(A) convex",
+                "(B) concave",
+                "(C) increasing",
+                "(D) decreasing"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider the function f : R → R defined by\n( x2, if x ∈ Q\nf(x) =\n0, otherwise\nwhere Q is the set of rational numbers. Then, f is",
+            "options": [
+                "(A) discontinuous at every x 6= 0",
+                "(B) is continuous at all points in Q",
+                "(C) continuous at multiple points",
+                "(D) is discontinuous on a countable set of points"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose A and B are square matrices that satisfy\nAB +BA = 0\nwhere 0 is a square matrix of zeros. Then it must be that",
+            "options": [
+                "(A) A2B3 = B3A2",
+                "(B) A2B3 = B2A3",
+                "(C) A2B3 = BA4",
+                "(D) None of the above is necessarily true\nConsider a Society consisting of individuals. These individuals may belong to various sets\ncalled Clubs and Tribes. The collections of Clubs and Tribes satisfy the following rules:\n• The entire Society is a Tribe\n• The empty subset of Society is also a Tribe\n• Given any collection of Tribes, the set of individuals who belong to each Tribe in that\ncollection is also a Tribe\n• Given any two Tribes, the set of individuals who belong to at least one of these Tribes\nis also a Tribe\n• A set of individuals is called a Club if and only if the set of individuals not in it constitute\na Tribe"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "The intersection of two Clubs is necessarily",
+            "options": [
+                "(A) a Club",
+                "(B) a Tribe",
+                "(C) not a Club",
+                "(D) not a Tribe"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "The union of a collection of Clubs is necessarily",
+            "options": [
+                "(A) not a Club",
+                "(B) not a Tribe",
+                "(C) a Club",
+                "(D) a Tribe"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Which of the following statements is necessarily true?",
+            "options": [
+                "(A) A set of individuals cannot be a Tribe and a Club",
+                "(B) There are at least two sets of individuals that are both a Club and a Tribe",
+                "(C) The union of a Club and a Tribe is a Tribe",
+                "(D) The intersection of a Club and a Tribe is a Club"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose we are given a Club and a Tribe. Then, the set of individuals who belong to\nthe given Tribe but not to the given Club necessarily constitute",
+            "options": [
+                "(A) a Club",
+                "(B) a Tribe",
+                "(C) neither a Club, not a Tribe",
+                "(D) a Club and a Tribe\nThe next two questions are based on the following information. Suppose X and Y are two\nrandom variables. X can take values -1 and 1. Y can take integer values between 1 and 6.\nThe following is the joint probability distribution of X and Y.\nY = 1 Y = 2 Y = 3 Y = 4 Y = 5 Y = 6\nX = −1 0.1 a 0.3 0 0 0\nX = 1 0 0 b 0.1 0.1 0.1\nIt is known that the expectations of the two random variables are E(X) = −0.2 and E(Y) =\n3.2. Then"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "The value ‘a’ in the table equals",
+            "options": [
+                "(A) 0",
+                "(B) 0.1",
+                "(C) 0.2",
+                "(D) 0.3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "The value ‘b’ in the table equals",
+            "options": [
+                "(A) 0",
+                "(B) 0.1",
+                "(C) 0.2",
+                "(D) 0.3\nThe next two questions are based on the following data. Suppose X and Y are independent\nrandom variables that follow the uniform distribution on the [0,1] . Let Z = min{X,Y}."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Pr(Z < −.5) (the probability that Z is less than 0.5) equals",
+            "options": [
+                "(A) 0.25",
+                "(B) 0.5",
+                "(C) 0.625",
+                "(D) 0.75"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Pr(Z < 0.5|X = 0.75) is",
+            "options": [
+                "(A) 0.25",
+                "(B) 0.5",
+                "(C) 0.625",
+                "(D) undefined"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Two players, A and B, will play a best of seven table tennis match ( i.e. , the first to win\n4 games will win the match, and the match will have at most 7 games).The two players\nare equally likely to win any of the games in the match. The probability that match will\nend in 6 games is",
+            "options": [
+                "(A) less than the probability that it will end in 7 games",
+                "(B) equal to the probability that it will end in 6 games",
+                "(C) greater than the probability that it will end in 7 games",
+                "(D) None of (a), (b) or (c) is true"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "In order to join the ‘Gamers Club’, Mr. A must choose a box from the two identical\nboxes in a room, and draw one ball from the chosen box. All he knows is that both boxes\nare nonempty, and have a mix of red and green balls. If the ball that he draws from his\nchosen box is green, he is admitted to the club. You are given 2 identical boxes, 50 red\nballs and 50 green balls, and asked to allocate these balls to the two boxes in order to\nmaximize Mr. A’s probability of being admitted to the club, given that he will choose\na box randomly. If you allocate these balls correctly, the probability that Mr. A gets\nadmitted to the club equals",
+            "options": [
+                "(A) 1",
+                "(B) 0.747",
+                "(C) 0.547",
+                "(D) 0.257"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Consider the following equation to be estimated using ordinary least squares:\nY = a +a x +a X +a (X −X )+a X X +u\n0 1 1 2 2 3 2 1 4 1 2\nWhich of the following statements is true?",
+            "options": [
+                "(A) The parameters a ,a ,a ,a can be estimated, but not a\n0 1 2 4 3",
+                "(B) The parameters a and a can be estimated, but not a ,a ,a\n0 4 1 2 3",
+                "(C) The parameters a ,a ,a ,a can be estimated, but not a\n0 1 2 3 4",
+                "(D) All parameters can be estimated"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "A researcher wants to test whether there are gender differences in the rates of immu-\nnization for boys and girls, after controlling for parental income, mother’s education and\naccess to health care facilities. The easiest way to test this would be to:",
+            "options": [
+                "(A) Include one dummy variable in the multiple regression",
+                "(B) Include two dummy variables in the multiple regression",
+                "(C) Include interaction dummies in the multiple regression",
+                "(D) Run two separate regressions-one for boys and one for girls"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Instead of estimating a production function y = a +a K +a L+u, where y is output,\n0 1 2\nK is capital input and L is labour input, a researcher estimates y = a +a K +u. It\n0 1\nis known that in the true model, a > 0 and K and L are complements. Which of the\n2\nfollowing is true?",
+            "options": [
+                "(A) The estimated a will be upwardly biased\n1",
+                "(B) The estimated a will have a downward bias\n1",
+                "(C) Theestimateda willbebiased, butthedirectionofbiascannotbedetermined\n1",
+                "(D) The estimated a will be unbiased, but a will be biased\n1 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "A student has the opportunity to take a test at most thrice. The student knows that\neach time he takes the test, his score is an independent random draw from the uniform\ndistribution on the interval [0,100]. After learning his score on a test, the student can\neither stop and accept it as his official score, or he can discard the result and retake the\ntest. If the student rejects his score twice and takes the test a third time, that score\nwill be his official score. If his objective is to maximize his expected official score, the\nstudent will decide to be retested after the very first test if and only if his score is less\nthan",
+            "options": [
+                "(A) 50",
+                "(B) 62.5",
+                "(C) 75",
+                "(D) 87.5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "A consumer has utility function u(x ,x ) = min{2x + x ,x + 2x }. Her income is\n1 2 1 2 1 2\ny = 100, the prices are p = 20 and p = 30. The amount of x in the utility maximizing\n1 2 1\nbundle is",
+            "options": [
+                "(A) 7",
+                "(B) 5",
+                "(C) 2",
+                "(D) 0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Consider the same utility function and income as above, but suppose the prices are\np = 10 and p = 30. Then the amount of x in the utility maximizing bundle is\n1 2 1",
+            "options": [
+                "(A) 10",
+                "(B) 5",
+                "(C) 2.5",
+                "(D) 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "A consumer spends Rs. 100 on only two goods, A and",
+            "options": [
+                "(A) A is an inferior good",
+                "(B) B is a complement of A",
+                "(C) A is a Giffen good",
+                "(D) All of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Consider a firm using two inputs to produce its output. It is known that greater use of\nboth inputs increases output. Moreover, for any combination of positive input prices,\nthe firm employs and input combination of the form (x,αx) where α > 0 is a constant.\nWhich of the following functions represents this firm’s technology?",
+            "options": [
+                "(A) f(x,y) = min{xα,y}",
+                "(B) f(x,y) = min{αx,y}",
+                "(C) f(x,y) = min{x,αy}",
+                "(D) f(x,y) = min{x,yα}"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Consider an exchange economy with two agents, 1 and 2, and two goods, X and Y.\nThere are 6 units of X and 4 units of Y available. An allocation is denoted by (x ,y ),\n1 1\n(x ,y ), where (x ,y ) is agent 1’s consumption bundle, (x ,y ) is agent 2’s consumption\n2 2 1 1 2 2\nbundle, x +x = 6 and y +y = 4. Agent 1 has the utility function u = min{x ,y }\n1 2 1 2 1 1 1\nand agent 2 has the utility function u (x ,y ) = min{x ,y }. Which of the following\n2 2 2 2 2\nallocations is not Pareto efficient?",
+            "options": [
+                "(A) (2,2), (4,2)",
+                "(B) (3,2), (3,2)",
+                "(C) (3,1), (3,3)",
+                "(D) (1,2), (5,2)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Consideranexchangeeconomywithtwogoodsandtwoagentshavethesamepreferences\nas in the previous question. Agent 1’s endowment is (0,α) and agent 2’s endowment is\n(β,0). What is generally true?",
+            "options": [
+                "(A) Any allocation in which each agent gets equal amounts of the two goods is an\nequilibrium allocation",
+                "(B) If β < α, then the price of X is 0",
+                "(C) If β > α, then the price of X is 0",
+                "(D) Anyallocationinwhichagent2getsnoneofgoodY isanequilibriumallocation"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Consider an exchange economy with two goods and two agents. Agent 2’s utility is\nas above. The equilibrium allocation is (x ,y ) = (6,1) and (x ,y ) = (4,4). The\n1 1 2 2\nequilibrium prices are (1,1). What could be the endowment?",
+            "options": [
+                "(A) Agent 1’s endowment is (2,5) and agent 2’s endowment is (8,0)",
+                "(B) Agent 1’s endowment is (7,0) and agent 2’s endowment is (3,5)",
+                "(C) Both (a) and (b)",
+                "(D) Neither (a) nor (b)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "A firm has an order to supply 20 units of output. It can divide its production across\ndifferent plants, 1 and 2, with cost function c (q ) = q2 and c (q ) = 3q2 respectively.\n1 1 1 2 2 2\nThe total order must be produced, i.e., q +q = 20. To meet the total production target\n1 2\nat minimum cost, the amount of output the firm should produce in its first plant is",
+            "options": [
+                "(A) 20 units",
+                "(B) 15 units",
+                "(C) 10 units",
+                "(D) 5 units"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Consider an exchange economy with two agents and aggregate endowment (10,10). The\nagents’ utility functions are u (x ,y ) = x +2y and u (x ,y ) = 2x +y . Examples\n1 1 1 1 1 2 2 2 2 2\nof efficient allocations are",
+            "options": [
+                "(A) (x ,y ) = (5,10) and (x ,y ) = (5,0)\n1 1 2 2",
+                "(B) (x ,y ) = (0,10) and (x ,y ) = (10,0)\n1 1 2 2",
+                "(C) (x ,y ) = (0,5) and (x ,y ) = (10,5)\n1 1 2 2",
+                "(D) All of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Consider the following two games in strategic form.\nHawk Hawk Dove\nEnter −1 1! Enter −1,1 3,3 !\nNot enter 0 6 Not enter 0,6 0,7\nCompute the Nash equilibria of the two games. What general lesson can be drawn from\nthese equilibria ?",
+            "options": [
+                "(A) Eliminating a strategic option may be beneficial",
+                "(B) Having extra strategic option is not beneficial",
+                "(C) Having extra strategic option is beneficial",
+                "(D) Eliminating a strategic option is beneficial"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Suppose the following equation holds for an economy, at every time t: P = (1+a)WtNt .\nThat is the price of output is a fixed markup over unit labour cost. Let π t be the inflat Y iton\nrate, w be the wage inflation rate, and λ be the rate of growth in labour productivity.\n(Labour productivity = Y /N ). Which of the following is true?\nt t",
+            "options": [
+                "(A) w = π −λ",
+                "(B) π = w+λ",
+                "(C) π = w−λ",
+                "(D) w = λ−π\nThe next three questions have to do with the following fixed price model of an economy.\nC = C +c (Y −T),0 < c < 1\n0 1 1\nI = i +i r,i < 0\n0 1 1\nY = C +I +G\nMd = m +m Y +m r,m < 0 < m\n0 1 2 2 1\nMd = M,\nwhere C,I,G,Y,Md,M are respectively aggregate consumption, investment, government\nexpenditure, output, money demand and money stock."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "In this economy, an increase in G",
+            "options": [
+                "(A) necessarily reduces I",
+                "(B) may increase I",
+                "(C) reduces I only if m is large\n1",
+                "(D) increases I only if m is small\n1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "The more negative is m , ceteris paribus,\n2",
+            "options": [
+                "(A) the greater the effect of an increase in G on r",
+                "(B) the smaller the effect of an increase in G on r",
+                "(C) The magnitude of the effect of G on r does not depend on the magnitude of\nm\n2",
+                "(D) r decreases as G increases, but the magnitude of this is indereminate"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "If c is very close to 1, then an increase in M has\n1",
+            "options": [
+                "(A) a very large positive impact on r",
+                "(B) a very small positive effect on r",
+                "(C) a very small negative effect on r",
+                "(D) a very large negative impact on r\nThe next six questions are based on the following information. Consider an economy in\nwhich aggregate output is produced by using 2 factors, capital K and labour L. Aggregate\nproductiontechnologyisgivenbytheproductionfunction: Y = A(K )α(L )1−α,whereA > 0\nt t t\nand 0 < α < 1. At each instant t, both factors are fully employed. A constant proportion\ns of total output is saved and invested in every period, which augments the capital stock in\nthe next period. There is no depreciation of capital. Labour force grows at a constant rate\nn. Let A = 20,α = 1,s = 1,n = 1 . Then\n2 4 10"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "The steady state level of output per worker is",
+            "options": [
+                "(A) 50",
+                "(B) 1000",
+                "(C) 2500",
+                "(D) 5000"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "The rate of growth of aggregate output in the steady state is",
+            "options": [
+                "(A) 0",
+                "(B) 1\n4",
+                "(C) 1\n2",
+                "(D) 1\n10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "The golden rule of capital per worker is",
+            "options": [
+                "(A) 25",
+                "(B) 2500",
+                "(C) 5000",
+                "(D) 10000"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "The golden rule level of consumption per worker is",
+            "options": [
+                "(A) 500",
+                "(B) 1000",
+                "(C) 250",
+                "(D) 25"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "An increase in the value of the parameter A from its current value",
+            "options": [
+                "(A) willincreasethesteadystatelevelofoutputperworkerandincreasethegrowth\nof aggregate output in the steady state",
+                "(B) will decrease the steady state level of output per worker and increase the\ngrowth of aggregate output in the steady state",
+                "(C) will increase the steady state level of output per worker and leave unchanged\nthe growth of aggregate output in the steady state",
+                "(D) will decrease the steady state level of output per worker and leave unchanged\nthe growth of aggregate output in the steady state"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "An increase in the value of the parameter n from its current value",
+            "options": [
+                "(A) willincreasethesteadystatelevelofoutputperworkerandincreasethegrowth\nof aggregate output in the steady state",
+                "(B) will decrease the steady state level of output per worker and increase the\ngrowth of aggregate output in the steady state",
+                "(C) will increase the steady state level of output per worker and leave unchanged\nthe growth of aggregate output in the steady state",
+                "(D) will decrease the steady state level of output per worker and leave unchanged\nthe growth of aggregate output in the steady state"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

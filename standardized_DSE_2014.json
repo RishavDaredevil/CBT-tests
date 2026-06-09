@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2014,
+    "exam_title": "DSE 2014",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Suppose that we classify all households into one of two states, rich and poor. The\nprobability of a particular generation being in either of these states depends only on the\nstate in which their parents were. If a parent is poor today, their child is likely to be\npoor with probability 0.7. If a parent is rich today, their child is likely to be poor with\nprobability 0.6. What is the probability that the great grandson of a poor man will be\npoor?",
+            "options": [
+                "(A) 0.72",
+                "(B) 0.67",
+                "(C) 0.62",
+                "(D) 0.78"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider the experiment of tossing two fair coins. Let the event A be a head on the first\ncoin, the event C be a head on the second coin, the event D be that both coins match\nand the event G be two heads. Which of the following is false?",
+            "options": [
+                "(A) C and D are statistically independent",
+                "(B) A and G are statistically independent",
+                "(C) A and D are statistically independent",
+                "(D) A and C are statistically independent"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let Y denote the number of heads obtained when 3 fair coins are tossed. Then the\nexpectation of Z = 4+5Y2 is",
+            "options": [
+                "(A) 17",
+                "(B) 18",
+                "(C) 19",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let Y denote the number of heads obtained when 3 fair coins are tossed. Then the\nvariance of Z = 4+5Y2 is",
+            "options": [
+                "(A) 185.5",
+                "(B) 178.5",
+                "(C) 187.5",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Let events E, F and G be pairwise independent with Pr(G) > 0 and Pr(E∩F ∩G) = 0.\nLet Xc denote the complement of event X. Then Pr(Ec ∩Fc|G) =",
+            "options": [
+                "(A) Pr(Ec)+Pr(Fc)",
+                "(B) Pr(Ec)−Pr(Fc)",
+                "(C) Pr(Ec)−Pr(F)",
+                "(D) None of the above\n(cid:18) 1(cid:19)n+1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Let a = 1+ , n = 1,2,... Then the sequence (a )∞\nn n n n=1",
+            "options": [
+                "(A) is an increasing sequence",
+                "(B) first increases, then decreases",
+                "(C) is a decreasing sequence",
+                "(D) first decreases, then increases"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Let M, A, B, C be respectively the four matrices below:\n4 7! 1 1! 1 2! 1 1!\n, , ,\n7 9 1 1 3 4 4 5\nThen M = xA+yB +zY,",
+            "options": [
+                "(A) but x, y, z are not unique.",
+                "(B) z = −1",
+                "(C) z = −1 and z = −2 both can hold",
+                "(D) x, y, z are unique but z = 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Let f be a continuous function from [a,b] to [a,b], and is differentiable on (a,b). We will\nsay that point y ∈ [a,b] is a fixed point of f if y = f(y). If the derivative f0(x) 6= 1 for\nany x ∈ (a,b), then f has",
+            "options": [
+                "(A) multiple, and an odd number of, fixed points",
+                "(B) no fixed points in [a,b]",
+                "(C) multiple, but an even number of, fixed points",
+                "(D) exactly one fixed point in [a,b]"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Which of the following statements is true for all real numbers a,b with a < b?",
+            "options": [
+                "(A) sinb−sina ≤ b−a",
+                "(B) sinb−sina ≥ b−a",
+                "(C) |sinb−sina| ≥ b−a",
+                "(D) |sinb−sina| ≤ |b−a|"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Let O(0,0), P(3,4) and Q(6,0) be the vertices of a triangle OPQ. If a point S in the\ninterior of the OPQ is such that triangles OPS, PQS and OQS have equal area, then\nthe coordinates of S are:",
+            "options": [
+                "(A) (4/3,3)",
+                "(B) (3,2/3)",
+                "(C) (3,4/3)",
+                "(D) (4/3,2/3)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "5 men and 5 women are seated randomly in a single row of chairs. The expected number\nof women sitting next to at least one man equals",
+            "options": [
+                "(A) 11/3",
+                "(B) 13/3",
+                "(C) 35/9",
+                "(D) 37/9"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Let M be a 3×3 matrix such that M2 = M. Which of the following is necessarily true?",
+            "options": [
+                "(A) M is invertible",
+                "(B) det(M) = 0",
+                "(C) det(M5) = det(M)",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Suppose a straight line in R3 passes through the point (−1,3,3) in the direction of the\nvector (1,2,3). The line will intersect with the xy-plane at point",
+            "options": [
+                "(A) (2,−1,0)",
+                "(B) (1,3,0)",
+                "(C) (3,1,0)",
+                "(D) None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "X is a random variable. Which of the following statements is always true?",
+            "options": [
+                "(A) The expectation of X exists.",
+                "(B) The distribution function of X is strictly increasing",
+                "(C) X has a median",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Consider two disjoint events A and B in a sample space S. Which of the following is\ncorrect?",
+            "options": [
+                "(A) A and B are always independent",
+                "(B) A and B cannot be independent",
+                "(C) A and B are independent if both of them have positive probability",
+                "(D) None of the above\nThe following information is the starting point for Q16−20. Consider an exchange economy\nwith two agents, 1 and 2, and two goods, X and Y. Agent 1’s endowment is (0,10) and\nagent 2 ’s endowment is (11,0) . Agent 1 strictly prefers bundle (a,b) to bundle (c,d) if,\neither a > c, or a = c and b > d. Agent 2 strictly prefers bundle (a,b) to bundle (c,d) if\nmin{a,b} > min{c,d}. For both agents, we say that bundle (a,b) is indifferent to bundle\n(c,d) if, neither (a,b), nor (c,d), is strictly preferred to the other."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "This exchange economy has",
+            "options": [
+                "(A) one competitive equilibrium allocation",
+                "(B) two competitive equilibrium allocations",
+                "(C) an infinite number of competitive equilibrium allocations",
+                "(D) no competitive equilibrium allocations"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Which of the following changes makes (p ,p ) = (1,0) a competitive equilibrium price\nx y\nvector?",
+            "options": [
+                "(A) agent 2’s endowment changes to (9,0)",
+                "(B) agent 2’s endowment changes to (10,0)",
+                "(C) agent 1’s endowment changes to (0,12)",
+                "(D) none of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Suppose only agent 2’s preferences are changed. The changed preferences of agent 2’s\nbecome identical to those of agent 1. Then,",
+            "options": [
+                "(A) there is no equilibrium price ratio",
+                "(B) both of the following are true",
+                "(C) p /p = 0 is an equilibrium price ratio\nx y",
+                "(D) p /p = 0 is an equilibrium price ratio\ny x"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Suppose only agent 2’s preferences are changed. The changed preferences is such that\nagent 2 strictly prefers bundle (a,b) to bundle (c,d) if, either b > d, or b = d and a > c.\nThen,",
+            "options": [
+                "(A) there is no equilibrium price ratio",
+                "(B) both of the following are true",
+                "(C) p /p = 0 is an equilibrium price ratio\nx y",
+                "(D) p /p > 0 is an equilibrium price ratio\nx y\nE. p /p = 10/11 is an equilibrium price ratio\nx y"
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose only agent 1’s preferences are changed. The changed preferences of agent 1’s\nbecome identical to those of agent 2. Then,",
+            "options": [
+                "(A) there is no equilibrium price ratio",
+                "(B) both of the following are true",
+                "(C) p /p = 0 is an equilibrium price ratio\nx y",
+                "(D) p /p = 0 is an equilibrium price ratio\ny x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "5 men and 5 women are seated randomly in a single circle of chairs. The expected\nnumber of women sitting next to at least 1 man equals",
+            "options": [
+                "(A) 23/6",
+                "(B) 25/6",
+                "(C) 4",
+                "(D) 17/4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Ms. AselectsanumberX randomlyfromtheuniformdistributionon[0,1]. ThenMr. B\nrepeatedly, and independently, draws numbers Y ,Y ,... from the uniform distribution\n1 2\non [0,1], until he gets a number larger than X/2, then stops. The expected number of\ndraws that Mr. B makes equals",
+            "options": [
+                "(A) 2ln2",
+                "(B) ln2",
+                "(C) 2/e",
+                "(D) 6/e"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Ms. AselectsanumberX randomlyfromtheuniformdistributionon[0,1]. ThenMr. B\nrepeatedly, and independently, draws numbers Y ,Y ,... from the uniform distribution\n1 2\non [0,1], until he gets a number larger than X/2, then stops. The expected sum of the\nnumber Mr. B draws, given X = x, equals",
+            "options": [
+                "(A) ln2",
+                "(B) 1/(1− 1)\n2",
+                "(C) 1/(2−x)",
+                "(D) 3/(1− 1)\n2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "There are two fair coins (i.e. Heads and Tails are equally likely for tosses of both). Coin\n1 is tossed 3 times. Let X be the number of Heads that occur. After this, Coin 2 is\ntossed X times. Let Y be the number of Heads we get with Coin 2. The probability\nPr(X ≥ 2|Y = 1) equals",
+            "options": [
+                "(A) 1/2",
+                "(B) 4/7",
+                "(C) 2/3",
+                "(D) 11/18\nE. 10/18"
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "TwoindependentrandomvariablesX andY havethesameprobabilitydensityfunctions:\n\nc(1+x) x ∈ [0,1]\nf(x) =\n0 otherwise\n\nThen the variance of their sum, V(X +Y) equals",
+            "options": [
+                "(A) 2/9",
+                "(B) 13/81",
+                "(C) 4/45",
+                "(D) 5/18"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose two restaurants are going to be located at a street that is ten kilometres long.\nThe location of each restaurant will be chosen randomly. What is the probability that\nthey will be located less than five kilometres apart?",
+            "options": [
+                "(A) 1/4",
+                "(B) 1/2",
+                "(C) 3/4",
+                "(D) 1/3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Considerthelinearregressionmodel: y = β D1 +β D2 +(cid:15) ,whereD1 = 1if1 ≤ i ≤ N\ni 1 i 2 i i i\nand D1 = 0 if N +1 ≤ i ≤ n for some 1 < N < n and D2 = 1−D1 . Can this model\ni i i\nbe estimated using least squares?",
+            "options": [
+                "(A) No, because D1 and D2 are perfectly collinear",
+                "(B) Yes, and it is equivalent to running two separate regressions of y on D1 and y\non D2, respectively",
+                "(C) No, because there is no variability in D1 and D2",
+                "(D) Yes, provided an intercept term is included."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Consider the least squares regression of y on a single variable x. Which of the following\nstatements is true about such a regression?",
+            "options": [
+                "(A) The coefficient of determination R2 is always equal to the squared correlation\ncoefficient between y and x",
+                "(B) The coefficient of determination R2 is equal to the squared correlation coeffi-\ncient between y and x only if there is no intercept in the equation",
+                "(C) The coefficient of determination R2 is equal to the squared correlation coeffi-\ncient between y and x only if there is an intercept in the equation",
+                "(D) There is no relationship between the coefficient of determination R2 and the\nsquared correlation coefficient between y and x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "An analyst runs two least squares regressions: first, of y on a single variable x, and\nsecond of x on y. In both cases, she decides to include an intercept term. Which of the\nfollowing is true of what she finds?",
+            "options": [
+                "(A) The slope coefficient of the first regression will be the inverse of the slope\ncoefficient of the second regression; this will also be true of the associated\nt-ratios",
+                "(B) The slope coefficients will be different, the associated t-ratios will also be\ndifferent, but the R2 from the two regressions will be the same",
+                "(C) The slope coefficients will be different, but the associated t-ratios and the R2\nfrom the two regressions will be the same",
+                "(D) The slope coefficient will be the inverse of each other, the associated t-ratios\nwill also be the inverse of each other, but the R2 from the two regressions will\nbe the same"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider the two regression models\n(i) y = β +β X +β X +u\n0 1 1 2 2\n(ii) y = γ +γ Z +γ Z +v\n0 1 1 2 2\nwhere variables Z and Z are distinct from X and X . Assume u ∼ N(0,σ2) and\n1 2 1 2 u\nv ∼ N(0,σ2) and the models are estimated using ordinary least squares. If the true\nv\nmodel is (i) then which of the following is true?\nˆ",
+            "options": [
+                "(A) E[β ] = E[γˆ ] = β and E[σˆ2] = σ2\n1 1 1 v u",
+                "(B) E[σˆ2] ≥ σ2\nv u",
+                "(C) E[σˆ2] ≤ σ2\nv u",
+                "(D) None of the above as the two models cannot be compared\nThe following information is the starting point for Q 31 - 35. Please read it carefully before\nyou proceed to answer.\nConsider an economy consisting of N identical firms producing a single final commodity\nto be used for consumption as well as investment purposes. Each firm is endowed with a\nCobb-Douglas production technology, such that\n(cid:16) (cid:17)α(cid:16) (cid:17)1−α\nYi = Ki Li ; 0 < α < 1\nt t t\nwhere Ki and Li denote the amounts of capital and labor employed by the i-th firm at time\nt t\nperiod t. The final commodity is the numeraire; wage rate for labour (w ) and the rental\nt\nrate for capital (r ) are measured in terms of the final commodity. The firms are perfectly\nt\ncompetitive and employ labor and capital so as to maximise their profits - taking the factor\nprices as given. The aggregate output produced is thus given by:\nN\nY =\nX(cid:16)\nKi\n(cid:17)α(cid:16)\nLi\n(cid:17)1−α\n= (K )α(L )1−α,\nt t t t t\ni=1\nwhere K = PN Ki and L = PN Li are the total capital and labor employed in the\nt i=1 t t i=1 t\naggregate economy in period t.\nLabor and Capital on the other hand are provided by the households. There are H identical\nhouseholds, each endowed with kh units of capital and 1 unit of labor at the beginning of\nt\nperiod t. Capital stock of the households gets augmented over time due to the savings and\ninvestment made by the households. In particular, each household saves and invests exactly\nhalf of its total income yh - (which includes its labour as well as capital income) in every\nt\ndkh 1\nperiod and consumes the rest, such that t = yh (There is no depreciation of capital).\ndt 2 t\nThe entire capital endowment at the beginning of every period is supplied inelastically to the\nmarket at the given rental rate (r ). Labor supply however is endogenous and responds to\nt\nthe market wage rate. Out of the total endowment of 1 unit of labour, a household optimally\nsupplies lh units so as to maximise its utility:\nt\n(cid:16) (cid:17)δ\nUh = w lh − lh ; δ > 1\nt t t t\nwhere the first term captures the (indirect) utility derived from labour earnings while the\nsecond term captures the dis-utility of labour."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "The labor demand schedule for the aggregate economy is given by the following function:\n(cid:20) 1 (cid:21)1/α",
+            "options": [
+                "(A) L = K\nt t\nw\nt\n(cid:20)1−α(cid:21)1/α",
+                "(B) L = N K\nt t\nw\nt\n(cid:20)1−α(cid:21)1/α",
+                "(C) L = K\nt t\nw\nt",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "The aggregate labour supply schedule by the households is given by the following func-\ntion:\n (cid:20)w (cid:21)1/(δ−1)\nH t for w < w¯ ≡ (δ)1/(δ−1)",
+            "options": [
+                "(A) LS = δ t\nt\nH for w ≥ w¯\nt\n (cid:20)w (cid:21)1/(δ−1)\nH t for w < wˆ ≡ δ",
+                "(B) LS = δ t\nt\nH for w ≥ wˆ\nt\n(cid:20)Hw (cid:21)1/(δ−1)\n t for w < wˆ ≡ δ",
+                "(C) LS = δ t\nt\n1 for w ≥ wˆ\nt",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "The market clearing wage rate in the short run (period t) is given by:\n\n α(δ−1)\n\n\nK t (1\nH\n−α)1/α\n\nα+δ−1 for K\nt\n< H\nδ\n≡ K ˆ",
+            "options": [
+                "(A) w∗ =\nt  α\n\n\nK t (1\nH\n−α)1/α\n\nfor K\nt\n≥ K ˆ\n\n \n\nK t (1\nH\n−α)1/α \n\nα α ( + δ δ − − 1 1 ) for K\nt\n< H\n1−\nδ\nα\n!1/α ≡ K ¯",
+                "(B) w∗ =\nt  α\n\n\nK t (1\nH\n−α)1/α\n\nfor K\nt\n≥ K ¯\n\n \n\nK t (1−α)\nH\n1/α(δ)1/(δ−1) \n\nα α ( + δ δ − − 1 1 ) for K\nt\n< H\n1−\nδ\nα\n!1/α ≡ K ¯",
+                "(C) w∗ =\nt  α\n\n\nK t (1\nH\n−α)1/α\n\nfor K\nt\n≥ K ¯",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Equilibrium output in the short run (period t):\n!1/α\nδ ¯",
+            "options": [
+                "(A) is a strictly convex function of K for K < H ≡ K; and is a\nt t 1−α\n¯\nstrictly concave function of K for K ≥ K\nt t",
+                "(B) is a strictly concave function of K for all values of K\nt t",
+                "(C) is a strictly convex function of K for all values of K\nt t",
+                "(D) is a linear function of K for all values of K\nt t"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Over time the aggregate output in this economy\n¯",
+            "options": [
+                "(A) initiallyincreasesuntilK < K, andthenreachesaconstantvaluewithinfinite\nt\n¯\ntime when K ≥ K\nt\n¯",
+                "(B) initially decreases until K < K, and then reaches a constant value within\nt\n¯\nfinite time when K ≥ K\nt",
+                "(C) keep increasing at a decreasing rate and approaches a constant value only in\nthe very long run (when t → ∞)\n¯",
+                "(D) increases at a constant rate until K < K; increases at a decreasing rate when\nt\n¯\nK ≥ K and approaches a constant value only in the very long run (when\nt\nt → ∞)\nThe following information is the starting point for Q 36 - 40. Please read it carefully before\nyou proceed to answer.\nConsider an economy consisting of N identical firms producing a single final commodity\nto be used for consumption as well as investment purposes. Each firm is endowed with a\nCobb-Douglas production technology, such that\n(cid:16) (cid:17)α(cid:16) (cid:17)1−α\nYi = Ki Li ; 0 < α < 1\nt t t\nwhere Ki and Li denote the amounts of capital and labor employed by the i-th firm at time\nt t\nperiod t. The final commodity is the numeraire; wage rate for labour (w ) and the rental\nt\nrate for capital (r ) are measured in terms of the final commodity. The firms are perfectly\nt\ncompetitive and employ labor and capital so as to maximise their profits - taking the factor\nprices as given. The aggregate output produced is thus given by:\nN\nY =\nX(cid:16)\nKi\n(cid:17)α(cid:16)\nLi\n(cid:17)1−α\n= (K )α(L )1−α,\nt t t t t\ni=1\nwhere K = PN Ki and L = PN Li are the total capital and labor employed in the\nt i=1 t t i=1 t\naggregate economy in period t.\nLabor and Capital on the other hand are provided by the households. There are H identical\nhouseholds, each endowed with kh units of capital and 1 unit of labor at the beginning of\nt\nperiod t. Capital stock of the households gets augmented over time due to the savings and\ninvestment made by the households. In particular, each household saves and invests exactly\nhalf of its total income yh - (which includes its labour as well as capital income) in every\nt\ndkh 1\nperiod and consumes the rest, such that t = yh (There is no depreciation of capital).\ndt 2 t\nThe entire capital endowment at the beginning of every period is supplied inelastically to the\nmarket at the given rental rate (r ). Labor supply however is endogenous and responds to\nt\nthe market wage rate. Out of the total endowment of 1 unit of labour, a household optimally\nsupplies lh units so as to maximise its utility:\nt\n\nw lh −D (D > 0) for lh > 0\nUh = t t t\nt\n\n0 for lh = 0\nt\nFor the case lh > 0, the first term captures the (indirect) utility derived from labour earnings\nt\nwhiletheconstanttermD capturesthedis-utilityoflabour-whichisindependentofquantity\nof labour supplied."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "The new aggregate labour supply schedule by the households is given by the following\nfunction:\n D\n 0 for w < w ≡",
+            "options": [
+                "(A) LS = t H\nt\nH for w ≥ w\nt",
+                "(B) LS = H for all values of w\nt t\n\n 0 for w < w˜ ≡ D",
+                "(C) LS = t\nt H for w\nt\n≥ w˜",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "The new market clearing wage rate in the short run (period t) is given by:\n (cid:18) D (cid:19)1/α ˜\n D for K\nt\n< H\n1−α\n≡ K",
+            "options": [
+                "(A) w∗ =  α\nt \n\nK t (1\nH\n−α)1/α\n\nfor K\nt\n≥ K ˜",
+                "(B) w∗ = D for all values of K\nt t\n\n α(δ−1)\n\n\nK t (1\nH\n−α)1/α\n\nα+δ−1 for K\nt\n< H\nD\n≡ K ˆ",
+                "(C) w∗ =\nt  α\n\n\nK t (1\nH\n−α)1/α\n\nfor K\nt\n≥ K ˆ",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "An increase in the number of firms (N)\n˜",
+            "options": [
+                "(A) leaves the wage rate unchanged in the short run (until K < K) and increases\nt\nit thereafter\nˆ",
+                "(B) increasesthewagerateintheshortrun(untilK < K)andleavesitunchanged\nt\nthereafter",
+                "(C) leaves the wage rate unchanged irrespective of K\nt",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "The new equilibrium output in the short run (period t)\n(cid:18) D (cid:19)1/α ˜",
+            "options": [
+                "(A) is a linear function of K for K < H ≡ K, and is strictly concave\nt t 1−α\n˜\nfunction of K for K ≥ K\nt t",
+                "(B) is a strictly concave function of K for all values of K\nt t",
+                "(C) is a strictly convex function of K for all values of K\nt t",
+                "(D) is a linear function of K for all values of K\nt t"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Over time the aggregate output in this economy\n˜",
+            "options": [
+                "(A) initiallyincreasesuntilK < K, andthenreachesaconstantvaluewithinfinite\nt\n˜\ntime when K ≥ K\nt\n˜",
+                "(B) initially decreases until K < K, and then reaches a constant value within\nt\n˜\nfinite time when K ≥ K\nt\n˜",
+                "(C) increases at a constant rate until K < K; increases at a decreasing rate when\nt\n˜\nK ≥ K and approaches a constant value only in the very long run (when\nt\nt → ∞)",
+                "(D) None of the above\n√"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "lim nn =\nn→∞",
+            "options": [
+                "(A) 0",
+                "(B) 0.5",
+                "(C) 1",
+                "(D) 2\n(cid:18)1(cid:19)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "limx2cos =\nx→0 x",
+            "options": [
+                "(A) −1",
+                "(B) 0",
+                "(C) 1",
+                "(D) The limit does not exist"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Suppose A ,A ,... is a countably infinite family of subsets of a vector space. Suppose\n1 2\nall of these sets are linearly independent, and that A ⊆ A ⊆ ··· Then ∪∞ A is\n1 2 i=1 i",
+            "options": [
+                "(A) a linearly independent set of vectors",
+                "(B) a linearly dependent set of vectors",
+                "(C) linearly independent provided the vectors are orthogonal",
+                "(D) not necessarily either dependent or independent"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Ifuandv aredistinctvectorsandk andtaredistinctscalars, thenthevectorsu+k(u−v)\nand u+t(u−v)",
+            "options": [
+                "(A) are linearly independent",
+                "(B) may be identical",
+                "(C) are linearly dependent",
+                "(D) are distinct"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Let d((x ,x ),(y ,y )) = max{|x − y |,|x − y |} be the distance between two points\n1 2 1 2 1 1 2 2\n(x ,x ) and (y ,y ) on the plane. Then the locus of points at distance 1 from the origin\n1 2 1 2\nis",
+            "options": [
+                "(A) a square with side length = 1\n√",
+                "(B) a square with side length = 2",
+                "(C) a square with side length = 2",
+                "(D) a circle with radius = 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "The set of all pairs of positive integers a,b with a < b such that ab = ba",
+            "options": [
+                "(A) is an empty set",
+                "(B) consists of a single pair",
+                "(C) consists of multiple, but finite number of pairs",
+                "(D) is countably infinite"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Suppose c is a given positive real number. The equation lnx = cx2 must have a solution\nif",
+            "options": [
+                "(A) c < 1/(2e)",
+                "(B) c < 1/e",
+                "(C) c > 1/(2e)",
+                "(D) c > (1/e)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Sania’s boat is at point A on the sea. The closest point on land, point B, is 2 km away.\nPoint C on land is 6 km from point B, such that triangle (ABC) is right-angled at point\n¯",
+            "options": [
+                "(A) 21/ 4\n√",
+                "(B) 4/ 21\n√",
+                "(C) 4/ 12\n√",
+                "(D) 21/ 21"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Suppose A ,j = 1,2,... are non-empty sets of real numbers. Define the sets\nj\nC = ∩∞ ∪∞ A ,n = 1,2,...\nn k=n j=k j\nWhich of the choices below must then hold for a given n? (where the symbol ⊂ stands\nfor ‘strict subset’).",
+            "options": [
+                "(A) C ⊂ C\nn n+1",
+                "(B) C ⊂ C\nn+1 n",
+                "(C) C = C\nn n+1",
+                "(D) None of the above need hold"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Suppose x and y are given integers. Consider the following statements:",
+            "options": [
+                "(A) A is true and B is false",
+                "(B) B is true and A is false",
+                "(C) Both A and B are true",
+                "(D) Neither A nor B is true\nThe following information is the starting point for Q 51 - 52. Consider an exchange economy\nwith two goods. Suppose agent i and j have the same preferences. Moreover, suppose their\npreferences have the following property: if (a,b) and (c,d) are distinct bundles that are\nindifferent to each other, then the bundle ((a+c)/2,(b+d)/2) is strictly preferred to (a,b)\nand (c,d)."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "In a Pareto efficient allocation, i and j",
+            "options": [
+                "(A) will get the same bundle",
+                "(B) may get different bundles",
+                "(C) will get the same bundle, provided their endowments are identical",
+                "(D) will get the same bundle, provided their endowments are identical and the\npreferences are monotonically increasing"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "In a competitive equilibrium allocation, i and j",
+            "options": [
+                "(A) will get the same bundle",
+                "(B) may get different bundles",
+                "(C) will get the same bundle, if their endowments are identical",
+                "(D) will get the same bundle, only if their endowments are identical and the pref-\nerences are monotonically increasing\nThe following information is the starting point for Q 53 - 55. Two firms produce the same\ncommodity. Let x and x be the quantity choices of firms 1 and 2 respectively. The total\n1 2\nquantity is X = x +x . The inverse demand function is P = a−bX, where P is the market\n1 2\nprice, and a and b are the intercept and the slope parameters respectively. Firms 1 and 2\nhave constant average costs equal to c and c respectively. Suppose b > 0, 0 < c < c < a\n1 2 1 2\nand a+c > 2c .\n1 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "In a Cournot equilibrium,",
+            "options": [
+                "(A) firm 1 has the larger market share and the larger profit",
+                "(B) firm 2 has the larger market share and the larger profit",
+                "(C) firm 1 has the larger market share and the smaller profit",
+                "(D) firm 2 has the larger market share and the smaller profit"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "If a increases, then",
+            "options": [
+                "(A) the market share of firm 1 increases and price increases",
+                "(B) the market share of firm 1 decreases and price increases",
+                "(C) the market share of firm 1 increases and price decreases",
+                "(D) the market share of firm 1 decreases and price decreases"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "If b decreases, then",
+            "options": [
+                "(A) the price and market share of firm 1 increase",
+                "(B) the price and market share of firm 1 decrease",
+                "(C) the market shares are unchanged and price increases",
+                "(D) neither price, nor market shares, change"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Suppose that an economy has endowment of K units of capital and L units of labour.\nTwo final goods X and X can be produced by the following technologies,\n1 2\n√ √\nX = kl, X = l\n1 2\nwhere k is quantity of capital and l is quantity of labour. Find the production possibility\nfrontier.",
+            "options": [
+                "(A) X2 +KX2 = KL\n1 2",
+                "(B) X2 +X2 = KL\n1 2\n√ √",
+                "(C) X + KX = KL\n1 2",
+                "(D) X +X2 = KL\n1 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "A two-person two commodity economy has social endowment of x = 1 unit of food and\ny = 1 unit of wine. Agents preferences are increasing in own consumption but decreasing\nin wine consumption of the other person. Preferences of agents A and B are as follows,\nu (x ,y ,y ) = x [1+max(y −y ,0)], u (x ,y ,y ) = x [1+max(y −y ,0)],\nA A A B A A B B B B A B B A\nwhere A consumes x and y units of x and y respectively, similarly B’s consumption\nA A\nis x and y . Which of the following is a Pareto optimum allocation.\nB B",
+            "options": [
+                "(A) x = 1,x = 3,y = y = 1\nA 4 B 4 A B 2",
+                "(B) x = x = 1,y = 1,y = 3\nA B 2 A 4 B 4",
+                "(C) x = 1,x = 3,y = 1,y = 0\nA 4 B 4 A B",
+                "(D) x = 1,x = 3,y = 0,y = 1\nA 4 B 4 A B"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "A two-person two-goods pure exchange economy. The initial endowment vectors are\ne1 = (1,0) and e2 = (0,1). The two individuals have identical preferences represented\nby the utility functions:\n\n 1 when x+y < 1\nu1(x,y) = u2(x,y) =\nx+y, when x+y ≥ 1\nwhere x is the quantity of the first good and y is the quantity of the second good. For\nthis economy the set of Pareto optimum allocations",
+            "options": [
+                "(A) consists of the entire Edgeworth box",
+                "(B) is just the equal division of goods",
+                "(C) is a null set",
+                "(D) is {((0,0),(1,1)),((1,1),(0,0))}"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "A monopolist seller produces a good with constant marginal cost c ≥ 0. The monopolist\nsellstheentireoutputtoaconsumerwhoseutilityfromconsumingxunitsoftheproduct\n√\nis given by θ x−t, where t is the payment made by the consumer to the monopolist.\nSuppose, consumer’s outside option is 0, i.e., if she does not buy the good from the\nmonopolist, she gets 0 utility. Then, the monopolist’s profit is",
+            "options": [
+                "(A) θ/(4c)",
+                "(B) θ2/(4c)",
+                "(C) cθ2",
+                "(D) cθ/2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Consider an economy consisting of n ≥ 2 individuals with preference relations defined\nover the set of alternatives X. Let S = {a,b,c,d,e} and T = {a,b,c,d} be two subsets\nof X. Now consider the following statements:\n•",
+            "options": [
+                "(A) 1",
+                "(B) 2",
+                "(C) 3",
+                "(D) 4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

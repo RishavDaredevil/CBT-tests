@@ -1,0 +1,658 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2020,
+    "exam_title": "DSE 2020",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Consider independently and identically distributed random variables X ,...,X with\n1 n\nvalues in [0,2]. Each of these random variables is uniformly distributed on [0,2]. If\nY = max{X ,...,X }, then the mean of Y is\n1 n\n(cid:16) (cid:17)2",
+            "options": [
+                "(A) n\n(n+1)",
+                "(B) n\n2n+1",
+                "(C) 2n\nn+1",
+                "(D) n\nn+1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "A coin toss has possible outcomes H and T with probabilities 3 and 1 respectively. A\n4 4\ngambler observes a sequence of tosses of this coin until H occurs. Let the first H occur\non the nth toss. If n is odd, then the gambler’s prize is −(2n), and if n is even, then the\ngambler’s prize is 2n. What is the expected value of the gambler’s prize?",
+            "options": [
+                "(A) 1",
+                "(B) -1",
+                "(C) 3",
+                "(D) -3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Suppose two fair dice are tossed simultaneously. What is the probability that the total\nnumber of spots on the upper faces of the two dice is not divisible by 2, 3, or 5?",
+            "options": [
+                "(A) 1/3",
+                "(B) 2/9",
+                "(C) 4/9",
+                "(D) 7/16"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Astudentisansweringamultiple-choiceexamination. Supposeaquestionhasmpossible\nanswers. The student knows the correct answer with probability p. If the student knows\nthe correct answer, then she picks that answer; otherwise, she picks randomly from the\nchoices with probability 1/m each. Given that the student picked the correct answer,\nthe probability that she knew the correct answer is",
+            "options": [
+                "(A) mp\n1+(m−1)p",
+                "(B) mp\n1+(1−p)m",
+                "(C) 1−p\n1+(m−1)p",
+                "(D) 1−p\n1+(1−p)m"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Suppose Y is a random variable with uniform distribution on [0,2]. The value of the\ncumulative distribution function of the random variable X = eY at x ∈ [1,e2] is",
+            "options": [
+                "(A) log(x)\n2",
+                "(B) log(x)\n4",
+                "(C) log(x)",
+                "(D) log(x)−1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Consideraneconomywherethefinalcommodityisproducedbyasinglefirmusinglabour\nonly. The price-setting firm charges a 25% mark-up over its per unit nominal wage cost.\nThe workers demand a real wage rate W = (1−u), where u is the unemployment rate,\nP\nP is the price, and W is the nominal wage rate. The natural rate of unemployment in\nthis economy is",
+            "options": [
+                "(A) 20%",
+                "(B) 17%",
+                "(C) 13%",
+                "(D) 10%"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "The aggregate production function of an economy is Y = (K L )1. Capital grows\nt t t 2\n¯\naccording to K = (1 − δ)K + S , where S = sY ,L = L , s is the saving rate, δ\nt+1 t t t t t\n¯\nis the depreciation rate and L is the total population. Then, the steady-state level of\nconsumption per capita is",
+            "options": [
+                "(A) s\nδ",
+                "(B) s2\nδ2",
+                "(C) δ1\ns",
+                "(D) s(1−s)\nδ"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "ConsideraproductiontechnologyY = AL, whereY isoutput,Aisproductivity,andLis\nlabour input. A firm sets its price P at a constant mark-up µ over the effective wage cost\nper unit of production W. The expected real wage rate of workers is W = Aα(1−u)1−α,\nA Pe\nwhere 0 < α < 1 and Pe is the expected price. If the price expected by workers\nmatches the actual price level, then the effect of a rise in the level of productivity on\nunemployment is",
+            "options": [
+                "(A) Positive",
+                "(B) Negative",
+                "(C) Zero",
+                "(D) Ambiguous"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "A household has an endowment of 1 unit of time .The household maximises its utility\nu = ln(c) + bln(1 − l), where c denotes consumption and l ∈ [0,1] denotes time spent\nworking. It finances its consumption from labour income wl, where w is the market wage\nrate per unit of labour time. If the market wage rate goes up, then equilibrium labour\nsupply of the household",
+            "options": [
+                "(A) increases",
+                "(B) decreases",
+                "(C) remains constant",
+                "(D) changes in ambiguous manner"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "ConsidertheIS-LMmodelwithagivenpricelevelP. Investmentisadecreasingfunction\nof the interest rate and savings is an increasing function of aggregate income. The\ndemand for real money balances M is an increasing function of aggregate income and a\nP\ndecreasing function of the interest rate. The monetary authority chooses nominal money\nsupply M to ensure that the resulting money market equilibrium keeps the interest rate\nfixed at some target level. In this setup, an increase in the target interest rate leads to",
+            "options": [
+                "(A) a rise in equilibrium output",
+                "(B) a fall in equilibrium output",
+                "(C) no effect on equilibrium output",
+                "(D) an ambiguous effect on equilibrium output"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider the Solow growth model with a given savings ratio, a constant population\ngrowth rate, zero rate of capital depreciation, and no technical progress. Let k∗ be the\nsteady state capital labour ratio in this economy. Suppose the economy is yet to reach\nthe steady state and has capital labour ratio k at time t and capital labour ratio k\n1 1 2\nat time t such that t < t and k < k < k∗ . Let the associated growth rates of per\n2 1 2 1 2\ncapita income at time t and t be g and g respectively. Then, by the properties of the\n1 2 1 2\nSolow model,",
+            "options": [
+                "(A) g < g\n1 2",
+                "(B) g > g\n1 2",
+                "(C) g = g\n1 2",
+                "(D) the relationship between g and g is ambiguous\n1 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "A consumer lives for periods 1 and 2. Given consumptions c and c in these periods,\n1 2\nher utility is U = ln(c ) + (1 + ρ)−1ln(c ). She earns incomes w and w in the two\n1 2 1 2\nperiods and her lifetime budget constraint is c +(1+r)−1c = w +(1+r)−1w , where\n1 2 1 2\nr is the interest rate on savings. If r > ρ, then",
+            "options": [
+                "(A) c > c\n1 2",
+                "(B) c < c\n1 2",
+                "(C) c = c\n1 2",
+                "(D) the relationship between c and c is ambiguous\n1 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "A consumer lives for periods 1 and 2. Her lifetime utility function is U(c ,c ) =\ncγ\n1\n+cγ\n2\n1 2 γ\nwhere0 < γ < 1andc isconsumptioninperiodi. Theelasticityofsubstitutionbetween\ni\nconsumption in period 1 and consumption in period 2 is",
+            "options": [
+                "(A) 1+γ",
+                "(B) 1−γ",
+                "(C) 1\n1+γ",
+                "(D) 1\n1−γ"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A and B play a best-of-seven table-tennis match, i.e., the first to win four games will\nwin the match. The two players are equally likely to win any of the games in the match.\nThe probability that the match will end in 6 games is",
+            "options": [
+                "(A) less than the probability that it will end in 7 games",
+                "(B) equal to the probability that it will end in 7 games",
+                "(C) greater than the probability that it will end in 7 games",
+                "(D) None of these"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Let X and Y be jointly normally distributed, i.e. (X,Y) ∼ N(µ ,µ ,σ2 ,σ2,ρ), If\nX Y X Y\nσ2 = σ2 and 0 < ρ < 1, then\nX Y",
+            "options": [
+                "(A) the OLS regression of Y on X will yield a slope that is less than unity, and\nthat of X on Y will yield a slope greater than unity",
+                "(B) the OLS regression of Y on X will yield a slope that is less than unity, and\nthat of X on Y will yield a slope less than unity",
+                "(C) the OLS regression of Y on X will yield a slope that is greater than unity, and\nthat of X on Y will yield a slope less than unity",
+                "(D) it is not possible to draw conclusions from given information"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Let ¬ denote the negation of a statement. Consider a set X and a binary relation (cid:31)\non X. Relation (cid:31) is said to be irreflexive if ¬(x (cid:31) x) for every x ∈ X. Relation (cid:31)\nis said to be transitive if, for all x,y,z ∈ X, x (cid:31) y and y (cid:31) z implies x (cid:31) z. If (cid:31)\nis asymmetric (i.e.,for all x,y ∈ X, x (cid:31) y implies ¬(y (cid:31) x)) and negatively transitive\n(i.e.,for all x,y,z ∈ X, x (cid:31) y implies x (cid:31) z,or z (cid:31) y, or both), then (cid:31) is",
+            "options": [
+                "(A) irreflexive, but not transitive",
+                "(B) transitive, but not irreflexive",
+                "(C) irreflexive and transitive",
+                "(D) neither transitive nor irreflexive"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let ¬ denote the negation of a statement. Consider a set X and a binary relation (cid:31) on\nX. For all x,y ∈ X, we say x (cid:23) y if and only if ¬(y (cid:31) x). Relation (cid:23) is said to be total\nif , for all x,y ∈ X, ¬(x (cid:23) y) implies y (cid:23) x. If (cid:31) is asymmetric (i.e.,for all x,y ∈ X,\nx (cid:31) y implies ¬(y (cid:31) x)) and negatively transitive (i.e.,for all x,y,z ∈ X, x (cid:31) y implies\nx (cid:31) z,or z (cid:31) y, or both), then (cid:23) is",
+            "options": [
+                "(A) is not total",
+                "(B) is total",
+                "(C) may not be total",
+                "(D) is not total over a nonempty subset of X"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Let ¬ denote the negation of a statement. Consider a set X and a binary relation (cid:31)\non X. For all x,y ∈ X, we say x (cid:23) y if and only if ¬(y (cid:31) x). Relation (cid:23) is said to be\ntransitiveif,forallx,y,z ∈ X, x (cid:23) y andy (cid:23) z impliesx (cid:23) z. If(cid:31)isasymmetric(i.e.,for\nall x,y ∈ X, x (cid:31) y implies ¬(y (cid:31) x)) and negatively transitive(i.e.,for all x,y,z ∈ X,\nx (cid:31) y implies x (cid:31) z,or z (cid:31) y, or both), then (cid:23) is",
+            "options": [
+                "(A) is not transitive over a nonempty subset of X",
+                "(B) is not transitive",
+                "(C) may not be transitive",
+                "(D) is transitive"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let ¬ denote the negation of a statement. Consider a set X and a binary relation (cid:31) on\nX. For all x,y ∈ X, we say x ∼ y if and only if ¬(x (cid:31) y) and ¬(y (cid:31) x). Relation ∼\nis said to be transitive if , for all x,y,z ∈ X, x ∼ y and y ∼ z implies x ∼ z. If (cid:31) is\nasymmetric(i.e.,forallx,y ∈ X,x (cid:31) y implies¬(y (cid:31) x))andnegativelytransitive(i.e.,for\nall x,y,z ∈ X, x (cid:31) y implies x (cid:31) z,or z (cid:31) y, or both), then ∼ is",
+            "options": [
+                "(A) is transitive",
+                "(B) is not transitive",
+                "(C) may not be transitive",
+                "(D) is not transitive over a nonempty subset of X"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Let ¬ denote the negation of a statement. Consider a set X and a binary relation (cid:31) on\nX. For all x,y ∈ X, we say x ∼ y if and only if ¬(x (cid:31) y) and ¬(y (cid:31) x). Relation ∼ is\nsaid to be symmetric if , for all x,y ∈ X ,x ∼ y implies y ∼ x. If (cid:31) is asymmetric (i.e.,for\nall x,y ∈ X, x (cid:31) y implies ¬(y (cid:31) x)) and negatively transitive (i.e.,for all x,y,z ∈ X,\nx (cid:31) y implies x (cid:31) z,or z (cid:31) y, or both), then ∼ is",
+            "options": [
+                "(A) is symmetric",
+                "(B) is not symmetric",
+                "(C) may not be symmetric",
+                "(D) is not symmetric over a nonempty subset of X"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider the following game for players 1 and 2. Player 1 moves first and chooses L or\nR. If she chooses L, then the game ends and the payoffs are (1,0), where the first entry\nis 1’s payoff and the second entry is 2’s payoff. If she chooses R, then 2 chooses U or D.\nIf she chooses U, then the game ends and the payoffs are (0,2). If she chooses D, then\n1 chooses L or R. If she chooses L, then the game ends and the payoffs are (4,0). If she\nchooses R, then the game ends and the payoffs are (3,3). This game has",
+            "options": [
+                "(A) one Nash equilibrium in pure strategies",
+                "(B) two Nash equilibrium in pure strategies",
+                "(C) three Nash equilibrium in pure strategies",
+                "(D) no Nash equilibrium in pure strategies"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Consider the following game for players 1 and 2. Player 1 moves first and chooses L or\nR. If she chooses L, then the game ends and the payoffs are (1,0), where the first entry\nis 1’s payoff and the second entry is 2’s payoff. If she chooses R, then 2 chooses U or D.\nIf she chooses U, then the game ends and the payoffs are (0,2). If she chooses D, then\n1 chooses L or R. If she chooses L, then the game ends and the payoffs are (4,0). If she\nchooses R, then the game ends and the payoffs are (3,3). This game has",
+            "options": [
+                "(A) one subgame perfect Nash equilibrium",
+                "(B) two subgame perfect Nash equilibrium",
+                "(C) three subgame perfect Nash equilibrium",
+                "(D) no subgame perfect Nash equilibrium"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "In a non-cooperative game, if a profile of strategies",
+            "options": [
+                "(A) is a Nash equilibrium, then it is an equilibrium in dominant strategies",
+                "(B) is a Nash equilibrium, then it is a subgame perfect equilibrium",
+                "(C) is a Nash equilibrium, then it is a sequential equilibrium",
+                "(D) is an equilibrium in dominant strategies, then it is a Nash equilibrium"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "If player 1 is the row player and player 2 is the column player in games\nL R L M R\n! !\nU a,b c,d U a,b α,β c,d\nG= G’=\nD e,f g,h D e,f γ,δ g,h\nthen",
+            "options": [
+                "(A) 2s payoff in a Nash equilibrium of G0 cannot be less than 2s payoff in a Nash\nequilibrium of G",
+                "(B) 2s payoff in a Nash equilibrium of G cannot be less than 2s payoff in a Nash\nequilibrium of G0",
+                "(C) 2s payoff in a Nash equilibrium of G must be equal to 2s payoff in a Nash\nequilibrium of G",
+                "(D) 2s payoff in a Nash equilibrium of G may be higher than 2s payoff in a Nash\nequilibrium of G0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider an exchange economy with agents 1 and 2 and goods x and y. Agent 1 lexico-\ngraphically prefers x to y, i.e., between two non-identical bundles of x and y, she strictly\nprefersthebundlewithmoreofx, butifthebundleshavethesameamountofx, thenshe\nstrictly prefers the bundle with more of y. Agent 2’s utility function is u (x,y) = x+y\n2\nAgent 1’s endowment is (ω1,ω1) = (0,10) and Agent 2’s endowment is (ω2,ω2) = (10,0)\nx y x y\nThe set of competitive equilibrium price ratios px for this economy is\npy",
+            "options": [
+                "(A) {1}",
+                "(B) [0,1]",
+                "(C) (0,1]",
+                "(D) φ"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Consider an exchange economy with agents 1 and 2 and goods x and y. Agent 1 lexico-\ngraphically prefers y to x, i.e., between two non-identical bundles of x and y, she strictly\nprefers the bundle with more of y, but if the bundles have the same amount of y, then she\nstrictly prefers the bundle with more of x. Agent 2’s utility function is u (x,y) = x+y\n2\nAgent 1’s endowment is (ω1,ω1) = (0,10) and Agent 2’s endowment is (ω2,ω2) = (10,0)\nx y x y\nThe set of competitive equilibrium price ratios px for this economy is\npy",
+            "options": [
+                "(A) {1}",
+                "(B) [0,1]",
+                "(C) (0,1]",
+                "(D) φ"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Consider an exchange economy with goods x and y, and agents 1 and 2, whose endow-\nments are (ω1,ω1) = (0,9) and (ω2,ω2) = (10,0) respectively. The utility functions of 1\nx y x y\nand 2 are u (x,y) = min{x,y} and u (x,y) = min{x,y} respectively. The competitive\n1 2\nequilibrium price ratio px for this economy is\npy",
+            "options": [
+                "(A) 9\n10",
+                "(B) 10\n9",
+                "(C) 1",
+                "(D) 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Consider an exchange economy with goods x and y, and agents 1 and 2, whose endow-\nments are (ω1,ω1) = (0,9) and (ω2,ω2) = (10,0) respectively. The utility functions of 1\nx y x y\nand 2 are u (x,y) = min{x,y} and u (x,y) = min{x,y} respectively. The competitive\n1 2\nequilibrium allocations are",
+            "options": [
+                "(A) 1 gets (10−x,9−y) and 2 gets (x,y) where x ∈ [9,10] and y = 9",
+                "(B) 1 gets (x,y) and 2 gets (10−x,9−y) where x ∈ [9,10] and y = 9",
+                "(C) 1 gets (x,y) and 2 gets (9−x,10−y) where x ∈ [8,9] and y = 10",
+                "(D) 1 gets (x,y) and 2 gets (9−x,10−y) where x = 9 and y ∈ [9,10]"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider an exchange economy with goods x and y, and agents 1 and 2, whose endow-\nments are (ω1,ω1) = (0,9) and (ω2,ω2) = (10,0) respectively. The utility functions of\nx y x y\n1 and 2 are u (x,y) = min{x,y} and u (x,y) = min{x,y} respectively. The allocation\n1 2\nthat gives (10,9) to 1 and (0,0) to 2 is",
+            "options": [
+                "(A) Pareto efficient but not a competitive equilibrium allocation",
+                "(B) neither Pareto efficient nor a competitive equilibrium allocation",
+                "(C) a competitive equilibrium allocation that is Pareto efficient",
+                "(D) a competitive equilibrium allocation that is not Pareto efficient"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Given a non-empty set C ⊂ Rn, for every p ∈ Rn, let c(p) ∈ C be such that p·c(p) ≤ p·c\n+\nfor every c ∈",
+            "options": [
+                "(A) linear",
+                "(B) convex",
+                "(C) concave",
+                "(D) quasi-convex"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Given a non-empty set C ⊂ Rn, for every p ∈ Rn, let c(p) ∈ C be such that p·c(p) ≤ p·c\n+\nfor every c ∈",
+            "options": [
+                "(A) homogeneous of degree 0",
+                "(B) homogeneous of degree 1",
+                "(C) homogeneous of degree ∞",
+                "(D) non-homogeneous"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Suppose u : R → R is strictly increasing and has the supremum (i.e., least upper\n+\nbound) α ∈ R. Then the function x → u(x) is\nα−u(x)",
+            "options": [
+                "(A) not well defined for some x ∈ R",
+                "(B) bounded above",
+                "(C) unbounded above",
+                "(D) not strictly increasing"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "The interval [0,∞) can be expressed as",
+            "options": [
+                "(A) ∩∞ (a ,∞) where each a is a rational number\nn=1 n n",
+                "(B) ∪∞ (a ,b ] where a and b is a real number\nn=1 n n n n",
+                "(C) ∩∞ [a ,b ] where each a and b is an irrational number\nn=1 n n n n",
+                "(D) All of these"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "If f : R2 → R is given by\n( xy , for xy 6= 0 )\nf(x,y) = x2+y2\n0, for xy = 0\nthen",
+            "options": [
+                "(A) f is differentiable at (0,0) and both partial derivatives at (0,0) are 0",
+                "(B) f is non-differentiable at (0,0) and both partial derivatives at (0,0) are 0",
+                "(C) f is differentiable at (0,0) and neither partial derivatives at (0,0) is 0",
+                "(D) f is non-differentiable at (0,0) and neither partial derivatives at (0,0) exist"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Suppose is f a twice-differentiable function that solves the differential equation D2f −\nDf − f − 1 = 0 over R and satisfies the condition f(0) = 0 = f(k) for some k > 0 .\nThen,",
+            "options": [
+                "(A) f has positive and negative values over (0,k)",
+                "(B) f has only positive values over (0,k)",
+                "(C) f has only negative values over (0,k)",
+                "(D) f = −1 on (0,k)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Let B be the collection of sets E ⊂ R satisfying: for every x ∈ E, there exist real\nnumbers a and b such that a < b and x ∈ (a,b) ⊂ E. Let C be the collection of sets\nE ⊂ R satisfying: for every x ∈ E, there exist rational numbers a and b such that a < b\nand x ∈ (a,b) ⊂ E, then",
+            "options": [
+                "(A) B ⊂ C and B 6= C",
+                "(B) C ⊂ B and B 6= C",
+                "(C) B = C",
+                "(D) Neither B ⊂ C nor C ⊂ B"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "The set {(x,y) ∈ R2|x > 0 and y ≤ ln(x)−ex} is",
+            "options": [
+                "(A) a linear subspace of R2",
+                "(B) convex",
+                "(C) non-convex",
+                "(D) convex polytope"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Suppose the distance between x,y ∈ R is |x−y| and f : R → R is a continuous function.\nIf E is an open subset of R, then {x ∈ R : f(x) ∈ E} is",
+            "options": [
+                "(A) an open subset of R",
+                "(B) a closed subset of R",
+                "(C) neither an open nor a closed subset of R",
+                "(D) an open and closed subset of R"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Which of the following two numbers is larger for k 6= 0: ekπ or πke",
+            "options": [
+                "(A) ekπ",
+                "(B) πke",
+                "(C) They are equal",
+                "(D) It depends on the value of k\n(cid:16) (cid:17)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Consider the matrix A = cosθ −sinθ where θ ∈ (0,2π) . The inner product of vectors\nsinθ cosθ\nv = (v ,v ) and w = (w ,w ) in R2 is defined by < v,w >= v w + v w . So, for the\n1 2 1 2 1 1 2 2\nvectors v and w in R2",
+            "options": [
+                "(A) < Av,Aw >=< v,w >",
+                "(B) < Av,Aw >>< v,w >",
+                "(C) < Av,Aw ><< v,w >",
+                "(D) The comparison of < Av,Aw > and < v,w > depends on θ"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Let bxc be the greatest integer that is less than or equal to x ∈ R. The function\nf : R → R, defined by f(x) = x−bxc for x ∈ R is",
+            "options": [
+                "(A) left-discontinuous at an integer",
+                "(B) right-discontinuous at an integer",
+                "(C) left discontinuous and right-discontinuous at an integer",
+                "(D) discontinuous everywhere"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Let dxe be the smallest integer that is greater than or equal to x ∈ R. The function\nf : R → R, defined by f(x) = dxe−x for x ∈ R is",
+            "options": [
+                "(A) left-discontinuous at an integer",
+                "(B) right-discontinuous at an integer",
+                "(C) left discontinuous and right-discontinuous at an integer",
+                "(D) discontinuous everywhere"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Let bxc be the greatest integer that is less than or equal to x ∈ R. Let dxe be the\nsmallest integer that is greater than or equal to x ∈ R. The function f : R → R, defined\nby f(x) = dxe−bxc for x ∈ R is",
+            "options": [
+                "(A) left-discontinuous at an integer",
+                "(B) right-discontinuous at an integer",
+                "(C) left discontinuous and right-discontinuous at an integer",
+                "(D) discontinuous everywhere"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "If A = {(x,y) ∈ R2 : x ≥ 0,y ≥ 0,xy ≥ 1}, B = {(x,y) ∈ R2 : x ≤ 0,y ≥ 0,xy ≤ −1}\nand C = {a+b : a ∈ A,b ∈ B} Then,",
+            "options": [
+                "(A) {(x,y) ∈ R2 : x = 0,y ≥ 0} ⊂ C",
+                "(B) {(x,y) ∈ R2 : x = 0,y > 0} ⊂ C",
+                "(C) {(x,y) ∈ R2 : x ≥ 0,y = 0} ⊂ C",
+                "(D) {(x,y) ∈ R2 : x > 0,y = 0} ⊂ C"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Consider a 4×4 -matrix",
+            "options": [
+                "(A) detA = detB",
+                "(B) detA 6= detB",
+                "(C) detB ≤ 0",
+                "(D) detB > 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "The maximum value of f(x,y) = xy subject to |x| ≥ |y| and |x|+|y| ≤ 1 is",
+            "options": [
+                "(A) 1\n4",
+                "(B) 1\n2",
+                "(C) 4",
+                "(D) 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Consider a decreasing differentiable function g : R → R and an increasing continuous\n+ +\nfunction f : R → R . If F : R → R satisfies F(x) = Rg(x)f(t)dt for every x ∈ R ,\n+ + + + 0 +\nthen F is",
+            "options": [
+                "(A) increasing over [0,a] and decreasing over [a,∞) for some a > 0",
+                "(B) decreasing over [0,a] and increasing over [a,∞) for some a > 0",
+                "(C) Increasing",
+                "(D) Decreasing"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "If f : R → R and g : R → R are defined by\n( 0, if x is rational )\nf(x) =\nx, if x is irrational\nand\n( 0, if x is irrational )\ng(x) =\nx, if x is rational\nThen, h : R → R, defined by h(x) = f(x)−g(x) is",
+            "options": [
+                "(A) injective but not surjective",
+                "(B) surjective but not injective",
+                "(C) neither injective nor surjective",
+                "(D) bijective"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Given nonempty subsets of R2, say Y ,...,Y , let Y∗ = {Pn y |y ∈ Y ,...,y ∈ Y }.\n1 n i=1 i 1 1 n n\nFix p ∈ R2. For a nonempty set X ⊂ R2, let v(p,X) = sup{p · x|x ∈ X}. Suppose\nthere exists y∗ ∈ Y∗ such that py˙∗ = v(p,Y∗) and for every i ∈ {1,2,...,n}, there exists\ny ∈ Y such that py = v(p,Y ). Then,\ni i i i",
+            "options": [
+                "(A) v(p,Y∗) < Pn v(p,Y ) or v(p,Y∗) > Pn v(p,Y )\ni=1 i i=1 i",
+                "(B) v(p,Y∗) = Pn v(p,Y )\ni=1 i",
+                "(C) v(p,Y∗) < Pn v(p,Y )\ni=1 i",
+                "(D) v(p,Y∗) > Pn v(p,Y )\ni=1 i\n1 0 0 0 \n2 2 0 0\n "
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "If A =   and AT is trannspose of A , then det(ATA) is\n3 2 −2 0 \n \n4 3 2 −1",
+            "options": [
+                "(A) 16",
+                "(B) -16",
+                "(C) 4",
+                "(D) -4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

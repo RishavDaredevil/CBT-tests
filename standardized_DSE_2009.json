@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2009,
+    "exam_title": "DSE 2009",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "There are 4 married couples in a club. A 3-member committee must be formed among\nthem, such that no married couple is part of the committee. The number of ways in\nwhich this committee can be formed is",
+            "options": [
+                "(A) 16",
+                "(B) 44",
+                "(C) 32",
+                "(D) 56"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "For any sets E & F, E − F = {x ∈ E|x ∈/ F}, ∪ and ∩ refer to the Union and\nintersections of the sets. Consider the following statements for the sets A,B and C\ni. A−(B ∪C) = (A−B)∪(A−C)\nii. A−(B ∪C) = (A−B)∩(A−C)\niii. A−(B ∪C) = (A−B)∩C",
+            "options": [
+                "(A) i. is true",
+                "(B) ii. is true",
+                "(C) iii. is true",
+                "(D) none of them is necessarily true\nZ ∞"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "e−x2/2dx is approximately\n1.96",
+            "options": [
+                "(A) 0.025\n√",
+                "(B) 2π\n√",
+                "(C) 0.025/ π\n√",
+                "(D) 0.025 2π"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Consider maximising f(x,y) = x2−y2 subject to the constraint x+y = 1, where x and\ny are real numbers. This problem has",
+            "options": [
+                "(A) no solution",
+                "(B) a unique solution",
+                "(C) 2 solutions",
+                "(D) an infinity of solutions"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Suppose P(x) and Q(x) are real polynomials of degree m and k respectively, where\nboth m and k are less than or equal to the positive integer n. Suppose the equation\nP(x) = Q(x) has at least (n+1) distinct solutions. Which of the following choices best\ndescribes what this situation implies?",
+            "options": [
+                "(A) m = k = n",
+                "(B) m = k < n",
+                "(C) P(x) and Q(x) are identical",
+                "(D) P(x) and Q(x) are linear"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "There are three alternative definitions of a consistent estimator\nI. An estimator is consistent if its probability limit equals its true parameter value as\nsample size approaches infinity.\nII. An estimator is consistent if its mean squared error goes to zero as sample size\napproaches infinity.\nIII. An estimator is consistent if it is unbiased, and its variance goes to zero as sample\nsize approaches infinity.",
+            "options": [
+                "(A) Only I is correct",
+                "(B) Only II is correct",
+                "(C) Only III is correct",
+                "(D) All three are correct"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Given the data PXY = 350, PX = 50, PY = 60, N = 10, V(X) = 4, V(Y) = 9,\nwhere V(.) refers to the population variance. The correlation coefficient between X and\nY, regression (slope) coefficient of Y on X, and the regression (slope) coefficient of X\non Y are, respectively:",
+            "options": [
+                "(A) 35/36,35/16,35/81",
+                "(B) 5/6,5/4,5/9",
+                "(C) 5/6,35/16,35/81\nq",
+                "(D) 35/36,35/16,35/81"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "In a surprise check in a local bus, 20 passengers were caught without tickets. The sum\nof squares and the population standard deviation of the amount in their pockets were\nRs. 2000 and Rs. 6, respectively. If the total fine equals the total amount discovered on\nthem, and a uniform fine is imposed, then the fine imposed on an individual is:",
+            "options": [
+                "(A) Rs. 8",
+                "(B) Rs. 6",
+                "(C) Rs. 10",
+                "(D) Rs. 12"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "In a linear regression of Y on X, changing the units of measurement of the Y variable\nwill affect all of the following except:",
+            "options": [
+                "(A) the estimated intercept parameter",
+                "(B) the estimated slope parameter",
+                "(C) the Total Sum of Squares for the regression",
+                "(D) R squared for the regression"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "A fair dice has numbers 1, 2, 3, 4, 5 and 6 on its side. It is tossed once. I win Rs. 1 if\nan odd number shows up; otherwise I lose Rs. 1. Let X be the number that shows up\nand Y the money I win. [Note: Y < 0 if I lose money.]\nWhich of the following is incorrect?",
+            "options": [
+                "(A) Prob (X > Y) = 1",
+                "(B) Prob (X = 3|Y = 1) = 3",
+                "(C) E(Y) = 0",
+                "(D) Prob (Y = 1|X = 5) = 1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Your budget is such that if you spend your entire income on two goods, x and y, you\ncan afford either 4 units of x and 6 units of y or 12 units of x and 2 units of y. If you\nspent all your income on x, how many units of x could you buy?",
+            "options": [
+                "(A) 7",
+                "(B) 16",
+                "(C) 15",
+                "(D) 18"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The demand function for lemonade is Q = 100 − p, and the supply function is Q =\nd s\n10+2p, where p is the price in rupees. The government levies a sales tax on lemonade\nafter which the volume of sales drops to 60. then the per unit tax on lemonade is",
+            "options": [
+                "(A) Rs. 20",
+                "(B) Rs. 15",
+                "(C) Rs. 10",
+                "(D) Rs. 5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "There are only two price taking firms in a market. Their cost functions are C = x2 and\n1 1\nC = 2x2, where x is the output of the ith firm. Market supply is sum of the two firms\n2 2 i\noutput. Then the market supply function is\n3p",
+            "options": [
+                "(A) x =\n4\n4p",
+                "(B) x =\n3\np",
+                "(C) x =\n2",
+                "(D) x = 2p"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A monopoly faces the demand curve P = 8−Q. The monopoly has a constant unit cost\nequal to 5 for Q ≤ 2 and a constant unit cost equal to 3 for Q > 2. Its profit maximising\noutput equals:",
+            "options": [
+                "(A) 3/2",
+                "(B) 2",
+                "(C) 5/2",
+                "(D) Both 3/2 and 5/2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "A firm has the production function y = min{L+2K,2L+K}, where y is quantity of\noutput, and L & K are the quantities of labour and capital inputs respectively. If the\ninput price of L is Rupee 1 and the input price of K is Rupees 2, then to produce y = 12\ncosts the firm at least",
+            "options": [
+                "(A) 10 Rupees",
+                "(B) 12 Rupees",
+                "(C) 14 Rupees",
+                "(D) 16 Rupees"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "The opportunity cost of holding money (that yields zero nominal return) vis-a`-vis some\ninterest bearing bond is:",
+            "options": [
+                "(A) the real interest rate",
+                "(B) the nominal interest rate",
+                "(C) the real interest rate when measured in real terms and the nominal interest\nrate when measured in nominal terms",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "In the IS-LM framework, an increase in the expected rate of inflation results in",
+            "options": [
+                "(A) an increase in the equilibrium value of income and an increase in the equilib-\nrium value of real interest rate",
+                "(B) a decrease in the equilibrium value of income and a decrease in the equilibrium\nvalue of real interest rate",
+                "(C) an increases in the equilibrium value of income and a decrease in the equilib-\nrium value of real interest rate",
+                "(D) adecreaseintheequilibriumvalueofincomeandanincreaseintheequilibrium\nvalue of real interest rate"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "When the nominal wage rate is rigid, the aggregate supply schedule (in the output-price\nspace) is:",
+            "options": [
+                "(A) horizontal",
+                "(B) vertical",
+                "(C) downward sloping",
+                "(D) upward sloping"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "In IS-LM framework with an external sector i.e., the IS equation now includes a net\nexport term, an appreciation of the (real) exchange rate",
+            "options": [
+                "(A) would necessarily result in a decrease in the equilibrium value of income",
+                "(B) would result in a decrease in the equilibrium value of income only if the LM\ncurve is vertical",
+                "(C) would result in a decrease in the equilibrium value of income only if the\nMarshall-Lerner condition is satisfied",
+                "(D) would result in a decrease in the equilibrium value of income only if the gov-\nernment maintains a balanced budget"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "According to the Baumol-Tobin Model, if income rises by ten percent, the transactions\ndemand for money should rise by",
+            "options": [
+                "(A) Five percent",
+                "(B) Ten Percent",
+                "(C) Between five and ten percent",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider the following statements:\n(i) 544 > 453 (ii) 2100 +3100 < 4100",
+            "options": [
+                "(A) Both (i) and (ii) are false.",
+                "(B) (i) is true, (ii) is false.",
+                "(C) Both (i) and (ii) are true.",
+                "(D) (i) is false, (ii) is true."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The WOW Language has only 2 letters in its alphabet, O and W; the language obeys\nthe following rules: (i) deleting successive letters WO from any word which has more\nthan 2 letters, gives another word with the same meaning. (ii) inserting OW or WWOO\nin any place in a word yields another word with the same meaning. O, OWOOW, WOO\nand OWW are 4 words in this language. Which of the following statements is FALSE?",
+            "options": [
+                "(A) the words WOO and OWW necessarily have the same meaning.",
+                "(B) WOO and OWW may not have same meaning.",
+                "(C) O and OWOOW must have the same meaning.",
+                "(D) (b) and (c) are true."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider the system of equations in the unknowns x and y:\nax+y = a2\nx+ay = 1\nSets of all values of a for which this system has (i) no solution, (ii) multiple solutions,\nand (iii) a unique solution are respectively",
+            "options": [
+                "(A) (i) a < 1 (ii) a > 1 (iii) a = 1",
+                "(B) (i) a = −1 (ii) a = 1 (iii) a > 1",
+                "(C) (i) a = −1 (ii) a = 1 (iii) all other values of a",
+                "(D) (i) a = −1 (ii) a = 1 (iii) −1 < a < +1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider the system of equations:\nx−y +z = 1\n3x+z = 3\n5x−2y +3z = 5\nThis system has",
+            "options": [
+                "(A) the unique solution (x,y,z) = (1,0,0)\n(cid:26) z 2z (cid:27)",
+                "(B) the solution set (1− , ,z)| z ∈ R\n3 3\n(cid:26) z 2z (cid:27)",
+                "(C) the solution set (1− , ,z)| z ≥ R\n3 3",
+                "(D) multiple solutions, but not described by (b) or (c).\n\nx2sin(1/x), x 6= 0"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider the function f(x) =\n 0, x = 0\nThen the following is true about the derivative of f:",
+            "options": [
+                "(A) f0(0) = −1 and f0(x) is continuous at x = 0",
+                "(B) f0(0) = −1 and f0(x) is discontinuous at x = 0",
+                "(C) f0(0) = 0 and f0(x) is discontinuous at x = 0",
+                "(D) f0(x) is not defined at x = 0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "For all set S, let S2 denote the cartesian product S ×S. A binary relation\nR on S is a subset of S2.\nR is transitive if (x,y) ∈ R and (y,z) ∈ R implies (x,z) ∈ R.\nR is negatively transitive if (x,y) ∈/ R and (y,z) ∈/ R implies (x,z) ∈/ R.\nInverse of R is defined as follows, R−1 = {(y,x) | (x,y) ∈ R}\nConsider the following statements:\nStatement A: R can not be transitive and negatively transitive at the same time.\nStatement B: If R is transitive then R−1 must be transitive.\nStatement C: If R is transitive then R−1 must be negatively transitive.\nHow many of the above statements are true?",
+            "options": [
+                "(A) None",
+                "(B) One",
+                "(C) Two",
+                "(D) Three"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "A function f(x ,x ,T) = (y ,y ) is defined as follows, where x ,x and T are non\n1 2 1 2 1 2\nnegative real numbers and x +x ≥ T.\n1 2\ny = min(α,x ), y = min(α,x ) such that y +y = T. Find f(5,2,6).\n1 1 2 2 1 2",
+            "options": [
+                "(A) (3,3)",
+                "(B) (5,1)",
+                "(C) (0,6)",
+                "(D) (4,2)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "A function f is defined as follows. Here a,b and c are constants.\n( x2 if x ≤ c\nf(x) =\nax+b if x > c\nFind values of a and b such that f0(c) exists.",
+            "options": [
+                "(A) a = 2cb = −c2",
+                "(B) a = cb = −2c2\n3 1",
+                "(C) a = ,b = −\n2c c",
+                "(D) a = 1b = lnc"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "f(c) = max (x+2y). Find f0(c).\n2x+y=c,x≥0,y≥0",
+            "options": [
+                "(A) c",
+                "(B) 0",
+                "(C) 2",
+                "(D) c/2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "There are 3 persons, A, B and",
+            "options": [
+                "(A) These statements are insufficient to determine who is a Liar.",
+                "(B) A is a normal person, B is a Truth-teller, C is a Liar.",
+                "(C) Who is normal, or Liar or Truth-teller cannot be ascertained from the state-\nments.",
+                "(D) A is a Liar, B is a normal person, C is a Truth-teller."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "The nine digits 1,2,...,9 are arranged in random order to form a nine digit number,\nwhich uses each digit exactly once. Find the probability that 1, 2 and 3 appear as\nneighbours in the increasing order.",
+            "options": [
+                "(A) 1/12",
+                "(B) 1/72",
+                "(C) 1/84",
+                "(D) (2/3)9"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "In a survey of 102 Timarpur residents in 2009, the average income was found to be Rs.\n4635 per month. Previous studies show the population variance of income in this locality\nto be Rs. 12342 per month. It is asserted that the average monthly income is Rs. 4650\nin this locality. Which conclusion below can be asserted from this information?",
+            "options": [
+                "(A) The assertion is rejected at the 10% level.",
+                "(B) The assertion is rejected at the 5% level.",
+                "(C) The assertion is not rejected at the 10% level.",
+                "(D) None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Let X denote the absolute value of the difference between the numbers obtained when\ntwo dice are tossed. The expectation of X is:\n32",
+            "options": [
+                "(A) 1\n36\n33",
+                "(B) 1\n36\n17",
+                "(C) 1\n18\n16",
+                "(D) 1\n18"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Let Y denote the number of heads obtained when 3 coins are tossed. The variance of\nY2 is:",
+            "options": [
+                "(A) 9.5",
+                "(B) 8.5",
+                "(C) 6.5",
+                "(D) 7.5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "A company has 100 employees, 40 men and 60 women. There are 6 male executives.\nHow many female executives should there be for gender and rank to be independent?",
+            "options": [
+                "(A) 9",
+                "(B) 6",
+                "(C) 10",
+                "(D) 8"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Consider two events A and B with Pr(A) = 0.4 and Pr(B) = 0.7. The maximum and\nminimum values of Pr(A∩B) respectively are:",
+            "options": [
+                "(A) (0.4; 0.1)",
+                "(B) (0.7; 0.4)",
+                "(C) (0.7; 0.1)",
+                "(D) (0.4; 0)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Jai and Vijay are taking a exam in statistics. The exam has only three grades A, B and",
+            "options": [
+                "(A) 0.1",
+                "(B) 0.6",
+                "(C) 0.8",
+                "(D) Insufficient data to answer the question"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "You’ve been told that a family has two children and one of these is a daughter . What\nis the probability that the other child is also a daughter?",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/3",
+                "(C) 1/4",
+                "(D) 3/4\nQuestions 39 and 40. Suppose least squares is used to fit a line relating y and x, namely\ny = β +β x +ε . Assume that in our data not all the x’s are identical, so that at least\ni 1 2 i i\nsome of the x’s are different from their sample mean x . Now consider the following possible\nassumptions about our data.\n(1) E(ε ) = 0\ni\n(2) Cov(x ,ε ) = 0\ni i\n(3) Homoskedasticity: Var(ε ) = σ2, a constant\ni\n(4) No autocorrelation: Cov(ε ,ε ) = 0 for i 6= j\ni j\nIndicate the one best answer to each question below."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "When are the least-squares estimators unbiased?",
+            "options": [
+                "(A) Only if our data satisfy assumptions (1) and (2).",
+                "(B) Only if our data satisfy assumptions (1), (2), (3), and (4).",
+                "(C) Only if our data satisfy assumptions (1), (2), and (3).",
+                "(D) Only if our data satisfy (1), (2), and (4)."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "When are the least-squares estimators “best” (lowest variance) of any unbiased estima-\ntors",
+            "options": [
+                "(A) Only if our data satisfy assumptions (1) and (2).",
+                "(B) Only if our data satisfy assumptions (1), (2), (3), and (4).",
+                "(C) Only if our data satisfy assumptions (1), (2), and (4).",
+                "(D) Cannot be determined, without additional assumptions."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "A consumer spends an income of Rs. 100 on two goods, dosas and pizzas. Let x denote\nthe number of dosas and y the number of pizzas consumed (fractions allowed). The\nconsumer?s utility function is U = ex2+y2. If the price of a dosa is Rs. 5, and the price\nof a pizza is Rs. 10, then the number of pizzas this consumer will buy is",
+            "options": [
+                "(A) 0",
+                "(B) 10",
+                "(C) 5",
+                "(D) 8"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Romeo and Juliet have 96 chocolates to divide between them. Romeo has the utility\nfunction U = R8J4 and Juliet has the utility function U = R4J8 where R is Romeo’s\nchocolate consumption and J is Juliet’s chocolate consumption. Which of the following\nis true",
+            "options": [
+                "(A) Romeo would want to give Juliet some chocolates if he had more than 62.",
+                "(B) Juliet would want to give Romeo some chocolates if she had more than 60.",
+                "(C) Romeo and Juliet would never disagree about how to divide the chocolates.",
+                "(D) Juliet would want to give Romeo some chocolates if she had more than 64\nchocolates."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "A consumer spends an income of Rs. 100 on only two goods, A and",
+            "options": [
+                "(A) I only",
+                "(B) I and II",
+                "(C) I and III",
+                "(D) I, II and III\nQuestions 44 and 45. ‘Suraksha’ is the sole producer andsupplier of security systems in India\nand the sole employer of locksmiths in the labour market. The demand for security systems\nis D(p) = 100 − p, where p is the price. The production of security systems only requires\nlocksmiths and the production function is given by f(L) = 4L, where L is the number of\n(cid:20) w (cid:21)\nlocksmiths employed. The supply curve for locksmiths is given by L(w) = max 0, −20 ,\n2\nwhere w is the wage rate."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "How many locksmiths will ‘Suraksha’ employ?",
+            "options": [
+                "(A) 5",
+                "(B) 10",
+                "(C) 15",
+                "(D) 20"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "If the government sets the minimum wage is 70 , how many locksmiths will Suraksha\nemploy?",
+            "options": [
+                "(A) 5",
+                "(B) 10",
+                "(C) 15",
+                "(D) 20\nQuestions 46 and 47. Suppose that a typical graduate student at the Delhi School of\nEconomics lives in a two good world, books (x) and movies (y), with utility function\nu(x,y) = x1/5y4/5 . Prices of books and movies are 50 and 10 respectively. Suppose the\nUniversity is considering the following schemes. Scheme 1: 750 is paid as fellowship and\nadditional 250 as book grant. Naturally, book grant can only be spent on books. Scheme\n2: 1000 as scholarship and gets one movie free on each book they purchase. Believing that\nbooks and movies are perfectly divisible, compute the optimal consumption bundle under\neach scheme."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Optimal consumption bundle under scheme 1 is",
+            "options": [
+                "(A) (4 books, 80 movies)",
+                "(B) (5 books, 75 movies)",
+                "(C) (6.5 books, 57.5 movies)",
+                "(D) (10 books, 50 movies)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Optimal consumption bundle under scheme 2 is",
+            "options": [
+                "(A) (4 books, 80 movies)",
+                "(B) (4 books, 84 movies)",
+                "(C) (5 books, 75 movies)",
+                "(D) (5 books, 80 movies)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Let X stand for the consumption set and let R, I, P respectively stand for the weak\npreference relation, indifference relation and strict preference relation of a consumer.\nThe weak preference relation R is said to satisfy Quasitransitivity if and only if for all\nx, y, z belonging to X, xPy and yPz → xPz. Which of the following preference relations\nover X = {x,y,z} satisfy Quasitransitivity?",
+            "options": [
+                "(A) xPy& yPz&zPx",
+                "(B) xPy&yPz&zIx",
+                "(C) xPy&yIz&zIx",
+                "(D) yPx&yIz&xPz"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Consider an exchange economy with two consumers (A & B) and two goods (x & y).\nAssume that total amount of x available is 4 and total amount of y available is 2 which is\nto be optimally distributed between A &",
+            "options": [
+                "(A) the entire boundary of the edgeworth box",
+                "(B) allocations satisfying (x = 0,0 ≤ y ≤ 2) and (0 ≤ x ≤ 4,y = 0)\nA A B B",
+                "(C) allocations satisfying (0 ≤ x ≤ 4,y = 0) and (x = 0,0 ≤ y ≤ 2)\nA A B B",
+                "(D) all points inside the edgeworth box."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Consider the exchange economy in the above question. Suppose A is endowed with 3\nunits of good 1 and 1 unit of good 2, and B is endowed with 1 unit of each good. A com-\npetitive equilibrium is described by the following prices (of goods X and Y respectively)\nand allocation of goods.",
+            "options": [
+                "(A) Prices = (1,2) and (x ,y ) = (2.5,2) , (x ,y ) = (1.5,0)\nA A B B",
+                "(B) Prices = (2,1) and (x ,y ) = (2.5,1.5) , (x ,y ) = (1.5,0.5)\nA A B B",
+                "(C) Prices = (1,1) and (x ,y ) = (2,2) , (x ,y ) = (2,0)\nA A B B",
+                "(D) None of the four option is correct\nQuestions 51 to 54. The following set of questions use a common set of information given\nbelow. Read the information carefully and then answer the questions sequentially. Consider\nan economy which is described by the following two relationship between aggregate income\n(Y), aggregate price level (P), domestic interest rate (r), and the real exchange rate (e): (i)\nGoods market equilibrium condition: Y = C(Y)+I(r)+G+NX(Y,e) (ii) Money market\nM\nequilibrium condition: = L(Y,r) where\nP\nC = C +σ(Y −T) ;0 < σ < 1\nT = τY ;0 < τ < 1\nG = G\nI = I −δr ;δ > 0\nNX = X −µY −γe ;0 < µ < 1 ;γ > 0\nL(Y,r) = L+αY −βr ;α,β > 0\nr = r\nM = M\nP = P\nSuppose now you draw the IS and the LM relationship in the (Y,e) plane with Y in the\nhorizontal axis and e in the vertical axis."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "In this case",
+            "options": [
+                "(A) the IS curve is upward sloping and the LM curve is downward sloping",
+                "(B) the IS curve is downward sloping and the LM curve is vertical",
+                "(C) the IS curve is vertical and the LM curve is upward sloping",
+                "(D) the IS curve is downward sloping and the LM curve is upward sloping"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "An increase in r shifts",
+            "options": [
+                "(A) the IS curve to the left and the LM curve to the right",
+                "(B) the IS curve to the right and the LM curve to the left",
+                "(C) both the IS and the LM curves to the left",
+                "(D) both the IS and the LM curves to the right"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "An increase in P results in",
+            "options": [
+                "(A) an increase in the equilibrium value of Y and a decrease in the equilibrium\nvalue of e",
+                "(B) a decrease in the equilibrium value of Y and an increase in the equilibrium\nvalue of e",
+                "(C) a decrease in the equilibrium value of Y and a decrease in the equilibrium\nvalue of e",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "If the government arbitrarily fixes the real exchange rate at some e",
+            "options": [
+                "(A) the two markets can be simultaneously in equilibrium only under special para-\nmetric restrictions",
+                "(B) thetwomarketscanbesimultaneouslyinequilibriumifthegovernmentfollows\nan accommodating interest rate policy",
+                "(C) thetwomarketscanbesimultaneouslyinequilibriumifthegovernmentfollows\nan accommodating money supply rule",
+                "(D) all of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "A fall in the interest rate",
+            "options": [
+                "(A) will reduce savings unambiguously",
+                "(B) will have an ambiguous effect on savings because of an ambiguous substitution\neffect",
+                "(C) will reduce savings unambiguously only for a borrower",
+                "(D) will reduce savings unambiguously only for a lender"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Anincreaseintherateofdepreciation,accordingtotheneoclassicaltheoryofinvestment,\nwill",
+            "options": [
+                "(A) lower investment by raising the user cost of capital",
+                "(B) raise investment by lowering the user cost",
+                "(C) raise investment because now more capital is depreciating",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "An increase in the saving rate in the Solow model",
+            "options": [
+                "(A) increases the growth rate of the economy permanently",
+                "(B) increases the growth rate of the economy in the transition to the steady state\nbut not in the steady state",
+                "(C) reduces the growth rate because aggregate demand falls",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "The “golden rule of accumulation” is the",
+            "options": [
+                "(A) savings ratio that generates the highest growth rate of the economy",
+                "(B) the savings ratio that generates the highest capital-labour ratio",
+                "(C) the savings ratio where consumption (per capita) is maximized both in the\ntransition to the steady state and in the steady state",
+                "(D) the savings ratio where consumption (per capita) is maximized in the steady\nstate"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "At the “golden rule of accumulation”",
+            "options": [
+                "(A) all wages invested , all profits consumed",
+                "(B) all wages as well as profits invested",
+                "(C) all wages consumed, all profits invested",
+                "(D) all wages as well as profits consumed"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Consider the following three definitions for a country’s current account surplus. Which\nof them is correct?\n(i) equal to its trade balance plus net income from abroad\n(ii) equal to its trade balance plus foreign direct investment\n(iii) equal to the change in its claims against the rest of the world",
+            "options": [
+                "(A) (i) and (ii)",
+                "(B) (ii)and (iii)",
+                "(C) (i) and (iii)",
+                "(D) None"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

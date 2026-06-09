@@ -1,0 +1,528 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2016,
+    "exam_title": "DSE 2016",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "If the following equation is estimated using OLS, and a 95% confidence interval for β\n1\nis constructed, then which of the following is true?\nY = α+β X +β X +e\n1 1 2 2",
+            "options": [
+                "(A) The OLS estimate of β lies in the given interval with 95% probability\n1",
+                "(B) The true value of β lies in the given interval with 95% probability\n1",
+                "(C) In repeated sampling 95% of the times the confidence interval will contain the\ntrue value of β\n1",
+                "(D) Both (B) and (C)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "What term would best describe the shape of the given boxplot?\n1.4\n1.2\n1\n0.8\n0.6\n0 0.5 1 1.5 2 2.5 3",
+            "options": [
+                "(A) Right-skewed",
+                "(B) Left-skewed",
+                "(C) Uniform",
+                "(D) Normal"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "The vitamin content of a particular brand of vitamin supplement pills is normally dis-\ntributed with mean 490 mg and standard deviation 12 mg. What is the probability\n(approximately) that a randomly selected pill contains at least 500 mg of Vitamin C?",
+            "options": [
+                "(A) 0.8",
+                "(B) 0.2",
+                "(C) 0.025",
+                "(D) 0.55"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A sample of 100 cows is drawn to estimate the mean weight of a large herd of cattle. If\nthe standard deviation of the sample is 100 kg, what is the approximate maximum error\nin a 95% confidence interval estimate?",
+            "options": [
+                "(A) 10",
+                "(B) 20",
+                "(C) 30",
+                "(D) 40"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "RecentstudiessuggestthatthemigrationtoIndiancitiesfromruralregions(MIG)canbe\nexplained be Quality of life(QL), state income as a ratio of Aggregate Indian income(Y)\nand the ratio of state employment to overall employment in India(E). Using data for the\n29 Indian states, the following model is estimated:\nˆ\nMIG = −4.2+ 1.2QL−(0.6)Y − 0.8 E\n(0.9) (0.8) 0.05 (0.02)\nThe figures in the parentheses are standard errors. The t-statistic for the null hypothesis\nthat the quality of life(QL) index does not impact migration is",
+            "options": [
+                "(A) 0.8",
+                "(B) 0.9",
+                "(C) 1.5",
+                "(D) Insufficient information to calculate"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Consider the following estimated regression relating expenditures on Food(Y ) to Income\ni\n(X )\ni\nˆ\nY = 145+0.3X −0.1(X −X∗)D\ni i i i i\nwhere i denotes the individual; X∗ = 500, this threshold distinguishes low-income from\ni\nhigh-income individuals, and D takes value 1 if X ≥ X∗ and 0 otherwise. All the\ni i\nestimated coefficients are significant at 5% level. Which of the following statements is\nfalse?",
+            "options": [
+                "(A) The marginal propensity to consume for people with low income is 0.3, and\nis lower for those with higher incomes; this makes sense as it is in accordance\nwith Engel’s Law",
+                "(B) Thisisadifferentialslope, commoninterceptdummyvariableformulationwith\nan additional restriction that leads to kinked Engel curve",
+                "(C) This is a standard differential slope common-intercept dummy variable formu-\nlation",
+                "(D) Using this formulation yields predicted expenditure on food for people at in-\ncome level 490 that is not very different from those people at income level 510\n(estimate lie within 5 percent of each other)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "The parameters of the following multiple regression model has been estimated using\nOLS. Y = β +β X +β X +(cid:15) Denote the estimated residuals from this regression as\n1 2 2 3 3\ne. Which of the following statements is false?",
+            "options": [
+                "(A) The R-squared from the regression of e on a constant, X and X is zero\n2 3\nˆ",
+                "(B) The R-squared from the regression of Y on a constant and Y is the same as in\nˆ\nthe original regression (Y stands for estimated value of Y )\nˆ",
+                "(C) The slope coefficient from the regression of Y on a constant and Y is 1 and\nthe intercept is 0",
+                "(D) The R-squared from the regression of Y on a constant and e is same as in the\noriginal regression"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "In the multiple regression model with 4 explanatory variables, with standard assump-\ntions, estimated using ordinary least squares, all the coefficients turn out to be insignifi-\ncantalthoughtheoverallR-squaredishighandassociatedF-statisticissignificant. Also,\npair-wise correlations amongst the four explanatory variables are all low, and range be-\ntween 0.1 and 0.2, but are not statistically different from 0. Which of the following\nstatements is false?",
+            "options": [
+                "(A) Even though the pair-wise correlations between the explanatory variables are\nlow, since they are (individually) statistically different from zero, OLS coeffi-\ncients are likely biased",
+                "(B) This is likely a case of multicollinearity even though the pairwise correlations\nare low",
+                "(C) If the analyst is only interested in making forecasts then the insignificance\nof coefficients is per se not a problem since the F-statistic is significant and\nR-squared is high",
+                "(D) Dropping a variable may improve significance of remaining coefficients but\nthey may be biased"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Instead of estimating a true cost function, which is described as a quadratic, where\ncosts are regressed on an intercept, output and a quadratic term in output, a researcher\nestimates a linear function by regressing costs on an intercept and output. The estimates\nfrom linear cost function are likely to",
+            "options": [
+                "(A) have autocorrelated residuals",
+                "(B) be a biased estimate of marginal cost, even though there is no exact linear\nrelationship between the linear and quadratic terms in output",
+                "(C) both (A) and (B)",
+                "(D) neither (A) nor (B)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Using data on class size (CS) and average test percentage(TP) from 101 classes, the\nˆ\nfollowing OLS regression is estimated: TP = 96.4 − 1.12CS R-squared is 0.1 and\nSER(Standard error of regression) is 5. What is the sample variance of test percentages\nacross the 101 classes?",
+            "options": [
+                "(A) 27.5",
+                "(B) 22.5",
+                "(C) 5.0",
+                "(D) 2.5"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "In the OLS regression Y = β + β X + u , suppose the coefficient of determination\ni 1 2 i i\nis estimated to be 0.6. We now transform the variables such that Y∗ = 0.5Y and\ni\nX∗ = 0.75X and re-run the regression. The coefficient of determination is now:\ni i",
+            "options": [
+                "(A) 0.6",
+                "(B) 0.4",
+                "(C) 0.9",
+                "(D) 0.3"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The OLS regression of infant birth weight(BWT) on the mother’s age(AGE) and years\nˆ\nof mother’s education(EDU) is: BWT = 2600+2.3AGE+26EDU Where the standard\n(97) (3.5) 8\nerrors are reported below the estimated coefficients. Sample size is 1000 and R-squared\nsi 0.015. Sample information is provided in the table below:\nBWT AGE EDU\nMean 3000 25 10\nStandard deviation 500 5 2\nA one standard deviation change in AGE is associated with an x standard deviation\nchange in birth weight, where x is",
+            "options": [
+                "(A) 0.046",
+                "(B) 0.007",
+                "(C) 0.023",
+                "(D) 0.035"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "If f : R → R is a continuous function (R is the set of real numbers) and E is an open\nsubset of R, then the set {x ∈ R|f(x) ∈ E} is necessarily",
+            "options": [
+                "(A) open",
+                "(B) closed",
+                "(C) neither open, nor closed",
+                "(D) open and closed"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "If X is a n×n non singular matrix, such that XXT = XTX (XT denotes the transpose\nof X). Let Y = X−1XT where X−1 denotes the inverse of X. Then YYT is equal to",
+            "options": [
+                "(A) I +Y (I is the identity matrix)",
+                "(B) I",
+                "(C) Y−1",
+                "(D) YT"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Supposethatg(x)isatwicedifferentialfunctionandg(1) = 1;g(2) = 4;g(3) = 9. Which\nof the following is necessarily true? First and second derivatives of g are represented as\ng0 and g00 respectively",
+            "options": [
+                "(A) g00(x) = 3 for some x ∈ [1,2]",
+                "(B) g00(x) = 5 for some x ∈ [2,3]",
+                "(C) g00(x) = 2 for some x ∈ [1,3]",
+                "(D) g00(x) = 2 for some x ∈ [1.5,2.5]"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider f : R → R defined by f(x) = P11 |x−a | for all x ∈ R, where a < ...,a .\ni=1 i 1 11\nThis function has a minimum when x equals :",
+            "options": [
+                "(A) a\n2",
+                "(B) a\n6",
+                "(C) a\n7",
+                "(D) a\n11"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Consider the set {x,y ∈ R ×R|y ≤ ln(x)−ex}. This set is\n+",
+            "options": [
+                "(A) a linear subspace of R2",
+                "(B) Convex",
+                "(C) convex and linear subspace of R2",
+                "(D) neither convex nor linear subspace of R2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "A school with n students has m clubs to which they can belong, and students are allowed\nto be members of multiple clubs. It is known that (I) Each club has an odd number of\nmembers (II) Every pair of clubs has an even number of common members (including\n0) Then it must be that:",
+            "options": [
+                "(A) m ≥ n",
+                "(B) m ≤ n",
+                "(C) m and n can each be larger than the other, but m 6= n",
+                "(D) m = n"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let n > 1, and let S be the set of all n×n matrices whose entries are all chosen from\nthe set 0,1. Then the sum of the determinants of all these matrices",
+            "options": [
+                "(A) is equal to 0",
+                "(B) is positive but less than nn\n2",
+                "(C) can be positive or negative, but is bounded by nn",
+                "(D) is either -1 or 1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "g : R → [0,1] is a non-decreasing and right continuous step function such that g(x) = 0\nfor all x ≤ 0 and g(x) = 1 for all x ≥ 1. Let us define g−1 as follows, g−1(y) = inf{x ≥\n0|g(x) ≥ y}. Which of the following is true about g−1:",
+            "options": [
+                "(A) is a continuous function",
+                "(B) is right-continuous but not left continuous",
+                "(C) is left-continuous but not right continuous",
+                "(D) neither left-continuous nor right-continuous\nThe next two questions pertain to the following: Consider an exchange economy with two\nagents, 1 and 2, and two goods, X and Y. There are 6 units of X and 4 units of Y available.\nAgent 1 has the utility function u = min{x ,y } and agent 2 has the utility function\n1 1 1\nu = x +y .\n2 2 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Which of the following allocations is not Pareto efficient?",
+            "options": [
+                "(A) (2,0),(4,4)",
+                "(B) (4,4),(2,0)",
+                "(C) (2,2),(4,2)",
+                "(D) (0,0),(6,4)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The set of equilibrium prices for this exchange economy is given by?",
+            "options": [
+                "(A) {p > 0,p > 0, px ≤ 1}\nx y py",
+                "(B) {p > 0,p > 0, px = 1}\nx y py",
+                "(C) {p > 0,p > 0, px ≥ 1}\nx y py",
+                "(D) Insufficient information to conclude"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "The market for widgets has a demand function Q = 100−10p, where Q is the quantity\ndemanded and P is the price in rupees. There are 10 price taking firms in the market,\neach having a cost function c(q) = q2 , where q is the firm’s own output. There is no\n2\nnew entry. Suppose the government imposes an excise tax of Rs. 2 per unit of widgets,\nto be paid by sellers, the equilibrium market price is",
+            "options": [
+                "(A) 7",
+                "(B) 6",
+                "(C) 5",
+                "(D) 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "A consumer has utility function u(x ,x ) = min{3x +x ,x +2x }. Prices of the two\n1 2 1 2 1 2\ngoods are p and p respectively. The consumer will buy positive quantities of both the\n1 2\ngoods if and only if the price ratio p1 is\np2",
+            "options": [
+                "(A) greater than 3",
+                "(B) between 1/2 and 3",
+                "(C) between 2 and 3",
+                "(D) less than"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Utility function of a consumer over three goods X,Y,Z is U = y·min{x,z}. Prices of all\nthe three goods are the same in the market. Three discount deals are available, which\nare as follows: Deal I: Get a unit of Z free with a unit of X Deal II: Get a unit of Z free\nwith a unit of Y Deal III: Get 1 unit of X and 1 unit of Z free with a unit of Y Which\n2 2\nof the deals should the consumer choose?",
+            "options": [
+                "(A) Deal I",
+                "(B) Deal II",
+                "(C) Deal III",
+                "(D) All the deals are equally good"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Two widget producers, A and B, operate in perfectly competitive input and output\nmarkets. Firm A uses capital (k) and labour (l) to produce widget; its production\nfunction is f (k ,l ) = (k l )1 . Firm B uses only labour; its production function is\n√ 1 1 1 1 1 3\nf (l ) = l2 . Efficiency of input allocation can be improved by:\n2 2 1+k1",
+            "options": [
+                "(A) imposing a tax on capital use",
+                "(B) merging firms A and B",
+                "(C) providing a subsidy on labour use to firm A",
+                "(D) all of the above\nThe next two questions pertain to the following: A student has the opportunity to take a\ntest at most thrice. The student knows that each time she takes the test, her score is an\nindependent random draw from the uniform distribution [0,100]. Each time the student\ntakes the test and learns her score, she can either stop and accept it as her official score, or\nshe can discard the result and retake the test. However, after the third attempt, the student\nhas no more opportunities to retake the test. In that case,her score on the last(i.e., third)\ntry will be her official score. The student’s objective is to maximize her expected official\nscore"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "If the student follows an optimal plan, her final expected score before taking any of the\ntests is approximately:",
+            "options": [
+                "(A) 30",
+                "(B) 50",
+                "(C) 70",
+                "(D) 90"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Now consider the case when the university allows the student to take the final test only\nwhen her score is below 40 in the second test. The student retains the choice to stop or\nretake after the first attempt. The student will decide to be retested after the first test\nif and only if her score is less than:",
+            "options": [
+                "(A) 37.5",
+                "(B) 50",
+                "(C) 62",
+                "(D) 67.5\nThe next two questions pertain to the following: Consider a homogeneous goods market\nwith two firms. Let x and x be the quantity choices of Firms 1 and 2 respectively. The\n1 2\ntotal quantity is X = x +x . The inverse demand function is P = a−bX, where P is the\n1 2\nmarket price and A and B are the intercept and slope parameters respectively. Both firms\nhave the same marginal costs denoted by c. Suppose b > 0, and 0 < 3c < a."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Suppose firm 1 has an objective of maximizing revenue and firm 2 has an objective of\nmaximizing profit. Both firms choose quantities simultaneously. Then:",
+            "options": [
+                "(A) Firm 1 has larger market share and larger profits",
+                "(B) Firm 2 has smaller market share but larger profits",
+                "(C) Firm 1 has smaller market share but larger profits",
+                "(D) Firm 2 has larger market share and larger profits"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose both firms become revenue maximizers. Then:",
+            "options": [
+                "(A) Both will produce more than Cournot output",
+                "(B) Both will produce less than Cournot output",
+                "(C) Both will produce the perfectly competitive output",
+                "(D) Both will produce more than the perfectly competitive output.\nThe next two questions pertain to the following: Four cities A,B,C,D are located as vertices\nof a square ABCD, and are connected by roads that form the four sides of the square. Mr.\nRand Walker travels thus: if he is at city i (i ∈ {A,B,C,D}) in period t, then he randomly,\nwith probability 1 each, moves to one of the two vertices/cities that are adjacent to i in\n2\nperiod t+1."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "If Mr. Walker is at city A at time t = 0 then the respective probabilities with which he\nis at cities A,B,C,D in period t = 10 are:",
+            "options": [
+                "(A) 1/4,1/4,1/4,1/4",
+                "(B) 0,1/2,0,1/2",
+                "(C) 1/2,0,0,1/2",
+                "(D) 1/2,0,1/2,0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "If Mr. Walker is at city A at time t = 0, then what is the probability that he never visits\ncity A again till(including) period t = 10?",
+            "options": [
+                "(A) (1/2)5",
+                "(B) (1/2)10",
+                "(C) (3/4)5",
+                "(D) (3/4)10"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Consider a railway signalling system: a signal is received by the station A from the\ntraffic control office and then transmit it to station",
+            "options": [
+                "(A) 22/23",
+                "(B) 11/20",
+                "(C) 20/23",
+                "(D) 9/20"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Suppose X has a normal distribution with mean 0 and variance σ2 . Let Y be an\nindependent random variable taking values −1 and 1 with equal probability. Define\nZ = XY + X. Which of the following is true?\nY",
+            "options": [
+                "(A) Var(Z) > σ2",
+                "(B) Var(Z) < σ2",
+                "(C) Var(Z) = σ2",
+                "(D) Var(Z) can be greater than or smaller than σ2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "According to Ricardian equivalence proposition, a reduction in the current (lump sum)\ntaxation of household income",
+            "options": [
+                "(A) would reduce current consumption, but leave future consumption unaffected",
+                "(B) would reduce future consumption, but leave current consumption unaffected",
+                "(C) would reduce both current and future consumption",
+                "(D) would leave both current and future consumption unaffected"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Tobin’s q theory suggests that firms will find it profitable to invest when the value of\nTobin’s q is:",
+            "options": [
+                "(A) greater than zero",
+                "(B) less than zero",
+                "(C) greater than unity",
+                "(D) less than unity\nThe next 4 questions pertain to the following: Consider an agrarian economy with two\nsingle membered households. The households are engaged in own cultivation using their\nfamily land, labour and capital. Each household is endowed with 1 acre of land and 1 unit\nof labour. However the two households differ in terms of their initial capital endowment\n(KR and KP), where R denotes the relatively richer household and P denotes the relatively\n0 0\npoorer household. Assume 2 < KR < 4 and 0 < KP < 1. The household have access to\n0 0\ntwo technologies which are specified by the following production functions: Technology A:\nY = (N L )1(K )2 Technology B: Y = (N L )1(K )1 where N represents land(in acres),\nt t t 2 t t t t 2 t 2 t\nL represents labour, and K represents capital respectively. The households choose the\nt t\ntechnology which gives them higher output (given their land, labour and capital stock) in\nany period t. In every period they consume half of their total income and save the rest,\nwhich adds to the next period’s capital stock. Land and labour stock remain constant over\ntime. Existing capital stock depreciates fully upon production."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Given their initial factor endowments, the technology choices of the rich and the poor\nhouseholds respectively are:",
+            "options": [
+                "(A) A,B",
+                "(B) B,A",
+                "(C) A,A",
+                "(D) B,B\n¯"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "In the short run, the average capital stock in the economy (K) evolves according to the\nfollowing dynamic path",
+            "options": [
+                "(A) dK¯ = 1 h (KR)1 +(KP)2 −2(KR +KP) i\ndt 4 t 2 t t t",
+                "(B) dK¯ = 1 h (KR)2 +(KP)2 −2(KR +KP) i\ndt 4 t t t t",
+                "(C) dK¯ = 1 h (KR)1 +(KP)1 −2(KR +KP) i\ndt 4 t 2 t 2 t t",
+                "(D) dK¯ = 1 h (KR)2 +(KP)1 −2(KR +KP) i\ndt 4 t t 2 t t"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "In the long run:",
+            "options": [
+                "(A) income of both households grow perpetually",
+                "(B) income of household R grows perpetually but that of household P approaches\na constant",
+                "(C) income of household P grows perpetually but that of household R approaches\na constant",
+                "(D) income of household R grows perpetually but that of household P falls per-\npetually"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "If, at the end of the initial time period, the households were given a choice to spend\ntheir savings in buying more land instead of investing in capital stock",
+            "options": [
+                "(A) both households would have bought more land",
+                "(B) both households would have still invested in capital",
+                "(C) Household R would have still invested in capital but household P would have\nbought more land",
+                "(D) Household P would have still invested in capital but household R would have\nbought more land"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

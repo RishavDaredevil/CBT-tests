@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2012,
+    "exam_title": "DSE 2012",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A rural landowner can deposit his savings in a commercial bank and receive an annual\ninterest rate of 8%. Alternatively he can lend to villagers who need credit. If all loans\nare of the same size and only sixty per cent of them are repaid, the interest rate that\nwould make his earnings the same as from depositing his savings in a bank is",
+            "options": [
+                "(A) 8%",
+                "(B) 48%",
+                "(C) 80%",
+                "(D) 120%"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider a two-person two-good exchange economy, where agents are denoted by A,B\nand goods are denoted by X,Y . A Pareto optimal allocation of this economy may not\nremain Pareto optimal if",
+            "options": [
+                "(A) Everythingelseremainingthesame,AgentAtransfersapartofherendowment\nto Agent B",
+                "(B) Everything else remaining the same, Agent A gets additional endowment",
+                "(C) Everythingelseremainingthesame,AgentA’sutilityfunctionismonotonically\ntransformed",
+                "(D) All of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Given the same production function and market demand, a monopolist earns at least as\nmuch profit as a competitive firm in the short run, because",
+            "options": [
+                "(A) Monopolist is free to charge the competitive market price",
+                "(B) Short run profit of a competitive firm is zero",
+                "(C) Marginal cost of a monopolist is smaller than that of a competitive firm",
+                "(D) Average cost of a monopolist is smaller than that of a competitive firm"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Mr. B thinks cheese is addictive - the more you eat, the more you want. Suppose x\ndenotes the quantity of cheese. Mr. B’s utility function can be represented by",
+            "options": [
+                "(A) u(x,y) = x2 +y",
+                "(B) u(x,y) = lnx+lny",
+                "(C) u(x,y) = x+y",
+                "(D) u(x,y) = min{x,y}"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Sania and Saina are bargaining over how to split 10 Rupees. Both claimants simul-\ntaneously name shares they would like to have, s and s , where 0 ≤ s ,s ≤ 10. If\n1 2 1 2\ns +s ≤ 10 then the claimants receive the shares they named; otherwise both receive\n1 2\nzero. Find all pure strategy Nash Equilibria of this game",
+            "options": [
+                "(A) s = 5,s = 5\n1 2",
+                "(B) {(s ,s )|s +s = 10}\n1 2 1 2",
+                "(C) {(s ,s )|s +s ≤ 10}\n1 2 1 2",
+                "(D) There is no pure strategy Nash equilibrium"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "“Developing new antibiotics is expensive. It is also known that the more frequently\nbacteria are exposed to antibiotics, the more quickly the bacteria will develop resistance\nto the antibiotics. Yet, usually, each parent will press a doctor for an antibiotic if there\nis any chance it will heal a child quicker than that without drugs.”\nThe above statement can be best understood as a problem of",
+            "options": [
+                "(A) Public good: Bacteria are public bad",
+                "(B) Adverse selection: Doctors have information that is not available to parents",
+                "(C) Risk aversion: Parents are risk averse",
+                "(D) Short-run utility maximization: Most parents are myopic; they fail to see the\nlong run effect"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "If the correlation between variables X and Y is 0, then",
+            "options": [
+                "(A) The regressions of Y on X and X on Y intersect at right angles, and pass\nthrough (X,Y)",
+                "(B) The regressions of Y on X and X on Y do not intersect at right angles but do\npass through (X,Y)",
+                "(C) The regressions of Y on X and X on Y intersect at right angles, but do not\npass through (X,Y)",
+                "(D) The regressions of Y on X and X on Y do not intersect at right angles, and\ndo not pass through (X,Y)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "One reason why the sample median is used as an estimator of the population mean is\nthat",
+            "options": [
+                "(A) The average of all sample medians equals the population mean",
+                "(B) The sample median equals the population mean",
+                "(C) The sample median is unaffected by extreme values",
+                "(D) The sample median occurs more often than the mode or the mean"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Suppose X is a random variable, which follows Uniform[−1,1]. Find the covariance\nbetween X and X2",
+            "options": [
+                "(A) 1",
+                "(B) 1/4",
+                "(C) 1/8",
+                "(D) 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Which of the following statements is not an indicator that multicollinearity among two\nor more variables is present in a multiple regression model estimated using OLS:",
+            "options": [
+                "(A) Small changes to the data can cause large changes to estimated coefficients",
+                "(B) Coefficients are estimated with bias",
+                "(C) The estimated coefficients have large standard errors even though the R2 is\nhigh",
+                "(D) A test of joint significance of two or more coefficients is significant even though\nindividually they are not significant"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Given the linear regression Y = α + βX; a very high correlation between variables X\nand Y necessarily implies that",
+            "options": [
+                "(A) The slope coefficient β is statistically significant",
+                "(B) The observations (x,y) lie along a straight line",
+                "(C) Small changes in X cause large changes in Y",
+                "(D) The regression line is steep"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "What would happen (other things being equal) to a confidence interval if you calculated\na 99% confidence interval rather than a 95% confidence interval?",
+            "options": [
+                "(A) It will be narrower",
+                "(B) It will not change",
+                "(C) The sample size will increase",
+                "(D) It will become wider"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "An n−gon is a regular polygon with n equal sides. Find the number of diagonals (edges\nof an n−gon are not considered as diagonals) of a 10-gon.",
+            "options": [
+                "(A) 20 diagonals",
+                "(B) 25 diagonals",
+                "(C) 35 diagonals",
+                "(D) 45 diagonals"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "R1xnsin(x)dx\n0",
+            "options": [
+                "(A) Does not exist",
+                "(B) Is necessarily greater than 1",
+                "(C) Is greater than 1\nn+1",
+                "(D) Is less than 1\nn+1\nq √"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "lim ( (n−1)− n)\nn→∞",
+            "options": [
+                "(A) Equals 1",
+                "(B) Equals 0",
+                "(C) Does not exist",
+                "(D) Depends on n"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "The equation x7 = x+1",
+            "options": [
+                "(A) Has no real solution",
+                "(B) Has no positive real solution",
+                "(C) Has a real solution in the interval (0,2)",
+                "(D) Has a real solution but not within (0,2)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The cumulative distribution function F(x) of a random variable has a slope of 1 for\nx in the interval [0,1] and takes a constant value thereafter. Which of the following\nstatements most accurately defines the probability density function of X?",
+            "options": [
+                "(A) It is zero in the interval [0,1] and 1 for all higher values of x",
+                "(B) It is 1 in the interval [0,1] and zero for all higher values of x",
+                "(C) It is increasing in the interval [0,1] and constant and positive for all higher\nvalues of x",
+                "(D) It is increasing in the interval [0,1] and zero for all higher values of x"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "A and B are two non empty sets.\nA−B = {x ∈ A|x ∈/ B} and A+B = (A−B)∪(B −A)\nConsider the following statements:\nStatement 1: A+B = B implies A ⊂ B\nStatement 2: A+B = φ implies A = B\nStatement 3: A+B = A∪B implies A∩B = φ\nHow many of the above statements are correct?",
+            "options": [
+                "(A) 0",
+                "(B) 1",
+                "(C) 2",
+                "(D) 3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The short-run aggregate supply curve is upward sloping because",
+            "options": [
+                "(A) A lower price level creates a wealth effect",
+                "(B) Lower taxes motivate people to work more",
+                "(C) Money wages do not immediately change when the price level changes",
+                "(D) Mostbusinessfirmsoperatewithlong-termcontractsforoutputbutnotlabour"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "The investment demand curve shifts rightward if",
+            "options": [
+                "(A) The expected profit rate increases",
+                "(B) The real interest rate falls",
+                "(C) Savers increase their thriftiness",
+                "(D) The economy moves into a recession\n√"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "AfirmproducinghockeysticksinPunjabhasaproductionfunctiongivenbyQ = 2 KL\nwhere K stands for capital, L stands for labour and Q stands for output. The rental\nrate of capital is Rs 1 and the wage rate is Rs 4. What will be the firm’s cost function?",
+            "options": [
+                "(A) 2Q",
+                "(B) Q",
+                "(C) Q2",
+                "(D) 2Q2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Antony and Cleopatra run a food stall together. Their joint profit is 10 Rupees per\nmonth, from which, Antony gets I Rupees and Cleopatra gets I Rupees. Utility\nA √ C\nfunctions of Antony and Cleopatra are U = I I and U = I , respectively. Consider\nA a C C C\nthe following divisions,\nDivision 1: I = 7,I = 3 Division 2: I = 3,I = 7\nA C A C",
+            "options": [
+                "(A) Both the divisions are Pareto optimal",
+                "(B) None of the divisions is Pareto optimal",
+                "(C) Only Division 1 is Pareto optimal",
+                "(D) Only Division 2 is Pareto optimal"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider a homogenous goods market with the demand function Q = 30−P , where Q\nand P denote quantity and price respectively. There are two firms playing a price game\nin the following manner: firm 1 quotes a price and then firm 2 chooses a price. When\nthey charge the same price they share the market equally and otherwise the market\ndemand goes to the firm charging lower price. Firm 1 has a capacity constraint at the\noutput level 5 units such that upto five units the marginal cost of production is Rs 3 per\nunit of output, however beyond 5 units it cannot produce any output. Firm 2 does not\nhave any capacity constraint, it can produce any amount with the marginal cost Rs 6.\nWhat would be the equilibrium price in the market?",
+            "options": [
+                "(A) 3",
+                "(B) 6",
+                "(C) 6 - (cid:15), where (cid:15) is very small positive number",
+                "(D) 3 + (cid:15), where (cid:15) is very small positive number"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider the following two-player game. The players simultaneously draw one sample\neach from a continuous random variable X, which follows Uniform[0,100]. After ob-\nserving the value of her own sample, which is private information (that is, opponent\ndoes not observe it), players simultaneously and independently choose one of the follow-\ning: SWAP, RETAIN. If both the players choose SWAP then they exchange their\ninitially drawn numbers. Otherwise, if at least one person chooses RETAIN, both of\nthem retain their numbers. A player earns as many Rupees as the number she is holding\nat the end of the game.\nFind the probability that the players will exchange their initially drawn numbers",
+            "options": [
+                "(A) 1",
+                "(B) 1/2",
+                "(C) 1/3",
+                "(D) 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The productivity of a labourer depends on his daily wage. In some range of wage, the\nmore he is paid, the better his health and the more work he is able to do in a given\nday. Suppose that the relationship between productivity and daily wage is as follows.\nNo work is done for wage below Rs. 20 per day. Each rupee earned above 20 increases\nproductivity by 5 units until the daily wage is Rs. 140 per day. Beyond this level of\nwage, productivity is constant. If a farmer needs to hire labour for a total of 6000 units\nof work per day, how many labourers is he likely to hire?",
+            "options": [
+                "(A) 4",
+                "(B) 5",
+                "(C) 6",
+                "(D) 10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Consider a society in which half the population earns 100 rupees per day and the other\nhalf earns 200 rupees per day. The Gini coefficient of inequality for this society is given\nby",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/3",
+                "(C) 1/6",
+                "(D) 1/8"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "A and B live in an exchange economy. There are two goods X and Y. Utility functions\nof A and B are UA(x,y) = x+y and UB(x,y) = x2 +y2, respectively. A0s endowment\nis 2 units of X and 1 unit of Y, while B0s endowment is 1 unit of X and 2 units of Y.\nConsider the following allocations\nAllocation 1: A gets 1.5 units of X and zero unit of Y, B gets 1.5 units of X and 3 units\nof Y\nAllocation 2: A gets 1.5 units of X and 1.5 unit of Y, B gets 1.5 units of X and 1.5\nunits of Y",
+            "options": [
+                "(A) Both the allocations are Pareto optimal",
+                "(B) None of the allocations is Pareto optimal",
+                "(C) Only allocation 1 is Pareto optimal",
+                "(D) Only allocation 2 is Pareto optimal"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Fill in the blanks: Given a downward sloping linear demand curve and constant marginal\ncost curves, if a per unit tax is imposed on a monopoly, a monopoly will ...... the\nquantity of its good and its revenue after tax will ......",
+            "options": [
+                "(A) Increase ; Decrease",
+                "(B) Increase ; Increase",
+                "(C) Decrease ; Increase",
+                "(D) Decrease ; Decrease"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "The demand curve for electricity is D(p) = 120 − p. The marginal cost of electricity\nproduction is MC (q) = 20+q. The marginal cost of pollution due to electricity produc-\n1\ntion is MC (q) = 3q. Find the competitive equilibrium output and the social optimum\n2\noutput.",
+            "options": [
+                "(A) 50;20",
+                "(B) 50;30",
+                "(C) 60;20",
+                "(D) 60;30"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose that there are two agents in an economy with income x and x . If the richer\n1 2\nperson transfers a portion of her income to the poorer person without changing the\nincome ranking (that is the rich remains richer even after the transfer) then it is called\na progressive transfer. Welfare of this economy is measured by a function W(x ,x ). W\n1 2\nis a ‘good’ measure of social welfare if the social welfare increases due to a progressive\ntransfer. Consider the following candidates for W;\nW (x ,x ) = x +x ; W (x ,x ) = x x\n1 1 2 1 2 2 1 2 1 2",
+            "options": [
+                "(A) Only W is a ‘good’ measure\n1",
+                "(B) Only W is a ‘good’ measure\n2",
+                "(C) Both W and W are ‘good’ measures\n1 2",
+                "(D) NeitherW nor W is a ‘good’ measures\n1 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Consider the following model, estimated using OLS\nY = βX +(cid:15) ; i = 1,2,...,n\ni i i\nwhere there is no intercept, and Var((cid:15) ) = σ2. Which of the following statements is not\ni\ntrue?",
+            "options": [
+                "(A) The R2 from this regression can be large even if X and Y have low correlation.",
+                "(B) The least squares residuals need not sum to zero.",
+                "(C) The mean square error is given by\nP (Yi−Yˆ)2\n(n−1)\nP P P",
+                "(D) Theleastsquaresestimatoroftheslopecoefficientisgivenby: n XiYi− Xi Yi\nP P\nn X\ni\n2−( Xi)2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Ananalysttryingtoestimatethedemandforricehasestimatedthefollowingtwomodels\nModel 1: D = 50+0.3Y +0.1P +12N;R2 = 0.7\nwhere D is the demand for rice per household, Y is income per household, P is the price\nof rice and N is household size. The standard errors associated with the coefficient Y is\n0.1, that associated with P is 0.05, and of N is 3.\nModel 2: D/N = 50+0.2Y/N −0.5P;R2 = 0.9\nwhere the standard errors of the estimated slope coefficients are 0.1 and 0.2 respectively.\nWhich of the following statements is true?",
+            "options": [
+                "(A) Model 2 is preferred to Model 1 because it has a higher R2.",
+                "(B) Model 1 is preferred to Model 2 because the coefficients are all signifcant.",
+                "(C) The two models are not comparable in terms of fit",
+                "(D) None of the above\nˆ ˆ ˆ ˆ"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Consider the regression Y∗ = β∗+β∗X∗+u∗, and Y = β +β X +u , where Y∗ = w Y\ni 1 2 i i i 1 2 i i i 1 i\nand X∗ = w X ; w ,w are constants. Is it true that\ni 2 i 1 2",
+            "options": [
+                "(A) β\nˆ∗\n= w β\nˆ\n1 2 1",
+                "(B) β\nˆ∗\n= w2β\nˆ\n2 w1 2",
+                "(C) Var(β\nˆ∗)\n= (w1 )2Var(β\nˆ\n)\n2 w2 2",
+                "(D) r2 6= r2 , where r denotes correlation coefficient\nxy x∗y∗"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "For variables X and Y we have the data PXY = 350,PX = 50,PY = 60,X =\n5,σ2 = 4,σ2 = 9, where X denotes the mean of X and σ2 denotes the variance of X.\nX Y X\nWhich of the following holds",
+            "options": [
+                "(A) A one unit change in X causes a 1.25 unit change in Y , and a one unit change\nin Y causes a 0.6 unit change in X",
+                "(B) A one unit change in X causes a 0.6 unit change in Y , and a one unit change\nin Y causes a 1.25 unit change in X",
+                "(C) A 10% change in X causes a 15% change in Y",
+                "(D) The regression of Y on X passes through the origin"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "X is a normally distributed random variable with unknown mean µ and standard devi-\nation equal to 2. The value of the sample mean from a random sample of size 25 is 10.\nWhich of the following values lie within the 95% confidence interval for µ?",
+            "options": [
+                "(A) 9.3",
+                "(B) 9.8",
+                "(C) 10.6",
+                "(D) All of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "An econometrician uses data from the Consumer Expenditure Survey conducted by the\nNational Sample Survey Organization for the years 1991 and 2001 and plots the cumu-\nlative distribution function for real consumer expenditure per capita for these years. He\nfinds that cumulative distribution function for 2001 is everywhere to the right of that\nfor 1991. Consider the following,\nConclusion 1: The Gini coefficient for 2001 is higher than for 1991\nConclusion 2: Consumption expenditure of every individual has increased in 2001 com-\npared to 1991\nConclusion 3: Real consumption expenditure per capita has increased in 2001 compared\nto 1991\nWhich of the above conclusions are correct",
+            "options": [
+                "(A) Only (iii) is correct",
+                "(B) (i) and (ii) are correct",
+                "(C) (ii) and (iii) are correct",
+                "(D) None of the conclusions is correct"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Let X ,X ,··· ,X be random samples from a normal distribution with parameters µ\n1 2 n\nand σ2. Then the random variable\n(n−1)S2 1 n\n= X(X −X)2\nσ2 σ2 i\ni=1\nhas a chi-squared ( χ˜2) distribution with n−1 degrees of freedom. Here X denotes the\nmean of X ,X ,··· ,X . Suppose area under a chi-squared curve with n−1 degrees of\n1 2 n\nfreedom to the right of χ˜2 is v . A 100(1−α)% confidence interval for the variance\nv,n−1\nσ2 is\n\"(n−1)S2 (n−1)S2#",
+            "options": [
+                "(A) ,\nχ˜2 χ˜2\nα,n−1 1−α,n−1\n2 2\n\"(n−1)S2 (n−1)S2#",
+                "(B) ,\nχ˜2 χ˜2\n1−α,n−1 α,n−1\n2 2\n\" nS2 nS2 #",
+                "(C) ,\nχ˜2 χ˜2\nα,n−1 1−α,n−1\n2 2\n\" nS2 nS2 #",
+                "(D) ,\nχ˜2 χ˜2\n1−α,n−1 α,n−1\n2 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Suppose you have 500 observations and you regress wage (measured in rupees per hour)\non experience in the labour market, exper (measures in years), and on experience in the\nlabour market squared, (exper ). Your estimated OLS equation is\n2\nwaˆge = 3.73+0.298 exper−0.0061 exper2\n(0.35) (0.041) (0.0009)\nwhere the standard errors are in brackets. The estimated equation implies",
+            "options": [
+                "(A) The returns to experience is strictly increasing",
+                "(B) The returns to experience is strictly diminishing",
+                "(C) The returns to experience is constant",
+                "(D) Experience has no statistically significant effect on wage"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Suppose you have a sample of size one from one of the following densities\nH : f(x) = 2x 0 ≤ x ≤ 1\n0\nH : f(x) = 2−2x 0 ≤ x ≤ 1\n1\nLet α and β denote type I error and type II error, respectively. Find the test procedure\nof the form “Reject H if x < k” with α = 0.09. Find β for this test.\n0",
+            "options": [
+                "(A) k = 0.5,β = 0.25",
+                "(B) k = 0.5,β = 0.36",
+                "(C) k = 0.3,β = 0.16",
+                "(D) k = 0.3,β = 0.49"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "An urn contains equal number of green and red balls. Suppose you are playing the\nfollowing game. You draw one ball at random from the urn and note its colour. The ball\nis then placed back in the urn, and the selection process is repeated. Each time a green\nball is picked you get 1 Rupee. The first time you pick a red ball, you pay 1 Rupee and\nthe game ends. Your expected income from this game is",
+            "options": [
+                "(A) ∞",
+                "(B) Positive but finite",
+                "(C) Zero",
+                "(D) Negative"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Two women and four men are to be seated randomly around a circular table. Find the\nprobability that the women arenot seated next to each other.",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/3",
+                "(C) 2/5",
+                "(D) 3/5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "A fair coin is tossed until a head comes up for the first time. The probability of this\nhappening on an odd-numbered toss is",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/3",
+                "(C) 2/3",
+                "(D) 3/4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "An experiment has 10 equally likely outcomes. Let A and B be two non-empty events\nof the experiment. If A consists of 4 outcomes, then the number of outcomes B must\nhave so that A and B are independent, is",
+            "options": [
+                "(A) 4",
+                "(B) 3 or 9",
+                "(C) 6",
+                "(D) 5 or 10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Consider the system of equations\nαx+βy = 0\nµx+vy = 0\nα,β,µ and v are i.i.d random variable. Each of them takes value 1 and 0 with equal\nprobability.\nStatement A: The probability that the system of equations has a unique solution is 3/8\nStatement B: The probability that the system of equations has at least one solution is\n1.",
+            "options": [
+                "(A) Both the statements are correct",
+                "(B) Both the statements are false",
+                "(C) Statement A is correct but B is false",
+                "(D) Statement B is correct but A is false"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "f(x,y) = x+y +xy where x,y ∈ R . For c ∈ R , let us define\n++ ++\nL = {(x,y) ∈ R2|f(x,y) ≤ c}\nU = {(x,y) ∈ R2|f(x,y) ≥ c}\nI = {(x,y) ∈ R2|f(x,y) = c}\nWhich of the above sets are convex?",
+            "options": [
+                "(A) L",
+                "(B) U",
+                "(C) I",
+                "(D) All of them"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "What is the total number of local maxima and local minima of the following function\n( (2+x)3, if −3 < x ≤ −1\nf(x) =\nx2/3, if −1 < x < 2",
+            "options": [
+                "(A) 1",
+                "(B) 2",
+                "(C) 3",
+                "(D) 4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Suppose that f(x) is twice differentiable and strictly concave in x. Define,\ng(x) = lim f(c+t)−f(c+x)\nt→x t−x\nwhere c is a constant. Then g(x) is",
+            "options": [
+                "(A) Decreasing function",
+                "(B) Increasing function",
+                "(C) Decreasing function when c > 0 and increasing function when c < 0",
+                "(D) Increasing function when c > 0 and decreasing function when c < 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "A rectangle has its lower left hand corner at the origin and its upper right hand corner\non the graph of f(x) = x2+(1/x2). For which x is the area of the rectangle minimized?",
+            "options": [
+                "(A) x = 0",
+                "(B) x = ∞",
+                "(C) x = (1/3)1/4",
+                "(D) x = 21/3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "The real valued function f(x) = x+|x|+(x−1)+|x−1|, where |x|,|x−1| stand for\nabsolute values",
+            "options": [
+                "(A) Is differentiable everywhere except at x = 0",
+                "(B) Is not continuous at 0",
+                "(C) Is not differentiable at 1",
+                "(D) Is not continuous at 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Let x = (x ,x ,··· ,x ) and y = (y ,y ,··· ,y ) be two vectors in Rn. Define, x⊗y =\n1 2 n 1 2 n\nPn x |y |, where |y | stands for absolute value. How many of the following statements\ni=1 i i i\nare correct\nStatement 1: x⊗y = y ⊗x\nStatement 2: x⊗x = 0 implies x = (0,0,··· ,0)\nStatement 3: x⊗(c,y) = c(x⊗y) , where c ∈ R and c.y = (cy ,cy ,··· ,cy )\n++ 1 2 n",
+            "options": [
+                "(A) 0",
+                "(B) 1",
+                "(C) 2",
+                "(D) 3\nThe following set of information is relevant for the next six questions.\nConsider an economy where the nominal wage rate is set by a process of wage bargaining\nbetween the workers and the producers before actual production takes place. Thus at any\nperiod t , the nominal wage rate (W ) is a function of the expected price level (Pe), the rate\nt t\nofunemployment(u )andtheaverageproductivityoftheworkers(A ). Theexactfunctional\nt t\nrelationship is given below:\nW = PeF(u ,A ) ; F < 0;F > 0\nt t t t u A\nOnce the nominal wage is determined, the producers set the actual price level (P ) as a\nt\nconstant mark up (µ) over the nominal wage rate: P = (1+µ)W . Define the actual rate of\nt t\ninflation as π = Pt−Pt−1 and the expected rate of inflation as πe = P t e−Pt−1\nt Pt−1 t Pt−1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Given the above wage and price setting equations, derive the relationship between ex-\npected rate of inflation and actual rate of inflation. Which of the following equations\nrepresents this relationship?",
+            "options": [
+                "(A) π = (1+π )[F(u ,A )−µ]−1\nt t t t",
+                "(B) π = (1+π )(1+µ)F(u ,A )−1\nt t t t",
+                "(C) π = πe(1+µ)F(u ,A )\nt t t t",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "Suppose the average productivity of workers remains constant at a level",
+            "options": [
+                "(A) F(u ,A) = µ\nt",
+                "(B) F(u ,A) = 1\nt 1+µ",
+                "(C) F(u ,A) = µ\nt 1+µ",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "A one-shot increase in the average productivity of worker, ceteris paribus, leads to",
+            "options": [
+                "(A) An increase in the natural rate of unemployment",
+                "(B) A decrease in the natural rate of unemployment",
+                "(C) No change in the natural rate of unemployment",
+                "(D) Some change in the natural rate of unemployment but the direction is ambigu-\nous"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "A one-shot increase in the producer’s mark up, ceteris paribus, leads to",
+            "options": [
+                "(A) An increase in the natural rate of unemployment",
+                "(B) A decrease in the natural rate of unemployment",
+                "(C) No change in the natural rate of unemployment",
+                "(D) Some change in the natural rate of unemployment but the direction is ambigu-\nous"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Go back to the relationship between π and πe above (first question of this list). Suppose\nt t\nexpectations are static, i.e., πe = π . Also let F(u ,A ) = At −1 and A = A (a con-\nstant). The corresponding val t ue of t t − h 1 e non-accelerat t ing t inflat u iton rate of u t nemployment\nis given by",
+            "options": [
+                "(A) u = ( µ )A\nt 1+µ",
+                "(B) u = ( µ )A\nt 2+µ",
+                "(C) u = (1+µ)A\nt 2+µ",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Now suppose the workers productivity increases at a constant rate γ, that is , At−At−1 =\nγ. To maintain a non-accelerating inflation rate, rate of unemployment has to A int−c1rease\nat the rate",
+            "options": [
+                "(A) γ",
+                "(B) µ",
+                "(C) µ+γ",
+                "(D) ( µ )γ\n1+µ\nThe following set of information is relevant for the next four questions.\nConsider a small open economy with fixed nominal exchange rate (E), fixed domestic price\nlevel (P) and fixed foreign price level (P∗). Let (cid:15) be the corresponding real exchange rate.\nThe goods market equilibrium condition is given by the following IS equation:\nIM\nY = C +I +G+X −\n(cid:15)\nwhere C = c + c Y represents domestic consumption; I = d Y − d r represents domestic\n0 1 1 2\ninvestment; G represents government expenditure; X = x Y∗ − x (cid:15) represents export; Y∗\n1 2\nrepresents income of the foreign country; and IM = m Y +m (cid:15) represents import\n1 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Suppose the rate of interest (r) as exogenously given. Then a unit increase in the foreign\nprice level, ceteris paribus, increases domestic output by\nm1Y −(cid:15)x ! 1",
+            "options": [
+                "(A) (cid:15) 2\n1−c −d + m1 P∗\n1 1 (cid:15)\nm1Y −(cid:15)x !",
+                "(B) (cid:15) 2\n(cid:15)(1−c −d )+m )\n1 1 1\n(cid:15)x − m1Y 1 !",
+                "(C) 2 (cid:15) )\n1−c −d + m1 P∗\n1 1 (cid:15)",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "Write the goods market clearing level of output as a function of the real exchange rate\n((cid:15)) and other parameters. If you plot this relationship between Y and (cid:15) in the Y,(cid:15) plane\n(with epsilon on the vertical axis), you will get",
+            "options": [
+                "(A) A positively sloped schedule if the Marshall-Lerner condition is satisfied",
+                "(B) A negatively sloped schedule if the Marshall-Lerner condition is satisfied",
+                "(C) A positively sloped schedule irrespective of the Marshall-Lerner condition",
+                "(D) A negatively sloped schedule irrespective of the Marshall-Lerner condition"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "Let us now bring in an asset market and a foreign exchange market into the picture.\nLet the asset market equilibrium condition be represented by the following LM equa-\ntion: M = l Y − l r. Also, let the foreign exchange market equilibrium condition be\n1 2\nrepresented by the following interest rate parity condition r = r∗ + 1((cid:15)e −(cid:15)),r∗ and (cid:15)e\n(cid:15)\nbeing the foreign interest rate and the expected future exchange rate respectively. For\nany given value of r∗ and (cid:15)e , derive the level of output which will clear both the asset\nmarket and the foreign exchange market as a function of the real exchange rate ((cid:15)) and\nother parameters. If you plot this relationship between Y and (cid:15) in the Y,(cid:15) plane (with\n(cid:15) on the vertical axis), you will get",
+            "options": [
+                "(A) A positively sloped schedule if the Marshall-Lerner condition is satisfied",
+                "(B) A negatively sloped schedule if the Marshall-Lerner condition is satisfied",
+                "(C) A positively sloped schedule irrespective of the Marshall-Lerner condition",
+                "(D) A negatively sloped schedule irrespective of the Marshall-Lerner condition"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Let the equilibrium output and the equilibrium exchange rate be simultaneously de-\ntermined by the intersection of the above two schedules (derived in the previous two\nquestions). Suppose Marshall-Lerner condition is satisfied. Then",
+            "options": [
+                "(A) An increase in G leads to an increase in the equilibrium value of (cid:15), while an\nincrease in M leads to a decrease in (cid:15)",
+                "(B) An increase in G leads to an decrease in the equilibrium value of (cid:15), while an\nincrease in M leads to an increase in (cid:15)",
+                "(C) Increase in either G or M leads to an increase in the equilibrium value of (cid:15)",
+                "(D) Increase in either G or M leads to a decrease in the equilibrium value of (cid:15)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

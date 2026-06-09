@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2013,
+    "exam_title": "DSE 2013",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Starting from a stationary position, Sonia ran 100 meters in 20 seconds. Assuming that\nher distance from the starting point is a continuous and differentiable function f(t) of\ntime, she would definitely have run at a speed of y meters per second at some point of\ntime, where y equals",
+            "options": [
+                "(A) 4",
+                "(B) 20",
+                "(C) 6",
+                "(D) None of the above necessarily holds"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Suppose f : R → R (i.e. it is a real-valued function defined on the set of real numbers).\nIf f is differentiable, f(3) = 2, and 3 ≤ f0(x) ≤ 4, for all x, then it must be that f(5)\nlies in the following interval.",
+            "options": [
+                "(A) [8,10]",
+                "(B) [0,8)",
+                "(C) (10,∞)",
+                "(D) [3,4]"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "The function defined by f(x) = x(x−10)(x−20)(x−30) has critical points (i.e., points\nwhere f0(x) = 0)",
+            "options": [
+                "(A) at some x < 0 and some x > 30.",
+                "(B) at an x < 0, and at some x between 0 and 30.",
+                "(C) between 0 and 10, 10 and 20, 20 and 30.",
+                "(D) None of the above captures all the critical points."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "The area of the region bounded above by f(x) = x2 +1 and below by g(x) = x−6 on\nthe interval [−1,3] is",
+            "options": [
+                "(A) 50/3",
+                "(B) 22",
+                "(C) 31",
+                "(D) 100/3\nx2 −5x−2!1/3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "lim equals\nx→3\nx−2",
+            "options": [
+                "(A) −2",
+                "(B) −4/3",
+                "(C) (−4/3)1/3",
+                "(D) (2/3)1/3\n√"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "ConsideranindividualAwithutilityfunctionu(x) = 10 x, wherexdenotestheamount\nof money available to her. Suppose, she has Rs 100. However, she has option of buying\na lottery that will cost her Rs 51. If purchased, the lottery pays Rs 351 with probability\np, and pays 0 (nothing) with remaining probability. Assume that A is expected utility\nmaximizer. Which of the following statements is correct? A will",
+            "options": [
+                "(A) not prefer to buy the lottery at all as long as p < 1",
+                "(B) certainly prefer to buy the lottery as long as p > 0",
+                "(C) prefer to buy the lottery if and only if p > 51/351",
+                "(D) prefer to buy the lottery if and only if p > 51/221\nThe next TWO questions are based on the following model: Suppose that there are two\ngoods, which are imperfect substitutes of each other. Let p ,p denote the price of good 1\n1 2\nand good 2 , respectively. Demand of good 1 and good 2 are as follows\nD (p ,p ) = a−p +bp ; D (p ,p ) = a−p +bp\n1 1 2 1 2 2 1 2 2 1\nwhere a > 0 and 1 > b > 0. Both of the goods can be produced at cost c per unit."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Find the equilibrium prices, when good 1 and good 2 are produced by two different\nmonopolists\na+c",
+            "options": [
+                "(A) p = p =\n1 2 2−b\na+c",
+                "(B) p = p =\n1 2 1−b\na+c a+c",
+                "(C) p = , p =\n1 2−b 2 1−b\na+c a+c",
+                "(D) p = , p =\n1 1−b 2 2−b"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Find the equilibrium prices, when both the goods are produced by single monopolist.\na+c−bc",
+            "options": [
+                "(A) p = p =\n1 2 2−b\na+c−bc",
+                "(B) p = p =\n1 2 1−b\na+c−bc",
+                "(C) p = p =\n1 2 2(1−b)\na+c−bc",
+                "(D) p = p =\n1 2 2\nAnswer 9 and 10 using the following information: H stands for the Headcount Ratio of\nPoverty (total number of poor divided by total population); C for Mean Consumption per-\ncapita; E for Elasticity of H with respect to C; NSS for National Sample Survey; and NAS\nfor National Accounts Statistics.\nTable 1: (Source: Datt and Ravallion; EPW 2010)\nRate of Change of H (% per annum) Rate of Population Growth (% per annum)\nPre-1991 -1.1 2.2\nPost-1991 -2.4 1.7\nTable 2: (Source: Datt and Ravallion; EPW 2010)\nE when C is based on NSS data E when C is based on NAS data\nPre-1991 -1.6 -1.0\nPost-1991 -2.1 -0.7"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "From the data in Table 1, we can conclude that the total number of poor people was",
+            "options": [
+                "(A) Rising before 1991 but falling after 1991",
+                "(B) Falling before 1991 but rising after 1991",
+                "(C) Falling both before and after 1991, but at different rates",
+                "(D) Rising both before and after 1991, but at different rates"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "From the data in Table 2, we can conclude that both before and after 1991, mean\nconsumption per-capita according to NAS was:",
+            "options": [
+                "(A) Lower than mean consumption per-capita according to NSS",
+                "(B) Growing faster than mean consumption per-capita according to NSS",
+                "(C) Growing slower than mean consumption per-capita according to NSS",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "If two balanced die are rolled, the sum of dots obtained is even with probability",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/4",
+                "(C) 3/8",
+                "(D) 1/3"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "A population is growing at the instantaneous growth rate of 1.5 per cent. The time\ntaken (in years) for it to double is approximately\nlog2\nA.\n0.15\nlog2\nB.\n15\nlog2\nC.\n0.015\nlog2\nD.\n1.5",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "A linear regression model y = α+βx+(cid:15) is estimated using OLS. It turns out that the\nˆ\nestimated β equals zero. This implies that:",
+            "options": [
+                "(A) R2 is zero",
+                "(B) R2 is one",
+                "(C) 0 < R2 < 1",
+                "(D) In this case R2 is undefined"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "An analyst has data on wages for 100 individuals. The arithmetic mean of the log of\nwages is the same as:",
+            "options": [
+                "(A) Log of the geometric mean of wages",
+                "(B) Log of the arithmetic mean of wages",
+                "(C) Exponential of the arithmetic mean of wages",
+                "(D) Exponential of the log of arithmetic mean of wages"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "A certain club consists of 5 men and 5 women. A 5 member committee consisting of 2\nmen and 3 women has to be constituted. How many ways are there of constituting this\ncommittee?",
+            "options": [
+                "(A) 20",
+                "(B) 100",
+                "(C) 150",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Exchange rate overshooting occurs:",
+            "options": [
+                "(A) under fixed exchange rates when the central bank mistakenly buys or sells too\nmuch foreign exchange",
+                "(B) under fixed exchange rates as a necessary part of the adjustment process for\nany monetary shock",
+                "(C) under flexible exchange rates when the exchange rate rises (depreciates) above\nand then falls down to equilibrium after a monetary expansion",
+                "(D) decreases the value of the determinant"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "In an open economy with a system of flexible exchange rates and perfect capital mobility,\nan expansionary monetary policy:",
+            "options": [
+                "(A) causes the domestic currency to appreciate",
+                "(B) has a greater impact on income than in a closed economy",
+                "(C) increases capital inflows into the country",
+                "(D) induces a balance of payments deficit"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "The short-run aggregate supply curve is upward sloping because",
+            "options": [
+                "(A) lower price level creates a wealth effect",
+                "(B) lower taxes motivate people to work more",
+                "(C) money wages do not immediately change when the price level changes",
+                "(D) mostbusinessfirmsoperatewithlong-termcontractsforoutputbutnotlabour"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The term ‘seignorage’ is associated with",
+            "options": [
+                "(A) inflation generated by printing new money",
+                "(B) real revenue created by printing new money",
+                "(C) public indebtedness created by printing new money",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "If money demand is stable, an open market purchase of government securities by the\ncentral bank will:",
+            "options": [
+                "(A) increase both the level of income and the interest rate",
+                "(B) decrease both the level of income and the interest rate",
+                "(C) increase the level of income and lower the interest rate",
+                "(D) decrease the level of income and raise the interest rate"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "The function defined by f(x) = x5 +7x3 +13x−18",
+            "options": [
+                "(A) may have 5 real roots",
+                "(B) has no real roots",
+                "(C) has 3 real roots",
+                "(D) has exactly 1 real root"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The function f(x) = 1x4 − 1x3 −3x2 +6 is\n4 2",
+            "options": [
+                "(A) concave on (−∞,2) and convex on (2,∞).",
+                "(B) concave on (−1,2), convex on (−∞,−1) and (2,∞).",
+                "(C) convex on (−1,2), concave on (−∞,−1) and (2,∞).",
+                "(D) convex on (−∞,2) and concave on (2,∞)."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider the function f(x) = 9x(2/3)−3x(5/3) for all x in the closed interval [−1,5]. f(5)\n2 5\nis approximately equal to 4.386. f(x) attains a maximum on interval [−1,5] at",
+            "options": [
+                "(A) x = −1",
+                "(B) x = 2",
+                "(C) x = 3",
+                "(D) x = 4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider the function f defined by f(x) = x6+5x4+2, for all x ≥ 0. The derivative of\nits inverse function evaluated at f(x) = 8, that is, f(−1)0(8) equals",
+            "options": [
+                "(A) 1/7",
+                "(B) 1/15",
+                "(C) 1/26",
+                "(D) 1/20"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider the following functions. f : R2 → R3 defined by f(x,y) = (x+2y,x−y,−2x+\n3y). And g : R2 → R2 defined by g(x,y) = (x+1,y +2). Then",
+            "options": [
+                "(A) Both f and g are linear transformations",
+                "(B) f is a linear transformation, but g is not a linear transformation",
+                "(C) f is not a linear transformation, but g is a linear transformation",
+                "(D) Neither f nor g is a linear transformation"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "A six meter long string is cut in two pieces. The first piece, with length equal to some\nx, is used to make a circle, the second, with length (6 − x), to make a square. What\nvalue of x will minimize the sum of the areas of the circle and the square? (x is allowed\nto be 0 or 6 as well).",
+            "options": [
+                "(A) x = 24π/(1+4π)",
+                "(B) x = 6π/(4+π)",
+                "(C) x = 6",
+                "(D) x = 1/2π"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "The repeated nonterminating decimal 0.272727...",
+            "options": [
+                "(A) cannot be represented as a fraction.",
+                "(B) equals 27/99",
+                "(C) lies strictly between 27/99 and 27/100.",
+                "(D) is an irrational number.\nSuppose three players, 1, 2 and 3, use the following procedure to allocate 9 indivisible coins.\nPlayer 1 proposes an allocation (x ,x ,x ) where x is the number of coins given to player\n1 2 3 i\ni. Players 2 and 3 vote on the proposal, saying either Y (Yes) or N (No). If there are two Y\nvotes, then the proposed allocation is implemented. If there are two N votes, the proposal\nis rejected. If there is one Y vote and one N vote, then player 1 gets to vote Y or N. Now,\nthe proposal is accepted if there are two Y votes and rejected if there are two N votes. If 1’s\nproposal is rejected, then 2 makes a proposal. Now, only 3 votes Y or N. If 3 votes Y, then\n2’s proposal is accepted. If 3 votes N, then the proposal is rejected and the allocation (3,\n3, 3) is implemented. Assume that, if the expected allocation to be received by a particular\nplayer by voting Y or N is identical, then the player votes N."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "If 1’s proposal is rejected and 2 gets to make a proposal, her proposal will be",
+            "options": [
+                "(A) (0,5,4)",
+                "(B) (0,4,5)",
+                "(C) (0,6,3)",
+                "(D) (0,3,6)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "1’s proposal will be",
+            "options": [
+                "(A) (5,0,4)",
+                "(B) (4,0,5)",
+                "(C) (3,6,0)",
+                "(D) (6,3,0)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider the following change of the above situation. If 2 makes a proposal and 3 votes\nY,then2’sproposalisimplemented. However, if3votesN,then1getstochoosebetween\n2’s proposal and the allocation (3,3,3). If 1’s proposal is rejected and 2 gets to make a\nproposal, her proposal will be",
+            "options": [
+                "(A) (4,5,0)",
+                "(B) (0,5,4)",
+                "(C) either (a) or (b)",
+                "(D) neither (a) nor (b)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Utility of a consumer is given by u(x ,x ) = min{x ,x }. His income is M, and price\n1 2 1 2\nof good 2 is 1. There are two available price schemes for good 1: (i) per unit price 2\nand (ii) a reduced per unit price 2−θ along with a fixed fee T. A consumer would be\nindifferent between the above schemes if",
+            "options": [
+                "(A) θ = 2T/M",
+                "(B) θ = 3T/M",
+                "(C) θ = T/M",
+                "(D) θ = (T +1)/M\nSuppose, an individual lives for two periods. In each period she consumes only one good,\nwhich is rice. In period 2, she can costlessly produce 1 unit of rice, but in period 1 she\nproduces nothing. However, in period 1 she can borrow rice at an interest rate r > 0. That\nis, if she borrows z units of rice in period 1, then in Period 2, she must return z(1+r) units\nof rice. Let x and x denote her consumption of rice in period 1 and period 2, respectively;\n1 2\nx ,x ≥ 0. Her utility function is given by U(x ,x ) = x + βx , where β is the discount\n1 2 1 2 1 2\nfactor, 0 < β < 1. Note that there are only two sources through which rice can be available;\nown production and borrowing."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Find the interest rate r, at which the individual would borrow 1 unit of rice in period 1.\n2",
+            "options": [
+                "(A) 2",
+                "(B) 1\n2",
+                "(C) β −1",
+                "(D) 1 −1\nβ"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Now suppose that there are N agents in the above two period economy. The agents are\nidentical (in terms of production and utility function) except that they have different\nh i\ndiscount factors. Suppose that β follows uniform distribution in the interval 1,1 .\n2\nAssuming r ≤ 1, the demand function for rice in period 1 will be",
+            "options": [
+                "(A) N(1−r)\n(1+r)",
+                "(B) N (1−r)\n(1+r)2",
+                "(C) N r\n1+r",
+                "(D) Nr\n2\nAnswer 34, 35 based on the following situation:\nConsider a two-person two-good exchange economy: persons/agents are A and B, and goods\nare 1 and 2. The agents have the following utility functions:\nu (x ,x ) = αx +x u (y ,y ) = y y\nA 1 2 1 2 B 1 2 1 2\nwhere x and x denote the allocation to A of good 1 and good 2, respectively. Similarly, y\n1 2 1\nand y denote the allocation to B of good 1 and good 2, respectively. There are 5 units of\n2\neach good; i.e., x +y = 5 and x +y = 5. Now, consider the following allocation: Agent\n1 1 2 2\nA gets 4 units of good 1 only, but agent B gets 1 unit of good 1 and 5 units of good 2."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Suppose an agent i is said to envy agent j, if i strictly prefers j’s allocation over her own\nallocation. And, an allocation is called ‘No-envy allocation’ if none of the agents envies\nthe other. In that case,",
+            "options": [
+                "(A) the above allocation is always ‘No-envy allocation’",
+                "(B) the above allocation is never ‘No-envy allocation’",
+                "(C) the above allocation is ‘No-envy allocation’ if α ≥ 5\n3",
+                "(D) the above allocation is ‘No-envy allocation’ if α ≤ 3\n5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "The above allocation is",
+            "options": [
+                "(A) always Pareto optimal",
+                "(B) never Pareto optimal",
+                "(C) Pareto optimal if α ≤ 5",
+                "(D) Pareto optimal if α ≥ 5\nAnswer 36, 37 based on the following situation: There are two goods: a basic good, say a\ncar, and a complementary good, say car audio. Suppose that the basic good is produced by\na monopolist at no cost and the complementary good is produced by a competitive industry\nat cost c per unit. Let p be the price of the basic good. Each consumer has three choices:\n(i) consume nothing, which gives 0 utility\n(ii) consume one unit of the basic good, which gives v −p utility\n(iii) consume one unit of the basic good and one unit of the complementary good (called\nbundle), which gives w−p−c utility.\nAssume w > v > 0. Next, suppose there are two types of consumers of cars: Middle Class]:\nThey have valuations v and w for the basic good and the bundle, respectively. [Rich]:\n1 1\nThey have valuations v and w for the basic good and the bundle, respectively. Suppose,\n2 2\nv > v and w −v > c > w −v .\n2 1 2 2 1 1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Find the socially efficient consumption.",
+            "options": [
+                "(A) Rich choose (ii) and Middle class choose (i)",
+                "(B) Rich choose (iii) and Middle class choose (i)",
+                "(C) Rich choose (iii) and Middle class choose (ii)",
+                "(D) Both Rich and Middle class choose (ii)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Suppose that the monopolist can distinguish between two types of consumers. What\nprices would she charge?",
+            "options": [
+                "(A) v from Rich, and v from Middle Class\n2 1",
+                "(B) w −c from Rich, and w −c from Middle Class\n2 1",
+                "(C) w −c from Rich as well as Middle Class\n1",
+                "(D) w −c from Rich, and v from Middle Class\n2 1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Suppose that a city can be described by an interval [0,1]. Only two citizens, A and B,\nlive in this city at different locations; A at 0.2 and B at 0.7. Government has decided to\nset up a nuclear power plant in this city but is yet to choose its location. Each citizen\nwants the plant as far as possible from her home and hence both of them have the same\nutility function, u(d) = d, where d denotes the distance between the plant and home.\nFind the set of Pareto optimal locations for the plant.",
+            "options": [
+                "(A) All locations in the interval [0, 1] are Pareto optimal",
+                "(B) All locations in the interval [0.2, 0.7] are Pareto optimal",
+                "(C) 0.5 is the only Pareto optimal location",
+                "(D) 0 and 1 are the only Pareto optimal locations\nAnswer 39, 40 based on the following situation: Consider an exchange economy with agents\n1 and 2 and goods x and y. Agent 1 lexicographically prefers the good x: when offered two\nnon-identical bundles of x and y, she strictly prefers the bundle with more of good x, but if\nthe bundles have the same amount of good x, then she strictly prefers the bundle with more\nof good y. However, Agent 2 lexicographically prefers good y."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Suppose 1’s endowment is (10,0) and 2’s endowment is (0,10). The vector (p ,p ) is a\nx y\ncompetitive equilibrium vector of prices if and only if",
+            "options": [
+                "(A) p = 1 = p\nx y",
+                "(B) p > 0 and p > 0\nx y",
+                "(C) p > p > 0\nx y",
+                "(D) p > p > 0\ny x"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Suppose we make only one change in the above situation: Person 1 lexicographically\nprefers y and 2 lexicographically prefers x. The vector (p ,p ) is a competitive equilib-\nx y\nrium vector of prices if and only if",
+            "options": [
+                "(A) p = 1 = p\nx y",
+                "(B) p > 0 and p > 0\nx y",
+                "(C) p > p > 0\nx y",
+                "(D) p = p > 0\ny x"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Consider two disjoint events A and B in a sample space S. Which of the following is\ncorrect?",
+            "options": [
+                "(A) A and B are always independent",
+                "(B) A and B cannot be independent",
+                "(C) A and B are independent if exactly one of them has positive probability",
+                "(D) A and B are independent if both of them have positive probability"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "A bowl contains 5 chips, 3 marked $1 and 2 marked $4. A player draws 2 chips at\nrandom and is paid the sum of the values of the chips. The player’s expected gain (in\n$) is",
+            "options": [
+                "(A) less than 2",
+                "(B) 3",
+                "(C) above 3 and less than 4",
+                "(D) above 4 and less than 5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Consider the following two income distributions in a 10 person society. A : (1000,\n1000, 1000, 1000, 1000, 1000, 1000, 2000, 2000, 2000) and B : (1000, 1000, 1000, 1000,\n1000, 2000, 2000, 2000, 2000, 2000). Which of the following statements most accurately\ndescribes the relationship between the two distributions?",
+            "options": [
+                "(A) The Lorenz curve for distribution A lies to the right of that for distribution B",
+                "(B) The Lorenz curve for distribution B lies to the right of that for distribution A",
+                "(C) The Lorenz curves for the two distributions cross each other",
+                "(D) The Lorenz curves for the two distributions are identical for the bottom half\nof the population"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "A certain club consists of 5 men and 5 women. A 5-member committee consisting of 2\nmen and 3 women has to be constituted. Also, suppose that Mrs. F refuses to work with\nMr. M. How many ways are there of constituting a 5-member committee that ensures\nthat both of them do not work together?",
+            "options": [
+                "(A) 50",
+                "(B) 76",
+                "(C) 108",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Suppose, you are an editor of a magazine. Everyday you get two letters from your\ncorrespondents. Eachletterisaslikelytobefromamaleasfromafemalecorrespondent.\nThe letters are delivered by a postman, who brings one letter at a time. Moreover, he\nhas a ‘ladies first’ policy; he delivers letter from a female first, if there is such a letter.\nSuppose you have already received the first letter for today and it is from a female\ncorrespondent. What is the probability that the second letter will also be from a female?",
+            "options": [
+                "(A) 1/2",
+                "(B) 1/4",
+                "(C) 1/3",
+                "(D) 2/3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "On an average, a waiter gets no tip from two of his customers on Saturdays. What is\nthe probability that on next Saturday, he will get no tip from three of his customers?\n9",
+            "options": [
+                "(A) e−3\n2",
+                "(B) 2e−3\n4",
+                "(C) e−2\n3",
+                "(D) 3e−2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "A linear regression model y = α+βx+(cid:15) is estimated using OLS. It turns out that the\nestimated R2 equals zero. This implies that:",
+            "options": [
+                "(A) All x’s are necessarily zero\nˆ",
+                "(B) β = 1 and y = αˆ +x\nˆ",
+                "(C) β = 0 or all x’s are constant\nˆ",
+                "(D) There are no implications for β"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Using ordinary least squares, a market analyst estimates the following demand function\nlogX = α+βlogP +(cid:15)\nwhere X is the output and P is the price. In another formulation, she estimates the\nabove function after dividing all prices by 1000. Comparing the two sets of estimates\nshe would find that\nˆ",
+            "options": [
+                "(A) αˆ and β will be the same in both formulations\nˆ",
+                "(B) αˆ and β will differ across both formulations\nˆ",
+                "(C) αˆ will change but β will not\nˆ",
+                "(D) β will change but αˆ will not"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "A linear regression model is estimated using ordinary least squares y = α+βx+(cid:15). But\nthe variance of the error term is not constant, and in fact varies directly with another\nvariable z, which is not included in the model. Which of the following statements is\ntrue?",
+            "options": [
+                "(A) The OLS estimated coefficients will be biased because of the correlation be-\ntween x and the error term",
+                "(B) The OLS estimated coefficients will be unbiased but their estimated standard\nerrors will be biased",
+                "(C) The OLS estimated coefficients will be unbiased and so will their estimated\nstandard errors because the error variance is not related to x, but to z which\nis not included in the model",
+                "(D) Both the OLS estimated coefficients and their estimated standard errors will\nbe biased"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Suppose the distribution function F(x) of a random variable X is rising in the interval\n[a,b) and horizontal in the interval [b,c]. Which of the following statements CAN be\ncorrect?",
+            "options": [
+                "(A) F(x) is the distribution function of a continuous random variable X.",
+                "(B) c is not the largest value that X can take.",
+                "(C) The probability that X = b is strictly positive.",
+                "(D) Any of the above\nConsideranopeneconomysimpleKeynesianmodelwithautonomousinvestment(I). People\nsave a constant proportion (s) of their disposable income and consume the rest. Government\ntaxesthetotalincomeataconstantrate(τ)andspendsanexogenousamount(G)onvarious\nadministrative activities. The level of export (X) is autonomous at the fixed real exchange\nrate (normalized to unity). Import (M) on the other hand is a linear function of total income\nwith a constant import propensity m. Let\n1 2 1\nI = 3200;G = 4000;X = 800;s = ;τ = ; and m =\n2 5 10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "The equilibrium level of income is given by:",
+            "options": [
+                "(A) 8,000",
+                "(B) 16,000",
+                "(C) 10,000",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "At this equilibrium level of income",
+            "options": [
+                "(A) there is trade surplus",
+                "(B) there is a trade deficit",
+                "(C) trade is balanced",
+                "(D) one cannot comment on the trade account without further information"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "Now suppose the government decides to maintain a balanced trade by appropriately\nadjusting the tax rate τ (thereby affecting domestic absorption) - without changing the\nexchange rate or the amount of government expenditure. Values of other parameters\nremain the same. The government",
+            "options": [
+                "(A) can attain this by decreasing the tax rate to 1/5",
+                "(B) can attain this by increasing the tax rate to 4/5",
+                "(C) can attain this by simply keeping that tax rate unchanged at 2/5",
+                "(D) can never attain this objective by adjusting only the tax rate"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Suppose in an economy banks maintain a cash reserve ratio of 20%. People hold 25% of\ntheir money in currency form and the rest in the form of demand deposits. If government\nincreasesthehigh-poweredmoneyby2000units,thecorrespondingincreaseinthemoney\nsupply would be",
+            "options": [
+                "(A) 5000 units",
+                "(B) 2000 units",
+                "(C) 7200 units",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Consider the standard IS-LM framework with exogenous money supply. Now suppose\nthegovernmentintroducesanendogenousmoneysupplyrulesuchthatthemoneysupply\nbecomes an increasing function of the interest rate. As compared to the standard IS-LM\ncase, now",
+            "options": [
+                "(A) the IS curve will be flatter and fiscal policy would be more effective",
+                "(B) the IS curve will be steeper and fiscal policy would be less effective",
+                "(C) the LM curve will be flatter and fiscal policy would be more effective",
+                "(D) the LM curve will be steeper and fiscal policy would be less effective\nAnswer 56,57,58,59 and 60 based on the following information: Consider an economy where\naggregate output is produced by using two factors: capital (K) and labour (L). Aggregate\nproduction technology is given by the following production function:\nY = αK +βL , where α,β > 0\nt t t\nAt every point of time both factors are fully employed; each worker is paid a wage rate β\nand each unit of capital is paid a rental price α. A constant proportion s of total output is\nsaved and invested in every period - which augments the capital stock in the next period (no\ndepreciation of capital). Labour force grows at a constant rate n."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "This production function violates",
+            "options": [
+                "(A) the neoclassical property of constant returns to scale",
+                "(B) the neoclassical property of diminishing returns to each factor",
+                "(C) theneoclassicalpropertyoffactorreturnsbeingequaltotherespectivemarginal\nproducts",
+                "(D) the neoclassical property of substitutability between capital and labour"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Let k = K /L . The corresponding per capita output, y , is given by which of the\nt t t t\nfollowing equations?",
+            "options": [
+                "(A) y = α+βk\nt t",
+                "(B) y = β(k )α\nt t",
+                "(C) y = αk +β\nt t",
+                "(D) y = α(k )β\nt t"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "The dynamic equation for capital accumulation per worker is given by",
+            "options": [
+                "(A) dk = sβkα −nk\ndt t t",
+                "(B) dk = sαk +sβ −nk\ndt t t",
+                "(C) dk = sαk −nk\ndt t t",
+                "(D) dk = sαkβ −nk\ndt t t"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "Let α = 1; β = 12; s = 1; n = 1. The corresponding steady state value of capital per\n2 4 2\nworker is given by",
+            "options": [
+                "(A) 8",
+                "(B) 36",
+                "(C) (4) 1\n11",
+                "(D) There does not exist any well-defined steady state value"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Consider the same set of parameter values as above. An increase in the savings ratio",
+            "options": [
+                "(A) unambiguously increases the steady state value of capital per worker",
+                "(B) unambiguously decreases the steady state value of capital per worker",
+                "(C) leaves the steady state value of capital per worker unchanged",
+                "(D) has an ambiguous effect; a steady state may not exist if the savings ratio\nincreases sufficiently"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

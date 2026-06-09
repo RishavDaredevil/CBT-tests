@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2007,
+    "exam_title": "DSE 2007",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Consider a consumer having a utility function U = 2x + y where x and y are two\ncommodities. Suppose that the price of x and y are both Rs. 5 each and the consumer’s\nincome is Rs. 100. In equilibrium, the consumer will consume the bundle",
+            "options": [
+                "(A) (10,10)",
+                "(B) (0,20)",
+                "(C) (20,0)",
+                "(D) None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Withquantityofxonthehorizontalaxis,theEngelcurveforcommodityxcorresponding\nto the utility function U = y +f(x) will be",
+            "options": [
+                "(A) a ray through the origin",
+                "(B) a vertical line",
+                "(C) a horizontal line",
+                "(D) a curve with an inflexion point"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Suppose a producer has a fixed coefficient technology Q = min{2K,3L}, where Q is\noutput and K and L are the inputs. At equilibrium",
+            "options": [
+                "(A) K = L",
+                "(B) K = (3/2)L",
+                "(C) K = (2/3)L",
+                "(D) K and L are indeterminate"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A monopolist will never produce a quantity where the price elasticity of demand is\ninelastic because:",
+            "options": [
+                "(A) P > MC in such a case",
+                "(B) MR > MC in such a case",
+                "(C) MR < 0 in such a case",
+                "(D) P < ATC in such a case"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "In the figure below when the budget lie (drawn in blue) was originally 5F +10C = 200,\nAnita purchased 30 units of F and 5 units of",
+            "options": [
+                "(A) A, B",
+                "(B) A, D",
+                "(C) B, C",
+                "(D) C, D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "NAIRU implies",
+            "options": [
+                "(A) the unemployment rate is zero",
+                "(B) inflation is contant",
+                "(C) the rate of growth of real GDP is constant",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "In an open economy with perfect capital mobility and fixed exchange rates, an open\nmarket operation will",
+            "options": [
+                "(A) increase output and reduce interest rate",
+                "(B) increase the money supply",
+                "(C) lower the trade deficit",
+                "(D) change the composition of the monetary base"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "If a person is a borrower, a rise in the interest rate will",
+            "options": [
+                "(A) always reduce borrowing",
+                "(B) always increase borrowing",
+                "(C) could increase borrowing depending on the relative strengths of income and\nsubstitution effects",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The J-curve suggests that the effect of an appreciation of the exchange rate on the trade\nbalance is to:",
+            "options": [
+                "(A) improve it in the short run",
+                "(B) worsen it in the short run",
+                "(C) leave it unchanged",
+                "(D) improve it in the long run"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Under classical supply conditions, a fiscal expansion",
+            "options": [
+                "(A) only raises the price level and the interest rate",
+                "(B) expands supply at constant prices",
+                "(C) expands supply at rising prices",
+                "(D) leaves both supply and price level unchanged"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider the following functions f : R → R, where R denotes the set of real numbers.\nWhich of the following functions is quasi-convex?",
+            "options": [
+                "(A) f(x) = x2",
+                "(B) f(x) = cosx",
+                "(C) f(x) = e−x",
+                "(D) f(x) = x−1 if x 6= 0; f(x) = 0 if x = 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Consider an n×n matrix A with real entries. If matrix B is derived by adding the first\ncolumn of A to the last column of A, then",
+            "options": [
+                "(A) det A < det B",
+                "(B) det A > det B",
+                "(C) det A = det B",
+                "(D) the sign of det A is the opposite of the sign of det B"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Considerastrictlydecreasing(i.e.,x > y impliesf(x) < f(y))anddifferentiablefunction\nf : R → R, where R denotes the set of real numbers. Denote the derivative of f at x ∈ R\nby Df(x). Which of the following may be true about f?",
+            "options": [
+                "(A) Df(x) > 0 for some x ∈ R",
+                "(B) Df(x) = 0 for some x ∈ R",
+                "(C) Df(x) = 0 for every x ∈ (a,b) where a < b",
+                "(D) Df(x) ≥ 0 for every x ∈ R"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "If the statement “There exists a legislature and a party such that every legislator in that\nparty pays taxes” is false, then which of the following statements must be true?",
+            "options": [
+                "(A) In every legislature and every party, all legislators do not pay taxes",
+                "(B) There exists a legislature such that every legislator in every party does not pay\ntaxes",
+                "(C) In every legislature, there exists a party and a legislator in that party who\ndoes not pay taxes",
+                "(D) In every legislature and every party, there exists a legislator who does not pay\ntaxes"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "If f : Rn → R is twice differentiable, concave and homogeneous of degree 1, then the\nHessian matrix of f is",
+            "options": [
+                "(A) negative definite",
+                "(B) positive definite",
+                "(C) singular",
+                "(D) non-singular"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider an experiment in which five fibres having different lengths are subjecting to a\ntesting process to learn which fibre will break first. The lengths of the five fibres are 1\ninch, 2 inches, 3 inches, 4 inches and 5 inches. Suppose the probability that any fibre\nwill be the first to break is proportional to the length of that fibre. The probability that\nthe length of the fibre that breaks first is not more than 3 inches is",
+            "options": [
+                "(A) 3/5",
+                "(B) 2/5",
+                "(C) 1/3",
+                "(D) 2/3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Which of the following statements is WRONG: A probability density function f(x)",
+            "options": [
+                "(A) can be used to model a continuous variable",
+                "(B) integrates to 1 over the range of x",
+                "(C) increases steadily from 0 to 1",
+                "(D) must be greater than or equal to 0 over the range of x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Aprimaryschoolhas6classes, numberedfrom1to6. Class1hastwiceasmanystudents\nas each of the other classes. What is the probability that a randomly selected student\nis from an odd-numbered class?",
+            "options": [
+                "(A) 10/21",
+                "(B) 3/7",
+                "(C) 8/21",
+                "(D) 4/7"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "AtrafficlightonthewaytotheUniversityisred40%ofthetime. What’stheprobability\nof getting a red light (i) 2 days in a row; (ii) any 2 out of the 3 days.",
+            "options": [
+                "(A) (i) 0.16; (ii) 0.20",
+                "(B) (i) 0.16; (ii) 0.29",
+                "(C) (i) 0.24; (ii) 0.29",
+                "(D) none of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Let Y denote the number of heads obtained when 3 coins are tossed. The variance of\nY2 is",
+            "options": [
+                "(A) 6.5",
+                "(B) 7.0",
+                "(C) 7.5",
+                "(D) 8.0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "A firm has the production function Q = 12L − L2, where L is labour input and Q is\noutput. If the firm is a monopolist with a demand curve P(Q) = 100−Q, what is the\nMRP (Marginal Revenue Product of Labour) curve?\nL",
+            "options": [
+                "(A) 1200−288L+72L2 −4L3",
+                "(B) 1200−288L−72L2 +4L3",
+                "(C) 1200−488L+72L2 −4L3",
+                "(D) 1200−488L−72L2 +4L3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Sudhir lives in Gujarat. His total wealth next year, including his house, will be Rs.\n5,00,000. There is a 10% chance that a big earthquake will occur next year and com-\npletely destroy his house, valued at Rs. 2,00,000.\n(i) What is Sudhir’s expected wealth next year if he chooses not to buy house insur-\nance?\n(ii) Suppose Sudhir’s utility function is given by U(W) = W0.5, where W represents\ntotal wealth in thousands of rupees. Is Sudhir risk-averse, risk-loving, or risk-\nneutral?",
+            "options": [
+                "(A) (i) Rs. 4,50,000 and (ii) risk-averse",
+                "(B) (i) Rs. 4,50,000 and (ii) risk-neutral",
+                "(C) (i) Rs. 4,80,000 and (ii) risk-loving",
+                "(D) (i) Rs. 4,80,000 and (ii) risk-averse"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider an airport that produces noise (N) that declines as the distance (d) in kilome-\ntres, from the airport increases: N(d) = 1/(d2). Praful works at the airport. Praful’s\ndamage from noise is Rupee 1 per unit of noise and is associated with where Praful lives.\nHis costs of commuting are Rupee 1 per kilometre (each way). The closest he can live\nto the airport is d = 0.1 km.\n(i) WhatisthedistancePrafulwilllivefromtheairportintheabsenceofcompensation\nfor the noise?\n(ii) Suppose Praful is compensated for his damage, wherever he may live. How much\nwill he be compensated?",
+            "options": [
+                "(A) (i) 1 km and (ii) Rs. 100",
+                "(B) (i) 0.1 km and (ii) Rs. 100",
+                "(C) (i) 1 km and (ii) Rs. 1",
+                "(D) (i) 0.1 km and (ii) Rs. 100"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Suppose the car market is perfectly competitive and each firm has the same cost struc-\nture. There are 1000 firms in the industry. The market demand and cost schedules are\ngiven below.\nMarket Demand\nPrice (lacs per car) 3.65 5.20 6.80 8.40 10.00 11.60 13.20\nQuantity (thousands per year) 500 450 400 350 300 250 200\nCosts per firm (Rs. lacs)\nOutput 200 250 300 350 400 450 500\nMC 6.40 7.00 7.65 8.40 10.00 12.40 12.70\nAVC 7.80 7.00 7.10 7.20 7.50 8.00 9.00\nATC 12.80 11.00 10.43 10.06 10.00 10.22 11.00\nIn the long run",
+            "options": [
+                "(A) Some firms will exit the industry, but others will remain",
+                "(B) Some firms will enter the industry",
+                "(C) The number of firms will remain the same",
+                "(D) The industry will close down"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Abhik’s and Brinda’s demand curves for apples are given by\np = 20−q (Abhik)\np = 5−(q/2) (Brinda)\nwhere p,q ≥ 0 for each.\nSuppose these are the only two consumers in the market, and the market supply function\nis given by: p = 2+Q. Then the equilibrium quantity in the market is:",
+            "options": [
+                "(A) 12 apples",
+                "(B) 9 apples",
+                "(C) 6 apples",
+                "(D) 3 apples"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "A farmer’s demand for wheat is given by the function:\nq = 25+m/(20p)\nwhere m is his money income and p is the price of the wheat. Let the farmer’s money\nincome be Rs. 1000. Suppose that initially, the farmer purchases wheat in the market\nfor Rs. 10 per kg. Now, consider a situation where the farmer obtains a BPL card which\nallows him to purchase unto 35 kg of wheat for Rs. 5 per kg. What will be the increase\nin his demand for wheat attributable to the Slutsky substitution effect?",
+            "options": [
+                "(A) 3.5 kg",
+                "(B) 4.0 kg",
+                "(C) 4.5 kg",
+                "(D) 5.0 kg\nAnswer 27, 28, 29 and 30 using the following information. An economy has two agents (1\nand 2) and 3 units of each of two goods, X and Y. An allocation in this economy is defined\nas a tuple ((x ,y ),(x ,y ),(x ,y )) of non-negative real numbers, where (x ,y ) and (x ,y )\n0 0 1 1 2 2 1 1 2 2\nare the amounts of goods X and Y consumed by Agents 1 and 2 respectively, and (x ,y )\n0 0\nare the amounts of the two goods left over after the consumption of the two agents (i.e.,\nx = 3−x −x , y = 3−y −y ). The agents’ ability to consume is limited, so that for\n0 1 2 0 1 2\neach Agent i = 1,2, (x ,y ) must satisfy x2+y2 ≤ 12. Agent 1 is higher on the social ladder\ni i i i\nand gets to choose his consumption bundle (x ,y ) first. Agent 2 chooses her consumption\n1 1\nbundle from what remains of the two goods after Agent 1 has chosen. An equilibrium for\nthis economy is an allocation such that\n(1) (x ,y ) maximises Agent 1’s utility subject to the constraints:\n1 1\nx ≤ 3, y ≤ 3, x2 +y2 ≤ 12, and\n1 1 1 1\n(2) (x ,y ) maximises Agent 2’s utility subject to the constraints:\n2 2\nx ≤ 3−x , y ≤ 3−y , x2 +y2 ≤ 12, and\n2 1 2 1 2 2\nIt is given that Agent 1’s utility function u (x ,y ) = x2y and Agent 2’s utility function\n1 1 1 1 1\nu (x ,y ) = ax +y , where ‘a’ is a given positive number.\n2 2 2 2 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Which one of the allocations ((x ,y ),(x ,y ),(x ,y )) specified below is an equilibrium\n0 0 1 1 2 2\nfor this economy?\n√ √",
+            "options": [
+                "(A) ((0,0),(3, 3),(0,3− 3))\n√ √ √ √",
+                "(B) ((0,0),( 6, 6),(3− 6,3− 6))\n√ √",
+                "(C) ((0,0),(2.5, 5.75),(0.5,3− 5.75))\n√ √",
+                "(D) ((0,0),( 8,2),(3− 8,1))"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Let a = 1, for Agent 2’s utility function. Then, the equilibrium allocation in the above\nquestion is",
+            "options": [
+                "(A) Pareto efficient, because the slopes of the Agents’ indifference curves are tan-\ngent at that allocation",
+                "(B) Not Pareto efficient, because the slopes of the Agents’ indifference curves are\nnot tangent at that allocation",
+                "(C) Pareto efficient, because there is a bound on Agent 1’s ability to consume",
+                "(D) Not Pareto efficient, as Agent 2 can be made better off without making Agent\n1 worse off"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Suppose there was no bound on the ability of any agent to consume, and you could\nchoose the value of the parameter ‘a’ in Agent 2’s utility function. For what value of ‘a’\nwould the equilibrium in Q 27 be efficient?",
+            "options": [
+                "(A) 1\n√",
+                "(B) 2\n√",
+                "(C) 8",
+                "(D) 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Now suppose that Agent 2 is higher on the social ladder than Agent 1, so Agent 2 gets to\nchoose her consumption bundle before Agent 1 does. All other features of the economy\nare unchanged. If a = 2, which one of the allocations((x ,y ),(x ,y ),(x ,y )) below is\n0 0 1 1 2 2\nan equilibrium for this modified economy?\n√ √",
+            "options": [
+                "(A) ((0,0),(3, 3),(0,3− 3))\nq q q q",
+                "(B) ((0,0),(3− 48/5,3− 12/5),( 48/5, 12/5))\n√ √",
+                "(C) ((0,0),(0,3− 3),(3, 3))\n√ √",
+                "(D) ((0,0),(2,3− 8),(1, 8))\nThe following information applies to the questions 31, 32, 33 and 34. Consider an economy\nwhere the nominal wage rate (W) is set by the workers and it depends on the expected price\nlevel (Pe) and the rate of unemployment (u) in the following way: W = Pe(1−αu), where\nα is a parameter; 0 < α < 1. The actual price level (P) on the other hand is set by the\nproducers who charge a mark up over the nominal wage rate so that: P = (1+λ)W, where\nλ > 0 is another parameter."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "If the workers are always able to correctly guess the price level then the rate of unem-\nployment will always be maintained at a level which is given by:",
+            "options": [
+                "(A) 1\n1+λ",
+                "(B) α\n1+λ",
+                "(C) 1\n(1+λ)α",
+                "(D) 1+α\n1+λ\nE. λ\nα(1+λ)"
+            ],
+            "correct_option": "E",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "There will always be full employment of the aggregate stock of labour force if and only\nif the expected and the actual price level are related in the following way:\nP",
+            "options": [
+                "(A) = 1\nPe\nP",
+                "(B) = 1+λ\nPe\nP 1+λ",
+                "(C) =\nPe 1−α\nP",
+                "(D) = (1+λ)(1−α)\nPe\nThe following additional information applies to the next two questions. In addition to the\ninformation given for the above two questions, suppose the production technology is such\n¯\nthat one employed worker can produce one unit of output. Let Y,N, and L denote the level\nof output, the level of employment and the aggregate stock of labour force respectively. On\nthe basis of the wage and price information given in the previous questions, work out a\nrelationship between P,Pe and Y and answer the following two questions:"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "An increase in output ceteris paribus leads to",
+            "options": [
+                "(A) an increase in the actual price level",
+                "(B) a decrease in the actual price level",
+                "(C) the actual price level will remain unchanged",
+                "(D) given information is not sufficient to conclude anything about the change in\nthe actual price level"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "An increase in the aggregate stock of labour force ceteris paribus leads to",
+            "options": [
+                "(A) an increase in the actual price level",
+                "(B) a decrease in the actual price level",
+                "(C) the actual price level will remain unchanged",
+                "(D) given information is not sufficient to conclude anything about the change in\nthe actual price level\nThefollowinginformationappliestothequestions 35and36. Considerthefollowingmacroe-\nconomic model. The goods market is characterised by the following set of equations:\nC = α +α Y\n0 1\nI = β +β Y −β i\n0 1 2\nG = G (exogenously given)\nwhere α , α , α , α , β , β , β are all positive constants and α +β < 1.\n0 0 1 2 0 1 2 1 1\nThe money market equilibrium condition is given by:\nM\n= γ Y −γ i; γ ,γ positive constants.\n1 2 1 2\nP\nAnswer the following two questions on the basis of this model:"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "If interest rate (i) increases by one unit , to maintain equilibrium in the goods market,\nincome level (Y) has to decrease by\nβ",
+            "options": [
+                "(A) 2 units\n1−(α +β )\n1 1\n1",
+                "(B) units\n1−(α +β )\n1 1\n1",
+                "(C) units\n1−(α +β )+ γ1β\n1 1 γ2 2\n1",
+                "(D) units\n1−(α +β )+ γ1α\n1 1 γ2 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "A unit increase in government expenditure (G) will increase the equilibrium income level\n(Y) by\nβ",
+            "options": [
+                "(A) 2 units\n1−(α +β )\n1 1\n1",
+                "(B) units\n1−(α +β )\n1 1\n1",
+                "(C) units\n1−(α +β )+ γ1β\n1 1 γ2 2\n1",
+                "(D) units\n1−(α +β )+ γ1α\n1 1 γ2 2\nThe following information applies to the next two questions. Savitri has got a job in a\nhouschold for 2 months with wages w and w respectively. She plans for her consumption\n1 2\nin the two months (denoted by, c and c respectively) so as to maximize her utility given\n1 2\nby logc + 1 logc , where δ > 0 is the discount rate. She is also allowed to borrow from\n1 1+δ 2\nher employer in the first month which she has to repay, with interest at the rate r, from her\nsecond month’s earnings. Alternatively she can save some of her wages in the first month\nand keep it in the bank to earn an interest at the same rate r. In this framework answer the\nfollowing two questions:"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Savitri will optimally decide to borrow from her employer in the first month if and only\nif the following condition is satisfied:",
+            "options": [
+                "(A) w > (1+r)w\n2 1",
+                "(B) (1+δ) > (1+r)",
+                "(C) (1+δ)w > (1+r)w\n2 1",
+                "(D) (1+δ) < (1+r)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Assuming that the above condition is satisfied, when the discount rate (δ) goes up, her\nborrowing",
+            "options": [
+                "(A) goes up",
+                "(B) goes down",
+                "(C) does not change",
+                "(D) cannot say on the basis of the given information"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Consider two open economies with fixed exchange rates, when the exchange rate is unity.\nThe economies are characterised by the following set of equations, where i = 1,2:\nC = c +c (Y −T )\ni 01 1i i i\nI = I\ni i\nG = G\ni i\nT = t Y\ni i i\nM = m +m Y\ni 0i 1i i\nIf c = c = 200; c = c = 0.5; I = I = 250; G = 114; G = 120; t = t = 0.4;\n01 02 11 12 1 2 1 2 1 2\nm = m = 40; m = 0.05; m = 0.3 then which of the following is true ?\n01 02 11 12",
+            "options": [
+                "(A) Country 1 has a higher equilibrium level of output than country 2 and it runs\na trade deficit vis-a`-vis Country 2",
+                "(B) Country 1 has a lower equilibrium level of output than country 2 and it runs\na trade deficit vis-a`-vis Country 2",
+                "(C) Country 1 has a higher equilibrium level of output than country 2 and it runs\na trade surplus vis-a`-vis Country 2",
+                "(D) Country 1 has a lower equilibrium level of output than country 2 and it runs\na trade surplus vis-a`-vis Country 2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "In the Mundell-Fleming model of a small open economy with flexible exchange rates and\nperfect capital mobility, suppose the economy is initially in equilibrium. If lump sum\ntaxes are increased, what happens to the equilibrium levels of the country’s (i) GDP;\n(ii) interest rate and (iii) exchange rate?",
+            "options": [
+                "(A) (i) falls, (ii) falls, (iii) appreciates",
+                "(B) (i) and (ii) remain unchanged; (iii) depreciates",
+                "(C) (i) falls, (ii) and (iii) remain unchanged",
+                "(D) All three remain unchanged"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "f : Rn → R is convex if and only if",
+            "options": [
+                "(A) {(x,r) ∈ Rn ×R|f(x) ≤ r} is convex",
+                "(B) {(x,r) ∈ Rn ×R|f(x) ≥ r} is convex",
+                "(C) {x ∈ Rn|f(x) ≤ r} is convex for every r ∈ R",
+                "(D) {x ∈ Rn|f(x) ≥ r} is convex for every r ∈ R"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "If f : R → R is defined by f(x) = Rx2 etdt, then the derivative of f at x > 0 is\n+ x",
+            "options": [
+                "(A) 2xex2 −ex",
+                "(B) 2xex2 +ex",
+                "(C) (2x−1)ex2",
+                "(D) (2x−1)ex"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "The sequence (x ), where x = (−1)n(1+n−1) and n = 1,2,...\nn n",
+            "options": [
+                "(A) converges to 1",
+                "(B) converges to −1",
+                "(C) converges to 1 and −1",
+                "(D) converges to neither 1 nor −1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "The set T∞ (−1−n−1,1+n−1) is identical to\nn=1",
+            "options": [
+                "(A) (−1,1]",
+                "(B) [−1,1)",
+                "(C) (−1,1)",
+                "(D) [−1,1]"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "The set ∪∞ [−1+n−1,1−n−1] is identical to\nn=1",
+            "options": [
+                "(A) (−1,1]",
+                "(B) [−1,1)",
+                "(C) (−1,1)",
+                "(D) [−1,1]"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "For x,y ∈ Rn, let d(x,y) = max{|x −y ||i = 1,...,n}. Which of the following relations\ni i\nholds for all x,y,z ∈ Rn?",
+            "options": [
+                "(A) d(x,z) = d(x,y)+d(y,z)",
+                "(B) d(x,z) > d(x,y)+d(y,z)",
+                "(C) d(x,z) ≥ d(x,y)+d(y,z)",
+                "(D) d(x,z) ≤ d(x,y)+d(y,z)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "GivensetsX,Y, letX×Y = {(x,y)|x ∈ X andy ∈ Y}, andletX−Y = {x ∈ X|x ∈/ Y}.\nWhich of the following formulae is generally correct for sets A,B and C?",
+            "options": [
+                "(A) (A−B)×C = (B ×C)−(A×C)",
+                "(B) (A−B)×C = (A×C)−(B ×C)",
+                "(C) (A−B)×C = (A×C)−B",
+                "(D) (A−B)×C = A−(B ×C)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Suppose f : R2 → R is defined by z = xy. At (0,0) this function",
+            "options": [
+                "(A) Attains a maximum",
+                "(B) Attains a minimum",
+                "(C) Attains saddle point",
+                "(D) Is undefined"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "What is the maximum value of the function in the previous question, subject to the\nconstraints x > 0, y > 0, and 2x+y = 6?",
+            "options": [
+                "(A) 2.5",
+                "(B) 4",
+                "(C) 4.5",
+                "(D) 9"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "”Beautiful cities repel people. Look at India’s most beautiful cities - they are among\nthe least populated cities of the country”. Which of the following statements illustrates\na method of reasoning most similar to the one in the argument above?",
+            "options": [
+                "(A) Children who are spanked tend to be more naughty than other children. Hence\nif a child is not spanked, that child is less likely to be naughty.",
+                "(B) Pesticides are known to cause asthma among some people. However, most\nasthmatic people tend to live in regions where pesticides are not commonly\nused.",
+                "(C) This software program helps increase the work efficiency of its users. As a\nresult these users have more free time for other activities.",
+                "(D) During warm weather, my crops suffer from pests more than during cooler\nweather. Therefore, a warm environment must help pests to multiply."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "The average travel time to a distant city is w hours by train or z hours by bus. A man\ncannot decide weather to take the train or the bus, so he tosses a coin. What is his\nexpected travel time?",
+            "options": [
+                "(A) 2(w+z)",
+                "(B) 2(w+z)/w−z",
+                "(C) (w+z +2)/2",
+                "(D) None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "A class has 6 students, randomly divided into two teams, A and B, for a race. What is\nthe probability that the three runners in team A will come in first, second and third?",
+            "options": [
+                "(A) 3!/6!",
+                "(B) 1/6!",
+                "(C) (3!)2/6!",
+                "(D) 3/6!"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "Suppose that each person out of a group of 4 friends is randomly assigned to one of 6\nclasses. What is the probability that no class has more than one person from this group?",
+            "options": [
+                "(A) 6!/4!",
+                "(B) 5/18",
+                "(C) 4/6",
+                "(D) 6/4!"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "A continuous random variable has the probability density function f(x) = 1/3, for x\nbetween −1 and +2, and 0 elsewhere. Its mean, variance and median are:",
+            "options": [
+                "(A) (1, 3, 1)\n4 2",
+                "(B) (1, 3, 1)\n2 4 2",
+                "(C) (1,1,1)\n2",
+                "(D) (1,1, 1)\n2 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "The joint probability distribution of A and W for a given population is as follows, where\nA is the individual’s age in years and W is the weight she can lift.\nA\n15 years 25 years 40 years 60 years 80 years\n10 kilos 0.03 0.16 0.14 0.12 0.01\nW 20 kilos 0.02 0.13 0.11 0.09 0.00\n30 kilos 0.01 0.09 0.08 0.01 0.00\nThe expectation of the Marginal distribution of A is:",
+            "options": [
+                "(A) 36.7 years",
+                "(B) 37.6 years",
+                "(C) 35.6 years",
+                "(D) 38.6 years"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "In a survey of 400 likely voters, 215 responded that they would vote for the ruling party\nand 185 responded that they would vote for the opposition party. Let p denote the\nfraction of all likely voters who preferred the ruling party at the time of the survey, and\nlet pˆbe the fraction of survey respondents who preferred the ruling party. The standard\nerror of pˆis:",
+            "options": [
+                "(A) 0.025",
+                "(B) 0.035",
+                "(C) 0.045",
+                "(D) 0.055"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Let X and Y be two random variables with E[X] = 3, E[Y] = 0, V[X] = 4, V[Y] = 25\nand E[XY] = 5. Find (i) C(X,Y); (ii) the Pearsonian coefficient of correlation between\nX and Y (ρ ); (iii) V[X +Y]\nXY",
+            "options": [
+                "(A) 0.5,5,39",
+                "(B) 5,0.5,34",
+                "(C) 5,5,39",
+                "(D) 5,0.5,39"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "If Y is a binomial random variable with parameters n = 4 and p = 0.78, calculate\nPr(Y ≥ 3) to 2 decimal places.",
+            "options": [
+                "(A) 0.15",
+                "(B) 0.21",
+                "(C) 0.64",
+                "(D) 0.79\nFor questions 59 and 60, please note that the two-tailed 5% critical value for a standardised\nnormal distribution is ±1.96 and the corresponding value for a one-tailed test is ±1.645.\nAt the 1% level of significance, the critical value for a two-tailed test is ±2.58 and the\ncorresponding value for a one-tailed test is ±2.33."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "An examination was given to two classes consisting of 40 and 50 students respectively.\nIn the first class the mean grade was 74 with a standard deviation of 8, while in the\nsecond class the mean grade was 78 with a standard deviation of 7. On the basis of\na two-tailed test, is there a significant difference between the performance of the two\nclasses at a level of significance of 5% and 1%?",
+            "options": [
+                "(A) There is no significant difference between the performance of the two classes\nat the 5% and 1% levels of significance",
+                "(B) There is a significant difference between the performance of the classes at the\n5% level but no significant difference at the 1% level of significance",
+                "(C) There is a significant difference between the performance of the classes at the\n1% level but no significant difference at the 5% level of significance",
+                "(D) There is a significant difference in performance at both the 5% and 1% levels"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "A sample poll of 300 voters from District A and 200 voters from District B showed that\n56% and 48% respectively were in favour of a given candidate. At a level of significance\nof 5%, test the hypothesis that (a) there is a difference between the districts, (b) the\ncandidate is preferred in District A.",
+            "options": [
+                "(A) There is no significant difference between the districts and the candidate is not\npreferred in District A",
+                "(B) There is no significant difference between the districts and the candidate is\npreferred in District A",
+                "(C) There is a significant difference between the districts and the candidate is not\npreferred in District A",
+                "(D) There is a significant difference between the districts and the candidate is\npreferred in District A"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

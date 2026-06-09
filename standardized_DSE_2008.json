@@ -1,0 +1,840 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2008,
+    "exam_title": "DSE 2008",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "In the context of ideal price index numbers, consider the following statements:\nS1: The index number should be invariant to the choice of base, i.e. P ×P = 1.\nrs sr\nS2: An index that satisfies the circularity condition P × P = P , r 6= t, need not\nrs st rt\nsatisfy S1.\nS3: If all prices change in the same proportion λ, then the index should equal λ.\nS4: If we change the units of measurement of the prices, but not those of the quantity\nweights, that should not affect the index.\nGiven these statements, which of the following is true?",
+            "options": [
+                "(A) S1 and S2",
+                "(B) S2 and S4",
+                "(C) S1, S2 and S3",
+                "(D) S1 and S3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Suppose that the probability that any particle emitted by a radioactive material will\npenetrate a given shield is .01. If ten particles are emitted, what is the probability that\nexactly one of the particles will penetrate the shield?",
+            "options": [
+                "(A) (.01)(0.99)9",
+                "(B) (0.1)(0.99)9",
+                "(C) 0.1",
+                "(D) 1/9"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider a symmetric 90% confidence interval for the population mean of a normal\ndistribution with unknown variance, constructed using a random sample of 400 observa-\ntions. Which of the following changes, ceteris paribus, would shorten the length of the\nconfidence interval by the greatest amount?",
+            "options": [
+                "(A) The confidence level is changed to 99%.",
+                "(B) The sample mean is half its original value.",
+                "(C) The sample size is four times its original value.",
+                "(D) The sample standard deviation is one third its original value."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let A and B be any two events, each of which has a positive probability of occurring.\nConsider the following statements:\nI. If A and B are independent, they must be mutually exclusive.\nII. If A and B are mutually exclusive, they must be independent.\nIII. If A and B are independent, they cannot be mutually exclusive.\nIV. If A and B are mutually exclusive, they cannot be independent.\nWhich of the above statements are true?",
+            "options": [
+                "(A) I and IV.",
+                "(B) II and III.",
+                "(C) III and IV.",
+                "(D) None of the statements are true."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Consider a random variable X which can take on only nonzero integer values from −20\nto +20, and whose probability distribution is symmetric around 0. Suppose the f(x),\ncalled the probability mass function of X, gives the probability that X = x,∀ x =\n−20,...,−1,1,...,20. Now consider the random variable Y = X2. Which of the fol-\nlowing would be an appropriate definition for g(y), the probability mass function for\nY?\n√",
+            "options": [
+                "(A) g(y) = f( y) ∀ y = 1,4,...,400 and g(y) = 0 otherwise.\n√",
+                "(B) g(y) = [f( y)]2 ∀ y = 1,4,...,400 and g(y) = 0 otherwise.\n√",
+                "(C) g(y) = 2f( y) ∀ y = 1,4,...,400 and g(y) = 0 otherwise.\nq √",
+                "(D) g(y) = f( y) ∀ y = 1,4,...,400 and g(y) = 0 otherwise."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "A consumer has a utility function U(x,y) = 10(x2 +4xy +4y2)+20. Which one of the\nfollowing statements must be true?",
+            "options": [
+                "(A) The goods are imperfect substitutes.",
+                "(B) The goods are perfect substitutes.",
+                "(C) The goods are perfect complements.",
+                "(D) None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Suppose a consumer has a utility function U(x,y) = min{x+y,2y}. He maximises his\nutility subject to his budget constraint and consumes (x∗,y∗) = (3,3). Which one of the\nfollowing statements must be true?",
+            "options": [
+                "(A) price of good x is necessarily equal to price of good y.",
+                "(B) price of good x is double the price of good y.",
+                "(C) price of good x is less than or equal to price of good y.",
+                "(D) none of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Suppose a monopolist sells his product in two separate markets. After the product is\nsold in one market, there is no possibility of it being resold in the other market. Which\none of the following statements must be true?",
+            "options": [
+                "(A) Prices in both markets must be equal when the marginal cost of output is\nconstant.",
+                "(B) Prices must be higher in the market with higher price elasticity of demand.",
+                "(C) Prices must be higher in the market with lower price elasticity of demand.",
+                "(D) None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider a firm producing a single good with the cost function\n( 5, if x = 0\nC(x) =\n10+10x, if x > 0\nThis firm’s sunk cost and fixed cost are respectively",
+            "options": [
+                "(A) 10 and 10",
+                "(B) 10 and 0",
+                "(C) 0 and 10",
+                "(D) 5 and 10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The elasticity of substitution of the production function f(x,y) = cxayb is",
+            "options": [
+                "(A) c/ab",
+                "(B) ab/c",
+                "(C) a+b",
+                "(D) 1"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "In the standard IS-LM framework if you introduce endogenous money supply such that\nmoney supply depends positively on the nominal rate of interest, the corresponding LM\ncurve",
+            "options": [
+                "(A) becomes steeper",
+                "(B) becomes flatter",
+                "(C) becomes horizontal",
+                "(D) remains unchanged"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "ConsiderasimpleKeynesianmodelwhereequilibriumoutputisdeterminedbyaggregate\ndemand. Investment is autonomous and a constant proportion of the income is saved.\nIn this framework an increase in the savings propensity has the following effect:",
+            "options": [
+                "(A) it leads to higher level of output in the new equilibrium",
+                "(B) it leads to lower level of output in the new equilibrium",
+                "(C) the level of output in the new equilibrium remains unchanged",
+                "(D) the level of output in the new equilibrium may increase or decrease depending\non the degree of increase in the savings propensity"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "In the Solow model of growth, an increase in the savings propensity has the following\nimpact:",
+            "options": [
+                "(A) it leads to a higher steady state rate of growth",
+                "(B) it leads to a lower steady state rate of growth",
+                "(C) the steady state rate of growth remains unchanged",
+                "(D) the steady state rate of growth may increase or decrease depending on the\ndegree of increase in the savings propensity"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "If covered interest parity prevails between two countries,",
+            "options": [
+                "(A) nominal interest rates of the two countries must be equal.",
+                "(B) expected currency depreciation must equal the interest rate differential.",
+                "(C) expected currency depreciation must equal the interest rate differential plus\nthe risk premium.",
+                "(D) interest rate differential must equal the risk premium."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Which of the following constitute the ”impossible trinity” which cannot be simultane-\nously ensured in an open economy?",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Fixed exchange rate",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Balance in the balance of payments",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Free international capital mobility",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Independent monetary policy",
+            "options": [
+                "(A) 1, 2 and 3",
+                "(B) 1, 2 and 4",
+                "(C) 1, 3 and 4",
+                "(D) 2, 3 and 4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Consider the following two functions mapping points on the plane back to-points on the\nplane.\n(i) f(x ,x ) = (x +1,x +1) and\n1 2 1 2\n(ii) g(x ,x ) = (x ,x ).\n1 2 2 1\nWhich of the above functions is a linear function?",
+            "options": [
+                "(A) Both functions are linear.",
+                "(B) Neither function is linear.",
+                "(C) f is a linear function, g is not linear.",
+                "(D) g is a linear function, f is not linear."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider the equation xy +yz +zx = k, defined for all positive values of x and y, and\nwhere k is a given positive constant. The partial derivative ∂z/∂x then equals",
+            "options": [
+                "(A) −(xzx−1 +yzlny)/(yxy−1 +zxlnz)",
+                "(B) −(yxy−1 +zxlnz)/(xzx−1 +yzlny)",
+                "(C) −(zyz−1 +xylnx)/(xzx−1 +yzlny)",
+                "(D) −(zyz−1 +zxlnz)/(xzx−1 +zxlnz)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The derivative of the function defined by f(x) = sin2x+cos2x is",
+            "options": [
+                "(A) an increasing function of x",
+                "(B) an oscillating function of x",
+                "(C) a constant",
+                "(D) a decreasing function of x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Consider an n×n real matrix A with n > 4. Interchanging the positions of two columns",
+            "options": [
+                "(A) will change the sign of detA",
+                "(B) will not change the sign of detA",
+                "(C) may or may not change the sign of detA, depending on the value of n",
+                "(D) may or may not change the sign of detA, depending on the positions of the\ntwo columns"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Suppose we have a chair with n legs and it stands with all its legs touching the floor,\nregardless of the floor quality, i.e., evenness, smoothness, etc. Then, n is",
+            "options": [
+                "(A) 2",
+                "(B) 3",
+                "(C) 4",
+                "(D) 5"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The frequency distribution of variable X (monthly family expenditure in Rs. ‘000) for\n100 household is as follows:\nX 10 - 15 5 - 9.9999 2 - 4.9999 Below 2\nNo. of households 10 15 45 30\nThe median monthly expenditure is in the range:",
+            "options": [
+                "(A) Rs. 2000 to 3000",
+                "(B) Rs. 3000 to 4000",
+                "(C) Rs. 4000 to 5000",
+                "(D) Rs. 5000 to 6000"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The frequency distribution of variable Y, the number of heads when two damaged coins\nare tossed, is:\nY 0 1 2\nF(y) 0.3 0.45 0.25\nTo two decimal places, the mean and variance of Y (in that order) are:",
+            "options": [
+                "(A) 0.95 and 0.50",
+                "(B) 0.50 and 0.95",
+                "(C) 0.95 and 0.55",
+                "(D) 0.95 and 0.45"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "For variables X and Y we have the data: PXY = 350, PX = 50, PY = 60, X = 5,\nσ2 = 4, and σ2 = 9. Which of the following holds?\nX Y",
+            "options": [
+                "(A) A one unit change in X is associated with a 1.25 unit change in Y, and a one\nunit change in Y is associated with a 0.6 unit change in X.",
+                "(B) A one unit change in X is associated with a 0.6 unit change in Y, and a one\nunit change in Y is associated with a 1.25 unit change in X.",
+                "(C) The covariance between X and Y exceeds Y.",
+                "(D) The regression of Y on X passes through the origin."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "The life of a cycle tyre is normally distributed with mean 350 days and variance 64. It\nis true that:",
+            "options": [
+                "(A) The probability that the life of the tyre will be less than 336.84 days is greater\nthan 5%",
+                "(B) The probability that the life of the tyre will be greater than 363.16 days is\ngreater than 5%",
+                "(C) The probability that the life of the tyre will be between 336.84 and 363.16 days\nis 90%",
+                "(D) The probability that the life of the tyre will be less than 334.32 is greater than\n3%"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "In a random sample of 400 mangoes selected from a large consignment, 30 were found\nrotten. The null hypothesis is that the proportion π of rotten mangoes in the consign-\nment is 10%. It is true that:",
+            "options": [
+                "(A) Given H : π 6= 0.1, we can’t reject the null at the 1% level of significance,\nA\nand the probability of error type I of this test is 0.005",
+                "(B) Given H : π < 0.1, we reject the null at the 5% level of significance, and the\nA\nprobability of error type I of this test is 0.05",
+                "(C) Given H : π 6= 0.1, we reject the null at the 10% level of significance, and the\nA\nprobability of error type I of this test is 0.1",
+                "(D) If H : π > 0.1, the power of the associated test is higher than if H : π < 0.1\nA A"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "In a sample of 1000 mangoes, the mean weight of a mango is 210 g, and the standard\ndeviation 9.5 g. In another sample of 1200 mangoes, the mean is 180 g and the standard\ndeviation 11.5 g. Assume that the respective populations from which these samples are\ndrawn have the same variances. Given the null hypothesis H : µ −µ = 0, where µ\n0 1 2 1\nand µ are the population means, it is true that:\n2",
+            "options": [
+                "(A) If H : µ −µ 6= 0, we reject the null hypothesis at the 15%, 13%, 12% and\nA 1 2\n8% levels of significance.",
+                "(B) If H : µ − µ 6= 0, we do not reject the null hypothesis at the 1% level of\nA 1 2\nsignificance.",
+                "(C) The appropriate estimator for testing weather the samples are from essentially\nthe same population is µ −µ .\n1 2",
+                "(D) If H : µ −µ 6= 0, and we conduct a test at the 7% level of significance, the\nA 1 2\nprobability of error type I of this test is 0.035."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Data on India’s exports of Jute and Tea for the years 2000-2003 are as follows:\n2000 2001 2002 2003\nJute\nQuantity(‘000 t) 871 706 724 627\nPrice(Rs ‘00000/1000 t) 202 320 311 302\nTea\nQuantity(‘000 t) 199 179 214 288\nPrice(Rs ‘00000/1000 t) 577 767 884 799\nWhich of the following are true?",
+            "options": [
+                "(A) The chain-base price indices with 2000 as base year are P = 146.3, P =\n01 02\n152.2, and P = 144.9\n03",
+                "(B) The chain-base price indices with 2000 as base year are P = 148.3, P =\n01 02\n152.2, and P = 146.9\n03",
+                "(C) The chain-base price indices with 2000 as base year are P = 148.3, P =\n01 02\n154.2, and P = 144.9\n03",
+                "(D) The chain-base price indices with 2000 as base year are P = 148.3, P =\n01 02\n156.2, and P = 146.9\n03"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Suppose that 80% of all statisticians are shy, whereas only 15% of all economists are shy.\nSuppose also that 90% of the people at a large gathering are economists and the other\n10% are statisticians. If you meet a shy person at random at the gathering, what is the\nprobability that the person is a statistician?",
+            "options": [
+                "(A) 8/9",
+                "(B) 0.8",
+                "(C) .08",
+                "(D) 80/215"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Each cell of the following table provides the probability of the joint occurrence of the\ncorresponding pair of values of the random variables X and Y.\nX ↓ 1 2 3 4\nY →\n1 .1 0 .1 0\n2 .3 0 .1 .2\n3 0 .1 0 .1\nConsider the following statements about X and Y:\nI. Pr(Y = 2) > Pr(X = 1)\nII. Pr(Y = 1|X = 2) = Pr(Y = 1|X = 1)\nIII. The events X = 3 and Y = 3 are mutually exclusive.\nIV. X and Y are independent.\nWhich of the above statements are true?",
+            "options": [
+                "(A) only I and II.",
+                "(B) only II and III.",
+                "(C) only III and IV.",
+                "(D) only II, III and IV."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "A survey of asset ownership in poor households in rural UP and Bihar found that 40% of\nthe households own a radio, 15% own a television and 60% own a bicycle. It also found\nthat 5% of the households own both a radio and a television, 26% own both a radio and\na bicycle, 5% own both a television and a bicycle, and 1% own all three. If a randomly\nselected poor household in these areas is found to own exactly one of these three assets,\nwhat is the probability that it is a bicycle?",
+            "options": [
+                "(A) 20/23",
+                "(B) 17/23",
+                "(C) 15/23",
+                "(D) 12/23"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Consider an exchange economy with two persons and two goods. Person 1’s utility\nfunction is u (x,y) = x + y and person 2’s utility function is u (x,y) = ex2+y2+2xy.\n1 2\nPerson 1’s endowment is (1, 0) and person 2’s endowment is (0, 1). Denote person 1’s\nallocation by (x ,y ) and person 2’s allocation by (x ,y ). The set of efficient allocations\n1 1 2 2\n((x ,y ),(x ,y )) is such that\n1 1 2 2",
+            "options": [
+                "(A) (x ,y ) = (1−x ,1−y ) for all x ,x ∈ [0,1]\n2 2 1 1 1 2",
+                "(B) (x ,y ) = (1−x ,1−y ) for all x ,x ∈ (0,1)\n2 2 1 1 1 2",
+                "(C) (x ,y ) = (1/2,1/2) = (x ,y )\n1 1 2 2",
+                "(D) (x ,y ) = (ea,eb) and (x ,y ) = (1−ea,1−eb) for all a,b ∈ (−∞,0)\n1 1 2 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Consider an exchange economy with persons 1 and 2 and goods x and y. Person 1’s\nutility function is u (x,y) = x2y2 and person 2’s utility function is u (x,y) = ex+y.\n1 2\nThe total endowment of the economy is (2, 1). The allocation (x ,y ) = (1,1) and\n1 1\n(x ,y ) = (1,0) is\n2 2",
+            "options": [
+                "(A) Pareto inefficient",
+                "(B) Pareto efficient or inefficient depending on the endowments of the two persons",
+                "(C) Pareto efficient or inefficient depending on the state of the world",
+                "(D) Pareto efficient"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Consider the situation of the preceding question. If person 1’s endowment is (1, 1) and\n2’s endowment is (1, 0), then the following allocation is a competitive equilibrium:",
+            "options": [
+                "(A) (x ,y ) = (3/2,1/2) and (x ,y ) = (1/2,1/2)\n1 1 2 2",
+                "(B) (x ,y ) = (1,1) and (x ,y ) = (1,0)\n1 1 2 2",
+                "(C) (x ,y ) = (2,0) and (x ,y ) = (0,1)\n1 1 2 2",
+                "(D) (x ,y ) = (2,1) and (x ,y ) = (0,0)\n1 1 2 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Considerthesituationoftheprecedingquestion. Whichofthefollowingisanequilibrium\nprice vector?",
+            "options": [
+                "(A) (p ,p ) = (1,0)\n1 2",
+                "(B) (p ,p ) = (0,1)\n1 2",
+                "(C) (p ,p ) = (1,1)\n1 2",
+                "(D) none of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Consider an exchange economy with the same two agents and utility functions as the\nlast three questions, but now the endowments of the two persons are (0, 1) and (2, 0).\nWhich of the following pre-trade lump-sum transfers of wealth will lead to allocations\n(x ,y ) = (1,1) and (x ,y ) = (1,0) and prices (p ,p ) = (1,1) being a competitive\n1 1 2 2 1 2\nequilibrium?",
+            "options": [
+                "(A) subsidies of 1 to both persons",
+                "(B) taxes of 1 to both persons",
+                "(C) a subsidy of 1 to person 1 and a tax of 1 on person 2",
+                "(D) a subsidy of 1 to person 2 and a tax of 1 on person 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "There are 3 items of choice, x,y,z, and Ms. A has 4 possible choice situations: in 3\nof them, she is asked to choose one or more items from the 3 possible pairs of items\n{x,y},{y,z} and {x,z}. She chooses the items x,y and z respectively in these 3 situa-\ntions. In the 4th situation she must choose one or more items from the set {x,y,z}; we\nare not told directly what her choice is. Which of the following is correct?",
+            "options": [
+                "(A) Ms A’s choice violate the weak axiom of revealed preference.",
+                "(B) Ms A’s choices are consistent with the weak axiom of revealed preference.",
+                "(C) We can’t say (a) or (b) because we don’t know her choice from the set {x,y,z}",
+                "(D) We can’t say (a) or (b), even though we can deduce her choice from the set\n{x,y,z}\nQuestions 37-39 use the following information: A chemical factory produces a chemical K\nand an effluent E which it dumps in a river. A downstream fishery produces fish F and its\ncosts are affected by the level of effluent in the river. The two firms are competitive and\nface unit prices P = 10 and P = 20 for the chemical and the fish respectively. The cost\nK F\nfunction of the chemical factory is C(K,E) = K2[(5 − E)2 + 1]. The cost function of the\nfishery is Ce (F,E) = F2E2."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "If the chemical factory chooses levels of chemical and effluent to maximize profits, and\nthe fishery chooses the level of fish to maximize profits, the chosen level of the chemical,\neffluent and fish (i.e. K,E,F) are respectively",
+            "options": [
+                "(A) 5, 0, 5/8",
+                "(B) 3, 0, 2/5",
+                "(C) 5, 5, 2/5",
+                "(D) 5, 5, 5/8"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Suppose the socially optimal levels of the chemical, effluent and fish, denoted by K,E,F\nrespectively, are the levels that maximise the joint profit of an integrated firm consisting\nof the chemical factory and the fishery. Then E is equal to",
+            "options": [
+                "(A) 5K2/(K2 −F 2)",
+                "(B) 5F 2/(K2 +F 2)",
+                "(C) 5F 2/(K2 −F 2)",
+                "(D) 5K2/(K2 +F 2)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Suppose a government knows the firms’ production functions and their output prices,\nand can costlessly monitor the amount of effluent released by the chemical factory. If it\nsets a tax t per unit of effluent produced by the chemical factory, the level of this tax\nthat will result in the socially optimal effluent level E is equal to",
+            "options": [
+                "(A) t = 10(K)(F)2/(K2 +F 2)",
+                "(B) t = 10(K)2(F)2/(K2 −F 2)",
+                "(C) t = 10(K)2(F)2/(K2 +F 2)",
+                "(D) t = 5(K)(F)2/(K2 +F 2)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Consider a firm with one output and two possible choices of capital stock, say 1 and 2.\nThe associated cost functions are C(x,1) = 2+2x and C(x,2) = 4+x. Before choosing\nits capital stock, the firm’s cost function is\n\n 2+2x, if x ∈ [0,2]",
+            "options": [
+                "(A) C∗(x) =\n 4+x, if x > 2",
+                "(B) C∗(x) = 2+2x",
+                "(C) C∗(x) = 4+x\n\n 4+x, if x ∈ [0,2]",
+                "(D) C∗(x) =\n 2+2x, if x > 2\nQuestions 41-46 are related and share a common information set. The complete set of infor-\nmation is revealed gradually as you move from one question to the next.\nConsider a macro-economy where the aggregate output in the short run is given by:\nY = ALα(K)1−α\nwhere L is the total employment of labour; K is the total capital stock (which is fixed in the\nshort run); and A > 0 and 0 < α < 1 are parameters of the system. Let P and W denote\nthe aggregate price level and the money wage rate respectively. Assume that the producers\nin the economy maximise profit in a perfectly competitive set up."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "The corresponding demand for labour schedule as a function of the real wage rate is\ngiven by\n 1\nα\nY",
+            "options": [
+                "(A) Ld =  \n (cid:16) (cid:17)1−α\nA K",
+                "(B) Ld = K(Aα)\n1−\n1\nα\n(cid:20)W(cid:21)\nα−\n1\n1\nP\n 1",
+                "(C) Ld = \n1\n\nα (cid:20)W(cid:21)\n1−\n1\nα\n (cid:16) (cid:17)1−α P\nAα K",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Ifthereisaone-shotincreaseinthestockofcapital(K), thedemandforlabourschedule,\nas derived above,",
+            "options": [
+                "(A) shifts up",
+                "(B) shifts down",
+                "(C) does not shift",
+                "(D) the information available so far is not adequate to answer this question\nSuppose the above economy is characterised by a single household which takes the aggregate\nprice level and the money wage rate as given and decides on its consumption and labour\nsupply by maximising its utility subject to its budget constraint. The household has a total\nendowment of L units of labour time, of which it supplies LS units to the market at the\nmoney wage rate W, and enjoys the rest as leisure. Its utility depends on its consumption\nand leisure in the following way: U = (C)β + (L − LS)β;0 < β < 1. The only source of\nincome of the household is the wage income and it spends its entire wage earning in buying\nconsumption goods at the price P."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "The corresponding supply of labour schedule as a function of the real wage rate is given\nby:\n (cid:16) (cid:17) β \nL W 1−β",
+            "options": [
+                "(A) Ls = \n\nP \n\n (cid:16) (cid:17) β \n1+ W 1−β\nP\n \nL",
+                "(B) Ls = \n\n\n\n (cid:16) (cid:17) β \n1+ W 1−β\nP\n (cid:16) (cid:17)β \nW",
+                "(C) Ls =  P \n (cid:16) (cid:17)β\nL+ W\nP",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "If there is an exogenous increase in the total endowment of labour time (L), the supply\nfor labour schedule, as derived above,",
+            "options": [
+                "(A) shifts up",
+                "(B) shifts down",
+                "(C) does not shift",
+                "(D) the information available so far is not adequate to answer this question"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Let α = 1; K = 10;L = 10;A = 4. Given these parameter values, the unique non-\n2\nnegative equilibrium value of real wage rate that clears the labour market is given by:\nW \" 1 #1/2",
+            "options": [
+                "(A) = √\nP 2 2\n√\nW\n\"1+ 2#1/2",
+                "(B) =\nP 2\nW √",
+                "(C) = [2−2 2]1/2\nP\nW √",
+                "(D) = [2+2 2]1/2\nP"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Giventhelabourdemandandthelaboursupplyscheduleasderivedabove, theaggregate\nsupply curve (output supplied as a function of the aggregate price level) is",
+            "options": [
+                "(A) upward sloping",
+                "(B) downward sloping",
+                "(C) vertical",
+                "(D) horizontal\nQuestions 47 to 50 are related and share a common information set. The complete set of\ninformation is given below. Attempt all of them together.\nConsider a closed economy where the general price level is exogenously fixed at P. The\ngoods market clearing condition is given by: Y = C+I+G, where the consumption demand\n(C) is a function of the disposable income (Y − T) such that C = c.(Y − T),0 < c < 1 ;\nthe investment demand (I) is a function of the real interest r such that I = I −d.r,d > 0\n; total tax revenue in the economy (T) is a function of the aggregate real income such that\nT = τ.Y,0 < τ < 1 ; and the government expenditure (G) is autonomous such that G = G.\nM\nThe money market clearing condition is given by: = L, where supply of money (M) is\nP\nexogenous such that M = M ; and the demand for real balance (L) is a function of the real\nincome (Y) and the nominal interest rate (i) such that L = a.Y −b.i,a,b > 0. Finally, the\nnominal interest rate is the sum of the real rate of interest and the expected rate of inflation\n(πe) such that i = r + πe. Assume that the economy starts from an equilibrium situation\nwhere both the goods market and the money market clear."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "In ceteris paribus, a unit increase in government expenditure has the following impact\non the equilibrium income level:\n1",
+            "options": [
+                "(A) it increases by units\nb[1−c(1−τ)]+ad\n1",
+                "(B) it decreases by units\nb[1−c(1−τ)]+ad\nb",
+                "(C) it increases by units\nb[1−c(1−τ)]+ad\nb",
+                "(D) it decreases by units\nb[1−c(1−τ)]+ad"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "In ceteris paribus, a unit increase in the expected rate of inflation has the following\nimpact on the equilibrium value of the real interest rate:\n[1−c(1−τ)]",
+            "options": [
+                "(A) it increases by units\nb[1−c(1−τ)]+ad\na",
+                "(B) it decreases by units\na[1−c(1−τ)]+ad\nb[1−c(1−τ)]",
+                "(C) it increases by units\nb[1−c(1−τ)]+ad\nb[1−c(1−τ)]",
+                "(D) it decreases by units\nb[1−c(1−τ)]+ad"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "In ceteris paribus, a unit increase in the general price level has the following impact on\nthe equilibrium value of the real interest rate:\n[M/(P)2]",
+            "options": [
+                "(A) it increases by units\nb[1−c(1−τ)]+ad\n[M/(P)2]",
+                "(B) it decreases by units\nb[1−c(1−τ)]+ad\n[1−c(1−τ)][M/(P)2]",
+                "(C) it increases by units\nb[1−c(1−τ)]+ad\n[1−c(1−τ)][M/(P)2]",
+                "(D) it decreases by units\nb[1−c(1−τ)]+ad"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Suppose we now allow the general price level to be flexible. Given the above char-\nacteristics of the macro-economy, the corresponding aggregate demand curve (output\ndemanded as a function of the general price level) is",
+            "options": [
+                "(A) upward sloping",
+                "(B) downward sloping",
+                "(C) vertical",
+                "(D) horizontal"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Fix an m×n matrix A and an m-vector b. A condition that ensures the existence of a\nsolution (an n-vector x) of the equation Ax = b is",
+            "options": [
+                "(A) detA 6= 0",
+                "(B) m = n",
+                "(C) the columns of A are linearly independent",
+                "(D) the rows of A are linearly independent"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "The real-valued function f(x) = x4 is",
+            "options": [
+                "(A) strictly convex",
+                "(B) strictly concave",
+                "(C) neither strictly concave nor strictly convex",
+                "(D) convex but not strictly convex"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Consider the equation Ax = 0, where A is an n×n matrix such that a 6= 0 for every\nij\ni ∈ {1,...,n} and a = 0 whenever i > j. This equation has\nij",
+            "options": [
+                "(A) n distinct solutions",
+                "(B) an n−1 dimensional vector space of solutions",
+                "(C) exactly one solution",
+                "(D) an n dimensional vector space of solutions"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "There is a pile of 17 matchsticks on a table. Players 1 and 2 take turns in removing\nmatchsticks from the pile, starting with Player 1. On each turn, a player has to remove\na number of sticks that equals the square of a positive integer, such that the number of\nmatchsticks that remain on the table equals some non-negative integer. The player who\ncannot do so, when it is his/her turns, loses. Which of the following statement is true?",
+            "options": [
+                "(A) If Player 2 plays appropriately, he can win regardless of how 1 actually plays.",
+                "(B) If Player 1 plays appropriately, she can win regardless of how 2 actually plays.",
+                "(C) Both players have a chance to win, if they play correctly.",
+                "(D) The outcome of the game cannot be predicted on the basis of the data given."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "If A is a set of real numbers, let g be the function such that g (x) = 1 if x ∈ A, and\nA A\ng (x) = 0 if x ∈/",
+            "options": [
+                "(A) For every x, the sequence of numbers (f (x))∞ has a limit in the space of\nn n=1\nreal numbers.",
+                "(B) lim f (x) does not exist, for any x.\nn→∞ n",
+                "(C) When lim f (x) exists, the actual limit depends on the x in question.\nn→∞ n",
+                "(D) lim f (x) exists for all but a finite set of real numbers x.\nn→∞ n"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Continuing with the sequence of functions above, we consider the sequence of real num-\nbers (R f )∞ (that is, the sequence of their integrals). This sequence of integrals is\nn n=1",
+            "options": [
+                "(A) an increasing sequence",
+                "(B) a decreasing sequence",
+                "(C) a constant sequence",
+                "(D) an oscillating sequence"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 61,
+            "question_text": "For each positive integer a = 1,2,3,..., let S be the set of points lying on the curve\na\ny = 1/xa, for all positive real numbers x. Then the intersection of these sets over all a,\n(that is, ∩∞ S ) is\na=1 a",
+            "options": [
+                "(A) a set with infinitely many points",
+                "(B) a set having a single point",
+                "(C) a set having exactly 2 points",
+                "(D) a set having more than 2, but a finite number of points"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 62,
+            "question_text": "Which of the following two numbers is larger eπ or πe?",
+            "options": [
+                "(A) eπ",
+                "(B) πe",
+                "(C) they are equal",
+                "(D) it depends on the value of e\n\n sin(1/x), if x > 0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 63,
+            "question_text": "The function f(x) =\na, if x = 0",
+            "options": [
+                "(A) is continuous or discontinuous at x = 0, depending on the value of a",
+                "(B) is continuous at x = 0",
+                "(C) is discontinuous at x = 0",
+                "(D) is upper hemicontinuous at x = 0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 64,
+            "question_text": "Suppose v ,v and v are three vectors in 3-dimensional space, and are linearly depen-\n1 2 3\ndent. Then the vectors v +v , v +v , and v +v\n1 2 2 3 1 3",
+            "options": [
+                "(A) are linearly independent",
+                "(B) may be linearly dependent",
+                "(C) are linearly dependent",
+                "(D) are linearly independent, except when one of the vectors is zero"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,788 @@
+{
+    "exam_name": "DSE",
+    "exam_year": 2015,
+    "exam_title": "DSE 2015",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "There are two individuals, 1 and 2. Suppose, they are offered a lottery that gives Rs\n160 or Rs 80 each with probability equal to 1/2. The alternative to the lottery is a\nfixed amount of money given to the individual. Assume that individuals are expected\nutility maximizers. Suppose, individual 1 will prefer to get Rs 110 with certainty over\nthe lottery. However, Individual 2 is happy receiving a sure sum of Rs 90 rather than\nfacing the lottery. Which of the following statements is correct? Given these statements,\nwhich of the following is true?",
+            "options": [
+                "(A) both individuals are risk averse",
+                "(B) 2 is risk averse but 1 loves risk",
+                "(C) 1 is risk averse but 2 loves risk",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider an exchange economy with agents 1 and 2 and goods x and y. The agents’\npreferencesoverxandy aregiven. Ifitrains,1’sendowmentis(10,0)and2’sendowment\nis (0, 10). If it shines, 1’s endowment is (0, 10) and 2’s endowment is (10, 0)",
+            "options": [
+                "(A) the set of Pareto efficient allocations is independent of whether it rains or\nshines",
+                "(B) the set of Pareto efficient allocations will depend on the weather",
+                "(C) the set of Pareto efficient allocations may depend on the weather",
+                "(D) whether the set of Pareto efficient allocations varies with the weather depends\non the preference of the agents"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Deadweight loss is a measure of",
+            "options": [
+                "(A) change in consumer welfare",
+                "(B) change in producer welfare",
+                "(C) change in social welfare",
+                "(D) change in social inequality"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "To regulate a natural monopolist with cost function C(q) = a+bq, the government has\nto subsidize the monopolist under",
+            "options": [
+                "(A) average cost pricing",
+                "(B) marginal cost pricing",
+                "(C) non-linear pricing",
+                "(D) all of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Suppose an economic agent lexicographically prefers x to y, then her indifference curves\nare",
+            "options": [
+                "(A) straight lines are parallel to the x axis",
+                "(B) straight lines are parallel to the y axis",
+                "(C) convex sets",
+                "(D) L shaped curves\nThe following Two questions are based on the function f : R2 → R given by\n( 0 for (x,y) = (0,0)\nf(x,y) =\nxy for (x,y) 6= (0,0)\nx2+y2\nfor (x,y) ∈ R2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Which of the following statements is correct?",
+            "options": [
+                "(A) f is continuous and has partial derivatives at all points",
+                "(B) f is discontinuous but has partial derivatives at all points",
+                "(C) f is continuous but does not have partial derivatives at all points",
+                "(D) f is discontinuous and does not have partial derivatives at all points"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Which of the following statements is correct?",
+            "options": [
+                "(A) f is continuous and differentiable",
+                "(B) f is discontinuous and differentiable",
+                "(C) f is continuous but not differentiable",
+                "(D) f is discontinuous and non-differentiable"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Consider the following system of equations:\nx+2y +2z −s+2t = 0\nx+2y +3z +s+t = 0\n3x+6y +8z +s+4t = 0\nThe dimension of the solution space of this system of equations is",
+            "options": [
+                "(A) 1",
+                "(B) 2",
+                "(C) 3",
+                "(D) 4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Thevectorsv ,v ,...,v inRm aresaidtobeaffinelyindependentifwithscalarsc ,c ,...,c ,\n0 1 n 0 1 n\nwe have that Pn c v = 0 and Pn c = 0 implies c = 0 for i = 0,1,...,n. For such an\ni=0 i i i=0 i i\naffinely independent set of vectors, which of the following is an implication:\n(I) v ,v ,...,v are linearly independent.\n0 1 n\n(II) (v −v ),(v −v ),...,(v −v ) are linearly independent.\n1 0 2 0 n 0\n(III) n ≤ m.",
+            "options": [
+                "(A) Only I and II are true",
+                "(B) Only I and III are true",
+                "(C) Only II is true",
+                "(D) Only II and III are true"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "R2 → R2 be a linear mapping (i.e., for every pair of vectors (x ,x ),(y ,y ) and scalars\n1 2 1 2\nc ,c ,F(c (x ,x )+c (y ,y )) = c F(x ,x )+c F(y ,y ). Suppose F(1,2) = (2,3) and\n1 2 1 1 2 2 1 2 1 1 2 2 1 2\nF(0,1) = (1,4). Then in general, F(x ,x ) equals\n1 2",
+            "options": [
+                "(A) (x ,4x )\n2 2",
+                "(B) (x ,x +x )\n2 1 2",
+                "(C) (1+x ,4x )\n1 2",
+                "(D) (x ,−5x +4x )\n2 1 2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "A correlation coefficient of 0.2 between Savings and Investment implies that:",
+            "options": [
+                "(A) A unit change in Income leads to a less than 20 percent increase in Savings",
+                "(B) A unit change in Income leads to a 20 percent increase in Savings",
+                "(C) A unit change in Income may cause Savings to increase by less than or more\nthan 20",
+                "(D) If we plot Savings against Income, the points would lie more or less on a\nstraight line"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "In a simple regression model estimated using OLS, the covariance between the estimated\nerrors and the regressors is zero by construction. This statement is:",
+            "options": [
+                "(A) True only if the regression model contains an intercept term",
+                "(B) True only if the regression model does not contain an intercept term",
+                "(C) True irrespective of whether the regression model contains an intercept term",
+                "(D) False"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Consider the uniform distribution over the interval [a,b].",
+            "options": [
+                "(A) The mean of this distribution depends on the length of the interval, but the\nvariance does not",
+                "(B) The mean of this distribution does not depend on the length of the interval,\nbut the variance does",
+                "(C) Neither the mean, nor the variance, of this distribution depends on the length\nof the interval",
+                "(D) The mean and the variance of this distribution depend on the length of the\ninterval\nThe next Two questions are based on the following information. Let F : R → R be a\n(cumulative) distribution function. Define b : [0,1] → R by\n\n 0 if c = 0\nb(c) =\ninfF−1([c,1]), if c ∈ (0,1]"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "If F has a jump at x, say c = F(x) > a ≥ F(x−), then",
+            "options": [
+                "(A) b has a jump at c",
+                "(B) b has a jump at a",
+                "(C) b is strictly increasing over (a,c)",
+                "(D) b is constant over (a,c)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "If F is constant over (x,y) with F(z) < F(x) for every z < x, then",
+            "options": [
+                "(A) b has a jump at y",
+                "(B) b has a jump at x",
+                "(C) b is continuous at F(x)",
+                "(D) b is decreasing over [0,F(x)]\nThe following set of information is relevant for the next Four questions. Consider a closed\neconomy where at any period t the actual output (Y ) is demand-determined. Aggregate\nt\ndemand on the other hand has two components: consumption demand (C ) and investment\nt\ndemand (I ). Both consumption and investment demands depend on agents’ expectation\nt\nabout period t output (Ye) in the following way:\nt\nC = αYe ;0 < α < 1 ,\nt t\nI = γ(Ye)2 ;γ > 0\nt t"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Suppose agents have static expectations. Static expectation implies that",
+            "options": [
+                "(A) in every period agents expect the previous period’s actual value to prevail",
+                "(B) in every period agents adjust their expected value by a constant positive frac-\ntion of the expectational error made in the previous period",
+                "(C) in every period agents use all the information available in that period so that\nthe expected value can differ from the actual value if and only if there is a\nstochastic element present",
+                "(D) none of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Under static expectations, starting from any given initial level of actual output Y 6=\n0\n1−α\n, in the long run the actual output in this economy\nγ",
+            "options": [
+                "(A) will always go to zero",
+                "(B) will always go to infinity\n1−α",
+                "(C) will always go to a finite positive value given by\nγ\n1−α",
+                "(D) will go to zero or infinity depending on whether Y > or <\n0\nγ"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Suppose now agents have rational expectations. Rational expectation implies that",
+            "options": [
+                "(A) in every period agents expect the previous period’s actual value to prevail",
+                "(B) in every period agents adjust their expected value by a constant positive frac-\ntion of the expectational error made in the previous period",
+                "(C) in every period agents use all the information available in that period so that\nthe expected value can differ from the actual value if and only if there is a\nstochastic element present",
+                "(D) none of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Under rational expectations, in the long run the actual output in this economy",
+            "options": [
+                "(A) will always go to zero",
+                "(B) will always go to infinity\n1−α",
+                "(C) will always go to a finite positive value given by\nγ",
+                "(D) will go to zero or infinity depending on agent’s expectations"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose we conduct n independent Bernoulli trials, each with probability of success p. If\nk is such that the probability of k successes is equal to the probability of k+1 successes,\nthen",
+            "options": [
+                "(A) (n+1)p = n(1+p)",
+                "(B) np = (n−1)(1+p)",
+                "(C) np is a positive integer",
+                "(D) (n+1)p is a positive integer\nThe next Two questions are based on the following. Consider a pure exchange economy with\nthree persons: 1 , 2, 3 and two goods x and y.\nThe utilities are given by u1(.) = xy,u2(.) = x3y and u3(.) = xy2 , respectively."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "If the endowments are (2,0), (0,12) and (12,0), respectively, then",
+            "options": [
+                "(A) an equilibrium price ratio does not exist",
+                "(B) p /p = 1 is an equilibrium price ratio\nx y",
+                "(C) p /p > 1 is an equilibrium price ratio\nx y",
+                "(D) p /p < 1 is an equilibrium price ratio\nx y"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "If the endowments are (0,2), (12,0) and (0,12), respectively, then",
+            "options": [
+                "(A) an equilibrium price ratio does not exist",
+                "(B) equilibrium price ratio is the same as in the above question",
+                "(C) p /p < 1 is an equilibrium price ratio\nx y",
+                "(D) p /p > 1 is an equilibrium price ratio\nx y\nThenextTwoquestionsarebasedonthefollowinginformation. Acityhasasingleelectricity\nsupplier. Electricity production cost is Rs. c per unit. There are two types of customers.\nUtility function for type i is given by u (q,t) = θ ln(1 + q) − t , where q is electricity\ni i\nconsumption and t is electricity tariff. High type customers are more energy efficient, that\nis, θ > θ ; moreover θ > c.\nH L L"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Suppose the supplier can observe type of the consumer, i.e., whether θ = θ or θ = θ .\nH L\nIf the supplier decides to sell package (q ,t ) to those for whom θ = θ and (q ,t ) to\nH H H L L\nthose for whom θ = θ , then profit maximizing tariffs will be\nL\n! !\nθ θ",
+            "options": [
+                "(A) t = c ln H and t = c ln L\nH L\nc c\n!\nθ",
+                "(B) t = θ ln H and t = 0\nH H L\nc\n! !\nθ θ",
+                "(C) t = θ ln H and t = θ ln L\nH H L L\nc c\nθ +θ !",
+                "(D) t = t = c ln H L\nH L\nc"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Now, assume that the supplier cannot observe type of the consumer. Suppose, he puts\non offer both of the packages that he would offer in the above question. If consumers\nare free to choose any of the offered packages, then",
+            "options": [
+                "(A) Both types will earn zero utility",
+                "(B) Only low type can earn positive utility",
+                "(C) Only high type can earn positive utility",
+                "(D) Both types can earn positive utility"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose buyers of ice-cream are uniformly distributed on the interval [0,1]. Ice-cream\nsellers 1 and 2 simultaneously locate on the interval, each locating so to maximize her\nmarket share given the location of the rival. Each seller’s market share corresponds to\ntheproportionofbuyerswhoarelocatedclosertoherlocationthantotherival’slocation",
+            "options": [
+                "(A) Both will locate at 1/2",
+                "(B) One will locate at 1/4 and the other at 3/4",
+                "(C) One will locate at 0 and the other at 1",
+                "(D) One will locate at 1/3 and the other at 2/3"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "In the context of previous question, suppose it is understood by all players that seller 3\nwill locate on [0, 1] after observing the simultaneous location choices of sellers 1 and 2.\nSeller 3 aims to maximize market share given the locations of 1 and 2. The locations of\nsellers 1 and 2 are as follows:",
+            "options": [
+                "(A) Both will locate at 1/2",
+                "(B) One will locate at 1/4 and the other at 3/4",
+                "(C) One will locate at 0 and the other at 1",
+                "(D) One will locate at 1/3 and the other at 2/3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Consider a government and two citizens. The government has to decide whether to\ncreate a public good, say a park, at cost Rs 100. The value of the park is Rs 30 to the\ncitizen 1 and Rs 60 to citizen 2; each valuation is private information for the relevant\ncitizen and not known to the government. The government asks the citizens to report\ntheir valuations, say r and r . It cannot verify the truthfulness of the reports. It decides\n1 2\nto build the park if r +r ≥ 100, in which case, citizen 1 will pay the tax 100 - r and\n1 2 2\ncitizen 2 will pay the tax 100 - r . If the park is not built, then no taxes are imposed.\n1\nThe reported valuations will be",
+            "options": [
+                "(A) r < 30 and r > 60\n1 2",
+                "(B) r > 30 and r < 60\n1 2",
+                "(C) r = 60 and r = 30\n1 2",
+                "(D) r = 30 and r = 60\n1 2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "In the context of the previous question, suppose the only change is that citizen 1’s\nvaluation rises to 50 and the same procedure is followed, then",
+            "options": [
+                "(A) The park will be built and result in a government budget surplus of Rs 10",
+                "(B) The park will be built and result in a government budget deficit of Rs 10",
+                "(C) The park will be built and result in a government balanced budget",
+                "(D) The park will not be built"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider the following two games in which player 1 chooses a row and player 2 chooses\na column.\nHawk Hawk Dove\nEnter −1,1 ! Enter −1,1 3,3 !\nNot enter 0,6 Not enter 0,6 0,7\nAnalysis of these games shows",
+            "options": [
+                "(A) Having an extra option cannot hurt",
+                "(B) Having an extra option cannot hurt as long as it dominates other options",
+                "(C) Having an extra option can hurt if the other player is irrational",
+                "(D) Having an extra option can hurt if the other player is rational"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider an exchange economy with agents 1 and 2 and goods x and y. Agent 1 lexico-\ngraphically prefers x to y. Agent 2’s utility function is min{x,y}. Agent 1’s endowment\nis (0, 10) and agent 2’s endowment is (10, 0). The competitive equilibrium price ratio,\np /p , for this economy\nx y",
+            "options": [
+                "(A) can be any positive number",
+                "(B) is greater than 1",
+                "(C) is less than 1",
+                "(D) does not exist"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Consider a strictly increasing , differentiable function u : R2 → R and the equations:\nD u(x ,x ) p\n1 1 2 = 1 and\nD u(x ,x ) p\n2 1 2 2\np x +p x = w,\n1 1 2 2\nwhere p ,p ,w are strictly positive. What additional assumptions will guarantee the\n1 2\nexistence of continuously differentiable functions x (p ,p ,w) and x (p ,p ,w) that will\n1 1 2 2 1 2\nsolve these equations for all strictly positive p ,p ,w?\n1 2",
+            "options": [
+                "(A) u is injective",
+                "(B) u is bijective",
+                "(C) u is twice continuously differentiable\n D u(x ,x )p −D u(x ,x )p D u(x ,x )p −D u(x ,x )p \n11 1 2 2 12 1 2 1 12 1 2 2 22 1 2 1",
+                "(D) uistwicecontinuouslydifferentiableand\n \np p\n1 2\nis nonsingular"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "As n ↑ ∞ , the sequence (−1)n(1+n−1)",
+            "options": [
+                "(A) converges to 1",
+                "(B) converges to -1",
+                "(C) converges to both -1 and 1",
+                "(D) does not converge"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "The set (0,1) can be expressed as",
+            "options": [
+                "(A) the union of a finite family of closed intervals",
+                "(B) the intersection of a finite family of closed intervals",
+                "(C) the union of an infinite family of closed intervals",
+                "(D) the intersection of an infinite family of closed intervals"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "The set [0,1] can be expressed as",
+            "options": [
+                "(A) the union of a finite family of open intervals",
+                "(B) the intersection of a finite family of open intervals",
+                "(C) the union of an infinite family of open intervals",
+                "(D) the intersection of an infinite family of open intervals\nThefollowinginformationisusedinthenextTwoquestions. Consideralineartransformation\nP : Rn → Rn. Let R(P) = {Px | x ∈ Rn} and N(P) = {x ∈ Rn | Px = 0}.\nP is said to be a projector if\n(a) every x ∈ Rn can be uniquely written as x = y +z for some y ∈ R(P) and z ∈ N(P),\nand\n(b) P(y +z) = y for all y ∈ R(P) and z ∈ N(P)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "If P is a projector, then",
+            "options": [
+                "(A) P2 = I, where I is the identity mapping",
+                "(B) P = P−1",
+                "(C) P2 = P",
+                "(D) Both (a) and (b)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "If P is a projector and Q : Rm → Rn is a linear transformation such that R(P) = R(Q),\nthen",
+            "options": [
+                "(A) QP = P",
+                "(B) PQ = Q",
+                "(C) QP = I",
+                "(D) PQ = I"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Suppose that a and b are two consecutive roots of a polynomial function f, with a < b.\nSuppose a and b are non-repeated roots. Consequently, f(x) = (x − a)(x − b)g(x) for\nsome polynomial function g. Consider the statements:\n(I) g(a) and g(b) have opposite signs\n(II) f0(x) = 0 for some x ∈ (a,b)\nOf these statements,",
+            "options": [
+                "(A) Both I and II are true",
+                "(B) Only I is true",
+                "(C) Only II is true",
+                "(D) Both I and II are false"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Supposef : [0,1] → R isatwicedifferentiablefunctionthatsatisfiesD2f(x)+Df(x) = 1\nfor every x ∈ (0,1) and f(0) = 0 = f(1). Then,",
+            "options": [
+                "(A) f does not attain positive values over (0,1)",
+                "(B) f does not attain negative values over (0,1)",
+                "(C) f attains positive and negative values over (0,1)",
+                "(D) f is constant over (0,1)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Suppose x ,... ,x are positive and λ ,... ,λ are non-negative with Pn λ = 1. Then\n1 n 1 n i=1 i",
+            "options": [
+                "(A) Pn λ x ≥ xλ1... xλn\ni=1 i i 1 n",
+                "(B) Pn λ x < xλ1... xλn\ni=1 i i 1 n\nq",
+                "(C) Pn i=1 λ i x i ≤ xλ 1 1... xλ n n",
+                "(D) None of the above is necessarily true"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Let N = {1,2,3,...}. Suppose there is a bijection, i.e., a one-to-one correspondence (an\n“into” and “onto” mapping), between N and a set X. Suppose there is also a bijection\nbetween N and a set Y . Then,",
+            "options": [
+                "(A) there is a bijection between N and X ∪Y",
+                "(B) there is a bijection between N and X ∩Y",
+                "(C) there is no bijection between N and X ∩Y",
+                "(D) there is no bijection between N and X ∪Y\nThe next Three questions pertain to the following: A simple linear regression of wages on\ngender, run on a sample of 200 individuals, 150 of whom are men, yields the following\nW = 300−50D +u\ni i i\n(20) (10)\nwhere W is the wage in Rs per day of the ith individual, D = 1 if individual i is male, and\ni i\n0 otherwise, u is a classical error term , and the figures in parentheses are standard errors.\ni"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "What is the average wage in the sample?",
+            "options": [
+                "(A) Rs. 250 per day",
+                "(B) Rs. 275 per day",
+                "(C) Rs. 262.50 per day",
+                "(D) Rs. 267.50 per day"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "The most precise estimate of the difference in wages between men and women would\nhave been obtained if, among these 200 individuals,",
+            "options": [
+                "(A) There were an equal number (100) of men and women in the sample",
+                "(B) The ratio of the number of men and women in the sample was the same as the\nratio of their average wages",
+                "(C) There were at least 30 men and 30 women; this is sufficient for estimation:\nprecision does not depend on the distribution of the sample across men and\nwomen",
+                "(D) None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "The explained (regression) sum of squares in this case is:",
+            "options": [
+                "(A) 93750",
+                "(B) 1406.25",
+                "(C) 15000",
+                "(D) This cannot be calculated from the information given"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "A researcher estimate the following two models using OLS\nModel A: y = β +β S +β A +(cid:15)\ni 0 1 i 2 i i\nModel B: y = β +β S +(cid:15)\ni 0 1 i i\nwhere y refers to the marks (out of 100) that a student i gets on an exam, S refers to\ni i\nthe number of hours spent studying for the exam by the student, and A is an index of\ni\ninnate ability (varying continuously from a low ability score of 1 to a high ability score\nof 10). (cid:15) the usual classical error term.\ni\nTheestimatedβ coefficientis7.1forModelA,but2.1forModelB;botharestatistically\n1\nsignificant. Theestimatedβ coefficientis1.9andisalsosignificantlydifferentfromzero.\n2\nThis suggests that:",
+            "options": [
+                "(A) Students with lower ability also spend fewer hours studying",
+                "(B) Students with lower ability spend more time studying",
+                "(C) There is no way that students of even high ability can get more than 40 marks",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "An analyst estimates the model Y = β +β X +β X +β X +u using OLS.\n1 1 1 2 2 3 3\nBut the true β = 0. In this case, by including X\n3 3",
+            "options": [
+                "(A) there is no harm done as all the estimates would be unbiased and efficient",
+                "(B) there is a problem because all the estimates would be biased and inconsistent",
+                "(C) the estimates would be unbiased but would have larger standard errors",
+                "(D) the estimates may be biased but they would still be efficient\nˆ ˜"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Let β be the OLS estimator of the slope coefficient in a regression of Y on X . Let β be\n1\nthe OLS estimator of the coefficient on X on a regression of Y on X and X . Which\n1 1 2\nof the following is true\nˆ ˜",
+            "options": [
+                "(A) Var(β) < Var(β)\nˆ ˜",
+                "(B) Var(β) > Var(β)\nˆ ˜",
+                "(C) Var(β) < or > Var(β)\nˆ ˜",
+                "(D) Var(β) = Var(β)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "You estimate the multiple regression Y = a+b X +b X +u with a large sample. Let\n1 1 2 2\nt be the test statistic for testing the null hypothesis b = 0 and t be the test statistic\n1 1 2\nfor testing the null hypothesis b = 0. Suppose you test the joint null hypothesis that\n2\nb = b = 0 using the principle ‘reject the null if either t or t exceeds 1.96 in absolute\n1 2 1 2\nvalue’, taking t and t to be independently distributed.\n1 2",
+            "options": [
+                "(A) The probability of error Type 1 is 5 percent in this case",
+                "(B) The probability of error Type 1 is less than 5 percent in this case",
+                "(C) The probability of error Type 1 is more than 5 percent in this case",
+                "(D) The probability of error Type 1 is either 5 percent or less than 5 percent in\nthis case"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Four taste testers are asked to independently rank three different brands of chocolate\n(A,B,C). The chocolate each tester likes best is given the rank 1, the next 2 and then 3.\nAfter this, the assigned ranks for each of the chocolates are summed across the testers.\nAssume that the testers cannot really discriminate between the chocolates, so that each\nis assigning her ranks at random. The probability that chocolate A receives a total score\nof 4 is given by:",
+            "options": [
+                "(A) 1/4",
+                "(B) 1/3",
+                "(C) 1/27",
+                "(D) 1/81"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Suppose0.1percentofallpeopleinatownhavetuberculosis(TB).ATBtestisavailable\nbut it is not completely accurate. If a person has TB, the test will indicate it with\nprobability 0.999. If the person does not have TB, the test will erroneously indicate that\ns/he does with probability 0.002. For a randomly selected individual, the test shows\nthat s/he has TB. What is the probability that this person actually has TB?",
+            "options": [
+                "(A) 0.002\n0.999",
+                "(B) 1\n1000",
+                "(C) 1\n3",
+                "(D) 2\n3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "There exists a random variable X with mean µ and variance σ2 for which\nX X\nP[µ −2σ ≤ X ≤ µ +2σ ] = 0.6. This statement is:\nX X X X",
+            "options": [
+                "(A) True for any distribution for appropriate choices of µ and σ2 .\nX X",
+                "(B) True only for the uniform distribution defined over an appropriate interval",
+                "(C) True only for the normal distribution for appropriate choices of µ and σ2\nX X",
+                "(D) False"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Consider a sample size of 2 drawn without replacement from an urn containing three\nballs numbered 1, 2, and 3. Let X be the smaller of the two numbers drawn and Y the\nlarger. The covariance between X and Y is given by\n1\nA.\n9\n3\nB.\n11\n11\nC.\n3\n3\nD.\n4",
+            "options": [
+                "(A) ",
+                "(B) ",
+                "(C) ",
+                "(D) "
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "Consider the square with vertices (0, 0), (0, 2), (2, 0) and (2, 2). Five points are\nindependently and randomly chosen from the square. If a point (x,y) satisfies x+2y ≤ 2\n, then a pair of dice are rolled. Otherwise, a single die is rolled. Let N be the total\nnumber of dice rolled. For 5 ≤ n ≤ 10, the probability that N = n is\n(cid:16) (cid:17)",
+            "options": [
+                "(A) 5 (1/2)n−5(1/2)5−(n−5)\nn−5\n(cid:16) (cid:17)",
+                "(B) 10 (1/4)n−10(3/4)n\nn−10\n(cid:16) (cid:17)",
+                "(C) 5 (1/4)n−5(3/4)10−n\nn−5\n(cid:16) (cid:17)",
+                "(D) 10 (1/2)n−10(1/2)n\nn−10"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "Suppose S is a set with n > 1 elements and A ,...,A are subsets of S with the following\n1 m\nproperty: if x,y ∈ S and x 6= y, then there exists i ∈ {1,...,m} such that, either x ∈ A\ni\nand y ∈/ A , or y ∈ A and x ∈/ A . Then the following necessarily holds.\ni i i",
+            "options": [
+                "(A) n = 2m",
+                "(B) n ≤ 2m",
+                "(C) n > 2m",
+                "(D) None of the above\nThe following set of information is relevant for the next Six questions. Consider the following\nversion of the Solow growth model where the aggregate output at time t depends on the\naggregate capital stock (K ) and aggregate labour force (L ) in the following way:\nt t\nY = (K )α(L )1−α;0 < α < 1.\nt t t\nAt every point of time there is full employment of both the factors and each factor is paid\nits marginal product. Total output is distributed equally to all the households in the form\nof wage earnings and interest earnings. Households’ propensity to save from the two types\nof earnings differ. In particular, they save s proportion of their wage earnings and s\nw r\nproportionoftheirinterestearningsineveryperiod. Allsavingsareinvestedwhichaugments\ndK\nthe capital stock over time . There is no depreciation of capital. The aggregate labour\ndt\nforce grows at a constant rate n"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Let s = 0 and s = 1. An increase in the parameter value α\nw r",
+            "options": [
+                "(A) unambiguously increases the long run steady state value of the capital-labour\nratio",
+                "(B) unambiguously decreases the long run steady state value of the capital-labour\nratio",
+                "(C) increases the long run steady state value of the capital-labour ratio if α > n",
+                "(D) leaves the long run steady state value of the capital-labour ratio unchanged"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Now suppose s = 0 and 0 < s < 1. An increase in the parameter value n\nr w",
+            "options": [
+                "(A) unambiguously increases the long run steady state value of the capital-labour\nratio",
+                "(B) unambiguously decreases the long run steady state value of the capital-labour\nratio",
+                "(C) increases the long run steady state value of the capital-labour ratio if α > n",
+                "(D) leaves the long run steady state value of the capital-labour ratio unchanged"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Now let both s and s be positive fractions such that s < s . In the long run, the\nw r w r\ncapital-labour ratio in this economy",
+            "options": [
+                "(A) approaches zero",
+                "(B) approaches infinity",
+                "(C) approaches a constant value given by [(1−α)sw+αsr]\n1−\n1\nα\nn",
+                "(D) approaches a constant value given by [αsw+(1−α)sr]1\nα\nn"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Suppose now the government imposes a proportional tax on wage earnings at the rate τ\nand redistributes the tax revenue in the form of transfers to the capital-owners. People\nstill save s proportion of their net (post-tax) wage earnings and s proportion of their\nw r\nnet (post-transfer) interest earnings. In the new equilibrium, an increase in the tax rate\nτ",
+            "options": [
+                "(A) unambiguously increases the long run steady state value of the capital-labour\nratio",
+                "(B) unambiguously decreases the long run steady state value of the capital-labour\nratio",
+                "(C) increases the long run steady state value of the capital-labour ratio if α > n",
+                "(D) leaves the long run steady state value of the capital-labour ratio unchanged"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "Let us now go back to case where both s and s are positive fractions such that s < s\nw r w r\nbutwithoutthetax-transferscheme. However, nowletthegrowthrateoflabourforcebe\nendogenous such that it depends on the economy’s capital-labour ratio in the following\nway:\n\n1 dL Ak for k < k;\n= t t\nL dt  0 for k t >> k,\nwhere k > [(1−α)sw+αsr] 2− 1 α is a given constant. In the long run, the capital- labour ratio\nA\nin this economy",
+            "options": [
+                "(A) approaches zero",
+                "(B) approaches infinity",
+                "(C) approaches a constant value given by [αsw+(1−α)sr]1\nα\nA",
+                "(D) approaches a constant value given by [(1−α)sw+αsr]\n1−\n1\nα\ndepending on the initial\nA\nk > or < k\n0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "In the above question, an increase in the parameter value A",
+            "options": [
+                "(A) unambiguously increases the long run steady state value of the capital-labour\nratio",
+                "(B) unambiguously decreases the long run steady state value of the capital-labour\nratio",
+                "(C) decreases the long run steady state value of the capital-labour ratio only when\nthe initial k < k\n0",
+                "(D) leaves the long run steady state value of the capital-labour ratio unchanged"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "A profit maximizing firm owns two production plants with cost functions c (q) = q2 and\n1 2\nc (q) = q2, respectively. The firm is free is use either just one or both of the plants to\n2\nachieve any given level of output. For this firm, the marginal cost curve",
+            "options": [
+                "(A) lies above the 45 degree line through the origin, for all positive output levels",
+                "(B) lies below the 45 degree line through the origin, for all positive output levels",
+                "(C) is the 45 degree line through the origin",
+                "(D) None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}
