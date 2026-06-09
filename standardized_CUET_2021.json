@@ -1,0 +1,1308 @@
+{
+    "exam_name": "CUET",
+    "exam_year": 2021,
+    "exam_title": "CUET 2021",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A conscientious employee is always admired by his employers. Which of the following best describes the underlined word of the above sentence?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "I requested him to look after my things because I can confide ______ him.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Select the most suitable synonym 'Zenith'",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Rajesh stood ______ Smita, but could not utter a single word for quite some time.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Which of the following words can most appropriately replace the underlined group of words in the sentence? The saint impressed everyone with his persuasive and fluent speech.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Select the most suitable antonym 'Prey'.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Identify the meaning of the idiom 'seeing eye to eye' from the options given below:",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Choose the correct spelling of the following:",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "He is not hardworking ______ he is intelligent.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Complete the second sentence by selecting the appropriate option given below: I did not work hard at school. Consequently",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Choose the number which is different from others in the group.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "In the series 7, 14, 28, ... what will be the 10th term?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "What term will fill the blank space? A, C, F, H, ?, M",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "In a certain code, RIPPLE is written as 613382 and LIFE is written as 8192. How is PILLER written in that code?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "When Anuj saw Manish, he recalled 'He is the son of the father of my daughter.' Who is Manish?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Arrange the given words in alphabetical order and tick the one that comes first.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Manish ranked sixteenth from the top and twenty-ninth from the bottom among those who passed an examination. Six boys did not participate in the competition and five failed in it. How many boys were there in the class?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "If x means +, + means /, / means - and - means *, then 15 - 2 / 900 + 90 * 100 = ?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Find the number of triangles in the given figure :",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Greta Garbo is associated with",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Who created the famous Rock Garden of Chandigarh?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Who among the following is regarded as the leader of Chipko Movement?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Hamja folk dance is related with which of the following tribes?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Recently 'Echo and Bifrost' were in the news. These are related to",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Which of the following is the oldest dynasty?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "How many times Nirmala Sitharaman has presented the Budget in the Parliament? (As of 2021)",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "More than half of working population in India is engaged in",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Who is known as the Father of Economics?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "In India, Economic Survey is published by",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "What type of unemployment is found in the agriculture sector in India?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "During India's colonial period, the theory of downward filtration was related with",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "New Economic Policy was started in",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "A closed economy means",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Unbounded solution in linear programming is known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "The Law 'supply creates its own demand' is given by",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "Which of the following is two-sector model?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "A growing country is one whose",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Wage price flexibility is the contribution of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Simple multiplier is calculated by which of the following formulas?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Which of the following equations is not true?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Which of the following is a part of National Income?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "IS curve represents",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "During the period of recession",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "NNP means",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Keynes introduced the book, The General Theory of Employment, Interest and Money in the year",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "The relation between APC and MPC in Keynes psychological consumption function is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "What is a if B = [[1, 4], [3, a]] is a singular matrix?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "If A = [[2, 1], [1, -1]], then determinant of A = ?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "If the order of matrix A is m x p and the order of B is p x n, then the order of matrix AB is?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "If y = mx + c, what would be the derivative of the equation with respect to x?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "If A and B are two sets such that n(A) = 20, n(B) = 35 and n(A U B) = 50, then n(A n B) is equal to",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "The difference of {1, 2, 3, 6, 8} and {1, 2, 5, 6} is the set",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "In the presence of no externalities",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Evaluate integral from 1 to 2 of 3x^2 dx.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "Evaluate integral (5x^3 + 4x^2 + 3) dx.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Find the derivative of f(x) = 5x^3 + 12x^2 + 10x + 5 at x = 2",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Effective demand occurs where",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "Which of the following belongs to the consumption sector?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "The indifference curve means",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "In general equilibrium",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 61,
+            "question_text": "Which of the following statements about a fixed input is correct?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 62,
+            "question_text": "Under perfect competition",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 63,
+            "question_text": "In equilibrium of monopoly, which condition of the following should satisfy?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 64,
+            "question_text": "Law of variable proportion is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 65,
+            "question_text": "The original Phillips curve illustrates",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 66,
+            "question_text": "A differentiated product has",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 67,
+            "question_text": "Perfect competition is characterized by all of the following, except",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 68,
+            "question_text": "Given the two regression lines Y on X and X on Y as follows: 3X + 2Y = 26.0, 6X + Y = 31.0, then their (r) will be equal to",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 69,
+            "question_text": "If Q3 = 40, Q1 = 20, co-efficient of QD is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 70,
+            "question_text": "If for a given data, mode = 5, median = 15 and mean = 20 it means that the sample data is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 71,
+            "question_text": "If mean = 28 and mode = 25, the value of median will be",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 72,
+            "question_text": "Which of the following is a type of probability sampling?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 73,
+            "question_text": "In positively skewed distribution",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 74,
+            "question_text": "If byx = 1.6 and bxy = 0.4, then r xy will be",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 75,
+            "question_text": "A measure of the strength of the linear relationship that exists between two variables is called",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 76,
+            "question_text": "The best measure of dispersion is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 77,
+            "question_text": "A ball is drawn at random from a box containing 6 red, 4 white and 5 blue balls. Then the probability of drawing not red ball is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 78,
+            "question_text": "A member of the population in set is known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 79,
+            "question_text": "In the Heckscher- Ohlin model, international trade is based mostly on a difference in",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 80,
+            "question_text": "Which of the following is one of the implications of the new trade theory?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 81,
+            "question_text": "Adam Smith's economic theory focusses on",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 82,
+            "question_text": "Ricardo has explained the law of comparative advantage on the basis of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 83,
+            "question_text": "The theory of comparative advantage in international trade is based on the concept of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 84,
+            "question_text": "H-O theory is based on the assumptions of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 85,
+            "question_text": "Intra-industry trade (IIT) is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 86,
+            "question_text": "Absolute Advantage theory is given by",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 87,
+            "question_text": "What is the full form of NITI Aayog?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 88,
+            "question_text": "indian economy is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 89,
+            "question_text": "Sex ratio in India as per the Census of 2011 is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 90,
+            "question_text": "Which is the main wheat production State in India?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 91,
+            "question_text": "Which State is known for its highest success from the Green Revolution in India?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 92,
+            "question_text": "When was the 1st Industrial Policy introduced?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 93,
+            "question_text": "PDS stands for",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 94,
+            "question_text": "If 'A' imposed an externality on 'B' and if 'B' imposed externality on 'A' as well it is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 95,
+            "question_text": "In proportional tax system, the rates of tax remains",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 96,
+            "question_text": "A pure public good is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 97,
+            "question_text": "Who presents the Budget in India?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 98,
+            "question_text": "If we subtract the interest payments from fiscal deficit, we get",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 99,
+            "question_text": "When the Government receipts are equal to the Government expenditure, the Budget is known as a",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 100,
+            "question_text": "The full form of GST is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

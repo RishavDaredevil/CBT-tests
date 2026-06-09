@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2009,
+    "exam_title": "ISI PEA 2009",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "An in\ufb01nite geometric series has \ufb01rst term 1 and sum 4. It common ratio is",
+            "options": [
+                "1\n2",
+                "3\n4",
+                "1",
+                "1\n3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "A continuous random variable X has a probability density function f(x) = 3x2 with\n0 \u2264x \u22641. If P(X \u2264a) = P(x > a), then a is:",
+            "options": [
+                "1\n\u221a\n6",
+                "\u0010\n1\n3\n\u0011 1\n2",
+                "1\n2",
+                "\u0010\n1\n2\n\u0011 1\n3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "If f(x) =\nr\nex +\nq\nex + \u221aex + . . . then f \u2032(x) equals to",
+            "options": [
+                "f(x)\u22121\n2f(x)+1.",
+                "f2(x)\u2212f(x)\n2f(x)\u22121",
+                "2f(x)+1\nf2(x)+f(x)",
+                "f(x)\n2f(x)+1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "limx\u21924\n\u221ax+5\u22123\nx\u22124\nis",
+            "options": [
+                "1\n6",
+                "0",
+                "1\n4",
+                "not well de\ufb01ned"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "If X = 265 and Y = 264 + 263 + . . . + 21 + 20, then",
+            "options": [
+                "Y = X + 264.",
+                "X = Y .",
+                "Y = X + 1",
+                "Y = X \u22121"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "R 1\n0\nex\nex+1dx =",
+            "options": [
+                "log(1 + e)",
+                "log2.",
+                "log 1+e\n2 .",
+                "2 log(1 + e)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "There is a box with ten balls. Each ball has a number between 1 and 10 written on it.\nNo two balls have the same number. Two balls are drawn (simultaneously) at random\nfrom the box. What is the probability of choosing two balls with odd numbers?",
+            "options": [
+                "1\n9.",
+                "1\n2",
+                "2\n9",
+                "1\n3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "A box contains 100 balls. Some of them are white and the remaining are red. Let X\nand Y denote the number of white and red balls respectively. The correlation between\nX and Y is",
+            "options": [
+                "0.",
+                "1 .",
+                "-1.",
+                "some real number between \u22121\n2 and 1\n2."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Let f, g and h be real valued functions de\ufb01ned as follows: f(x) = x(1 \u2212x); g(x) = x\n2\nand h(x) = min{f(x), g(x)} with 0 \u2264x \u22641. Then h is",
+            "options": [
+                "continuous and di\ufb00erentiable",
+                "di\ufb00erentiable but not continuous",
+                "continuous but not di\ufb00erentiable",
+                "neither continuous nor di\ufb00erentiable"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "In how many ways can three persons, each throwing a single die once, make a score of\n8?",
+            "options": [
+                "5",
+                "15",
+                "21",
+                "30"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "If f(x) is a real valued function such that\n2f(x) + 3f(\u2212x) = 55 \u22127x\nfor every x \u2208R, then f(3) equals",
+            "options": [
+                "40",
+                "32",
+                "26",
+                "10"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Two persons, A and B, make an appointment to meet at the train station between 4\nP.M. and 5 P.M.. They agree that each is to wait not more than 15 minutes for the\nother. Assuming that each is independently equally likely to arrive at any point during\nthe hour, \ufb01nd the probability that they meet.",
+            "options": [
+                "15\n16",
+                "7\n16",
+                "5\n24",
+                "22\n175"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "If x1, x2, x3 are positive real numbers, then\nx1\nx2\n+ x2\nx3\n+ x3\nx1\nis always",
+            "options": [
+                "\u22643",
+                "\u22643\n1\n3",
+                "\u22653",
+                "3"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "limn\u2192\u221e\n12+22+...+n2\nn3\nequals",
+            "options": [
+                "0",
+                "1\n3",
+                "1\n6",
+                "1 ."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Suppose b is an odd integer and the following two polynomial equations have a common\nroot. x2 \u22127x + 12 = 0 and x2 \u22128x + b = 0 The root of x2 \u22128x + b = 0 that is not a\nroot of x2 \u22127x + 12 = 0 is",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Suppose n \u22659 is an integer. Let \u00b5 = n\n1\n2 + n\n1\n3 + n\n1\n4. Then, which of the following\nrelationships between n and \u00b5 is correct?",
+            "options": [
+                "n = \u00b5",
+                "n > \u00b5",
+                "n < \u00b5",
+                "None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Which of the following functions f : R \u2192R satis\ufb01es the relation f(x+y) = f(x)+f(y)?",
+            "options": [
+                "f(z) = z2",
+                "f(z) = az for some real number a",
+                "f(z) = log z",
+                "f(z) = ez"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "For what value of a does the following equation have a unique solution?\nx\na\n2\n2\nx\n0\n2\n1\n1\n= 0",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let\ny =\nf(x)\ng(x)\nh(x)\nl\nm\nn\na\nb\nc\nwhere l, m, n, a, b, c are non-zero numbers. Then dy\ndx equals",
+            "options": [
+                "f \u2032(x)\ng\u2032(x)\nh\u2032(x)\n0\n0\n0\n0\n0\n0",
+                "f \u2032(x)\ng\u2032(x)\nh\u2032(x)\n0\n0\n0\na\nb\nc",
+                "f \u2032(x)\ng\u2032(x)\nh\u2032(x)\nl\nm\nn\na\nb\nc",
+                "f \u2032(x)\ng\u2032(x)\nh\u2032(x)\nl \u2212a\nm \u2212b\nn \u2212c\n1\n1\n1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "If f(x) = |x \u22121| + |x \u22122| + |x \u22123|, then f(x) is di\ufb00erentiable at",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "If (x \u2212a)2 + (y \u2212b)2 = c2, then 1 +\nh\ndy\ndx\ni2 is independent of",
+            "options": [
+                "a",
+                "b",
+                "c",
+                "Both b and c"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "A student is browsing in a second-hand bookshop and \ufb01nds n books of interest. The\nshop has m copies of each of these n bools. Assuming he never wants duplicate copies\nof any book, and that he selects at least one book, how many ways can he make a\nselection? For example, if there is one book of interest with two copies, then he can\nmake a selection in 2 ways.",
+            "options": [
+                "(m + 1)n \u22121",
+                "nm",
+                "2nm \u22121",
+                "nm!\n(m!)(nm\u2212m)! \u22121"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Determine all values of the constants A and B such that the following function is con-\ntinuous for all values of x.\nf(x) =\n\uf8f1\n\uf8f4\n\uf8f2\n\uf8f4\n\uf8f3\nAx \u2212B\nif x \u2264\u22121\n2x2 + 3Ax + B\nif \u22121 < x \u22641\n4\nif x > 1",
+            "options": [
+                "A = B = 0",
+                "A = 3\n4, B = \u22121\n4",
+                "A = 1\n4, B = 3\n4",
+                "A = 1\n2, B = 1\n2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "The value of limx\u2192\u221e(3x + 32x)\n1\nx is",
+            "options": [
+                "0",
+                "1",
+                "e",
+                "9"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "A computer while calculating correlation coe\ufb03cient between two random variables X\nand Y from 25 pairs of observations obtained the following results: P X = 125, P X2 =\n650, P Y = 100, P Y 2 = 460, P XY = 508. It was later discovered that at the time of\ninputing, the pair (X = 8, Y = 12) had been wrongly input as (X = 6, Y = 14) and the\npair (X = 6, Y = 8) had been wrongly input as (X = 8, Y = 6). Calculate the value of\nthe correlation coe\ufb03cient with the correct data.",
+            "options": [
+                "4\n5",
+                "2\n3",
+                "1",
+                "5\n6"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The point on the curve y = x2 \u22121 which is nearest to the point (2, \u22120.5) is",
+            "options": [
+                "(1, 0)",
+                "(2, 3)",
+                "(0, \u22121)",
+                "None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "If a probability density function of a random variable X is given by f(x) = kx(2\u2212x), 0 \u2264\nx \u22642, then mean of X is",
+            "options": [
+                "1\n2",
+                "1",
+                "1\n5",
+                "3\n4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Suppose X is the set of all integers greater than or equal to 8. Let f : X \u2192R. and\nf(x + y) = f(xy) for all x, y \u22654. If f(8) = 9, then f(9) =",
+            "options": [
+                "8",
+                "9",
+                "64",
+                "81"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Let f : R \u2192R be de\ufb01ned by f(x) = (x \u22121)(x \u22122)(x \u22123). Which of the following is\ntrue about f?",
+            "options": [
+                "It decreases on the interval\nh\n2 \u22123\u22121\n2, 2 + 3\u22121\n2\ni",
+                "It increases on the interval\nh\n2 \u22123\u22121\n2, 2 + 3\u22121\n2\ni",
+                "It decreases on the interval\n\u0010\n\u2212\u221e, 2 \u22123\u22121\n2\ni",
+                "It decreases on the interval [2,3]"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "A box with no top is to be made from a rectangular sheet of cardboard measuring 8\nmetres by 5 metres by cutting squares of side x metres out of each corner and folding\nup the sides. The largest possible volume in cubic metres of such a box is",
+            "options": [
+                "15",
+                "12",
+                "20",
+                "18"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

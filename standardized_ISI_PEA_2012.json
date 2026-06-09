@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2012,
+    "exam_title": "ISI PEA 2012",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Kupamonduk, the frog, lives in a well 14 feet deep. One \ufb01ne morning she has an urge\nto see the world, and starts to climb out of her well. Every day she climbs up by 5 feet\nwhen there is light, but slides back by 3 feet in the dark. How many days will she take\nto climb out of the well?",
+            "options": [
+                "3",
+                "8",
+                "6",
+                "None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The derivative of f(x) = |x|2 at x = 0 is,",
+            "options": [
+                "-1",
+                "Non-existent",
+                "0",
+                "1/2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let N = {1, 2, 3, . . .} be the set of natural numbers. For each n \u2208N de\ufb01ne An =\n{(n + 1)k : k \u2208N}. Then A1 \u2229A2 equals",
+            "options": [
+                "A3",
+                "A4",
+                "A5",
+                "A6."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let S = {a, b, c} be a set such that a, b and c are distinct real numbers. Then min{max{a, b}, max{b, c}, m\nis always",
+            "options": [
+                "the highest number in S,",
+                "the second highest number in S,",
+                "the lowest number in S,",
+                "the arithmetic mean of the three numbers in S."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "The sequence < \u22124\u2212n >, n = 1, 2, \u00b7 \u00b7 \u00b7 , is",
+            "options": [
+                "Unbounded and monotone increasing,",
+                "Unbounded and monotone decreasing,",
+                "Bounded and convergent,",
+                "Bounded but not convergent."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "R\nx\n7x2+2dx equals",
+            "options": [
+                "1\n14 ln (7x2 + 2) + constant",
+                "7x2 + 2",
+                "ln x+ constant,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "The number of real roots of the equation\n2(x \u22121)2 = (x \u22123)2 + (x + 1)2 \u22128\nis",
+            "options": [
+                "Zero,",
+                "One,",
+                "Two,",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "The three vectors [0,1],[1,0] and [1000,1000] are",
+            "options": [
+                "Dependent,",
+                "Independent,",
+                "Pairwise orthogonal,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The function f(.) is increasing over [a, b]. Then [f(.)]n, where n is an odd integer greater\nthan 1, is necessarily",
+            "options": [
+                "Increasing over [a, b]",
+                "Decreasing over [a, b]",
+                "Increasing over [a, b] if and only if f(.) is positive over [a, b]",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The determinant of the matrix\n1\n2\n3\n4\n5\n6\n7\n8\n9\nis",
+            "options": [
+                "21",
+                "-16",
+                "0",
+                "14"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "In what ratio should a given line be divided into two parts, so that the area of the\nrectangle formed by the two parts as the sides is the maximum possible?",
+            "options": [
+                "1 is to 1 ,",
+                "1 is to 4 ,",
+                "3 is to 2 ,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Suppose (x\u2217, y\u2217) solves:\nMinimize ax + by\nsubject to\nx\u03b1 + y\u03b1 = M\nand x, y \u22650, where a > b > 0, M > 0 and \u03b1 > 1. Then, the solution is",
+            "options": [
+                "x\u2217\u03b1\u22121\ny\u2217\u03b1\u22121 = a\nb",
+                "x\u2217= 0, y\u2217= M\n1\n\u03b1",
+                "y\u2217= 0, x\u2217= M\n1\n\u03b1",
+                "None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Three boys and two girls are to be seated in a row for a photograph. It is desired that\nno two girls sit together. The number of ways in which they can be so arranged is",
+            "options": [
+                "4P2 \u00d7 3!",
+                "3P2 \u00d7 2!",
+                "2! \u00d7 3!",
+                "None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "The domain of x for which \u221ax + \u221a3 \u2212x +\n\u221a\nx2 \u22124x is real is,",
+            "options": [
+                "[0,3]",
+                "(0,3)",
+                "{0}",
+                "None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "P(x) is a quadratic polynomial such that P(1) = P(\u22121). Then",
+            "options": [
+                "The two roots sum to zero,",
+                "The two roots sum to 1 ,",
+                "One root is twice the other,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "The expression\nq\n11 + 6\n\u221a\n2 +\nq\n11 \u22126\n\u221a\n2 is",
+            "options": [
+                "Positive and an even integer,",
+                "Positive and an odd integer,",
+                "Positive and irrational,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "What is the maximum value of a(1\u2212a)b(1\u2212b)c(1\u2212c), where a, b, c vary over all positive\nfractional values?",
+            "options": [
+                "1",
+                "1\n8",
+                "1\n27",
+                "1\n64."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "There are four modes of transportation in Delhi: ( A ) Auto-rickshaw, (B) Bus, (C)\nCar, and (D) Delhi-Metro. The probability of using transports A, B, C, D by an indi-\nvidual is 1\n9, 2\n9, 4\n9, 2\n9 respectively. The probability that he arrives late at work if he uses\ntransportation A, B, C, D is 5\n7, 4\n7, 6\n7, and 6\n7 respectively. What is the probability that he\nused transport A if he reached o\ufb03ce on time?",
+            "options": [
+                "1\n9,",
+                "1\n7",
+                "3\n7",
+                "2\n9"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "What is the least (strictly) positive value of the expression a3+b3+c3\u22123abc, where a, b, c\nvary over all strictly positive integers? You may use the identity a3 + b3 + c3 \u22123abc =\n1\n2(a + b + c) ((a \u2212b)2 + (b \u2212c)2 + (c \u2212a)2)",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "8"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "If a2 + b2 + c2 = 1, then ab + bc + ca is,",
+            "options": [
+                "\u22120.75",
+                "Belongs to the interval [\u22121, \u22120.5]",
+                "Belongs to the interval [0.5, 1]",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider the following linear programming problem: Maximize a+b subject to a+2b \u22644\na + 6b \u22646 a \u22122b \u22642 a, b \u22650 An optimal solution is:",
+            "options": [
+                "a = 4, b = 0",
+                "a = 0, b = 1",
+                "a = 3, b = 1/2",
+                "None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The value of\nR \u22121\n\u22124\n1\nxdx equals,",
+            "options": [
+                "ln 4",
+                "Unde\ufb01ned,",
+                "ln(\u22124) \u2212ln(\u22121)",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Given x \u2265y \u2265z, and x + y + z = 9, the maximum value of x + 3y+ 5z is",
+            "options": [
+                "27",
+                "42",
+                "21",
+                "18"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "A car with six sparkplugs is known to have two malfunctioning ones. If two plugs are\npulled out at random, what is the probability of getting at least one malfunctioning plug.",
+            "options": [
+                "1/15",
+                "7/15",
+                "8/15",
+                "9/15."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose there is a multiple choice test which has 20 questions. Each question has two\npossible responses - true or false.\nMoreover, only one of them is correct.\nSuppose\na student answers each of them randomly. Which one of the following statements is\ncorrect?",
+            "options": [
+                "The probability of getting 15 correct answers is less than the probability of\ngetting 5 correct answers,",
+                "The probability of getting 15 correct answers is more than the probability of\ngetting 5 correct answers,",
+                "The probability of getting 15 correct answers is equal to the probability of\ngetting 5 correct answers,",
+                "The answer depends on such things as the order of the questions."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "From a group of 6 men and 5 women, how many di\ufb00erent committees consisting of three\nmen and two women can be formed when it is known that 2 of the men do not want to\nbe on the committee together?",
+            "options": [
+                "160",
+                "80",
+                "120",
+                "200"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Consider any two consecutive integers a and b that are both greater than 1. The sum (a2 + b2)\nis",
+            "options": [
+                "Always even,",
+                "Always a prime number,",
+                "Never a prime number,",
+                "None of the above statements is correct."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "The number of real non-negative roots of the equation\nx2 \u22123|x| \u221210 = 0\nis,",
+            "options": [
+                "2",
+                "1",
+                "0",
+                "3"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Let < an > and < bn >, n = 1, 2, \u00b7 \u00b7 \u00b7 , be two di\ufb00erent sequences, where < an > is\nconvergent and < bn > is divergent. Then the sequence < an + bn > is",
+            "options": [
+                "Convergent,",
+                "Divergent,",
+                "Unde\ufb01ned,",
+                "None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider the function\nf(x) =\n|x|\n1 + |x|\nThis function is,",
+            "options": [
+                "Increasing in x when x \u22650,",
+                "Decreasing in x,",
+                "Increasing in x for all real x,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

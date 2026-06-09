@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2014,
+    "exam_title": "ISI PEA 2014",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Let f(x) = 1\u2212x\n1+x, x \u0338= \u22121. Then f\n\u0010\nf\n\u0010\n1\nx\n\u0011\u0011\n, x \u0338= 0 and x \u0338= \u22121, is",
+            "options": [
+                "1",
+                "x",
+                "x2",
+                "1\nx"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "What is the value of the following de\ufb01nite integral?\n2\nZ\n\u03c0\n2\n0\nex cos(x)dx",
+            "options": [
+                "e\n\u03c0\n2",
+                "e\nx\n2 \u22121",
+                "0",
+                "e\n\u03c0\n2 + 1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let f : R \u2192R be a function de\ufb01ned as follows:\nf(x) = |x \u22121| + (x \u22121)\nWhich of the following is not true for f?",
+            "options": [
+                "f(x) = f (x\u2032) for all x, x\u2032 < 1",
+                "f(x) = 2f(1) for all x > 1",
+                "f is not di\ufb00erentiable at 1",
+                "The derivative of f at x = 2 is 2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Population of a city is 40% male and 60% female. Suppose also that 50% of males and\n30% of females in the city smoke. The probability that a smoker in the city is male is\nclosest to",
+            "options": [
+                "0.5",
+                "0.46",
+                "0.53",
+                "0.7"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "A blue and a red die are thrown simultaneously. We de\ufb01ne three events as follows: -\nEvent E : the sum of the numbers on the two dice is 7 - Event F : the number on the\nblue die equals 4 - Event G : the number on the red die equals 3 Which of the following\nstatements is true?",
+            "options": [
+                "E and F are disjoint events.",
+                "E and F are independent events.",
+                "E and F are not independent events.",
+                "Probability of E is more than the probability of F."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Let p > 2 be a prime number. Consider the following set containing 2 \u00d7 2 matrices of\nintegers:\nTp =\n(\nA =\n\"\n0\na\nb\n0\n#\n: a, b \u2208{0, 1, . . . , p \u22121}\n)\nA matrix A \u2208Tp is p -special if determinant of A is not divisible by p. How many\nmatrices in Tp are p -special?",
+            "options": [
+                "(p \u22121)2",
+                "2p \u22121",
+                "p2",
+                "p2 \u2212p + 1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "A \u201dgood\u201d word is any seven letter word consisting of letters from {A, B, C} (some letters\nmay be absent and some letter can be present more than once), with the restriction that\nA cannot be followed by B, B cannot be followed by C, and C cannot be followed by A.\nHow many good words are there?",
+            "options": [
+                "192",
+                "128",
+                "96",
+                "64"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Let n be a positive integer and 0 < a < b < \u221e. The total number of real roots of the\nequation (x \u2212a)2n+1 + (x \u2212b)2n+1 = 0 is",
+            "options": [
+                "1",
+                "3",
+                "2n \u22121",
+                "2n + 1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider the optimization problem below:\nmaxx,y x + y\nsubject to 2x + y \u226414\n\u2212x + 2y \u22648\n2x \u2212y \u226410\nx, y \u22650\nThe value of the objective function at optimal solution of this optimization problem:",
+            "options": [
+                "does not exist",
+                "is 8",
+                "is 10",
+                "is unbounded"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "A random variable X is distributed in [0, 1]. Mr. Fox believes that X follows a distribu-\ntion with cumulative density function (cdf) F : [0,1]\u2192[0, 1] and Mr. Goat believes that\nX follows a distribution with cdf G : [0, 1] \u2192[0, 1]. Assume F and G are di\ufb00erentiable,\nF \u0338= G and F(x) \u2264G(x) for all x \u2208[0, 1]. Let EF[X] and EG[X] be the expected values\nof X for Mr. Fox and Mr. Goat respectively. Which of the following is true?",
+            "options": [
+                "EF[X] \u2264EG[X]",
+                "EF[X] \u2265EG[X]",
+                "EF[X] = EG[X]",
+                "None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let f : [0, 2] \u2192[0, 1] be a function de\ufb01ned as follows:\nf(x) =\n(\nx\nif x \u2264\u03b1\n1\n2\nif x \u2208(\u03b1, 2]\nwhere \u03b1 \u2208(0, 2). Suppose X is a random variable distributed in [0, 2] with probability\ndensity function f. What is the probability that the realized value of X is greater than\n1?",
+            "options": [
+                "1",
+                "0",
+                "1\n2",
+                "3\n4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The value of the expression\n100\nX\nk=1\nZ 1\n0\nxk\nk dx\nis",
+            "options": [
+                "100\n101",
+                "1\n99",
+                "1",
+                "99\n100"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Consider the following system of inequalities.\nx1 \u2212x2 \u22643\nx2 \u2212x3 \u2264\u22122\nx3 \u2212x4 \u226410\nx4 \u2212x2 \u2264\u03b1\nx4 \u2212x3 \u2264\u22124\nwhere \u03b1 is a real number. A value of \u03b1 for which this system has a solution is",
+            "options": [
+                "-16",
+                "-12",
+                "-10",
+                "None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A fair coin is tossed in\ufb01nite number of times. The probability that a head turns up for\nthe \ufb01rst time after even number of tosses is",
+            "options": [
+                "1\n3",
+                "1\n2",
+                "2\n3",
+                "3\n4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "An entrance examination has 10 \u201dtrue-false\u201d questions. A student answers all the ques-\ntions randomly and his probability of choosing the correct answer is 0.5. Each correct\nanswer fetches a score of 1 to the student, while each incorrect answer fetches a score of\nzero. What is the probability that the student gets the mean score?",
+            "options": [
+                "1\n4",
+                "63\n256",
+                "1\n2",
+                "1\n8"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "For any positive integer k, let Sk denote the sum of the in\ufb01nite geometric progression\nwhose \ufb01rst term is (k\u22121)\nk!\nand common ratio is 1\nk. The value of the expression P\u221e\nk=1 Sk is",
+            "options": [
+                "e.",
+                "1 + e",
+                "2 + e",
+                "e2."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let G(x) =\nR x\n0 tetdt for all non-negative real number x. What is the value of limx\u21920\n1\nxG\u2032(x),\nwhere G\u2032(x) is the derivative of G at x",
+            "options": [
+                "0",
+                "1",
+                "e",
+                "None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Let \u03b1 \u2208(0, 1) and f(x) = x\u03b1 + (1 \u2212x)\u03b1 for all x \u2208[0, 1]. Then the maximum value of f\nis",
+            "options": [
+                "1",
+                "greater than 2",
+                "in (1,2)",
+                "2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let n be a positive integer. What is the value of the expression\nn\nX\nk=1\nkC(n, k)\nwhere C(n, k) denotes the number of ways to choose k out of n objects?",
+            "options": [
+                "n2n\u22121",
+                "n2n\u22122",
+                "2n",
+                "n2n"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "The \ufb01rst term of an arithmetic progression is a and common di\ufb00erence is d \u2208(0, 1).\nSuppose the k -th term of this arithmetic progression equals the sum of the in\ufb01nite\ngeometric progression whose \ufb01rst term is a and common ratio is d. If a > 2 is a prime\nnumber, then which of the following is a possible value of d?",
+            "options": [
+                "1\n2",
+                "1\n3",
+                "1\n5",
+                "1\n9"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "In period 1, a chicken gives birth to 2 chickens (so, there are three chickens after period\n1). In period 2, each chicken born in period 1 either gives birth to 2 chickens or does\nnot give birth to any chicken. If a chicken does not give birth to any chicken in a period,\nit does not give birth in any other subsequent periods. Continuing in this manner, in\nperiod (k + 1), a chicken born in period k either gives birth to 2 chickens or does not\ngive birth to any chicken. This process is repeated for T periods - assume no chicken\ndies. After T periods, there are in total 31 chickens. The maximum and the minimum\npossible values of T are respectively",
+            "options": [
+                "12 and 4",
+                "15 and 4",
+                "15 and 5",
+                "12 and 5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let a and p be positive integers. Consider the following matrix\nA =\n\uf8ee\n\uf8ef\uf8f0\np\n1\n1\n0\np\na\n0\na\n2\n\uf8f9\n\uf8fa\uf8fb\nIf determinant of A is 0, then a possible value of p is",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "For what value of \u03b1 does the equation (x\u22121) (x2 \u22127x + \u03b1) = 0 have exactly two unique\nroots?",
+            "options": [
+                "6",
+                "10",
+                "12",
+                "None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "What is the value of the following in\ufb01nite series?\n\u221e\nX\nk=1\n(\u22121)k\u22121\nk2\nloge 3k",
+            "options": [
+                "loge 2",
+                "loge 2 loge 3",
+                "loge 6",
+                "loge 5"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "There are 20 persons at a party. Each person shakes hands with some of the persons\nat the party. Let K be the number of persons who shook hands with odd number of\npersons. What is a possible value of K?",
+            "options": [
+                "19",
+                "1",
+                "20",
+                "All of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Two independent random variables X and Y are uniformly distributed in the interval\n[0, 1]. For a z \u2208[0, 1], we are told that probability that max(X, Y ) \u2264z is equal to the\nprobability that min(X, Y ) \u2264(1 \u2212z) What is the value of z?",
+            "options": [
+                "1\n2",
+                "1\n\u221a\n2",
+                "any value in\nh\n1\n2, 1\ni",
+                "None of the above"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Let f : R \u2192R be a function that satis\ufb01es for all x, y \u2208R\nf(x + y)f(x \u2212y) = (f(x) + f(y))2 \u22124x2f(y)\nWhich of the following is not possible for f?",
+            "options": [
+                "f(0) = 0",
+                "f(3) = 9",
+                "f(5) = 0",
+                "f(2) = 2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Consider the following function f : R \u2192Z, where R is the set of all real numbers and Z\nis the set of all integers.\nf(x) = \u2308x\u2309\nwhere \u2308x\u2309is the smallest integer that is larger than x. Now, de\ufb01ne a new function g as\nfollows. For any x \u2208R, g(x) = |f(x)| \u2212f(|x|), where |x| gives the absolute value of x.\nWhat is the range of g?",
+            "options": [
+                "{0, 1}",
+                "[\u22121, 1]",
+                "{\u22121, 0, 1}",
+                "{\u22121, 0}"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "The value of limx\u2192\u22121\nx+1\n|x+1| is.",
+            "options": [
+                "1",
+                "-1",
+                "0",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Let f : R \u2192R be a function such that f(x) = 2 if x \u22642 and f(x) = a2 \u22123a if x > 2,\nwhere a is a positive integer. Which of the following is true?",
+            "options": [
+                "f is continuous everywhere for some value of a",
+                "f is not continuous",
+                "f is di\ufb00erentiable at x = 2",
+                "None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2010,
+    "exam_title": "ISI PEA 2010",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "The value of 100\nh\n1\n1.2 +\n1\n2.3 +\n1\n3.4 + . . . +\n1\n99.100\ni",
+            "options": [
+                "is 99 ,",
+                "is 100",
+                "is 101",
+                "is (100)2\n99 ."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The function f(x) = x(\u221ax + \u221ax + 9) is",
+            "options": [
+                "continuously di\ufb00erentiable at x = 0,",
+                "continuous but not di\ufb00erentiable at x = 0,",
+                "di\ufb00erentiable but the derivative is not continuous at x = 0,",
+                "not di\ufb00erentiable at x = 0."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider a GP series whose \ufb01rst term is 1 and the common ratio is a positive integer\nr(> 1). Consider an AP series whose \ufb01rst term is 1 and whose (r + 2)th term coincides\nwith the third term of the GP series. Then the common di\ufb00erence of the AP series is",
+            "options": [
+                "r \u22121",
+                "r",
+                "r + 1",
+                "r + 2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "The \ufb01rst three terms of the binomial expansion (1+x)n are 1, \u22129, 297\n8 respectively. What\nis the value of n?",
+            "options": [
+                "5",
+                "8",
+                "10",
+                "12"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Given logp x = \u03b1 and logq x = \u03b2, the value of log p\nq x equals",
+            "options": [
+                "\u03b1\u03b2\n\u03b2\u2212\u03b1",
+                "\u03b2\u2212\u03b1\n\u03b1\u03b2",
+                "\u03b1\u2212\u03b2\n\u03b1\u03b2 ,",
+                "\u03b1\u03b2\n\u03b1\u2212\u03b2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Let P = {1, 2, 3, 4, 5} and Q = {1, 2}. The total number of subsets X of P such that\nX \u2229Q = {2} is",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "An unbiased coin is tossed until a head appears. The expected number of tosses required\nis",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "\u221e."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Let X be a random variable with probability density function\nf(x) =\n(\nc\nx2\nif x \u2265c\n0\nx < c\nThen the expectation of X is",
+            "options": [
+                "0",
+                "\u221e",
+                "1\nc",
+                "1\nc2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The number of real solutions of the equation x2 \u22125|x| + 4 = 0 is",
+            "options": [
+                "two",
+                "three",
+                "four",
+                "None of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Range of the function f(x) =\nx2\n1+x2 is",
+            "options": [
+                "[0,1)",
+                "(0,1)",
+                "[0,1]",
+                "(0,1]"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "If a, b, c are in AP, then the value of the determinant\nx + 2\nx + 3\nx + 2a\nx + 3\nx + 4\nx + 2b\nx + 4\nx + 5\nx + 2c\nis",
+            "options": [
+                "b2 \u22124ac",
+                "ab + bc + ca",
+                "2b \u2212a \u2212c",
+                "3b + a + c"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "If a < b < c < d, then the equation (x \u2212a)(x \u2212b) + 2(x \u2212c)(x \u2212d) = 0 has",
+            "options": [
+                "both the roots in the interval [a, b]",
+                "both the roots in the interval [c, d],",
+                "one root in the interval (a, b) and the other root in the interval (c, d)",
+                "one root in the interval [a, b] and the other root in the interval [c, d].\nE. None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Let f and g be two di\ufb00erentiable functions on (0,1) such that f(0) = 2, f(1) = 6, g(0) = 0\nand g(1) = 2. Then there exists \u03b8 \u2208(0, 1) such that f \u2032(\u03b8) equals",
+            "options": [
+                "1\n2g\u2032(\u03b8)",
+                "2g\u2032(\u03b8)",
+                "6g\u2032(\u03b8)",
+                "1\n6g\u2032(\u03b8)"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "The minimum value of logx a + loga x, for 1 < a < x, is",
+            "options": [
+                "less than 1 ,",
+                "greater than 2 ,",
+                "greater than 1 but less than 2 .",
+                "None of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The value of\nR 9\n4\n1\n2x(1+\u221ax)dx equals",
+            "options": [
+                "loge 3 \u2212loge 2",
+                "2 loge 2 \u2212loge 3",
+                "2 loge 3 \u22123 loge 2",
+                "3 loge 3 \u22122 loge 2."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "The inverse of the function f(x) =\n1\n1+x, x > 0, is",
+            "options": [
+                "(1 + x)",
+                "1+x\nx",
+                "1\u2212x\nx ,",
+                "x\n1+x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let Xi, i = 1, 2, . . . , n be identically distributed with variance \u03c32. Let cov (Xi, Xj) = \u03c1\nfor all i \u0338= j. De\ufb01ne \u00afXn = 1\nn\nP Xi and let an = Var\n\u0010 \u00afXn\n\u0011\nThen limn\u2192\u221ean equals",
+            "options": [
+                "0 ,",
+                "\u03c1,",
+                "\u03c32 + \u03c1",
+                "\u03c32 + \u03c12."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Let X be a Normally distributed random variable with mean 0 and variance 1. Let \u03a6(.)\nbe the cumulative distribution function of the variable X. Then the expectation of \u03a6(X)\nis",
+            "options": [
+                "\u22121\n2,",
+                "0 ,",
+                "1\n2,",
+                "1 ."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Consider any \ufb01nite integer r \u22652. Then limx\u21920\n\uf8ee\n\uf8f0loge(Pr\nk=0 xk)\n\u0010P\u221e\nk=1\nxk\nk!\n\u0011\n\uf8f9\n\uf8fbequals",
+            "options": [
+                "0 ,",
+                "1",
+                "e,",
+                "loge 2."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Consider 5 boxes, each containing 6 balls labelled 1,2,3,4,5,6 . Suppose one ball is drawn\nfrom each of the boxes. Denote by bi, the label of the ball drawn from the i -th box,\ni = 1, 2, 3, 4, 5. Then the number of ways in which the balls can be chosen such that\nb1 < b2 < b3 < b4 < b5 is",
+            "options": [
+                "1",
+                "2",
+                "5",
+                "6"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "The sum Pm\nr=0\n\u0010n+r\nr\n\u0011\nequals",
+            "options": [
+                "n + m + 1\nn + m\n!",
+                "(n + m + 1)\nn + m\nn + 1\n!",
+                "n + m + 1\nn\n!",
+                "n + m + 1\nn + 1\n!"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Consider the following 2 -variable linear regression where the error \u03f5i \u2019s are independently\nand identically distributed with mean 0 and variance 1;\nyi = \u03b1 + \u03b2 (xi \u2212\u00afx) + \u03f5i,\ni = 1, 2, . . . , n\nLet \u02c6\u03b1 and \u02c6\u03b2 be ordinary least squares estimates of \u03b1 and \u03b2 respectively. Then the\ncorrelation coe\ufb03cient between \u02c6\u03b1 and \u02c6\u03b2 is",
+            "options": [
+                "1",
+                "0",
+                "-1",
+                "1\n2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Let f be a real valued continuous function on [0, 3]. Suppose that f(x) takes only rational\nvalues and f(1) = 1. Then f(2) equals",
+            "options": [
+                "2",
+                "4",
+                "8",
+                "None of these"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider the function f (x1, x2) =\nR \u221a\nx2\n1+x2\n2\n0\ne\u2212(w2/(x2\n1+x2\n2))dw with the property that\nf(0, 0) = 0. Then the function f (x1, x2) is",
+            "options": [
+                "homogeneous of degree -1",
+                "homogeneous of degree 1\n2,",
+                "homogeneous of degree 1",
+                "None of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "If f(1) = 0, f \u2032(x) > f(x) for all x > 1, then f(x) is",
+            "options": [
+                "positive valued for all x > 1,",
+                "negative valued for all x > 1,",
+                "positive valued on (1,2) but negative valued on [2, \u221e)",
+                "None of these."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Consider the constrained optimization problem\nmax\nx\u22650,y\u22650(ax + by) subject to (cx + dy) \u2264100\nwhere a, b, c, d are positive real numbers such that d\nb > (c+d)\n(a+b). The unique solution (x\u2217, y\u2217)\nto this constrained optimization problem is",
+            "options": [
+                "\u0010\nx\u2217= 100\na , y\u2217= 0\n\u0011",
+                "\u0010\nx\u2217= 100\nc , y\u2217= 0\n\u0011",
+                "\u0010\nx\u2217= 0, y\u2217= 100\nb\n\u0011\n,",
+                "\u0010\nx\u2217= 0, y\u2217= 100\nd\n\u0011\n."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "For any real number x, let [x] be the largest integer not exceeding x. The domain of\nde\ufb01nition of the function f(x) = (\nq\n|[|x| \u22122]| \u22123)\u22121 is",
+            "options": [
+                "[-6,6]",
+                "(\u2212\u221e, \u22126) \u222a(+6, \u221e)",
+                "(\u2212\u221e, \u22126] \u222a[+6, \u221e)",
+                "None of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Let f : R \u2192R and g : R \u2192R be de\ufb01ned as\nf(x) =\n\uf8f1\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f2\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f3\n\u22121 if x < \u22121\n2\n\u22121\n2 if \u22121\n2 \u2264x < 0\n0 if x = 0\n1 if x > 0\nand g(x) = 1 + x \u2212[x], where [x] is the largest integer not exceeding x. Then f(g(x))\nequals",
+            "options": [
+                "-1",
+                "\u22121\n2,",
+                "0 ,",
+                "1 ."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "If f is a real valued function and a1f(x) + a2f(\u2212x) = b1 \u2212b2x for all x with a1 \u0338= a2 and\nb2 \u0338= 0. Then f\n\u0010\nb1\nb2\n\u0011\nequals",
+            "options": [
+                "0,",
+                "\u2212\n\u0010\n2a2b1\na2\n1\u2212a2\n2\n\u0011",
+                "2a2b1\na2\n1\u2212a2\n2",
+                "More information is required to \ufb01nd the exact value of f\n\u0010\nb1\nb2\n\u0011\n."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "For all x, y \u2208(0, \u221e), a function f : (0, \u221e) \u2192R satis\ufb01es the inequality\n|f(x) \u2212f(y)| \u2264|x \u2212y|3\nThen f is",
+            "options": [
+                "an increasing function,",
+                "a decreasing function,",
+                "a constant function.",
+                "None of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

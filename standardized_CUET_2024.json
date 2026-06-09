@@ -1,0 +1,983 @@
+{
+    "exam_name": "CUET",
+    "exam_year": 2024,
+    "exam_title": "CUET 2024",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A trade off is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "If a Production Function is given as Q(x,y)=Ax^a y^b where (a+b)=2, the function is said to display",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Assume firm i and firm j have constant marginal cost = c for an identical good in an oligopolistic market. They compete to set prices Pi and Pj. They face a total market demand Q where if Pi > Pj the demand for firm i is 0. If Pi < Pj the demand for firm i is Q. If Pi = Pj, then they share the market equally. In equilibrium, the prices of firms i and j are",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "If Y = F(L, K) is a linear homogeneous production function, then multiplying all inputs by a constant factor alpha=2 results in output increasing by a factor of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "In the context of a game theory table where firm 1 and firm 2 can cooperate or compete: Cooperation yields (5,5), Competition yields (2,2). If one competes and other cooperates, the competitor gets 10 and cooperator gets 0. In equilibrium firm A and firm B should respectively",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Keeping a consumer's income constant, if bundle X is chosen by a consumer when bundle Y is available, then when bundle Y is chosen, X must not be a feasible alternative. This property of consumer behaviour is known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "In Ronald Coase's Nobel winning Coase theorem, if two bargaining parties have zero transaction costs, well defined property rights over the good and there are no income effects",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "For a manufacturing firm, the cost function is given by C=q^3 + 2q^2 + q + 1. The marginal and average costs at q=10 units are respectively given by:",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "An allocation for agents in an economy, x is said to be Pareto superior to another allocation y if moving from allocation y to allocation x",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Suppose an individual has a utility function given by, U(x,y) = 2x + 3y. We can say that this function displays",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "For inferior goods, the substitution effect of a price decrease and the income effect of the same price decrease",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The shutdown point for a profit maximizing competitive firm in the short run is when the market price is equal to the",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Services such as the provision of clean air and national security are considered to be",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Debts which have to be paid at some specific future date are known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The mark-up as a fraction of price for the profit maximizing quantity Q for a monopolist can be expressed in the form [p - C'(Q)]/p = -1/e. We can say from this",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "If a consumer definitely prefers a payment of INR 50 for sure to a lottery which promises rewards of INR 100 or INR 0 with probabilities of 1/2 each, then we can say that the consumer is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Mr Tokai is very particular in how he makes his coffee. He is completely inflexible in that he can only take 1 teaspoon of coffee with 2 teaspoons of sugar. Suppose you give him 9 teaspoons of coffee and 2 teaspoons of sugar. How many cups of coffee can he create from this?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "In a 2x2 general equilibrium model of exchange with goods X and Y and two consumers 1 and 2... In the exchange equilibrium, we know that",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "A utility maximizing consumer has a utility function given by U(X,Y)=2X+Y He has a budget constraint given by X+2Y=10. In equilibrium he purchases",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Stagflation describes a situation of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "The current account balance in an open economy",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Transfer pricing refers to",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "If a group of countries abolish trade barriers between themselves and set common tariffs for other countries, this is known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Match List-I (Function) with List-II (Derivative): (A) y=ln(x) (B) y=x^2/4 (C) y=x^3 (D) y=x+1. List-II: (I) 1/x (II) 3x^2 (III) x/2 (IV) 1.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Match List-I (Externality) with List-II (Type): (A) Apple farmer next to beekeeper (B) Villages downstream from plant (C) Unvaccinated family next to vaccinated (D) Rice farmer next to chemical plant. List-II: (I) Positive consumption (II) Negative consumption (III) Positive production (IV) Negative production.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "What does a bank do if there are no excess reserve?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Which of the following is not a part of the national income?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Why is the Phillips curve negatively sloped?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "If the GDP of an economy be Rs.100 and the autonomous aggregate investment and ex-post aggregate saving be Rs.30 in equilibrium, what would be the aggregate saving in equilibrium in that economy if the aggregate investment remains at Rs.30 and the average saving propensity increases from 30% to 40%?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "The GDP of an economy is Rs 100 crores. The aggregate saving is Rs. 30 crores. If the autonomous aggregate investment rises from Rs.30 crores to Rs.45 crores, ceteris paribus, what would be the GDP in that economy in the new equilibrium?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Match List-I (Book/Theory) with List-II (Author): (A) Theory of moral sentiments (B) Theories of surplus value (C) General Theory (D) On liberty. List-II: (I) J.M. Keynes (II) J.S. Mill (III) Adam Smith (IV) Karl Marx.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "Arrange the following events on a chronological order: (A) New Economic Policy - Liberalisation (B) Drain of Wealth (C) White Revolution (D) Monopolies Inquiry Commission.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "Which of the followings are correct in the context of inflation? (A) Higher aggregate demand may lead to demand-pull inflation. (B) Higher cost of production may lead to cost-push inflation. (C) Higher international food and fuel prices may lead to inflation. (D) Higher indirect taxes and lower subsidy may lead to inflation.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "Arrange the following rates in ascending order. (A) Repo Rate (B) Lending Rate (C) Deposit Rate (D) Reverse Repo Rate.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Which statutory body determines the criteria for tax devolution from the divisible pool to the States in India?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "What would be the slope of the LM curve in the interest rate-income plane, if the rate of interest is exogenously determined by the Central Bank?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "What would be the slope of the labour supply curve if there is large scale involuntary unemployment in the economy, if wage rate is measured along the vertical axis and labour supply is measured along the horizontal axis?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Tax holidays and cash grants are example of",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "What would happen to the rate of interest, in new equilibrium, if the money supply rises in the Mundell-Fleming model under the flexible exchange rate and absolutely free capital mobility, if the international interest rate remains the same?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "If the expected rate of return from the investment projects in India be 10% per annum, and if the exchange rate becomes Rs.88 per USD from Rs.80 per USD in one year, what would be expected amount of profit in terms of US Dollar from an investment project of 100 Million USD in India from the point of view of an investor from the USA?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Arrange the following statements based on Keynesian theory. (A) Level of aggregate income rises in Keynesian world. (B) Aggregate Saving as a function of GDP rises. (C) Government expenditure rises. (D) Fiscal deficit rises, given revenue receipts.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Suppose a small country imposes an import tariff on a good. Which of the following statements is false?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "Arrange the followings in a correct order. (A) Employment and income come down. (B) Investment demand comes down. (C) Demand-pull inflation rate comes down. (D) Repo rate or policy interest rate rises.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Match List-I with List-II. List-I: (A) Money supply is exogenously given (B) Money supply is demand driven and credit led (C) Rational expectation (D) Supply creates its own demand. List-II: (I) Post-Keynesian school (II) Say's law (III) Monetarism (IV) Neo-classical school.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Match List-I with List-II. List-I: (A) Fiscal Deficit (B) Primary Deficit (C) Revenue Deficit (D) Current Account Deficit. List-II: (I) Import minus export of goods and services (II) Revenue expenditure minus revenue receipt (III) Fiscal deficit minus interest payment (IV) Capital expenditure plus revenue deficit.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Which of the following statements are true in case of public goods? (A) Public goods are non divisible. (B) Public goods are non-excludable. (C) Whatever government purchases is called Public good. (D) Whatever the public consumes is called public good.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Order the following country on the basis of nominal per capita income in year 2022, from the highest to lowest: (A) China (B) Brazil (C) Russia (D) India.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Arrange the followings in a correct order. (A) Procurement of foodgrains by the food corporation of India. (B) Production of foodgrains in the agricultural sector. (C) Distribution of foodgrains through fair price shops. (D) Minimum support prices for foodgrains are decided.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "Given a cubic cost function C(Q) = Q^3 + Q^2 + Q + 1, arrange total cost (TC), Marginal Cost (MC), Average Cost (AC), Average Fixed Cost (AFC) in increasing order when Q=2.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "Assuming x is a whole number greater than or equal to 2, arrange the above four in decreasing order, with the largest first and smallest last: (A) 1/x (B) 1/x^2 (C) 1/(1+x) (D) 1/(1+x)^2.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Suppose X takes the values -10 and 20 with probability 1/4 and 3/4 respectively, calculate E(X^2).",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "If Y=20+10X, then Var(Y) is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "Let Y=exp(a+bX), where a and b are constants. Calculate dY/dX",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "The relationship between a country's per capita income and its inequality of income distribution is known as",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "A dice is rigged in a way that each odd number is twice as likely to occur as each even number. When a dice is rolled, what is the probability that the outcome is greater than 3?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "In how many ways can 10 economists attending a conference be accommodated in 2 triple sharing and 2 double sharing hotel rooms?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Suppose we have three coins. The first coin has heads on both sides. The second coin has tails on both sides. The third coin has head on one side and tail on second side. One coin is randomly selected and tossed. The upper side of this coin turns out to be a head. What is the probability that the other side of this coin is tail?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "Consider a binomial distribution with parameters n and p. The variance of this distribution is.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "Which of the following statements are correct? A. In case of a continuous random variable X, the cumulative distribution function can be obtained by carrying out a derivation of the probability distribution function with respect to x. B. In case of a discrete random variable X, the cumulative distribution function can be obtained by carrying out a derivation of the probability distribution function with respect to x. C. In case of a continuous random variable X, the probability distribution function can be obtained by carrying out a derivation of the cumulative distribution function with respect to x. D. In case of a discrete random variable X, the probability distribution function can be obtained by carrying out a derivation of the cumulative distribution function with respect to x.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "Consider a binomial distribution with a very large N. This distribution can be approximated by:",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 61,
+            "question_text": "Match List-I (Population Characteristics) with List-II (Stages of Malthusian Model): (A) High Birth Rate and High Death Rate (B) Low Birth Rate and High Death Rate (C) High Birth Rate and Low Death Rate (D) Low Birth Rate and Low Death Rate. List-II: (I) Stage I (II) Stage II (III) Stage III (IV) Not a part of this model.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 62,
+            "question_text": "Which of the following statements are valid assumptions of the Ordinary Least Squares regression model? (A) Expected value of the error term is zero (B) Heteroskedasticity (C) The model is linear in parameters (D) Autocorrelation.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 63,
+            "question_text": "In a Poisson distribution p(x) = (e^-2 * 2^3) / 3!, the mean value is",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 64,
+            "question_text": "Which of the following statements hold true when steady state is attained in the Solow Model? (A) Capital-Labour ratio does not change (B) Depreciation does not change (C) Income per capita does not change (D) Inequality does not change.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 65,
+            "question_text": "Which of the following statements reflects a property of t distribution? (A) It ranges from -inf to +inf (B) It's mean is the average of X (C) It ranges from 0 to +inf (D) It does not vary with the change in degrees of freedom.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 66,
+            "question_text": "Which of the following are instruments of trade policies? (A) Tariffs (B) Quotas (C) Sales taxes (D) Anti-dumping duties.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 67,
+            "question_text": "Calculate the weighted arithmetic mean of 10, 20 and 30, when the given weights are (A) 3, 2 and 1 respectively (B) 1, 1 and 3 respectively (C) 1, 2 and 3 respectively (D) 2, 1 and 2 respectively. Now arrange the answer in descending order.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 68,
+            "question_text": "Match List-I (Market organization) with List-II (Type of monopoly pricing): (A) Locating individual consumers and charging each a unique price (B) Dividing consumers into two markets with different elasticities and charging separate unique prices (C) Including extra units of another good with the main good sold and charging a higher price (D) Charging customers a different price depending on day of the week. List-II: (I) Bundling (II) Second degree price discrimination (III) First degree price discrimination (IV) Third degree price discrimination.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 69,
+            "question_text": "The existence of purchasing power parity in an open economy implies that (A) The purchasing power of individuals depends on inflation rate (B) The exchange rate between two countries' currency is equal to the ratio of their price levels (C) Law of one price holds (D) The price levels of all countries are equal when measured in terms of same currency.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 70,
+            "question_text": "Match List-I (Measure) with List-II (Concept): (A) Gini Coefficient (B) GDP Deflator (C) Head Count Ratio (D) Depreciation. List-II: (I) Measures the wearing out of capital (II) Measures poverty (III) Measures changes in price level (IV) Measure inequality.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 71,
+            "question_text": "Which of the following statements are correct? (I) Monopolistic firms face a horizontal market demand curve (II) Perfectly competitive firms sell differentiated products (III) Output of one Cournot duopoly firm depends on the output of the other firm (IV) Monopolistic firms do not have a supply curve.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 72,
+            "question_text": "List the following outcomes in descending order: (A) Probability of a head when one coin is tossed (B) Probability of 3 heads when 10 coins are tossed independently (C) Probability of 10 heads when 20 coins are tossed independently (D) Probability of 50 heads when 100 coins are tossed independently.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 73,
+            "question_text": "Match List-I (Econometric Term) with List-II (Closest Definition): (A) Power of a test (B) Multicollinearity (C) Biased estimator (D) White noise error. List-II: (I) Probability of rejecting false H0 (II) Where the sample mean differs from the population mean (III) Correlation between explanatory variables in a regression (IV) Errors with zero mean and constant standard deviation.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 74,
+            "question_text": "Match List-I (Concept) with List-II (Description): (A) Kuznets Curve (B) Fisher Effect (C) J Curve Effect (D) Multiplier Effect. List-II: (I) Describes the relationship between currency depreciation and current account balance (II) Describes the relationship between autonomous investment and output (III) Describes the relationship between income and inequality (IV) Describes the relationship between expected inflation rate and interest rate.",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 75,
+            "question_text": "Satish is very conscious of the food he eats. He eats only rotis and dal. A cup of dal costs Rs 2 while a roti costs one rupee and Satish decides to spend only Rs 17 per day on food. Also he decides to consume only 3500 calories a day. He has been told that each cup of dal has 500 calories while each roti has 300 calories. How many rotis and cups of dal does he consume?",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

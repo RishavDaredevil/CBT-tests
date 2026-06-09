@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2017,
+    "exam_title": "ISI PEA 2017",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "The dimension of the space spanned by the vectors (\u22121, 0, 1, 2), (\u22122, \u22121, 0, 1), (\u22123, 2, 0, 1)\nand (0, 0, \u22121, 1) is",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "How many onto functions are there from a set A with m > 2 elements to a set B with\n2 elements?",
+            "options": [
+                "2m",
+                "2m \u22121",
+                "2m\u22121 \u22122",
+                "2m \u22122"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "The function f : R2\n+ \u2192R given by f(x, y) = xy is",
+            "options": [
+                "quasiconcave and concave",
+                "concave but not quasiconcave",
+                "quasiconcave but not concave",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A function f : R2\n+ \u2192R given by f(x, y) = xy is",
+            "options": [
+                "homogeneous of degree 0",
+                "homogeneous of degree 1",
+                "homogeneous of degree 2",
+                "not homothetic"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "You have n observations on rainfall in centimeters (cm) at a certain location, denoted by\nx, and you calculate the standard deviation, variance and coe\ufb03cient of variation (CV).\nNow, if instead, you were given the same observations measured in millimeters (mm),\nthen",
+            "options": [
+                "the standard deviation and CV would increase by a factor of 10, and the\nvariance by a factor of 100",
+                "the standard deviation would increase by a factor of 10, the variance by a\nfactor of 100 and the CV would be unchanged",
+                "the standard deviation would increase by a factor of 10, the variance and CV\nby a factor of 100",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "You have n observations on rainfall in centimeters (cm) at two locations, denoted by x\nand y respectively, and you calculate the covariance, correlation coe\ufb03cient r, and the\nslope coe\ufb03cient b of the regression of y on x. Now, if instead, you were given the same\nobservations measured in millimeters (mm), then",
+            "options": [
+                "the covariance would increase by a factor of 10, b by a factor of 100, and r\nwould be unchanged",
+                "the covariance and b would increase by a factor of 100, and r would be un-\nchanged",
+                "the covariance would increase by a factor of 100 and b and r would be un-\nchanged",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Let 0 < p < 1. Any solution (x\u2217, y\u2217) of the constrained maximization problem\nmax\nx,y\n\u0012\u22121\nx + y\n\u0013\nsubject to\npx + y \u226410\nx, y \u22650\nmust satisfy",
+            "options": [
+                "y\u2217= 10 \u2212p",
+                "x\u2217= 10/p",
+                "x\u2217= 1/\u221ap",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Suppose the matrix equation Ax = b has no solution, where A is 3 \u00d7 3 non-zero matrix\nof real numbers and b is a 3 \u00d7 1 vector of real numbers. Then",
+            "options": [
+                "The set of vectors x for which Ax = 0 is a plane",
+                "The set of vectors x for which Ax = 0 is a line",
+                "The rank of A is 3",
+                "Ax = 0 has a non-zero solution"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "k people get o\ufb00a plane and walk into a hall where they are assigned to at most n queues.\nThe number of ways in which this can be done is",
+            "options": [
+                "nCk",
+                "nPk",
+                "nkk!",
+                "n(n + 1) . . . (n + k \u22121)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "If Pr(A) = Pr(B) = p, then Pr(A \u2229B) must be",
+            "options": [
+                "greater than p2",
+                "equal to p2",
+                "less than or equal to p2",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "If Pr(Ac) = \u03b1 and Pr(Bc) = \u03b2 (where Ac denotes the event \u201dnot A\u201d), then Pr(A \u2229B)\nmust be",
+            "options": [
+                "1 \u2212\u03b1\u03b2",
+                "(1 \u2212\u03b1)(1 \u2212\u03b2)",
+                "greater than or equal to 1 \u2212\u03b1 \u2212\u03b2",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The density function of a normal distribution with mean \u00b5 and standard deviation \u03c3\nhas in\ufb02ection points at",
+            "options": [
+                "\u00b5",
+                "\u00b5 \u2212\u03c3, \u00b5 + \u03c3",
+                "\u00b5 \u22122\u03c3, \u00b5 + 2\u03c3",
+                "nowhere"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "In how many ways can \ufb01ve objects be placed in a row if two of them cannot be placed\nnext to each other?",
+            "options": [
+                "36",
+                "60",
+                "72",
+                "24"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Suppose x = 0 is the only solution to the matrix equation Ax = 0 where A is m \u00d7 n, x\nis n \u00d7 1, and 0 is m \u00d7 1. Then, of the two statements (i) The rank of A is n, and (ii)\nm \u2265n",
+            "options": [
+                "Only (i) must be true",
+                "Only (ii) must be true",
+                "Both (i) and (ii) must be true",
+                "Neither (i) nor (ii) has to be true"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Mr. A is selling ra\ufb04e tickets which cost 1 rupee per ticket. In the queue for tickets\nthere are n people. One of them has only a 2-rupee coin while all the rest have 1-rupee\ncoins. Each person in the queue wants to buy exactly one ticket and each arrangement\nin the queue is equally likely to occur. Initially, Mr. A has no coins and enough tickets\nfor everyone in the queue. He stops selling tickets as soon as he is unable to give the\nrequired change. The probability that he can sell tickets to all people in the queue is",
+            "options": [
+                "n\u22122\nn",
+                "1\nn",
+                "n\u22121\nn",
+                "n\u22121\nn+1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Out of 800 families with \ufb01ve children each, how many families would you expect to have\neither 2 or 3 boys. Assume equal probabilities for boys and girls.",
+            "options": [
+                "400",
+                "450",
+                "500",
+                "550"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The function f : R \u2192R given by\nf(x) =\n\uf8f1\n\uf8f2\n\uf8f3\nx\n|x|,\nif x \u0338= 0\n1\nif x = 0\nis",
+            "options": [
+                "concave",
+                "convex",
+                "neither concave nor convex",
+                "both concave and convex"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "As n \u2192\u221e, the sequence\nn\nn2+1\n2n2+3\no",
+            "options": [
+                "diverges",
+                "converges to 1/3",
+                "converges to 1/2",
+                "neither converges nor diverges"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The function x1/3 is",
+            "options": [
+                "di\ufb00erentiable at x = 0",
+                "continuous at x = 0",
+                "concave",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "The function sin(log x), where x > 0",
+            "options": [
+                "is increasing",
+                "is bounded and converges to a real number as x \u2192\u221e",
+                "is bounded but does not converge as x \u2192\u221e",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "For any two functions f1 : [0, 1] \u2192R and f2 : [0, 1] \u2192R, de\ufb01ne the function g : [0, 1] \u2192R\nas g(x) = max(f1(x), f2(x)) for all x \u2208[0, 1].",
+            "options": [
+                "If f1 and f2 are linear, then g is linear",
+                "If f1 and f2 are di\ufb00erentiable, then g is di\ufb00erentiable",
+                "If f1 and f2 are convex, then g is convex",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let f : R \u2192R be the function de\ufb01ned as\nf(x) = x3 \u22123x\nFind the maximum value of the f(x) on the set of real numbers satisfying x4+36 \u226413x2.",
+            "options": [
+                "18",
+                "-2",
+                "2",
+                "52"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "A monkey is sitting on 0 on the real line in period 0. In every period t \u2208{0, 1, 2, . . .} it\nmoves 1 to the right with probability p and 1 to the left with probability 1 \u2212p, where\np \u2208\nh\n1\n2, 1\ni\n. Let \u03c0k denote the probability that the monkey will reach positive integer k\nin some period t > 0. The value of \u03c0k for any positive integer k is",
+            "options": [
+                "pk",
+                "1",
+                "pk\n(1\u2212p)k",
+                "p\nk"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Refer to the previous question. Suppose p = 1\n2 and \u03c0k denote the probability that the\nmonkey will reach positive integer k in some period t > 0. The value of \u03c00 is",
+            "options": [
+                "0",
+                "1\n2k",
+                "1\n2",
+                "1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose f : R \u2192R is a di\ufb00erentiable function with f \u2032(x) > 0 for all x \u2208R and satisfying\nthe property\nlim\nx\u2192\u2212\u221ef(x) \u22650\nWhich of the following must be true?",
+            "options": [
+                "f(1) < 0",
+                "f(1) > 0",
+                "f(1) = 0",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "For what values of x is\nx2 \u22123x \u22122 < 10 \u22122x",
+            "options": [
+                "4 < x < 9",
+                "x < 0",
+                "\u22123 < x < 4",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "e2\nZ\ne\n1\nx (log x)3dx =",
+            "options": [
+                "3/8",
+                "5/8",
+                "6/5",
+                "\u22124/5"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "The solution of the system of equations\nx \u22122y + z\n=\n7\n2x \u2212y + 4z\n=\n17\n3x \u22122y + 2z\n=\n14\nis",
+            "options": [
+                "x = 4, y = \u22121, z = 3",
+                "x = 2, y = 4, z = 3",
+                "x = 2, y = \u22121, z = 5",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Let f : R2 \u2192R be a twice-di\ufb00erentiable function with non-zero second partial deriva-\ntives. Suppose that for every x \u2208R, there is a unique value of y, say y\u2217(x), that solves\nthe problem max\ny\u2208R\nf(x, y) Then y\u2217is increasing in x if",
+            "options": [
+                "f is strictly concave",
+                "f is strictly convex",
+                "\u22022f\n\u2202x\u2202y > 0",
+                "\u22022f\n\u2202x\u2202y < 0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Z\n3\n\u221a2x+1dx =",
+            "options": [
+                "3\n\u221a2x+1\nln 3\n+\n\u221a2x + 1\nln 3\n+ c",
+                "3\n\u221a2x+1\u221a2x + 1\nln 3\n\u22123\n\u221a2x+1\n(ln 3)2 + c",
+                "3\n\u221a2x+1\u221a2x + 1\n(ln 3)2\n\u22123\n\u221a2x+1\nln 3\n+ c",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2019,
+    "exam_title": "ISI PEA 2019",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Robinson Crusoe will live this period (period 1) and the next period (period 2) as the only\ninhabitant of his island completely isolated from the rest of the world. His only income\nis a crop of 100 coconuts that he harvests at the beginning of each period. Coconuts not\nconsumed in the current period spoil at the rate of 20% per period. Crusoe\u2019s preference\nover consumption in period 1 (c1) and consumption in period 2 (c2) is given by the utility\nfunction u (c1, c2) = min {5c1, 6c2} . Crusoe\u2019s utility maximizing consumption choice is\ngiven by",
+            "options": [
+                "c1 = 200\u00d76\n11 , c2 = 200\u00d75\n11 .",
+                "c1 = 90, c2 = 108",
+                "c1 = 100, c2 = 100",
+                "none of the above."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The domestic supply and demand equations for a commodity in a country are as follows:\nSupply: P = 50+Q, Demand: P = 200\u22122Q, where P is the price in rupees per kilogram\nand Q is the quantity in thousands of kilograms. The country is a small producer in\nthe world market where the price (which will not be a\ufb00ected by anything done by this\ncountry) is Rs. 60 per kilogram. The government of this country introduces a \u201dPermit\nPolicy\u201d which works as follows. The government issues a \ufb01xed number of Permits - each\nPermit allows its owner to sell exactly 100 kilograms of the commodity in this country\u2019s\nmarket. An exporter from a foreign country cannot sell this commodity in this country\nunless she purchases such a Permit. Suppose the government issues 300 Permits. What\nis the maximum price an exporter is willing to pay for a Permit?",
+            "options": [
+                "Rs. 3000",
+                "Rs. 2000",
+                "Rs. 1500",
+                "Rs. 1000"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "SeaTel provides cellular phone service in Delhi and has some monopoly power in the\nsense that it has its captive customer base with each customer\u2019s weekly demand being\ngiven by: Q = 60 \u2212P, where Q denotes hours of cell phone calls per week and P is the\nprice per hour. SeaTel\u2019s total cost of providing cell phone service is given by C = 20Q,\nso that the marginal cost is MC = 20. Suppose SeaTel o\ufb00ers a \u201dCall-As-Much-As-You-\nWish\u201d deal: it charges only a \ufb02at weekly access fee, and once a customer pays the \ufb02at\naccess fee, he/she can call as much as he/she wishes without paying any extra usage fee\nper hour. The weekly access fee that SeaTel should charge to maximize its pro\ufb01t is given\nby",
+            "options": [
+                "1800",
+                "1200",
+                "800",
+                "40"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A bus stop has to be located on the interval [0, 1]. There are three individuals located\nat points 0.2,0.3 and 0.9 on the interval. If the bus stop is located at point x, then the\nutility of an individual located at y is \u2212|y \u2212x|, that is, the negative of the distance\nbetween the bus stop and the individual\u2019s location. A relocation of the bus stop is said\nto be Pareto improving if at least one individual is better o\ufb00and no individual is worse\no\ufb00from the relocation. A location of the bus stop is said to be Pareto e\ufb03cient if there\ndoes not exist any Pareto improving relocation. Then",
+            "options": [
+                "0.5 is the only Pareto e\ufb03cient location.",
+                "0.2+0.3+0.9\n3\nis the only Pareto e\ufb03cient location.",
+                "Median of 0.2,0.3 and 0.9 is the only Pareto e\ufb03cient location.",
+                "none of the above."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Consider three goods: a cable television, b a \ufb01sh in international waters, and c a burger.\nAlso consider four descriptions of the goods: (A) non-rival and non-excludable, (B) rival\nand excludable, (C) non-rival and excludable, and (D) rival and nonexcludable. In what\nfollows we match goods to possible descriptions. Choose the correct match.",
+            "options": [
+                "(a) \u2212(A), (b) \u2212(C), (c) \u2212(B)",
+                "(a) \u2212(C), (b) \u2212(D), (c) \u2212(A)",
+                "(a) \u2212(C), (b) \u2212(B), (c) \u2212(A)",
+                "(a) \u2212(C), (b) \u2212(D), (c) \u2212(B)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Consider an economy consisting of three individuals -1,2 and 3, two goods \u2212A and B,\nand a single monopoly \ufb01rm that can produce both goods at zero cost. Each individual\nwould like to buy exactly 1 unit of the goods A and B, if at all. An individual\u2019s valuation\nof a good is de\ufb01ned as the maximum amount she is willing to pay for one unit of the\ngood.\nIndividual 1 \u2019s valuation of good A is Rs.\n10 and that of good B is Rs.\n1.\nIndividual 2\u2019s valuation of good A is Rs. 1, and that of good B is Rs. 10 . Individual 3\n\u2019s valuation is Rs. 7 for good A, and Rs. 7 good B. The \ufb01rm can charge a single price\npA for good A, a single price pB for good B, and a bundled price pAB such that if an\nindividual pays pAB then she gets the bundle consisting of one unit each of goods A and",
+            "options": [
+                "pA = 11, pB = 11, pAB = 11",
+                "pA = 11, pB = 11, pAB = 14",
+                "pA = 10, pB = 10, pAB = 11",
+                "none of the above."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Consider a Bertrand duopoly with two \ufb01rms, 1 and 2. Both \ufb01rms produce the same good\nthat has a market demand function p = 10 \u2212q. The market is equally shared in case\nthe \ufb01rms charge the same price, otherwise the lower priced \ufb01rm gets the entire demand.\nA \ufb01rm must satisfy all the demand coming to it. The cost function of \ufb01rm 1 is 3q1,\nthat of \ufb01rm 2 is 2q2. Suppose prices vary along the following grid, {0, 0.1, 0.2, . . .}. The\nBertrand equilibrium is given by",
+            "options": [
+                "p1 = 2, p2 = 2",
+                "p1 = 3, p2 = 2",
+                "p1 = 3, p2 = 2.9",
+                "p1 = 3, p2 = 3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Consider a monopolist with a market demand function p = 20 \u2212q. It is a multi-plant\nmonopolist with two plants, plant 1 and plant 2, where the plant speci\ufb01c cost function\nof plant i, i = 1, 2, is\nci (qi) =\n(\n2 + 4qi, if qi > 0\n0, otherwise\nThe optimal monopoly pro\ufb01t is given by",
+            "options": [
+                "60",
+                "64",
+                "68",
+                "62"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider a closed economy in which an individual\u2019s labour supply (L) to \ufb01rms is deter-\nmined by the amount which maximizes her utility function u(C, L) = C\u03b1(1\u2212L)\u03b2, where\n\u03b1, \u03b2 > 0, \u03b1 + \u03b2 < 1 and C is consumption expenditure which is taken to be equal to\nwage income (wL). Then",
+            "options": [
+                "labour supply does not depend on the wage rate w.",
+                "labour supply is directly proportional to the wage rate w.",
+                "labour supply is inversely proportional to the wage rate w.",
+                "more information is needed to derive the labour supply."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "In the scenario described in Question 9, assume that the economy is Keynesian, that is,\ninvestment expenditure (I) is autonomous and output (Y ) is determined by aggregate\ndemand, Y = C + I. The aggregate production function is given by Y = AL\u03b8, where\nA > 0 is a productivity parameter and 0 < \u03b8 < 1. [Note that the \ufb01rm\u2019s employment of\nlabour is obtained by equating the marginal product of labour to w.] Then the marginal\npropensity to consume is",
+            "options": [
+                "a+\u03b2\n\u03b8 .",
+                "g\n\u03b8.",
+                "\u03b1.",
+                "\u03b8"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider a Solow growth model (in continuous time) with a production function with\nlabour augmenting technological change, Yt = F (Kt, AtLt) , where Yt denotes output,\nKt denotes the capital stock, At denotes the level of total factor productivity (TFP),\nand Lt denotes the stock of the labour force. Assume that Lt grows at the rate n > 0\nand At grows at the rate g > 0, that is,\n\u02d9L\nL = n and\n\u02d9A\nA = g, and the capital accumulation\nequation is given by \u02d9K = sYt \u2212\u03b4Kt, where s \u2208[0, 1] is the exogenous savings rate, and\n\u03b4 \u2208[0, 1] is the depreciation rate of capital. [Note that for any variable x, \u02d9x denotes dx\ndt ,\ni\nDe\ufb01ne capital in e\ufb03ciency units to be Z \u2261\nK\nAL. Then the expression for\n\u02d9Z\nZ is given by",
+            "options": [
+                "\u02d9Z\nZ = sf(Z)\nZ\n\u2212(n + g)",
+                "\u02d9Z\nZ = sf(Z)\nZ\n\u2212(\u03b4 + n + g)",
+                "\u02d9Z\nZ = sf(Z)\nZ",
+                "\u02d9Z\nZ = sf(Z)\nZ\n\u2212n"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "In the Solow growth model described in Question 11 , the growth rate of Y at the steady\nstate is given by",
+            "options": [
+                "n + g",
+                "\u03b4 + n + g",
+                "zero.",
+                "n."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Consider an IS-LM model where the IS curve is represented by 0.25Y = 500+G\u2212i, and\nmoney demand function is given by M\nP = 2Y\ne1 .\nThe notations are standard: Y denotes\noutput, G denotes government expenditure, i denotes the interest rate, P is the price\nlevel and e is the exponential. Suppose the government wants to increase spending and\ntherefore the central bank decides to change the money supply accordingly such that\nthe interest rate remains the same in the short run. Then the change in money supply\nsatis\ufb01es the following condition:",
+            "options": [
+                "dM\ndG = e",
+                "dM\ndG = Yc\nM",
+                "dM\ndG = Y\nM",
+                "dM\ndG = 4M\nY ."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "An agent lives for two periods. Her utility from consumption in period 1 (c1) and con-\nsumption in period 2 (c2) is given by u (c1, c2) = log (c1) + \u03b2 log (c2) , where 0 < \u03b2 < 1 is\nthe discount factor re\ufb02ecting her time preference. The agent earns incomes w1 in period\n1 and w2 in period 2. The rate of interest is r > 0. The agent chooses c1 and c2 so as\nto maximize u (c1, c2) subject to her budget constraint. Consider a temporary increase\nin income where w1 increases but the agent does not change her expectations about\nw2. Then the marginal propensity to consume of present consumption with respect to\nw1, dc1\ndw1, is given by",
+            "options": [
+                "1\n1+\u03b2\n\u0010\n1 +\n1\n1+r\n\u0011",
+                "\u0010\n1\n1+\u03b2\n\u0011 \u0010\n1\n1+r\n\u0011",
+                "1\n1+\u03b2",
+                "1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "In the scenario described in Question 14, consider a permanent increase in income where\nw1 increases and the agent expects that w2 will also increase by the same amount. Then\ndc1\ndw1 is given by",
+            "options": [
+                "1\n1+\u03b2\n\u0010\n1 +\n1\n1+r\n\u0011",
+                "\u0010\n1\n1+\u03b2\n\u0011 \u0010\n1\n1+r\n\u0011",
+                "1\n1+\u03b2",
+                "1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "For what values of a are the vectors (0, 1, a), (a, 1, 0), (1, a, 1) in R3 linearly dependent?",
+            "options": [
+                "0 .",
+                "1",
+                "2",
+                "\u221a\n2."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Which of the following set of vectors form a basis of R2?",
+            "options": [
+                "{(2, 1)}",
+                "{(1, 1), (2, 2)}",
+                "{(1, 1), (1, 2), (2, 1)}",
+                "{(1, 1), (2, 3)}"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "If a candidate is good he is selected in MSQE examination with probability 0.9. If a\ncandidate is bad he is selected in MSQE examination with probability 0.2. Suppose\nevery candidate is equally likely to be good or bad. If you meet a candidate who is\nselected in the MSQE examination, what is the probability that he will be good?",
+            "options": [
+                "11\n20.",
+                "9\n10",
+                "9\n11.",
+                "11\n12."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let S1 = {2, 3, 4, . . . , 9}. First, an integer s1 is drawn uniformly at random from S1.\nThen s1 and all its factors are removed from S1. Let the new set be S2. Next an integer\ns2 is drawn uniformly at random from S2. Then s2 and all its factors are removed from\nS2. Let the new set be S3. Finally, an integer s3 is drawn uniformly at random from S3.\nWhat is the probability that s1 = 2, s2 = 3, s3 = 5?1",
+            "options": [
+                "1\n8",
+                "1\n64",
+                "1\n16.\n1Answer assumes we remove multiples instead of factors",
+                "1\n72."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Mr. A and B are independently tossing a coin. Their coins have a probability 0.25 of\ncoming HEAD. After each of them tossed the coin twice, we see a total of 2HEADS.\nWhat is the probability that Mr. A had exactly one HEAD?",
+            "options": [
+                "2\n3.",
+                "1\n2.",
+                "1\n4.",
+                "1\n3."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider the following function f : R \u2192R.\nf(x) =\n(\nx\nif x \u2264e\nx (logc x)\nif x > e\nWhich of the following is true for f?",
+            "options": [
+                "f is not continuous at e",
+                "f is not di\ufb00erentiable at e.",
+                "f is neither continuous nor di\ufb00erentiable at e.",
+                "f is continuous and di\ufb00erentiable at e."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let f : [\u22121, 1] \u2192R be a continuous and weakly increasing function such that\nR 1\n\u22121 f(x)dx =\n2\nR 1\n\u22121 f(\u2212x)dx. Suppose f(\u22121) = 0 then f(1) is",
+            "options": [
+                "0.",
+                "1",
+                "1\n2.",
+                "none of the above."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Let A \u2286R and f : A \u2192R be a twice continuously di\ufb00erentiable function. Let x\u2217\u2208A\nbe such that \u2202f\n\u2202x (x\u2217) = 0. Consider the following two statements: (i) if \u22022f\n\u22022x (x\u2217) \u22640, then\nx\u2217is a point of local maximum of f; (ii) if x\u2217is a point of local maximum of f, then\n\u22022f\n\u2202x2 (x\u2217) < 0. Which of the following is true?",
+            "options": [
+                "both (i) and (ii) are correct.",
+                "both (i) and (ii) are incorrect.",
+                "(i) is correct but (ii) is incorrect.",
+                "(ii) is correct but (i) is incorrect."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider the function f(x) = ex for all x \u2208R. Which of the following is true?",
+            "options": [
+                "f is quasi-convex.",
+                "f is quasi-concave.",
+                "f is neither quasi-convex nor quasi-concave.",
+                "f is both quasi-convex and quasi-concave."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider the following matrix A.\nA =\n\uf8ee\n\uf8ef\uf8f0\nx\n0\nk\n1\nx\nk \u22123\n0\n1\n1\n\uf8f9\n\uf8fa\uf8fb\nSuppose determinant of A is zero for two distinct real values of x. What is the least\npositive integer value of k?",
+            "options": [
+                "1 .",
+                "9.",
+                "10.",
+                "8 ."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "De\ufb01ne the following function on the set of all positive integers.\nf(n) =\n(\n2 \u00d7 4 \u00d7 . . . \u00d7 (n \u22123) \u00d7 (n \u22121)\nif n is odd\n1 \u00d7 3 \u00d7 . . . \u00d7 (n \u22123) \u00d7 (n \u22121)\nif n is even.\nWhat is the value of f(n + 2)f(n + 1)?",
+            "options": [
+                "n!.",
+                "(n + 1)!",
+                "(n + 2)!",
+                "(n + 2)(n!)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "The sequence {xn}n\u22650 is de\ufb01ned as follows. We set x0 = 1 and xn = Pn\u22121\nj=0 xj for each\ninteger n \u22651. Then the value of the expression P\u221e\nj=0\n1\nxj is equal to",
+            "options": [
+                "\u221e.",
+                "2 .",
+                "3 .",
+                "7\n4."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "For what values of p does the following quadratic equation have more than two solutions\n(variable in this equation is x )?\n\u0010\np2 \u221216\n\u0011\nx2 \u2212\n\u0010\np2 \u22124p\n\u0011\nx +\n\u0010\np2 \u22125p + 4\n\u0011\n= 0",
+            "options": [
+                "No such value of p exists.",
+                "-4 and 4",
+                "1 and 4",
+                "4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider the square with vertices A, B, C, D. Call a pair of vertices in the square adja-\ncent if they are connected by an edge. You have four colours: RED, BLUE, GREEN,\nYELLOW. How many ways can you colour the vertices A, B, C, D such that no adjacent\nvertices share the same colour?",
+            "options": [
+                "84",
+                "24.",
+                "72",
+                "108 ."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Two players P1 and P2 are playing a game which involves \ufb01lling the entries of an n \u00d7 n\nmatrix, where n \u22652 is an even integer. Starting with P1, each player takes turn to \ufb01ll\nan un\ufb01lled entry of the matrix with a real number. The game ends when all entries are\n\ufb01lled. Player P1 wins if the determinant of the \ufb01nal matrix is non-zero. Else, player P2\nwins. A player i \u2208{1, 2} has a winning strategy if irrespective of what the other player\ndoes, i wins by following this strategy. Which of the following is true?",
+            "options": [
+                "Player 1 has a winning strategy.",
+                "Player 2 has a winning strategy.",
+                "No player has a winning strategy.",
+                "None of the above."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

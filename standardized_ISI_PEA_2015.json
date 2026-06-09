@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2015,
+    "exam_title": "ISI PEA 2015",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "limx\u21920+\nsin{\u221ax}\n{\u221ax} , where {x} = decimal part of x, is",
+            "options": [
+                "0",
+                "1",
+                "non-existent",
+                "none of these"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "f : [0, 1] \u2192[0, 1] is continuous.Then it is true that",
+            "options": [
+                "f(0) = 0, f(1) = 1",
+                "f is di\ufb00erentiable only at x = 1\n2",
+                "f \u2032(x) is constant for all x \u2208(0, 1)",
+                "f(x) = x for at least one x \u2208[0, 1]"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "f(x) = |x \u22122| + |x \u22124|. Then f is",
+            "options": [
+                "continuously di\ufb00erentiable at x = 2",
+                "di\ufb00erentiable but not continuously di\ufb00erentiable at x = 2",
+                "f has both left and right derivatives at x = 2",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "In an examination of 100 students, 70 passed in Mathematics, 65 passed in Physics and\n55 passed in Chemistry. Out of these students, 35 passed in all the three subjects, 50\npassed in Mathematics and Physics, 45 passed in Mathematics and Chemistry and 40\npassed in Physics and Chemistry.Then the number of students who passed in exactly\none subject is",
+            "options": [
+                "30",
+                "25",
+                "10",
+                "none of these"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "The square matrix of the matrix\na\nb\nc\n0\nis a null matrix if and only if",
+            "options": [
+                "a = b = c = 0",
+                "a = c = 0, b is any non-zero real number",
+                "a = b = 0, c is any non-zero real number",
+                "a = 0 and either b = 0 or c = 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "If the positive numbers x, y, z are in harmonic progression, then log(x+z)+log(x\u22122y+z)\nequals",
+            "options": [
+                "4 log(x \u2212z)",
+                "3 log(x \u2212z)",
+                "2 log(x \u2212z)",
+                "log(x \u2212z)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "If f(x + 2y, x \u22122y) = xy, then f(x, y) equals",
+            "options": [
+                "x2\u2212y2\n8",
+                "x2\u2212y2\n4",
+                "x2+y2\n4",
+                "none of these"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "The domain of the function f(x) =\n\u221a\nx2 \u22121 \u2212log(\u221a1 \u2212x), x \u22650,is",
+            "options": [
+                "(\u2212\u221e, \u22121)",
+                "(\u22121, 0)",
+                "null set",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The graph of the function y = log (1 \u22122x + x2) intersects the x axis at",
+            "options": [
+                "0,2",
+                "0,-2",
+                "2",
+                "0"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The sum of two positive integers is 100 .The minimum value of the sum of their reciprocals\nis",
+            "options": [
+                "3\n25",
+                "6\n25",
+                "1\n25",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "The range of the function f(x) = 4x + 2x + 4\u2212x + 2\u2212x + 3, where x \u2208(\u2212\u221e, \u221e), is",
+            "options": [
+                "\u0010\n3\n4, \u221e\n\u0011",
+                "h\n3\n4, \u221e\n\u0011",
+                "(7, \u221e)",
+                "[7, \u221e)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The function f : R \u2192R satis\ufb01es f(x + y) = f(x) + f(y)\u2200x, y \u2208R, where R is the real\nline, and f(1) = 7. Then Pn\nr=1 f(r) equals",
+            "options": [
+                "7n\n2",
+                "7(n+1)\n2",
+                "7n(n+1)\n2",
+                "7n(n + 1)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Let f and g be di\ufb00erentiable functions for 0 < x < 1 and f(0) = g(0) = 0, f(1) = 6\nSuppose that for all x \u2208(0, 1), the equality f \u2032(x) = 2g\u2032(x) holds. Then g(1) equals",
+            "options": [
+                "1",
+                "3",
+                "-2",
+                "-1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Consider the real valued function f(x) = ax2 +bx+c de\ufb01ned on [1, 2]. Then it is always\npossible to get a k \u2208(1, 2) such that",
+            "options": [
+                "k = 2a + b",
+                "k = a + 2b",
+                "k = 3a + b",
+                "none of these"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "In a sequence the \ufb01rst term is 1\n3. The second term equals the \ufb01rst term divided by 1\nmore than the \ufb01rst term. The third term equals the second term divided by 1 more than\nthe second term, and so on. Then the 500th term is",
+            "options": [
+                "1\n503",
+                "1\n501",
+                "1\n502",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "In how many ways can three persons, each throwing a single die once, make a score of\n10?",
+            "options": [
+                "6",
+                "18",
+                "27",
+                "36"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let a be a positive integer greater than 2 .The number of values of x for which\nZ x\na (x + y)dy = 0 holds is",
+            "options": [
+                "1",
+                "2",
+                "a",
+                "a + 1"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Let (x\u2217, y\u2217) be a solution to any optimization problem max(x,y)\u2208R2 f(x, y) subject to\ng1(x, y) \u2264c1. Let (x\u2032, y) be a solution to the same optimization problem max(x,y)\u2208R2 f(x, y)\nsubject to g1(x, y) \u2264c1 with an added constraint that g2(x, y) \u2264c2. Then which one of\nthe following statements is always true?",
+            "options": [
+                "f (x\u2217, y\u2217) \u2265f (x\u2032, y)",
+                "f (x\u2217, y\u2217) \u2264f (x\u2032, y)",
+                "|f (x\u2217, y\u2217)| \u2265|f (x\u2032, y)|",
+                "|f (x\u2217, y\u2217)| \u2264|f (x\u2032, y)|"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let (x\u2217, y\u2217) be a real solution to: max(x,y)\u2208R2 \u221ax + y subject to px + y \u2264m, where\nm > 0, p > 0 and y\u2217\u2208(0, m). Then which one of the following statements is true?",
+            "options": [
+                "x\u2217depends only on p",
+                "x\u2217depends only on m",
+                "x\u2217depends on both p and m",
+                "x\u2217is independent of both p and m."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Let 0 < a1 < a2 < 1 and let f (x; a1, a2) = \u2212|x \u2212a1| \u2212|x \u2212a2|.Let X be the set of all\nvalues of x for which f (x; a1, a2) achieves its maximum. Then",
+            "options": [
+                "X =\nn\nx | x \u2208\nn\na1\n2 , 1+a2\n2\noo",
+                "X = {x | x \u2208{a1, a2}}",
+                "X =\nn\nx | x \u2208\nn\n0, a1+a2\n2\n, 1\noo",
+                "X = {x | x \u2208[a1, a2]}"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Let A and B be two events with positive probability each, de\ufb01ned on the same sample\nspace. Find the correct answer:",
+            "options": [
+                "P(A/B) > P(A) always",
+                "P(A/B) < P(A) always",
+                "P(A/B) > P(B) always",
+                "None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let A and B be two mutually exclusive events with positive probability each, de\ufb01ned on\nthe same sample space. Find the correct answer:",
+            "options": [
+                "A and B are necessarily independent",
+                "A and B are necessarily dependent",
+                "A and B are necessarily equally likely",
+                "None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "The salaries of 16 players of a football club are given below (units are in thousands of\nrupees).\n100, 100, 111, 114, 165, 210, 225, 225, 230,\n575, 1200, 1900, 2100, 2100, 2650, 3300\nNow suppose each player received an extra Rs. 200,000 as bonus. Find the correct\nanswer:",
+            "options": [
+                "Mean will increase by Rs. 200,000 but the median will not change",
+                "Both mean and median will be increased by Rs. 200,000",
+                "Mean and standard deviation will both be changed",
+                "Standard deviation will be increased but the median will be unchanged"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Let Pr(X = 2) = 1. De\ufb01ne \u00b52n = E(X \u2212\u00b5)2n, \u00b5 = E(X). Then:",
+            "options": [
+                "\u00b52n = 2",
+                "\u00b52n = 0",
+                "\u00b52n > 0",
+                "None of the above"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Consider a positively skewed distribution. Find the correct answer on the position of\nthe mean and the median:",
+            "options": [
+                "Mean is greater than median",
+                "Mean is smaller than median",
+                "Mean and median are same",
+                "None of the above"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Puja and Priya play a fair game (i.e.\nwinning probability is 1/2 for both players)\nrepeatedly for one rupee per game. If originally Puja has a rupees and Priya has b\nrupees (where a > b), what is Puja\u2019s chances of winning all of Priya\u2019s money, assuming\nthe play goes on until one person has lost all her money?",
+            "options": [
+                "1",
+                "0",
+                "b/(a + b)",
+                "a/(a + b)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "An urn contains w white balls and b black balls (w > 0) and (b > 0).The balls are\nthoroughly mixed and two are drawn, one after the other, without replacement. Let Wi\ndenote the outcome \u2019white on the i -th draw\u2019 for i = 1, 2. Which one of the following is\ntrue?",
+            "options": [
+                "P(W2) = P(W1) = w/(w + b)",
+                "P(W2) = P(W1) = (w \u22121)/(w + b \u22121)",
+                "P(W1) = w/(w + b), P(W2) = (w \u22121)/(w + b \u22121)",
+                "P(W1) = w/(w + b), P(W2) = {w(w \u22121)}/{(w \u2212b)(w + b \u22121)}"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "A bag contains four pieces of paper, each labeled with one of the digits 1, 2, 3, 4, with\nno repeats. Three of these pieces are drawn, one at a time without replacement, to\nconstruct a three-digit number. What is the probability that the three-digit number is\na multiple of 3?",
+            "options": [
+                "3/4\n6",
+                "1/2",
+                "1/4",
+                "9/24"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider two random variables X and Y where X takes values -2,-1,0,1,2 each with\nprobability 1/5 and Y = |X|. Which of the following is true?",
+            "options": [
+                "The variables X and Yare independent and Pearson\u2019s correlation coe\ufb03cient\nbetween X and Y is 0.",
+                "The variables X and Y are dependent and Pearson\u2019s correlation coe\ufb03cient\nbetween X and Y is 0.",
+                "The variables X and Y are independent and Pearson\u2019s correlation coe\ufb03cient\nbetween X and Y is 1",
+                "The variables X and Y are dependent and Pearson\u2019s correlation coe\ufb03cient\nbetween X and Y is 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Two friends who take the metro to their jobs from the same station arrive to the station\nuniformly randomly between 7 and 7: 20 in the morning. They are willing to wait for\none another for 5 minutes, after which they take a train whether together or alone. What\nis the probability of their meeting at the station?",
+            "options": [
+                "5/20",
+                "25/400",
+                "10/20",
+                "7/16"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2013,
+    "exam_title": "ISI PEA 2013",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Let f(x) = 1\u2212x\n1+x, x \u0338= \u22121. Then f\n\u0010\nf\n\u0010\n1\nx\n\u0011\u0011\n, x \u0338= 0 and x \u0338= \u22121, is",
+            "options": [
+                "1",
+                "x",
+                "x2",
+                "1\nx"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The limiting value of 1.2+2.3+...+n(n+1)\nn3\nas n \u2192\u221eis,",
+            "options": [
+                "0",
+                "1",
+                "1/3",
+                "1/2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Suppose a1, a2, . . . , an are n positive real numbers with a1a2 . . . an = 1. Then the mini-\nmum value of (1 + a1) (1 + a2) . . . (1 + an) is",
+            "options": [
+                "2n",
+                "22n",
+                "1",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let the random variable X follow a Binomial distribution with parameters n and p where\nn(> 1) is an integer and 0 < p < 1. Suppose further that the probability of X = 0 is the\nsame as the probability of X = 1 Then the value of p is",
+            "options": [
+                "1\nn,",
+                "1\nn+1",
+                "n\nn+1",
+                "n\u22121\nn+1."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Let X be a random variable such that E (X2) = E(X) = 1. Then E (X100) is",
+            "options": [
+                "1 ,",
+                "2100,",
+                "0,",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "If \u03b1 and \u03b2 are the roots of the equation x2 \u2212ax + b = 0, then the quadratic equation\nwhose roots are \u03b1 + \u03b2 + \u03b1\u03b2 and \u03b1\u03b2 \u2212\u03b1 \u2212\u03b2 is",
+            "options": [
+                "x2 \u22122ax + a2 \u2212b2 = 0",
+                "x2 \u22122ax \u2212a2 + b2 = 0",
+                "x2 \u22122bx \u2212a2 + b2 = 0",
+                "x2 \u22122bx + a2 \u2212b2 = 0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Suppose f(x) = 2\n\u0010\nx2 + 1\nx2\n\u0011\n\u22123\n\u0010\nx + 1\nx\n\u0011\n\u22121 where x is real and x \u0338= 0. Then the solutions\nof f(x) = 0 are such that their product is",
+            "options": [
+                "1",
+                "2",
+                "-1",
+                "-2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Toss a fair coin 43 times. What is the number of cases where number of Head is >\nnumber of Tail?",
+            "options": [
+                "243,",
+                "243 \u221243",
+                "242",
+                "None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The minimum number of real roots of f(x) = |x|3 + a|x|2 + b|x| + c where a, b and c are\nreal, is",
+            "options": [
+                "0",
+                "2",
+                "3",
+                "6"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Suppose f(x, y) where x and y are real, is a di\ufb00erentiable function satisfying the following\nproperties: (i) f(x + k, y) = f(x, y) + ky (ii) f(x, y + k) = f(x, y) + kx; and (iii)\nf(x, 0) = m, where m is a constant. Then f(x, y) is given by",
+            "options": [
+                "m + xy",
+                "m + x + y",
+                "mxy",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let I =\nR 343\n2\n{x \u2212[x]}2dx where [x] denotes the largest integer less than or equal to x.\nThen the value of I is",
+            "options": [
+                "343\n3 ,",
+                "343\n2 ,",
+                "341\n3 ,",
+                "None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The coe\ufb03cients of three consecutive terms in the expression of (1 + x)n are 165,330 and\n462. Then the value of n is",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "If a2 + b2 + c2 = 1, then ab + bc + ca lies in",
+            "options": [
+                "h\n1\n2, 1\ni",
+                "[\u22121, 1]",
+                "h\n\u22121\n2, 1\n2\ni",
+                "h\n\u22121\n2, 1\ni"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Let the function f(x) be de\ufb01ned as f(x) = |x \u22124| + |x \u22125|. Then which of the following\nstatements is true?",
+            "options": [
+                "f(x) is di\ufb00erentiable at all points,",
+                "f(x) is di\ufb00erentiable at x = 4, but not at x = 5",
+                "f(x) is di\ufb00erentiable at x = 5 but not at x = 4,",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The value of the integral\nR 1\n0\nR x\n0 x2exydxdy is",
+            "options": [
+                "e",
+                "e\n2,",
+                "1\n2(e \u22121)",
+                "1\n2(e \u22122)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Let N = {1, 2, . . .} be a set of natural numbers. For each x \u2208N, de\ufb01ne An = {(n +\n1)k, k \u2208N}. Then A1 \u2229A2 equals",
+            "options": [
+                "A2",
+                "A4",
+                "A5",
+                "A6"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "limx\u21920\nn\n1\nx\n\u0010\u221a\n1 + x + x2 \u22121\n\u0011o\nis",
+            "options": [
+                "0",
+                "1",
+                "1\n2,",
+                "Non-existent."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "The value of\nn\n0\n!\n+ 2\nn\n1\n!\n+ 3\nn\n2\n!\n+ . . . + (n + 1)\nn\nn\n!\nequals",
+            "options": [
+                "2n + n2n\u22121",
+                "2n \u2212n2n\u22121",
+                "2n",
+                "2n+2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The rank of the matrix\n\uf8eb\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ed\n1\n1\n0\n0\n0\n0\n1\n1\n1\n0\n1\n0\n0\n1\n0\n1\n\uf8f6\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f8is",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose an odd positive integer 2n + 1 is written as a sum of two integers so that their\nproduct is maximum. Then the integers are",
+            "options": [
+                "2n and 1 ,",
+                "n + 2 and n \u22121",
+                "2n \u22121 and 2",
+                "None of the above."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "If |a| < 1, |b| < 1, then the series a(a + b) + a2 (a2 + b2) + a3 (a3 + b3) + . . . . . . converges\nto",
+            "options": [
+                "a2\n1\u2212a2 +\nb2\n1\u2212b2",
+                "a(a+b)\n1\u2212a(a+b)",
+                "a2\n1\u2212a2 +\nab\n1\u2212ab,",
+                "a2\n1\u2212a2 \u2212\nab\n1\u2212ab."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Suppose f(x) = x3 \u22126x2 + 24x. Then which of the following statements is true?",
+            "options": [
+                "f(x) has a maxima but no minima,",
+                "f(x) has a minima but no maxima,",
+                "f(x) has a maxima and a minima,",
+                "f(x) has neither a maxima nor a minima."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "An urn contains 5 red balls, 4 black balls and 2 white balls. A player draws 2 balls one\nafter another with replacement. Then the probability of getting at least one red ball or\nat least one white ball is",
+            "options": [
+                "105\n121",
+                "67\n121",
+                "20\n121",
+                "None of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "If logt x =\n1\nt\u22121 and logt y =\nt\nt\u22121, where logt x stand for logarithm of x to the base t. Then\nthe relation between x and y is",
+            "options": [
+                "yx = x1/y",
+                "x1/y = y1/x",
+                "xy = yx,",
+                "xy = y1/x"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose f\u2032\u2032(x)\nf\u2032(x) = 1 for all x. Also, f(0) = e2 and f(1) = e3. Then\nR 2\n\u22122 f(x)dx equals",
+            "options": [
+                "2e2",
+                "e2 \u2212e\u22122",
+                "e4 \u22121",
+                "None of the above."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The minimum value of the objective function z = 5x + 7y, where x \u22650 and y \u22650,\nsubject to the constraints 2x + 3y \u22656,\n3x \u2212y \u226415,\n\u2212x + y \u22644, and 2x + 5y \u226427 is",
+            "options": [
+                "14",
+                "15",
+                "25",
+                "28"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Suppose A is a 2 \u00d7 2 matrix given as\n2\n5\n3\n1\n!\n. Then the matrix A2 \u22123A \u221213I, where\nI is the 2 \u00d7 2 identity matrix, equals",
+            "options": [
+                "I",
+                "0\n0\n0\n0\n!",
+                "1\n5\n3\n0\n!",
+                "None of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "The number of permutations of the letters a, b, c, and d such that b does not follow a, c\ndoes not follow b, and d does not follow c is",
+            "options": [
+                "14",
+                "13",
+                "12",
+                "11"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Given n observations x1, x2, . . . , xn, which of the following statements is true?",
+            "options": [
+                "The mean deviation about arithmetic mean can exceed the standard deviation",
+                "The mean deviation about arithmetic mean cannot exceed the standard devi-\nation",
+                "The root mean square deviation about a point A is least when A is the median",
+                "The mean deviation about a point A is minimum when A is the arithmetic\nmean"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider the following classical linear regression of y on x,\nyi = \u03b2xi + ui, i = 1, 2, . . . , . . . , n\nwhere E (ui) = 0, V (ui) = \u03c32 for all i, and u\u2032\nis are homoscedastic and non-autocorrelated.\nNow, let \u02c6ui be the ordinary least square estimate of ui. Then which of the following\nstatements is true?",
+            "options": [
+                "Pn\ni=1 \u02c6ui = 0",
+                "Pn\ni=1 \u02c6ui = 0, and Pn\ni=1 xi\u02c6ui = 0",
+                "Pn\ni=1 \u02c6ui = 0, and Pn\ni=1 xi\u02c6ui \u0338= 0",
+                "Pn\ni=1 xi\u02c6ui = 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

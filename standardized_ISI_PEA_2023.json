@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2023,
+    "exam_title": "ISI PEA 2023",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "A consumer\u2019s budgetary allocation for two commodities x and y is given by m. Her\ndemand for commodity x is given by: x (px, py, m) = 2m\n5px. Suppose that her budget allo-\ncation (m) and the price of commodity y (py) remains the same at (m = Rs. 1000, py =\nRs. 20) while the price of commodity x (px) falls from Rs. 5 to Rs. 4 . The substitution\ne\ufb00ect of this price change is given by",
+            "options": [
+                "an increase in demand for x from 80 to 100",
+                "an increase in demand for x from 90 to 100",
+                "an increase in demand for x from 80 to 90",
+                "an increase in demand for x from 80 to 92"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "You are given the following partial information about the purchases of a consumer who\nconsumes only two goods: Good 1 and Good 2.\nYear 1\nYear 2\nQuantity\nPrice\nQuantity\nPrice\nGood 1\n100\n100\nGood 1\n120\n100\nGood 2\n100\n100\nGood 2\n??\n80\nSuppose that the amount of Good 2 consumed in year 2 is denoted by x. Think about\nthe range of x over which you would conclude that the consumer\u2019s consumption bundle\nin year 1 is revealed preferred to that in year 2.\nAlso think about the range of x\nover which you would conclude that the consumer\u2019s consumption bundle in year 2 is\nrevealed preferred to that in year 1 . Which of the following ranges of x ensures that the\nconsumer\u2019s behaviour is inconsistent (that is, it contradicts the weak axiom of revealed\npreference)?",
+            "options": [
+                "75 < x < 80",
+                "x \u226570",
+                "70 < x < 75",
+                "x \u226475"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider a market demand function p = 100\u2212q. where p is market price and q is aggre-\ngate demand. There are 23 \ufb01rms, each with cost function, ci (qi) = q2\ni\n2 , i \u22081, 2 . . . . . . 23.\nThe Cournot-Nash equilibrium",
+            "options": [
+                "is not well de\ufb01ned",
+                "involves each \ufb01rm producing 3 units",
+                "involves each \ufb01rm producing 4 units",
+                "involves each \ufb01rm producing 5 units"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Consider a market demand function p = 100 \u2212q, where p is market price and q is\naggregate demand. There are 10 \ufb01rms, each with cost function, ci (qi) = qi, i \u22081, 2, . . . 10.\nThe \ufb01rms compete in quantities. The total deadweight loss is",
+            "options": [
+                "992\n2",
+                "92\n2",
+                "102\n2",
+                "1002\n2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Consider a market demand function p = 100 \u2212q, where p is market price and q is\naggregate demand. There is a large number of \ufb01rms with identical cost functions\nci (qi) =\n(\n10 + 2qi, if qi > 0\n0, otherwise.",
+            "options": [
+                "The competitive equilibrium price is not well de\ufb01ned",
+                "The competitive equilibrium price is 2",
+                "The competitive equilibrium price is 10",
+                "The competitive equilibrium price is 2.1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Consider a market demand function p = 100 \u2212q. where p is market price and q is\naggregate demand. There are two \ufb01rms. \ufb01rm 1 and \ufb01rm 2. with identical cost functions\nci (qi) =\n(\n0, if qi \u226410\n\u221e, otherwise\nfor i = 1.2. The \ufb01rms simultaneously announce their prices, p1 and p2. The demand\ncoming to \ufb01rm i is:\nDi (p1, p2) =\n\uf8f1\n\uf8f4\n\uf8f4\n\uf8f2\n\uf8f4\n\uf8f4\n\uf8f3\n100 \u2212pi,\nif pi < pj\n100\u2212pi\n2\n,\nif pi = pj\n0,\notherwise\nThe Bertrand-Nash equilibrium is",
+            "options": [
+                "(p1 = 0, p2 = 0)",
+                "(p1 = 20, p2 = 20)",
+                "(p1 = 80, p2 = 80)",
+                "(p1 = 90, p2 = 90)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "500 consumers (of health services) are distributed uniformly over the interval [0, 1]. The\ngovernment can set up two hospitals anywhere in the interval. The hospitals provide\nhealth services free of cost, but the consumers have to incur the expenses of travelling to\nthe hospital. The travel cost of a consumer who travels a distance d is d. The \ufb01xed cost\nof setting up a hospital is 300, and the marginal cost of servicing an individual is 2. The\nworth of the health services to an individual is 4. The government can, of course, decide\nto set up no hospital. The optimal hospital location decision of a welfare maximizing\ngovernment is:",
+            "options": [
+                "set up no hospital",
+                "set up two hospitals - both at 1/2",
+                "set up two hospitals - one at 1/3, the other at 2/3",
+                "set up two hospitals - one at 1/4, the other at 3/4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "There is a unit mass of consumers who buy either one unit of a product or nothing.\nConsumer valuation , \u03b8, is distributed according to the distribution function F(\u03b8) de\ufb01ned\nover [\u03b8, \u03b8], that is, for any \u03b8 \u2208[\u03b8, \u03b8], the proportion of consumers with valuation less\nthan or equal to \u03b8 is given by F(\u03b8). Suppose that the inverse demand function for the\nproduct is p(q), where p is market price and q is aggregate demand. Then the slope of\nthe inverse demand function is",
+            "options": [
+                "p\u2032(q) = \u2212F \u2032(p(q))",
+                "p\u2032(q) = \u2212\n1\nF \u2032(p(q))",
+                "p\u2032(q) = \u2212\n1\nF \u2032(q)",
+                "p\u2032(q) = \u2212F \u2032(q)\nQuestions 9 and 10 share the following common information. Consider an economy where\noutput (income) is demand determined.\nIn this economy \u03bb proportion (0 < \u03bb < 1) of\nthe total income is distributed to the workers, and (1 \u2212\u03bb) proportion to the capitalists.\nThe capitalists save sc fraction (0 < sc < 1) of their income and consume the rest; the\nworkers save sw fraction (0 < sw < 1) of their income and consume the rest; also sw > sc.\nThe aggregate demand consists of total consumption demand and total investment demand.\nInvestment demand is autonomously given at \u00afl units."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Suppose savings propensities of both the workers and capitalists increase. Then, in the\nnew equilibrium.",
+            "options": [
+                "aggregate savings increases and income decreases",
+                "aggregate savings decreases and income increases",
+                "aggregate savings increases and income remains unchanged",
+                "aggregate savings remains unchanged and income decreases"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Suppose savings propensities remain the same but the share of total income distributed\nto the workers increases. Then, in the new equilibrium",
+            "options": [
+                "aggregate savings increases and income decreases",
+                "aggregate savings decreases and income increases",
+                "aggregate savings increases and income remains unchanged",
+                "aggregate savings remains unchanged and income decreases\nQuestions 11, 12, and 13 are related and share a common information set. The complete set\nof information is revealed gradually as you move from one question to the next. Attempt\nthem sequentially starting from question 11."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider an economy where the aggregate output in the short run is given by Y =\n( \u00afK)\u03b1L1\u2212\u03b1, 0 < \u03b1 < 1, where L is the aggregate labour employment and \u00afK is the\naggregate capital stock (which is \ufb01xed in the short run).\nLet P and W denote the\naggregate price level and the nominal wage rate respectively.\nThe producers in the\neconomy maximize pro\ufb01t in a perfectly competitive market.\nIn this economy the demand for labour as a function of real wage rate\n\u0010\nW\nP\n\u0011\nis given by",
+            "options": [
+                "Ld = Y\n1\n1\u2212\u03b1( \u00afK)\n\u03b1\n1\u2212\u03b1",
+                "Ld = \u00afK(1 \u2212\u03b1)\n1\n\u03b1\n\u0010\nW\nP\n\u0011 1\n\u03b1",
+                "Ld = \u00afK(1 \u2212\u03b1)\n1\n\u03b1\n\u0010\nW\nP\n\u0011\u22121\n\u03b1",
+                "Ld = \u00afK(1 \u2212\u03b1)\u22121\n\u03b1\n\u0010\nW\nP\n\u0011 1\n\u03b1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "The above economy is characterized by a representative household which takes the aggre-\ngate price level and the nominal wage rate as given and decides on its consumption and\nlabour supply by maximizing its utility subject to its budget constraint. The household\nhas a total endowment of L units of labour time, of which it supplies L\u2217units to the\nmarket and enjoys the rest as leisure. Its utility depends on its consumption (C) and\nleisure\n\u0010\u00afL \u2212L\u2217\u0011\nin the following way: u = C\u03b2 +\n\u0010\u00afL \u2212Ls\u0011\u03b2 , 0 < \u03b2 < 1. The only source\nof income of the household is the wage income and it spends its entire wage earning in\nbuying consumption goods at the price P. In this economy the supply of labour as a\nfunction of real wage rate\n\u0010\nW\nP\n\u0011\nis given by",
+            "options": [
+                "Ls =\n\u00afL\n1+( W\nP )\n\u03b2\n1\u2212\u03b2",
+                "Ls =\n\u00afL\n1+( W\nP )\n\u03b2\n\u03b2\u22121",
+                "Ls = \u00afL\n\"\n1 +\n\u0010\nW\nP\n\u0011\n\u03b2\n1\u2212\u03b2\n#",
+                "Ls =\n\u00afL\n1\u2212( W\nP )\n\u03b2\n\u03b2\u22121"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Given the labour demand and labour supply functions as derived above, the aggregate\nsupply curve (output (Y ) supplied as a function of the aggregate price level (P), with\nY on x-axis and P on y-axis) of this economy is",
+            "options": [
+                "upward sloping",
+                "downward sloping",
+                "vertical",
+                "horizontal"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Consider an economy with aggregate income Y and aggregate price level P. The goods\nmarket clearing condition is given by the savings-investment equality: S(Y, r) = I(r),\nwhere r is real interest rate and 0 < SY < 1, Sr > 0, Ir < 0.\nThe money market\nclearing condition is given by the equality of real money supply\n\u0010\nM\nP\n\u0011\nand demand for\nreal balances (L) : M\nP = L(Y, r), where M is the supply of money and LY > 0, Lr < 0.\n[For any function f(x, y), fx denotes the partial derivative of f with respect to x.\nThe slope of the aggregate demand curve (aggregate output (Y ) demanded as a function\nof the aggregate price level (P), with Y on x-axis and P on y-axis) of this economy is",
+            "options": [
+                "SY Lr\u2212(Sr\u2212Ir)LY\n\u2212M\nP 2 SY",
+                "SY Lr\u2212(Sr\u2212Ir)LY\n\u22121\nP SY",
+                "SY Lr\u2212(Sr\u2212Ir)LY\nM\nP 2 (Sr\u2212Ir)",
+                "SY Lr\u2212(Sr\u2212Ir)LY\n1\nP (Sr\u2212Ir)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "To test the prediction of the Solow growth model, you run the following linear regression\nfor all the countries in the world:\ngi = \u03b1 + \u03b20 log yi,0 + \u03b21 log ni + \u03b22 log si + \u03b3Xi + \u03b5i,\nwhere gi is the growth rate in per capita real GDP of country i over a certain period, yi,0\nis per capita real GDP of country i at the beginning of the period under consideration,\nni is population growth rate of country i, si is savings rate of country i, Xi stands for a\nset of other control variables and \u03b5i is the error term.\nThe Solow growth model predicts that the expected sign of the regression coe\ufb03cient \u03b20\nis",
+            "options": [
+                "negative",
+                "positive",
+                "zero",
+                "inconclusive"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider the following matrix\nA =\n\uf8ee\n\uf8ef\uf8f0\n1\n0\n1\n0\n1\n1\n1\n1\n0\n\uf8f9\n\uf8fa\uf8fb\nThe rank of A is",
+            "options": [
+                "3",
+                "2",
+                "1",
+                "0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Bowl A contains two red coins; Bowl B contains two white coins; and Bowl C contains\na white and a red coin. A bowl is selected uniformly at random and a coin is chosen\nfrom it uniformly at random. If the chosen coin is white, what is the probability that\nthe other coin in the bowl is red?",
+            "options": [
+                "1\n4",
+                "1\n3",
+                "1\n2",
+                "1\n6"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "A girl chooses a number uniformly at random from {1, 2, 3, 4, 5, 6}. If she chooses n,\nthen she chooses another number uniformly at random from {1, . . . , n}. What is the\nprobability that the second number is 5 ?",
+            "options": [
+                "2\n45",
+                "11\n180",
+                "1\n3",
+                "1\n18"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The cumulative distribution function F of a standard normal distribution satis\ufb01es:\nF(1.4) = 0.92,\nF(0.14) = 0.555\nF(\u22120.2) = 0.42,\nF(\u22121.6) = 0.055\nA manufacturer does not know the mean and standard deviation of the diameters of ball\nbearings it produces. However, he knows that the diameters follow a normal distribution\nwith mean \u00b5 and standard deviation \u03c3. It rejects 8% of bearings as too small if the\ndiameter is less than 1.8 cm and 5.5% bearings as too large if the diameter is greater\nthan 2.4 cm. Which of the following is correct?",
+            "options": [
+                "\u00b5 = 2",
+                "\u00b5 = 2.33",
+                "\u00b5 = 2.4",
+                "\u00b5 = 2.08"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose f : R \u2192R is a di\ufb00erentiable function such that f \u2032(x) is strictly increasing in\nx (f \u2032(x) indicates the derivative of f(x) with respect to x). Suppose f\n\u0010\n1\n2\n\u0011\n=\n1\n2 and\nf(1) = 1. Then which of the following is true?",
+            "options": [
+                "1 < f \u2032 \u0010\n1\n2\n\u0011\n< f \u2032(1)",
+                "f \u2032 \u0010\n1\n2\n\u0011\n< f \u2032(1) < 1",
+                "f \u2032 \u0010\n1\n2\n\u0011\n< 1 < f \u2032(1)",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "For any non-negative real number x, de\ufb01ne f(x) to be the largest integer not greater\nthan x. For instance, f(1.2) = 1. Evaluate the following integral\nZ \u221a\n5\n0\nf\n\u0010\nx2\u0011\ndx",
+            "options": [
+                "5",
+                "4\n\u221a\n5",
+                "4\n\u221a\n5 \u2212\n\u221a\n3 \u2212\n\u221a\n2 \u22123",
+                "4(\n\u221a\n5 \u22122)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The constant term (i.e., the term not involving x) in the expansion of\n\u0010\nx + 1\nx2\n\u001119 is",
+            "options": [
+                "171",
+                "19",
+                "1",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Arjun and Gukesh each toss three di\ufb00erent fair coins (each coin either lands heads or\ntails with equal probability and with each outcome independent of each other). Arjun\nwins if strictly more of his coins lands on heads than Gukesh, and we call the probability\nof this event p1. Which of the following is correct?",
+            "options": [
+                "p1 = 1\n3",
+                "p1 = 3\n8",
+                "p1 = 11\n32",
+                "p1 = 13\n32"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "How many real solutions are there to the equation x|x| + 1 = 3|x| ?",
+            "options": [
+                "3",
+                "2",
+                "1",
+                "0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "We are given n positive integers k1, . . . , kn (need not be distinct) such that\nk1 + . . . + kn = 5n \u22124\n1\nk1\n+ . . . + 1\nkn\n= 1\nWhat is the maximum value of n ?",
+            "options": [
+                "6",
+                "5",
+                "4",
+                "3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "A monkey starts at the origin (0, 0) on R2. The monkey covers a distance of 5 units in\nany direction in one jump. If the monkey can only go to integer coordinates on R2, then\nthe number of possible locations after its \ufb01rst jump is equal to",
+            "options": [
+                "12",
+                "8",
+                "4",
+                "2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "There is a strip made up of (n + 2) squares, where n is a positive integer. The two end\nsquares are coloured black and other n squares are coloured white. A girl jumps to one\nof the n white squares uniformly at random and chooses one of its two adjacent squares\nuniformly at random. What is the probability that the chosen square is white?",
+            "options": [
+                "1 \u2212\n1\nn+2",
+                "1 \u2212\n1\nn\u22121",
+                "1\n2 \u2212\n1\nn+1",
+                "1 \u22121\nn"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Let f : R \u2192R be the following function\nf(x) = max\n\u0010\n|x|, x2\u0011\n,\n\u2200x.\nWhich of the following is true?",
+            "options": [
+                "f is increasing",
+                "f is not continuous",
+                "f is continuous but not di\ufb00erentiable",
+                "f is decreasing"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Let f : R \u2192R be the following function\nf(x) = max\n\u0010\n|x|, x2\u0011\n,\n\u2200x.\nDe\ufb01ne\nD :=\nn\n(x, y) \u2208R2 : x \u2208R, y \u2265f(x)\no\nWhich of the following is true for D ?",
+            "options": [
+                "R2\\D is convex",
+                "R2\n+\\D is convex",
+                "D is not convex",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose f : [\u22121, 1] \u2192R is a function such that\nf(x) = 2 \u2212x2\n2\nf\nx2\n2 \u2212x2\n!\n,\n\u2200x \u2208[\u22121, 1].\nThen, f(\u22121) is equal to",
+            "options": [
+                "-1",
+                "0",
+                "1",
+                "1\n2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

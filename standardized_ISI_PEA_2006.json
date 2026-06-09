@@ -1,0 +1,203 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2006,
+    "exam_title": "ISI PEA 2006",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "If f(x) = log\n\u0010\n1+x\n1\u2212x\n\u0011\n,\n0 < x < 1, then f\n\u0010\n2x\n1+x2\n\u0011\nequals",
+            "options": [
+                "2f(x)",
+                "f(x)\n2",
+                "(f(x))2",
+                "none of these"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "If u = \u03c6(x \u2212y, y \u2212z, z \u2212x), then \u2202u\n\u2202x + \u2202u\n\u2202y + \u2202u\n\u2202z equals",
+            "options": [
+                "0",
+                "1",
+                "u",
+                "none of these"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let A and B be disjoint sets containing m and n elements, respectively, and let C =\nA \u222aB. The number of subsets S of C that contain k elements and that also have the\nproperty that S \u2229A contains i elements is",
+            "options": [
+                "m\ni\n!",
+                "n\ni\n!",
+                "m\nk \u2212i\n!\nn\ni\n!",
+                "m\ni\n!\nn\nk \u2212i\n!"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "The number of disjoint intervals over which the function f(x) = |0.5x2\u2212| x | | is decreas-\ning is",
+            "options": [
+                "one",
+                "two",
+                "three",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "For a set of real numbers x1, x2, . . . . . . , xn, the root mean square (RMS) de\ufb01ned as\nRMS =\nn\n1\nN\nPn\ni=1 x2\ni\no1/2 is a measure of central tendency. If AM denotes the arithmetic\nmean of the set of numbers, then which of the following statements is correct?",
+            "options": [
+                "RMS < AM always",
+                "RMS > AM always",
+                "RMS < AM when the numbers are not all equal",
+                "RMS > AM when numbers are not all equal"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Let f(x) be a function of real variable and let \u2206f be the function \u2206f(x) = f(x+1)\u2212f(x).\nFor k > 1, put \u2206kf = \u2206\n\u0010\n\u2206k\u22121f\n\u0011\n. Then \u2206kf(x) equals",
+            "options": [
+                "Pk\nj=0(\u22121)j\nk\nj\n!\nf(x + j)",
+                "Pk\nj=0(\u22121)j+1\nk\nj\n!\nf(x + j)",
+                "Pk\nj=0(\u22121)j\nk\nj\n!\nf(x + k \u2212j)",
+                "Pk\nj=0(\u22121)j+1\nk\nj\n!\nf(x + k \u2212j)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Let In =\nR \u221e\n0 xne\u2212xdx, where n is some positive integer. Then In equals",
+            "options": [
+                "n! \u2212nIn\u22121",
+                "n! + nIn\u22121",
+                "nIn\u22121",
+                "none of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "If x3 = 1, then \u2206=\na\nb\nc\nb\nc\na\nc\na\nb\nequals",
+            "options": [
+                "(cx2 + bx + a)\n1\nb\nc\nx\nc\na\nx2\na\nb",
+                "(cx2 + bx + a)\nx\nb\nc\n1\nc\na\nx2\na\nb",
+                "(cx2 + bx + a)\nx2\nb\nc\nx\nc\na\n1\na\nb",
+                "(cx2 + bx + a)\n1\nb\nc\nx2\nc\na\nx\na\nb"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider any integer I = m2 + n2, where m and n are any two odd integers. Then",
+            "options": [
+                "I is never divisible by 2",
+                "I is never divisible by 4",
+                "I is never divisible by 6",
+                "none of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "A box has 10 red balls and 5 black balls. A ball is selected from the box. If the ball\nis red, it is returned to the box. If the ball is black, it and 2 additional black balls are\nadded to the box. The probability that a second ball selected from the box will be red\nis",
+            "options": [
+                "47\n72",
+                "25\n72",
+                "55\n153",
+                "98\n153."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let f(x) =\nlog(1+ x\np)\u2212log(1\u2212x\nq)\nx\n, x \u0338= 0. If f is continuous at x = 0, then the value of f(0) is",
+            "options": [
+                "1\np \u22121\nq",
+                "p + q",
+                "1\np + 1\nq",
+                "none of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Consider four positive numbers x1, x2, y1, y2 such that y1, y2 > x1x2 Consider the number\nS = (x1y2 + x2y1) \u22122x1x2. The number S is",
+            "options": [
+                "always a negative integer",
+                "can be a negative fraction",
+                "always a positive number",
+                "none of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Given x \u2265y \u2265z, and x + y + z = 12, the maximum value of x + 3y + 5z is",
+            "options": [
+                "36",
+                "42",
+                "38",
+                "32 ."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "The number of positive pairs of integral values of (x, y) that solves 2xy\u22124x2+12x\u22125y =\n11 is",
+            "options": [
+                "4",
+                "1",
+                "2",
+                "none of these."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "Consider any continuous function f : [0, 1] \u2192[0, 1]. Which one of the following state-\nments is incorrect?",
+            "options": [
+                "f always has at least one maximum in the interval [0,1]",
+                "f always has at least one minimum in the interval [0,1]",
+                "\u2203x \u2208[0, 1] such that f(x) = x",
+                "the function f must always have the property that f(0) \u2208{0, 1} f(1) \u2208{0, 1}\nand f(0) + f(1) = I"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,1308 @@
+{
+    "exam_name": "CUET",
+    "exam_year": 2019,
+    "exam_title": "CUET 2019",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Which of the following options is the closest in meaning to the word underlined in the sentence below? In a democracy, everybody has the freedom to disagree with the government.",
+            "options": [
+                "dissent",
+                "descent",
+                "decent",
+                "decadent"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Choose the most appropriate alternative from the options given below to complete the following sentence. Suresh's dog is the one ______ was hurt in the stampede.",
+            "options": [
+                "that",
+                "which",
+                "who",
+                "whom"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "After the discussion, Tom said to me 'Please revert'. He expects me to",
+            "options": [
+                "retract",
+                "get back to him",
+                "move in reverse",
+                "Retreat"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "The teacher ordered the students not to make ______ noise.",
+            "options": [
+                "a",
+                "an",
+                "no article",
+                "the"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Select the most suitable Synonym for the word 'OSCILLATE'.",
+            "options": [
+                "Prevaricate",
+                "Vacillate",
+                "Negotiate",
+                "Eliminate"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Select the most suitable Synonym for the word 'RENOUNCE'.",
+            "options": [
+                "Relinquish",
+                "Forgive",
+                "Punish",
+                "Accept"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Select the most suitable Antonym for the word 'MITIGATE'.",
+            "options": [
+                "Soothe",
+                "Abate",
+                "Assuage",
+                "Aggravate"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Select the most suitable Antonym for the word 'LATITUDE'.",
+            "options": [
+                "Fragility",
+                "Longitude",
+                "Attraction",
+                "Oppression"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Select the pair which shows the same relationship as OCEAN: SALINE.",
+            "options": [
+                "Honey: Bee",
+                "Rain: Fresh",
+                "Rose: Red",
+                "Heaven: Paradise"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Choose the word that best fits in the blank without changing the meaning of the sentence as a whole. If you do not ______ all your monthly expenses would exceed your income.",
+            "options": [
+                "economise",
+                "spend",
+                "save",
+                "splurge"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Roshan is taller than Hardik who is shorter than Sushil. Niza is taller than Harry but shorter than Hardik. Sushil is shorter than Roshan. Who is Tallest ?",
+            "options": [
+                "Roshan",
+                "Sishil",
+                "Hardik",
+                "Niza"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "If ACNE is coded as 3, 7, 29, 11; then BOIL will be coded as",
+            "options": [
+                "5, 31, 21, 25",
+                "5, 31, 19, 25",
+                "5, 29, 19, 25",
+                "5, 29, 19, 27"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "A rat runs 20 m towards EAST and turns to right, runs 10 m and turns to right run 9 m and again turns to left, runs 5 m and then turns to left, runs 12 m and finally turns to left and runs 6 m. Now which directions is the rat facing?",
+            "options": [
+                "EAST",
+                "WEST",
+                "SOUTH",
+                "NORTH"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Find out the missing number in the sequence 2, 6, 14, 26, __, 62.",
+            "options": [
+                "52",
+                "54",
+                "42",
+                "44"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "In a group of 15 people, 7 read French, 8 read English while 3 of them read none of these two. How many of them read French and English Both?",
+            "options": [
+                "0",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Choose a diagram that depicts the correct relationship among Mother, Nurse, Teacher from the following four numbered diagrams.",
+            "options": [
+                "(ii)",
+                "(iv)",
+                "(iii)",
+                "(i)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The roots of the quadratic equation 2x^2 - 7x + 2 = 0 are",
+            "options": [
+                "Rational and unequal",
+                "Real and equal",
+                "Imaginary",
+                "Irrational"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "A man travelled a distance of 61 km in 9 hours. He travelled partly on foot @ 4 km/hr and partly on bicycle @ 9 km/hr. The distance travelled on foot is",
+            "options": [
+                "14 km",
+                "15 km",
+                "16 km",
+                "17 km"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Mohini took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 972 as interest at the end of the loan period, what was the rate of interest?",
+            "options": [
+                "6",
+                "3.6",
+                "18",
+                "9"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "The diagonal of a rectangle is sqrt(41) cm and its area is 20 sq. cm. The perimeter of the rectangle must be",
+            "options": [
+                "9 cm",
+                "18 cm",
+                "20 cm",
+                "41 cm"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Who wrote the novel 'Two States'.",
+            "options": [
+                "Chetan Bhagat",
+                "Anurag Mathur",
+                "Manju Kapoor",
+                "Girish Karnad"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Vasco De Gama belong to which of the following countries?",
+            "options": [
+                "England",
+                "Portugal",
+                "France",
+                "Netherland"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "How many times Dr. Manmohan Singh became the prime minister of India?",
+            "options": [
+                "4",
+                "3",
+                "2",
+                "1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Which among the following state is not the part of 'seven sisters' states?",
+            "options": [
+                "Assam",
+                "Arunachal Pradesh",
+                "Tripura",
+                "West Bengal"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "'Dili' is the capital of which of the following countries?",
+            "options": [
+                "Peru",
+                "Afghanistan",
+                "East Timor",
+                "Nigeria"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The average product curve reaches its maximum when",
+            "options": [
+                "Marginal product is maximum",
+                "Marginal product is minimum",
+                "Marginal product equals average product.",
+                "Marginal product is below average product"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Which of the following state in India has the highest overall life expectancy at birth?",
+            "options": [
+                "Maharashtra",
+                "Punjab",
+                "Gujarat",
+                "Kerala"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "According to the Solow Model, ______ is a function of capital.",
+            "options": [
+                "Labour",
+                "Competition",
+                "Output",
+                "Technology"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "The Government of India has established NITI Aayog to replace the",
+            "options": [
+                "Human Rights Commission",
+                "Finance Commission",
+                "Law Commission",
+                "Planning Commission"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "A firm is supposed to shut down in the short run if",
+            "options": [
+                "Price is below average fixed cost",
+                "Price is below average variable cost",
+                "Price is below average total cost",
+                "Price is below marginal cost"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Open Market Operations are the purchase and sale of securities between",
+            "options": [
+                "RBI and the Government",
+                "Government and the Market",
+                "RBI and the market",
+                "Government and the public"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "When a matrix is multiplied by an identity matrix, we obtain the",
+            "options": [
+                "Inverse matrix.",
+                "Transpose matrix.",
+                "Cofactor matrix.",
+                "Original matrix."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "In the case of a negative externality, the social marginal cost will",
+            "options": [
+                "Exceed the private marginal cost.",
+                "Be less than private marginal cost.",
+                "Be equal to private marginal cost.",
+                "Have no relation to private marginal cost."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "The slope of the consumption curve represents",
+            "options": [
+                "Average propensity to consume",
+                "Marginal propensity to consume",
+                "Marginal propensity to save",
+                "Level of consumption in the economy"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Given the following data set, what is the value of the median? [2 4 3 6 1 8 9 2 5 7]",
+            "options": [
+                "2",
+                "4.7",
+                "4.5",
+                "10"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "In which approach to probability the outcomes are equally likely to occur?",
+            "options": [
+                "Objective probability",
+                "Classical Probability",
+                "Subjective Probability",
+                "Relative Frequency"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "A firm in a perfectly competitive market will continue its production until",
+            "options": [
+                "Total revenue is less than total cost.",
+                "The total revenue curve is rising.",
+                "The marginal revenue curve is rising.",
+                "Marginal revenue is equal to marginal cost."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "The size of the expenditure multiplier increases with an increase in",
+            "options": [
+                "Government transfer payments",
+                "The income tax rate",
+                "The marginal propensity to save",
+                "Marginal propensity to consume"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "The book 'Economic History of India' which states that 'if India is poor today it is through the operation of economic causes', is written by?",
+            "options": [
+                "Justice Mahadev Govind Ranade",
+                "Dada bhai Naoroji",
+                "Romesh Chunder Dutt",
+                "M. N. Roy"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "Which of the following is an identity matrix?",
+            "options": [
+                "[1 1; 1 1]",
+                "[1 0; 0 1]",
+                "[0 1; 1 0]",
+                "[1 0; 0 1; 2 0]"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "A Pareto efficient equilibrium makes:",
+            "options": [
+                "Fair distribution of income.",
+                "Someone better off will make someone else better off.",
+                "Someone better off will make someone else worse off.",
+                "Supply equals demand."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Which of the following states that higher incomes in middle age are associated with higher savings ratios to finance consumer expenditures in retirement.",
+            "options": [
+                "Rational Expectations",
+                "Keynesian Consumption Function",
+                "Life-Cycle Hypothesis",
+                "Permanent Income Hypothesis"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "A unique characteristic of the oligopolistic market structure is",
+            "options": [
+                "Low barriers to entry.",
+                "A large number of firms.",
+                "Product differentiation.",
+                "Interdependence among firms."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Which of the following organizations looks after the credit needs of agriculture and rural development in India?",
+            "options": [
+                "FCI",
+                "IDBI",
+                "NABARD",
+                "ICAR"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "Linear Programming theory states that the optimal solution to any problem will lie at",
+            "options": [
+                "The origin of the feasible region.",
+                "A corner point of the feasible region.",
+                "The highest point of the feasible region.",
+                "The lowest point in the feasible region."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "A graph showing all the combinations of capital and labour that can be used to produce a given amount of output is:",
+            "options": [
+                "A production function.",
+                "An isocost line.",
+                "An isoquant.",
+                "An indifference curve."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "Coefficient of correlation will be always",
+            "options": [
+                "Between -1 and + 1",
+                "Between 0 and 1",
+                "Between 0 and -1",
+                "More than 0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "The private market will not provide enough of a pure public good because of",
+            "options": [
+                "Negative externalities",
+                "Public choice not to produce the good",
+                "Special interest lobbies",
+                "The free rider problem"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "When the price of good X rises, the demand for good Y falls. Therefore goods X and Y are",
+            "options": [
+                "Substitutes.",
+                "Normal goods.",
+                "Complements.",
+                "Inferior goods."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "According to Keynes, the consumption expenditure is a function of",
+            "options": [
+                "Permanent income.",
+                "Relative income.",
+                "Transitory income.",
+                "Disposable income."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "The collection of one or more outcomes from an experiment is called",
+            "options": [
+                "Probability",
+                "Event",
+                "Random Variable",
+                "Random Experiment"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "Which of the following estimates the National Income in India?",
+            "options": [
+                "Central Statistical Organization",
+                "National Income Committee",
+                "Planning commission",
+                "Reserve Bank of India"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "For a consumer the marginal utilities of commodities X and Y are 50 and 100, and the price of Y is Rs.20. If the consumer is in equilibrium the price of X will be",
+            "options": [
+                "Rs.40",
+                "Rs.10",
+                "Rs.15",
+                "Rs.5"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "In which of the following the exchange rates are determined by the relative demand and supply of currencies",
+            "options": [
+                "Fixed exchange rate system",
+                "Floating exchange rate system",
+                "Crawling peg system",
+                "Adjustable peg system"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "The marginal propensity to consume in a two-sector model is given as 0.8. The expenditure multiplier value will be",
+            "options": [
+                "0.2",
+                "5.0",
+                "4.0",
+                "0.02"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "Super multiplier refers to",
+            "options": [
+                "Money multiplier",
+                "Budget multiplier",
+                "Reciprocal of MPC",
+                "Interaction of the multiplier and accelerator"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "Decreasing returns to scale.",
+            "options": [
+                "Decreasing returns to scale.",
+                "Increasing returns to scale.",
+                "Constant returns to scale.",
+                "Variable returns to scale."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "The monetary liabilities of the central bank refers to",
+            "options": [
+                "High-powered money",
+                "Broad money",
+                "Narrow money",
+                "Money multiplier"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "The Philips curve indicates the association of",
+            "options": [
+                "High inflation rates and low money wage rates",
+                "Low employment rates and low rates of inflation",
+                "High inflation rates and high money wage rates",
+                "High unemployment rates and low rates of inflation"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "The total revenue function of a monopolist with the marginal revenue function MR = 10 - 4Q is",
+            "options": [
+                "10Q - 2Q^2 + c",
+                "5Q^2 - 2Q^2 + c",
+                "(1/10)Q - (1/2)Q^2 + c",
+                "(1/5)Q^2 - (1/2)Q^2 + c"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 61,
+            "question_text": "Which of the following suggests that changes in the price level are directly related to changes in the money supply?",
+            "options": [
+                "Liquidity Trap theory",
+                "Liquidity Preference theory",
+                "Quantity Theory of Money",
+                "Money Supply Multiplier"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 62,
+            "question_text": "The combinations of interest rates and aggregate output for which the quantity of money demanded equals the quantity of money supplied is shown in",
+            "options": [
+                "Investment function",
+                "LM curve",
+                "IS curve",
+                "Money multiplier"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 63,
+            "question_text": "Let A and B be two events with P(A) = 0.25 and P(B) = 0.5. The probability of both occurring together is 0.14. Then probability of both A and B not happening is",
+            "options": [
+                "0.39",
+                "0.25",
+                "0.11",
+                "0.61"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 64,
+            "question_text": "If the chosen medium of exchange has no intrinsic value and is accepted as money because of faith, it is called",
+            "options": [
+                "Fiat money",
+                "Commodity money",
+                "Broad money",
+                "Base money"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 65,
+            "question_text": "According to the purchasing power parity theory, which of the following would most likely cause depreciation to a nation's currency?",
+            "options": [
+                "An increase in inflation rates of its trading partners",
+                "A decrease in money supply in the domestic economy",
+                "A decrease in domestic interest rate",
+                "An increase in the nation's domestic inflation rate"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 66,
+            "question_text": "Which of the following is the central nodal agency for implementing the price support operations for commercial crops in India",
+            "options": [
+                "NABARD",
+                "NAFED",
+                "FCI",
+                "TRIFED"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 67,
+            "question_text": "The Mundell-Fleming model shows that the power of monetary and fiscal policy to influence aggregate demand depends on the",
+            "options": [
+                "Political regime",
+                "Interest rate regime",
+                "Central Bank independence",
+                "Exchange rate regime."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 68,
+            "question_text": "The comparative advantage theory of trade is associated with",
+            "options": [
+                "Adam Smith",
+                "David Ricardo",
+                "Paul Samuelson",
+                "Joseph Stiglitz"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 69,
+            "question_text": "Which of the following is not part of the fiscal policy?",
+            "options": [
+                "Government spending",
+                "Taxation",
+                "Money supply",
+                "Transfer payments"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 70,
+            "question_text": "The distribution of the overall tax burden between sellers and buyers in an economy is known as",
+            "options": [
+                "Tax incidence",
+                "Deadweight loss",
+                "Optimum taxation",
+                "Distortion"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 71,
+            "question_text": "According to the theory of comparative advantage, a country should specialize and export goods with",
+            "options": [
+                "The highest opportunity cost",
+                "The lowest production cost",
+                "The lowest opportunity cost",
+                "The lowest average cost."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 72,
+            "question_text": "Which among the following was the main objective of the Fiscal Responsibility and Budget Management Act, 2003?",
+            "options": [
+                "Eliminate fiscal deficit",
+                "Eliminate revenue deficit",
+                "Eliminate primary deficit",
+                "Achieve fiscal surplus"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 73,
+            "question_text": "The value of one currency in terms of another currency is known as",
+            "options": [
+                "Interest rate.",
+                "Exchange rate.",
+                "Inflation rate.",
+                "Monetary base."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 74,
+            "question_text": "The convexity of indifference curve is because of",
+            "options": [
+                "Diminishing marginal rate of substitution",
+                "Increasing marginal rate of substitution",
+                "Constant marginal rate of substitution",
+                "Constant elasticity of substitution"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 75,
+            "question_text": "A matrix is said to be singular if",
+            "options": [
+                "We can find it inverse matrix",
+                "It has a non-zero determinant",
+                "The value of its determinant is zero",
+                "Both (A) & (B)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 76,
+            "question_text": "Which of the following transactions does not represent a debit transaction in the balance of payments of a country?",
+            "options": [
+                "Transfer payments abroad",
+                "Exports of goods and services",
+                "Dividends and interest paid to foreign residents",
+                "Investments and loans to foreigners"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 77,
+            "question_text": "An equation of the form Yt - 1.2Yt-1 = 0 is a",
+            "options": [
+                "Difference equation",
+                "Differential equation",
+                "Simultaneous equation",
+                "Proportional equation"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 78,
+            "question_text": "Urban co-operative banks in India are governed by",
+            "options": [
+                "Central government",
+                "State government",
+                "Reserve Bank of India",
+                "Both (B) & (C)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 79,
+            "question_text": "The causal relationship between two variables is analysed using",
+            "options": [
+                "Correlation",
+                "Regression",
+                "Standard deviation",
+                "Normal distribution"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 80,
+            "question_text": "Revealed preference theory was proposed by-",
+            "options": [
+                "J. R. Hicks",
+                "Marshall",
+                "J.M. Keynes",
+                "Paul A. Samuelson"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 81,
+            "question_text": "The mean of 11 numbers is 7. One of the numbers, 13, is deleted. What is the mean of the remaining 10 numbers?",
+            "options": [
+                "7.7",
+                "6.4",
+                "6.0",
+                "5.8"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 82,
+            "question_text": "The graphical representation of the relationship tax rates and absolute revenue raised by the government through these taxes is known as",
+            "options": [
+                "Laffer curve",
+                "Phillips curve",
+                "IS curve",
+                "Lorenz curve"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 83,
+            "question_text": "The accelerator effect refers to the effects of",
+            "options": [
+                "Changes in interest rate on investment",
+                "Changes in output on investment",
+                "Changes in money supply on investment",
+                "Changes in fiscal deficit on investment"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 84,
+            "question_text": "In a frequency distribution, if the mean is less than the mode, and the median is greater than the mean but less than the mode, the distribution is considered to be:",
+            "options": [
+                "Symmetrical.",
+                "Negatively skewed.",
+                "Positively skewed.",
+                "Open ended."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 85,
+            "question_text": "The systematic record of all economic transactions between the residents of a country and the rest of the world for a specified period of time is known as",
+            "options": [
+                "Balance of Trade",
+                "Balance of Payments",
+                "National Account Statistics",
+                "Net Factor Income from Abroad"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 86,
+            "question_text": "If the occurrence of one event means that another cannot happen, then the events are",
+            "options": [
+                "Independent",
+                "Mutually Exclusive",
+                "Bayesian",
+                "Empirical"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 87,
+            "question_text": "The portion of deposits banks have to park with Reserve Bank of India is known as",
+            "options": [
+                "Capital adequacy ratio",
+                "Statutory liquidity ratio",
+                "Cash reserve ratio",
+                "Cash deposit ratio"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 88,
+            "question_text": "The likelihood of two events happening together is known as",
+            "options": [
+                "Conditional probability",
+                "Joint probability",
+                "Subjective probability",
+                "Theoretical probability"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 89,
+            "question_text": "The sampling distribution of the mean is a distribution of",
+            "options": [
+                "Statistics.",
+                "Parameters",
+                "Individual population values.",
+                "Individual sample values."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 90,
+            "question_text": "Which among the following is not an indirect tax?",
+            "options": [
+                "Corporate tax",
+                "Service tax",
+                "Customs duty",
+                "Value added tax"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 91,
+            "question_text": "The parameter that determines the shape of the chi-square distribution is known as",
+            "options": [
+                "The mean.",
+                "The variance.",
+                "The standard deviation.",
+                "Degrees of freedom."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 92,
+            "question_text": "Primary deficit in a budget indicates",
+            "options": [
+                "Revenue expenditure - revenue receipts",
+                "Capital expenditure - capital receipts",
+                "Total market borrowings of the government",
+                "Fiscal deficit - interest payments"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 93,
+            "question_text": "The Heckscher-Ohlin theory explains comparative advantage as the result of differences in countries':",
+            "options": [
+                "Economies of large-scale production.",
+                "Relative factor endowments.",
+                "Relative costs of labor.",
+                "Research and development expenditures."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 94,
+            "question_text": "A discrete probability distribution may be represented by:",
+            "options": [
+                "A Table",
+                "A Graph",
+                "A mathematical equation",
+                "All of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 95,
+            "question_text": "The Direct Taxes Code is related to",
+            "options": [
+                "Income tax",
+                "Sales tax",
+                "Customs duty",
+                "Service tax"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 96,
+            "question_text": "About the independent events A and B it is known that P(A|B)=0.2 and P(B|A)=0.5. Compute the probability P(A U B)",
+            "options": [
+                "0.7",
+                "0.2",
+                "0.4",
+                "0.6"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 97,
+            "question_text": "Autarky is a situation of",
+            "options": [
+                "Bilateral trade",
+                "Free trade",
+                "No trade",
+                "Multilateral trade"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 98,
+            "question_text": "Which of the following applies to 'externalities'?",
+            "options": [
+                "They are the private costs of economic behaviour.",
+                "They are always negative.",
+                "They are not normally reflected in the market price of a product.",
+                "They are always responsible for a welfare loss."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 99,
+            "question_text": "The total reduction in output due to the imposition of a tax is known as",
+            "options": [
+                "Deadweight loss",
+                "Liquidity trap",
+                "Implicit cost",
+                "Total cost"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 100,
+            "question_text": "The difference between what a consumer is willing to pay and what the consumer actually pays to buy a commodity is called",
+            "options": [
+                "Marginal rate of substitution",
+                "Producer surplus",
+                "Consumer surplus",
+                "Deadweight loss"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2024,
+    "exam_title": "ISI PEA 2024",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "If f : R \u2192R is a di\ufb00erentiable function at a \u2208R such that f \u2032(a) = af(a), then what is\nlimx\u2192a\nxf(a)\u2212af(x)\nx\u2212a\n?",
+            "options": [
+                "af(a)",
+                "f(a)\na",
+                "(1 \u2212a2) f(a)",
+                "None of the previous options"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Suppose Sn is de\ufb01ned as follows for every positive integer n \u22652:\nSn =\n\u0012\n1 \u22121\n22\n\u0013 \u0012\n1 \u22121\n32\n\u0013\n\u00b7 \u00b7 \u00b7\n\u0012\n1 \u22121\nn2\n\u0013\nThe value of limn\u2192\u221eSn is then",
+            "options": [
+                "0",
+                "1\n2",
+                "1",
+                "\u221e"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Suppose limx\u21920\nea1x \u22121\na2x2 + a3x = 1, where a1, a2 and a3 are given real numbers. Then it is\nnecessarily true that",
+            "options": [
+                "a1 = a2 = a3 = 1",
+                "a1 = a3 \u0338= 0",
+                "a2 = 0",
+                "a2 + a3 \u0338= 0"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let a function f : R \u2192R be de\ufb01ned as:\nf(x) =\n\uf8f1\n\uf8f4\n\uf8f4\n\uf8f2\n\uf8f4\n\uf8f4\n\uf8f3\ncx2 + ax + b\nif x < 0\nbx2 + cx + a\nif 0 \u2264x < 2\nax2 + bx + c\nif x \u22652\nwhere a, b, c are positive real numbers. Which of the following statements is correct,\nunder the assumption that f is continuous?",
+            "options": [
+                "f is continuous for all values of a, b and c",
+                "f is continuous if and only if a \u2212b = b \u2212c",
+                "f is continuous if and only if a = b and c = 2a",
+                "f is continuous if and only if a = b = c"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Consider f : [0, 1] \u2192[0, 1] such that f(x) =\nx\n2\u2212x. Which of the following statements is\nincorrect?",
+            "options": [
+                "f(0) = 0 and f(1) = 1",
+                "f(1 \u2212f(x)) = 1 \u2212x",
+                "f is strictly concave in the interval (0, 1)",
+                "f is strictly increasing in the interval (0, 1)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Let f : R \u2192R be the function\nf(x) = |x| + x2\n\u2200x \u2208R\nWhich of the following statements about f is correct?",
+            "options": [
+                "f is di\ufb00erentiable",
+                "f is concave but not di\ufb00erentiable",
+                "f is convex but not di\ufb00erentiable",
+                "f is discontinuous"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "R x3ex2dx equals",
+            "options": [
+                "x(x\u22121)\n2\nex2",
+                "(x2\u22121)\n2\nex2",
+                "x(x+1)\n2\nex2",
+                "(x2+1)\n2\nex2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Let A be a 3 \u00d7 3 matrix having eigenvalues 2, 7, 5. What is the determinant of A + 2I?",
+            "options": [
+                "252",
+                "70",
+                "420",
+                "84"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Let x and y be two column vectors of length 3 such that P3\ni=1 xiyi \u0338= 0. What is the\nrank of xyT, where yT is the transpose of y?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Let A be a 3\u00d73 matrix such that Ax = x for all x where x is a column vector of length\n3. Which of the following statements is correct?",
+            "options": [
+                "No such A exists",
+                "A =\n\uf8eb\n\uf8ec\n\uf8ed\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\uf8f6\n\uf8f7\n\uf8f8",
+                "A =\n\uf8eb\n\uf8ec\n\uf8ed\n0\n0\n1\n0\n1\n0\n1\n0\n0\n\uf8f6\n\uf8f7\n\uf8f8",
+                "A exists but is di\ufb00erent from the options given in parts (A) or (B) above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let\nS = {(x1, 0) : x1 is any real number}\nand\nT = {(0, x2) : x2 is any real number} .\nWhich of the following statements is correct?",
+            "options": [
+                "S, T and S \u2229T are vector spaces",
+                "S, T and S \u222aT are vector spaces",
+                "S \u222aT and S \u2229T are vector spaces",
+                "Neither S \u222aT nor S \u2229T are vector spaces"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "In a chess tournament, there are both boys and girls. Each player plays with another\nplayer exactly once in the tournament. If there are 45 games in the tournament and\nexactly 15 of them feature only boys, then how many games will feature a boy and a\ngirl?",
+            "options": [
+                "6",
+                "15",
+                "20",
+                "24"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "What is the number of possible arrangements of the letters of the word \u2018madam\u2019 such\nthat the two \u2018a\u2019s never appear in consecutive positions?",
+            "options": [
+                "30",
+                "24",
+                "18",
+                "12"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "A monkey starts at (0, 0) on the xy-plane in period 1. From any position (x, y) in a\nperiod, the monkey can only jump to (a, b) in the next period, where a \u2208{x+1, x, x\u22121}\nand b \u2208{y + 1, y, y \u22121}. How many possible positions can the monkey be in period 2?",
+            "options": [
+                "9",
+                "6",
+                "4",
+                "3"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "In the previous question, suppose in every period the monkey can go to any of the possible\npositions in the next period with - equal probability. Then what is the probability that\nthe monkey is at a distance of more than 1 from (0, 0) in period 2?",
+            "options": [
+                "0",
+                "16\n81",
+                "1\n3",
+                "4\n9"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "For a given data set, let the least squares regression line be y = 10 + 2x. It is given that\nvariance of x is 9 and variance of y is 81 . What is the correlation coe\ufb03cient between x\nand y?",
+            "options": [
+                "1\n3",
+                "1\n2",
+                "2\n3",
+                "3\n4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "An urn contains 4 white, 6 red, and 5 black balls. 5 balls are randomly selected from\nthe urn. Let X and Y denote respectively the number of white and black balls selected.\nSuppose Y = 2, i.e., 2 of the 5 balls selected are black. What is the probability that X\ntakes the value 2?",
+            "options": [
+                "3\n10",
+                "4\n10",
+                "3\n15",
+                "4\n15"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "In answering a question on a multiple-choice test with 4 choices available as possible\nanswers, a student either knows the answer, with probability 1/4, or guesses the answer,\nwith probability 3/4. Assume that a student who guesses the answer will be correct with\nprobability 1/4. What is the probability that a student knew the answer given that he\nanswered it correctly?",
+            "options": [
+                "3\n7",
+                "4\n7",
+                "3\n4",
+                "1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let X1, X2, \u00b7 \u00b7 \u00b7 , X5 be independently and identically distributed random variables with\nmean 10 and variance 4. Let \u00afX = 1\n5\nP5\ni=1 Xi. What is the value of Cov\n\u0010 \u00afX, X1 \u2212\u00afX\n\u0011\n?",
+            "options": [
+                "0",
+                "1",
+                "-1",
+                "None of the previous options"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Consider a discrete random variable which follows a binomial distribution with param-\neters n and p, where n, a positive integer, is the number of trials and p \u2208(0, 1) is the\nprobability of success in any trial. Which of the following statements is incorrect?",
+            "options": [
+                "If np is an integer, then the mean and mode of this distribution coincide",
+                "If n is even and p = 1\n2, then the median of this distribution is n\n2",
+                "If the probability of k successes out of n trials is equal to the probability of\nn \u2212k successes out of n trials, \u2200k \u2208{0, 1, . . . , n}, then p = 1\n2",
+                "If (n + 1)p \u22121 is an integer, then this distribution is unimodal"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider an economy where all factors of production are fully employed and which has an\naggregate production function (in per capita form) y = Ak, where k and y are the capital-\nlabour ratio and the output-labour ratio respectively, and A is a positive constant. A\nconstant proportion s \u2208(0, 1) of income is saved and invested in this economy. Suppose\nlabour force grows at the rate n > 0 and the rate of depreciation of capital is given by\n\u03b4 \u2208(0, 1). Assume the parameter values are such that positive long run growth of y can\nbe ensured. Then which of the following statements regarding this model economy is\nincorrect?",
+            "options": [
+                "Output, capital and consumption grows at the same rate",
+                "If the level of investment (I) is higher than the depreciation of capital (K) (i.e.\nI > \u03b4K ), then output grows at a positive rate",
+                "The economy is always on the steady state growth path (i.e., if you consider\nany variable you will \ufb01nd its growth rate to be a constant at all times",
+                "Increasing the savings rate s will not have any e\ufb00ect on the long run growth\nrate of output per worker\nThe following data are for Question numbers 22 and 23: There is a Solow economy without\npopulation growth or technological change which has a production function given by Y =\nK\n1\n3L\n2\n3, and a depreciation rate \u03b4 = 0.05."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Suppose the savings rate is s = 0.2. What will be the capital-labour ratio in steady\nstate?",
+            "options": [
+                "6",
+                "8",
+                "2",
+                "4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Suppose that a social planner wishes to maximize steady state per-capita consumption\nin this economy.\nWhat savings rate will be compatible with the level of per-capita\nconsumption chosen by the planner?",
+            "options": [
+                "2\n3",
+                "1\n2",
+                "1\n3",
+                "1\n4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Consider a Solow economy with the aggregate production function in intensive form\ngiven by y = k\n1\n2, where k and y are the capital labour ratio and the per capita output\nrespectively. Suppose all factors are fully employed in this economy, there is no depre-\nciation of capital, and the labour force grows at rate n > 0. If the steady state value of\ncapital labour ratio for this economy is 50 and the current value of capital labour ratio\nis 2, what is the current growth rate of per capita output?",
+            "options": [
+                "24n",
+                "25\nn",
+                "0.3",
+                "None of the previous options\nThe following data are for Question numbers 25 and 26: There are two countries, A and\nB, and two goods, wheat and television. A produces only wheat, with YA = 200, and B\nproduces only television, with YB = 250. Residents of both countries consume both wheat\nand television. Treating television as the numeraire, and therefore \ufb01xing its price at 1, let the\nrelative price of wheat be p. Let A \u2019s total expenditure measured in terms of wheat be denoted\nby EA, and let B\u2019s total expenditure measured in terms of television be denoted by EB. Now,\ntotal world income must equal total world expenditure, i.e., pYA + YB = pEA + EB, so it\nfollows that the trade balance of A, measured in wheat, is given by TA = YA \u2212EA. Suppose\ninitially EA is 100, and in an attempt to improve trade balance, A reduces expenditure EA\nto 70 ."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose preferences are such that 1\n3rd of the expenditure of residents of any country is\non wheat and the rest is on television. What is the impact on equilibrium price (i.e., the\nprice at which all markets clear) p of A reducing its expenditure from 100 to 70?",
+            "options": [
+                "p will stay the same",
+                "p will increase",
+                "p will decrease",
+                "The e\ufb00ect on p will be ambiguous"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose preferences are such that 2\n3rd of the expenditure of residents of any country is on\ntheir own good, and the rest is on the other good (i.e. 2\n3rd of the expenditure of residents\nof A is on wheat and the rest is on television, while 2\n3rd of the expenditure of residents\nof B is on television and the rest is on wheat). What is the impact on equilibrium price\n(i.e., the price at which all markets clear) p of A reducing its expenditure from 100 to\n70?",
+            "options": [
+                "p will stay the same",
+                "p will increase",
+                "p will decrease",
+                "The e\ufb00ect on p will be ambiguous"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "A consumer consumes two goods, X and Y . It is observed that the consumer\u2019s con-\nsumption of good X always falls when the price of X falls., ceteris paribus. Suppose the\nconsumer\u2019s income rises, given prices of X and Y . What will happen to the consumer\u2019s\nconsumption of X?",
+            "options": [
+                "Consumption of X falls",
+                "Consumption of X rises",
+                "Consumption of X remains unchanged",
+                "Indeterminate: consumption of X could rise, fall or remain unchanged"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "An individual A has a pond in which he can set up a net costlessly only at time t = 0.\nThe net will yield an output of f \ufb01sh at t = 1 and nothing at t = 2. A eats only \ufb01sh\nand his only source of \ufb01sh is the pond. A can consume in periods t = 1 and t = 2,\nafter which he ceases to exist. A has the option of costlessly storing \ufb01sh at t = 1 for\nconsumption at t = 2, without depreciation, and does not discount the future. His utility\nfrom consumption ct in any period t is u (ct) = (ct)n, where 0 < n < 1. How much \ufb01sh\nwill A optimally consume in the two periods?",
+            "options": [
+                "Any division of f \ufb01sh across the two periods is optimal",
+                "c1 = c2 = f\n2",
+                "c1 = f, c2 = 0",
+                "c1 = 0, c2 = f"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Country C, which has a closed economy, has 10,000 identical farmers producing rice,\nwith any farmer bearing cost 0.5q2\ni +4qi +100 if he produces qi units of rice. C has many\nconsumers of rice who generate an aggregate demand function Q = \u221210, 000p+400, 000,\nwhere p is the price per unit of rice. The price of rice in C used to be determined by\ncompetitive market conditions, but is currently regulated, and set at p = 30. Consumers\npay this amount to buy a unit of rice, with the government of C buying all unsold units\nat 30 per unit. The government proposes to remove the price regulation and go back\nto competitive markets, with each farmer getting an equal \ufb02at payment, total payment\nacross all farmers being equal to the savings of the government from not having to\npurchase unsold rice. In order to implement this proposal, each farmer has to open a\nbank account at own cost. By how much does a farmer gain or lose from the policy shift,\nif it costs 300 to open an account?",
+            "options": [
+                "Policy shift causes income to rise by 8",
+                "Policy shift causes income to rise by 4",
+                "Policy shift causes income to fall by 4",
+                "Policy shift causes income to fall by 8"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "A consumer consumes three goods, X, Y and Z. She is observed over three periods.\nIn period 1, the unit prices of X, Y and Z are respectively 2,3 and 3, in period 2, the\nrespective prices are 3,2 and 3, while in period 3, the respective prices are 3,3 and 2.\nThe following consumption pattern is observed: in period 1, she consumes 3 units of\nX, 1 units of Y and 7 units of Z in period 2, the consumption amounts are 7 units of\nX, 3 units of Y and 1 unit of Z, while in period 3, the consumption amounts are 1 unit\nof X, 7 units of Y and 3 units of Z. Which of the following statements regarding the\npreferences of the consumer over bundles of X, Y and Z is correct?",
+            "options": [
+                "Preferences are intransitive though not necessarily incomplete",
+                "Preferences are transitive though not necessarily complete",
+                "Preferences are incomplete and intransitive",
+                "Preferences are complete and transitive"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

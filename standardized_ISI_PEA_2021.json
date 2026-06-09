@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2021,
+    "exam_title": "ISI PEA 2021",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "If the nth partial sum of the series P\u221e\nn=1 an is sn = 2n2+2\n3n2+1, then P\u221e\nn=1 an is",
+            "options": [
+                "0",
+                "divergent",
+                "2\n3",
+                "3\n2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Using data from a sample of size n, the intercept and slope coe\ufb03cients from an ordinary\nleast squares regression of y on x, are a and b respectively. Which of the following is\nfalse?",
+            "options": [
+                "Pn\ni=1 (yi \u2212a \u2212bxi) xi = 0",
+                "1\nn\nPn\ni=1 yi = a + b\nn\nPn\ni=1 xi",
+                "a and b are the solution to min\u03b1,\u03b2\nPn\ni=1 (yi \u2212\u03b1 \u2212\u03b2xi)2",
+                "a and b are the solution to min\u03b1,\u03b2\nPn\ni=1 |yi \u2212\u03b1 \u2212\u03b2xi|"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider a production function z = 2x+3y. For what price ratio px\npy , will a corner solution\nin y, i.e. (x = 0) be possible, if the objective is to minimize the cost of producing a given\npositive quantity z0 of z ?",
+            "options": [
+                "px\npy = 2/3",
+                "px\npy \u22652/3",
+                "px\npy < 2\n3",
+                "px\npy \u2264\u22122/3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "A number is chosen randomly from the \ufb01rst billion natural numbers. The probability\nthat the product of the number with its two immediate successors is divisible by 24 is\nclosest to",
+            "options": [
+                "1\n2",
+                "3\n4",
+                "5\n8",
+                "2\n3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Each of the four entries of a 2 \u00d7 2 matrix is \ufb01lled by independently choosing either 1 or\n\u22121 uniformly at random. What is the probability that the matrix is singular?",
+            "options": [
+                "1\n16",
+                "1\n4",
+                "1\n2",
+                "1\n3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "We need to \ufb01ll a 3 \u00d7 3 matrix by either 0 or 1 such that each row has exactly one 0 and\neach column has exactly one 0. The number of ways we can do this is",
+            "options": [
+                "8",
+                "6",
+                "4",
+                "2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Let f : [0, 1] \u2192R be a convex function with f(0) = 0. Which of the following is always\ntrue for f?",
+            "options": [
+                "f is di\ufb00erentiable",
+                "f may not be di\ufb00erentiable but it is continuous",
+                "f(x) \u2265xf \u2032(x) for all x \u2208[0, 1] if f is di\ufb00erentiable",
+                "none of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "If f : R \u2192R is strictly quasi-concave, then it follows that",
+            "options": [
+                "f is not strictly convex",
+                "f is not linear",
+                "f is monot\u00b4onic",
+                "if f is quadratic, then the coe\ufb03cient of x2 is \u22640"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Consider a function f : [\u22121, 1] \u2192R shown in Figure 1.\nf(x)\n1\n\u22121\n1\nx\nFigure 1\nThe value of\nZ 1\n\u22121 f\n\u0010\nx2 \u22121\n\u0011\ndx equals",
+            "options": [
+                "1\n3",
+                "2\n3",
+                "1\n2",
+                "3\n4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The rank of the matrix\n\uf8eb\n\uf8ec\n\uf8ed\n2\n1\n0\n1\n2\n\u22121\n\u22121\n1\n1\n\uf8f6\n\uf8f7\n\uf8f8\nis",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let V be the vector space of polynomials p(x) of degree less than or equal to 2 that have\nreal coe\ufb03cients. Then, T is a linear transformation from V to V if T is de\ufb01ned by",
+            "options": [
+                "T(p(x)) = x + p(x)",
+                "T(p(x)) = xp(x)",
+                "T(p(x)) = dp(x)\ndx",
+                "T(p(x)) =\nR p(x)dx where the constant of integration is taken to be zero"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "X is a random variable that can take values only in [0, 10]. Suppose P[X > 5] \u22642\n5 and\nP[X < 1] \u22641\n2. Then",
+            "options": [
+                "E[X] \u22651",
+                "E[X] \u22645",
+                "E[X] \u22650.5 and E[X] \u22648.5",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Given data (\u22121, 1), (0, 0), (1, 1) on (x, y), the standard deviation of x and y and the\ncorrelation coe\ufb03cient of x and y are respectively:",
+            "options": [
+                "\u03c3x =\n\u221a\n2\n\u221a\n3, \u03c3y =\n\u221a\n2\n3 , r = 0",
+                "\u03c3x = 2\n3, \u03c3y = 2\n9, r = 0",
+                "\u03c3x = 0, \u03c3y = 0, r is unde\ufb01ned",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "An island nation has two potential vaccine \ufb01rms: denoted as 1 and 2. Both need to\ninvest in R&D to manufacture vaccines. The cost of R&D for \ufb01rms 1 and 2 are f1 and f2\nrespectively. Once R&D is done, the cost of per unit manufacturing of vaccine is drawn\nuniformly from [0, 1]. The \ufb01rms know their (\ufb01xed) cost of R&D but only know that the\ncost of per unit manufacturing is uniformly drawn from [0, 1]. Total demand of vaccine\nis 1 unit and if \ufb01rm i \u2208{1, 2} supplies qi \u2208[0, 1] units and has a per unit cost of ci, it\nincurs a manufacturing cost of ciqi (along with fi). Suppose both \ufb01rms invest in R&D\nbut only the lowest per unit cost \ufb01rm is chosen to supply the entire one unit of vaccine.\nWhat is the total expected cost of vaccination (expected cost is the \ufb01xed cost of R&D\nand expected cost of manufacturing)?",
+            "options": [
+                "f1 + f2 + 1\n2",
+                "f1 + f2 + 1\n3",
+                "f1 + f2 + 2\n3",
+                "f1 + f2 + 3\n4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "In question 14, suppose f1 < f2 < 1\n6. Consider two more alternatives:\n(b) Suppose both \ufb01rms invest in R&D and both supply 1\n2 units of vaccine.\n(c) Only \ufb01rm 1 invests in R&D and supplies the entire one unit of vaccine.\nDenote the total expected cost of vaccination from the alternatives (b) and (c) as C2\nand C3 respectively. Denote the total expected cost of vaccination for the alternative in\nQuestion 14 as C1. Then, which of the following is true?",
+            "options": [
+                "C1 < C2 < C3",
+                "C1 < C3 < C2",
+                "C2 < C1 < C3",
+                "C3 < C1 < C2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "India and China produce only shirts and phones using only 2 factors of production: either\nhigher skilled labour H or low skilled labour L. Shirts are high skill labour intensive\nwhile phones are low skill labour intensive. The production function for each good is\nidentical in both countries. India and China have equal amounts of lower skilled labour,\nbut India has a greater amount of higher skilled labour. Which good will India import?",
+            "options": [
+                "Shirts",
+                "Phones",
+                "Both Shirts and Phones",
+                "Neither Shirts nor Phones"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Continue with the same setup as in Question 16 , but now China\u2019s population doubles.\nThe overall welfare of the representative agent in India will:",
+            "options": [
+                "Increase",
+                "Decrease",
+                "Stay the same",
+                "Increase or decrease"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Consider a duopoly with market demand p = 10 \u2212q. The cost function of \ufb01rm 1 is\n7q1, and that of \ufb01rm 2 is 2q2, where qi is the quantity produced by \ufb01rm i, i = 1, 2. In\nequilibrium, \ufb01rm 2 charges a price of:",
+            "options": [
+                "7",
+                "6",
+                "10",
+                "0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Let the economy\u2019s production function be given by Y = AK\n1\n3L\n2\n3 where Y = output,\nA > 0 is the level of technology (also called total factor productivity), K is the capital\nstock, and L is the level of employment. Consider the standard supply-demand diagram\nfor labor as in the previous question, except that there are no wage rigidities this time.\nThe labor demand curve is given by\n; a negative total factor productivity\nshock leads to a\nin labor demand; and a\nin employment.",
+            "options": [
+                "w = 3\n2\nAK\n1\n3\nL\n1\n3 ; upward shift; fall",
+                "w = 3\n2\nAK\n2\n3\nL\n1\n3 ; downward shift; fall",
+                "w = 2\n3\nAK\n1\n3\nL\n1\n3 ; downward shift; fall",
+                "w = 1\n3\nAK\n1\n3\nL\n1\n3 ; downward shift; rise"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Virat and Mithali eat rice and drink milk in exactly the same quantities. The price of\nRice falls. In response, Virat increases the amount of milk but decreases the amount of\nrice he consumes. Mithali, on the other hand, increases both rice and milk consumption.\nBoth Virat and Mithali spend all their income on eating rice or drinking milk.\nFor\nVirat\u2019s behaviour to be consistent with standard, well-behaved indi\ufb00erence curves, his\npreferences over rice consumption imply that for him, rice must be a:",
+            "options": [
+                "Inferior good",
+                "Gi\ufb00en good",
+                "Luxury good",
+                "Normal good"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Continue with the same setup as in Question 20, and choose the answer from below that\nwill correctly \ufb01ll in the blanks in the following sentence. With respect to rice, for Virat,\nthe income e\ufb00ect must be\nthan the substitution e\ufb00ect while for Mithali\nthe income e\ufb00ect must be\nthan the substitution e\ufb00ect if both Virat and\nMithali have standard well-behaved preference relations.",
+            "options": [
+                "greater, lesser",
+                "lesser, lesser",
+                "greater, greater",
+                "lesser, greater"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "If the short-run IS-LM equilibrium occurs at a level of income above the natural rate of\noutput, in the long run output will return to the natural rate via",
+            "options": [
+                "an increase in the price level",
+                "a decrease in the interest rate",
+                "an increase in the money supply",
+                "a downward shift of the consumption function"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "If the short-run aggregate supply curve is steep, the Phillips curve will be:",
+            "options": [
+                "\ufb02at",
+                "steep",
+                "backward-bending",
+                "unrelated to the slope of the short-run aggregate supply curve"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "There are no capital controls between the US and the UK. If the interest rate is higher\nin the US than in the UK, then we can conclude that",
+            "options": [
+                "The US dollar is expected to appreciate with respect to the pound (the UK\u2019s\ncurrency)",
+                "The pound is expected to appreciate with respect to the US dollar",
+                "The interest rate in the US is expected to increase",
+                "The interest rate in the US is expected to decrease"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Suppose there are two countries, B and C, that have no trade and no \ufb01nancial transac-\ntions with any countries except each other. B imports a total of goods worth 10 million\nbollars from C, where a bollar is a unit of B\u2019s currency. B has no exports. Which of\nthe following must be true?",
+            "options": [
+                "B has a capital account de\ufb01cit",
+                "C has a current account de\ufb01cit",
+                "C is buying assets from B.",
+                "The exchange rate of collars per bollar is bigger than 1, where a collar is a\nunit of C\u2019s currency."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Inventory investment can be expected to",
+            "options": [
+                "rise when the real interest rate rises, other things being equal",
+                "not depend on the real interest rate, other things being equal",
+                "fall when the real interest rate rises, other things being equal",
+                "depend only on the change in real GDP"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "A cake of size 1 is to be divided among two individuals 1 and 2. Let xi be the share\nof the cake going to individual i, i = 1, 2, where 0 \u2264xi \u22641. The utility functions are\nu1 (x1, x2) = x1, and u2 (x1, x2) = x2 + |x1 \u2212x2|, where |a| is the absolute value of a.\nThe Pareto optimal cake divisions include:",
+            "options": [
+                "(1, 0)",
+                "(1/2, 1/2)",
+                "(3/4, 1/4)",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Rohit spends all his money on dosas and \ufb01lter co\ufb00ee. He stays in Delhi where each dosa\nand \ufb01lter co\ufb00ee cost the same. He eats 15 dosas and drinks 35 \ufb01lter co\ufb00ees in a week.\nHe gets a chance to move to either Chennai or Bangalore. In Chennai, he can just a\ufb00ord\nto have 40 dosas and 10 \ufb01lter co\ufb00ees in a week. Like in Delhi, each dosa and \ufb01lter co\ufb00ee\ncost the same. In Bangalore, he can just a\ufb00ord to have 10 dosas and 20 \ufb01lter co\ufb00ees in\na week. Here, 2 \ufb01lter co\ufb00ees costs the same as 1 dosa. Where will Rohit prefer to stay?",
+            "options": [
+                "Delhi",
+                "Chennai",
+                "Bangalore",
+                "Indi\ufb00erent between Delhi and Chennai"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider the IS-LM model with the real interest rate, R, on the vertical axis and output,\nY , on the horizontal axis. Now suppose that the central bank chooses R for the economy,\nbased on its own assessment, at R = \u00afR. In this case the LM curve will",
+            "options": [
+                "not exist",
+                "will be horizontal at R = \u00afR.",
+                "upward sloping like the usual LM curve",
+                "None of the other options"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider a supply-demand diagram for the labor market with an upward sloping labor\nsupply curve (Ls) and a downward sloping labor demand curve\n\u0010\nLd\u0011\n. Let the wage be on\nthe vertical axis, and the level of employment ( L ) be on the horizontal axis. Suppose\nthe wage is rigid above the equilibrium wage at \u00afw, i.e., it fails to adjust to clear the\nlabor market. Then a reduction in labor demand leads to",
+            "options": [
+                "A larger reduction in employment compared to the case if wages were \ufb02exible",
+                "A smaller reduction in employment compared to the case if wages were \ufb02exible",
+                "The same reduction in employment compared to the case if wages were \ufb02exible",
+                "None of the other options."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

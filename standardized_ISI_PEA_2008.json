@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2008,
+    "exam_title": "ISI PEA 2008",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "R\ndx\nx+x log x equals",
+            "options": [
+                "log |x + x log x|+ constant",
+                "log |1 + x log x|+ constant",
+                "log | log x|+ constant",
+                "log |1 + log x|+ constant."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "The inverse of the function \u221a\u22121 + x is",
+            "options": [
+                "1\n\u221ax\u22121,",
+                "x2 + 1,",
+                "\u221ax \u22121,",
+                "none of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "The domain of continuity of the function f(x) = \u221ax + x+1\nx\u22121 \u2212x+1\nx2+1 is",
+            "options": [
+                "[0, 1)",
+                "(1, \u221e)",
+                "[0, 1) \u222a(1, \u221e),",
+                "none of these"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Consider the following linear programme: minimise x \u22122y subject to\nx + 3y \u22653\n3x + y \u22653\nx + y \u22643\nAn optimal solution of the above programme is given by",
+            "options": [
+                "x = 3\n4, y = 3\n4",
+                "x = 0, y = 3",
+                "x = \u22121, y = 3",
+                "none of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Consider two functions f1 : {a1, a2, a3} \u2192{b1, b2, b3, b4} and f2 : {b1, b2, b3, b4} \u2192\n{c1, c2, c3} . The function f1 is de\ufb01ned by f1 (a1) = b1, f1 (a2) = b2, f1 (a3) = b3 and\nthe function f2 is de\ufb01ned by f2 (b1) = c1, f2 (b2) = c2, f2 (b3) = f2 (b4) = c3. Then the\nmapping f2 \u25e6f1 : {a1, a2, a3} \u2192{c1, c2, c3} is",
+            "options": [
+                "a composite and one \u2212to \u2212one function but not an onto function.",
+                "a composite and onto function but not a one \u2212to \u2212one function.",
+                "a composite, one \u2212to \u2212one and onto function.",
+                "not a function."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "If x = t\n1\nt\u22121 and y = t\nt\nt\u22121, t > 0, t \u0338= 1 then the relation between x and y is",
+            "options": [
+                "yx = x\n1\ny ,",
+                "x\n1\ny = y\n1\nx,",
+                "xy = yx,",
+                "xy = y\n1\nx."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "The maximum value of T = 2xB + 3xS subject to the constraint 20xB + 15xS \u2264900\nwhere xB \u22650 and xS \u22650, is",
+            "options": [
+                "150,",
+                "180,",
+                "200,",
+                "none of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "The value of\nR 2\n0 [x]nf \u2032(x)dx, where [x] stands for the integral part of x, n is a positive\ninteger and f \u2032 is the derivative of the function f, is",
+            "options": [
+                "(n + 2n) (f(2) \u2212f(0)),",
+                "(1 + 2n) (f(2) \u2212f(1))",
+                "2nf(2) \u2212(2n \u22121) f(1) \u2212f(0),",
+                "none of these."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "A surveyor found that in a society of 10,000 adult literates 21% completed college edu-\ncation, 42% completed university education and remaining 37% completed only school\neducation. Of those who went to college 61% reads newspapers regularly, 35% of those\nwho went to the university and 70% of those who completed only school education\nare regular readers of newspapers. Then the percentage of those who read newspapers\nregularly completed only school education is",
+            "options": [
+                "40%,",
+                "52%,",
+                "35%,",
+                "none of these."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The function f(x) = x|x|e\u2212x de\ufb01ned on the real line is",
+            "options": [
+                "continuous but not di\ufb00erentiable at zero,",
+                "di\ufb00erentiable only at zero,",
+                "di\ufb00erentiable everywhere,",
+                "di\ufb00erentiable only at \ufb01nitely many points."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let X be the set of positive integers denoting the number of tries it takes the Indian\ncricket team to win the World Cup. The team has equal odds for winning or losing any\nmatch. What is the probability that they will win in odd number of matches?",
+            "options": [
+                "1/4,",
+                "1/2,",
+                "2/3",
+                "3/4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "Three persons X, Y, Z were asked to \ufb01nd the mean of 5000 numbers, of which 500 are\nunities. Each one did his own simpli\ufb01cation. X\u2032s method: Divide the set of number into\n5 equal parts, calculate the mean for each part and then take the mean of these. Y \u2032s\nmethod: Divide the set into 2000 and 3000 numbers and follow the procedure of A. Z\u2032 s\nmethod: Calculate the mean of 4500 numbers (which are \u0338= 1 ) and then add 1 . Then",
+            "options": [
+                "all methods are correct,",
+                "X\u2032s method is correct, but Y and Z\u2032s methods are wrong,",
+                "X\u2032s and Y \u2032s methods are correct but Z\u2032\ns methods is wrong,",
+                "none is correct."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "The number of ways in which six letters can be placed in six directed envelopes such that\nexactly four letters are placed in correct envelopes and exactly two letters are placed in\nwrong envelopes is",
+            "options": [
+                "1",
+                "15",
+                "135",
+                "None of these"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "The set of all values of x for which the inequality |x \u22123| + |x + 2| < 11 holds is",
+            "options": [
+                "(\u22123, 2),",
+                "(\u22125, 2),",
+                "(\u22125, 6),",
+                "none of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The function f(x) = x4 \u22124x3 + 16x has",
+            "options": [
+                "a unique maximum but no minimum,",
+                "a unique minimum but no maximum,",
+                "a unique maximum and a unique minimum,",
+                "neither a maximum nor a minimum."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider the number K(n) = (n + 3) (n2 + 6n + 8) de\ufb01ned for integers n. Which of the\nfollowing statements is correct?",
+            "options": [
+                "K(n) is always divisible by 4",
+                "K(n) is always divisible by 5",
+                "K(n) is always divisible by 6",
+                "All Statements are incorrect."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "25 books are placed at random on a shelf. The probability that a particular pair of\nbooks shall be always together is",
+            "options": [
+                "2\n25",
+                "1\n25,",
+                "1\n300",
+                "1\n600"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "P(x) is a quadratic polynomial such that P(1) = \u2212P(2). If -1 is a root of the equation,\nthe other root is",
+            "options": [
+                "4\n5,",
+                "8\n5,",
+                "6\n5,",
+                "3\n5."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "The correlation coe\ufb03cients between two variables X and Y obtained from the two equa-\ntions 2x + 3y \u22121 = 0 and 5x \u22122y + 3 = 0 are",
+            "options": [
+                "equal but have opposite signs,",
+                "\u22122\n3 and 2\n5,",
+                "1\n2 and \u22123\n5,",
+                "Cannot say."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "If a, b, c, d are positive real numbers then a\nb + b\nc + c\nd + d\na is always",
+            "options": [
+                "less than\n\u221a\n2.",
+                "less than 2 but greater than or equal to\n\u221a\n2,",
+                "less than 4 but greater than or equal 2",
+                "greater than or equal to 4 ."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "The range of value of x for which the inequality log(2\u2212x)(x \u22123) \u2265\u22121 holds is",
+            "options": [
+                "2 < x < 3,",
+                "x > 3,",
+                "x < 2,",
+                "no such x exists."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The equation 5x3 \u22125x2 + 2x \u22121 has",
+            "options": [
+                "all roots between 1 and 2 ,",
+                "all negative roots,",
+                "a root between 0 and 1 ,",
+                "all roots greater than 2 ."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "The probability density of a random variable is\nf(x) = ax2e\u2212kx\n(k > 0, 0 \u2264x \u2264\u221e)\nThen, a equals",
+            "options": [
+                "k3\n2 ,",
+                "k\n2,",
+                "k2\n2 ,",
+                "k"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Let x = r be the mode of the distribution with probability mass function p(x) =\nn\nx\n!\npx(1 \u2212p)n\u2212x. Then which of the following inequalities hold.",
+            "options": [
+                "(n + 1)p \u22121 < r < (n + 1)p,",
+                "r < (n + 1)p \u22121",
+                "r > (n + 1)p",
+                "r < np."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Let y = (y1, . . . , yn) be a set of n observations with y1 \u2264y2 \u2264. . . \u2264yn. Let y\u2032 =\n(y1, y2, . . . , yj + \u03b4, . . . , yk \u2212\u03b4, . . . , yn)\nwhere\nyk \u2212\u03b4 > yk\u22121 > . . . > yj+1 > yj + \u03b4\n\u03b4 > 0. Let \u03c3 : standard deviation of y and \u03c3\u2032 : standard deviation of y\u2032. Then",
+            "options": [
+                "\u03c3 < \u03c3\u2032,",
+                "\u03c3\u2032 < \u03c3,",
+                "\u03c3\u2032 = \u03c3,",
+                "nothing can be said."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Let x be a r.v. with pdf f(x) and let F(x) be the distribution function. Let r(x) =\nxf(x)\n1\u2212F(x).\nThen for x < e\u00b5 and f(x) = e\u2212(log x\u2212\u00b5)2\n2\nx\n\u221a\n2\u03c0\n, the function r(x) is",
+            "options": [
+                "increasing in x,",
+                "decreasing in x",
+                "constant,",
+                "none of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "A square matrix of order n is said to be a bistochastic matrix if all of its entries are\nnon-negative and each of its rows and columns sum to 1. Let yn\u00d71 = Pn\u00d7nxn\u00d71 where\nelements of y are some rearrangements of the elements of x. Then",
+            "options": [
+                "P is bistochastic with diagonal elements 1 ,",
+                "P cannot be bistochastic,",
+                "P is bistochastic with elements 0 and 1 ,",
+                "P is a unit matrix."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Let f1(x) =\nx\nx+1. De\ufb01ne fn(x) = f1 (fn\u22121(x)) , where n \u22652. Then fn(x) is",
+            "options": [
+                "decreasing in n,",
+                "increasing in n,",
+                "initially decreasing in n and then increasing in n,",
+                "initially increasing in n and then decreasing n."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "limn\u2192\u221e\n1\u2212x\u22122n\n1+x\u22122n, x > 0 equals",
+            "options": [
+                "1",
+                "-1",
+                "0",
+                "The limit does not exist."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Consider the function f (x1, x2) = max {6 \u2212x1, 7 \u2212x2} . The solution (x\u2217\n1, x\u2217\n2) to the\noptimization problem minimize f (x1, x2) subject to x1 + x2 = 21 is",
+            "options": [
+                "(x\u2217\n1 = 10.5, x\u2217\n2 = 10.5),",
+                "(x\u2217\n1 = 11, x\u2217\n2 = 10)",
+                "(x\u2217\n1 = 10, x\u2217\n2 = 11),",
+                "None of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

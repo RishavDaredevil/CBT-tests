@@ -1,0 +1,1308 @@
+{
+    "exam_name": "CUET",
+    "exam_year": 2020,
+    "exam_title": "CUET 2020",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Select the most suitable synonym for the word TACT",
+            "options": [
+                "Cunningness",
+                "Diplomacy",
+                "Intelligence",
+                "Rudeness"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Choose the pair which exhibits the same relationship as SUN: SUNLIGHT",
+            "options": [
+                "MOON: MOONLIGHT",
+                "BEE-HIVE: HONEY",
+                "TAP: WATER",
+                "FLOWER: FRAGRANCE"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Select the correct word for following sentence. It is very misleading to imagine that computers can ______ like people.",
+            "options": [
+                "think",
+                "succeed",
+                "perorate",
+                "deal"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Soap is related to Wash in the same way as Broom is related to",
+            "options": [
+                "Clean",
+                "Dust",
+                "Sweep",
+                "Floor"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Identify the word which is opposite in meaning to CATALYST",
+            "options": [
+                "Promoter",
+                "Assassin",
+                "Destroyer",
+                "Deterrent"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Identify the part of the body with which the disease Cataract is associated",
+            "options": [
+                "eyes",
+                "skin",
+                "nerves",
+                "ears"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Select correct meaning of foreign expression per se",
+            "options": [
+                "by itself",
+                "gossip",
+                "as of now",
+                "spontaneous"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Identify the meaning of underlined word. The woman castigated herself for being unduly worried and angry.",
+            "options": [
+                "Cut",
+                "Criticised",
+                "Chided",
+                "Appreciated"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Identify the word which carries the meaning of following sentence. Connected with or relevant to something",
+            "options": [
+                "Perspective",
+                "Invalid",
+                "Logical",
+                "Pertinent"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Identify the word which carries the meaning of underlined idiom. As both the parties were equally responsible for the damage, they settled the bill fair and square.",
+            "options": [
+                "Partially",
+                "Exactly or fairly",
+                "Certainly",
+                "Eagerly"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Choose the correct alternative that will continue the same pattern 20, 19, 17, 10, 5.",
+            "options": [
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "In a certain code, TRIPPLE is written as SQHOOKD. How is DISPOSE written in that code?",
+            "options": [
+                "CHRONRD",
+                "DSOESPI",
+                "ESJTPTF",
+                "ESOPSID"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "In a certain code, 3456 is coded as ROPE, 15526 is coded as APPLE, then how is 54613 coded?",
+            "options": [
+                "RPPEO",
+                "ROPEA",
+                "POEAR",
+                "PAREO"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "If eye is called hand, hand is called mouth, mouth is called ear, ear is called nose and nose is called tongue, with which of the following would a person hear?",
+            "options": [
+                "Eye",
+                "Mouth",
+                "Nose",
+                "Ear"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "A man said to a lady, 'Your mother's husband's sister is my aunt'. How is the lady related to the man?",
+            "options": [
+                "Daughter",
+                "Grand Daughter",
+                "Mother",
+                "Sister"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "A can do a piece of work in 16 days. A & B together can do the work in 8 days. B alone can do the work in_days.",
+            "options": [
+                "16",
+                "12",
+                "10",
+                "14"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "The smallest number to be added to 1000 so that 45 divides the sum exactly is",
+            "options": [
+                "10",
+                "20",
+                "35",
+                "80"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "The H.C.F. of 3556 and 3444 is",
+            "options": [
+                "23",
+                "25",
+                "26",
+                "28"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "(3080 + 6160) / 28 = ?",
+            "options": [
+                "320",
+                "440",
+                "3320",
+                "None of these"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "What is the square root of 0.16?",
+            "options": [
+                "0.004",
+                "0.04",
+                "0.4",
+                "4"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Which of the following is the deepest lake in the world?",
+            "options": [
+                "Lake Superior",
+                "Baikal",
+                "Lake Ontario",
+                "Lake Victoria"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Who invented the World Wide Web?",
+            "options": [
+                "Charles Babbage",
+                "Tim Berners-Lee",
+                "Martin Cooper",
+                "Bill Gates"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "The Statue of Unity is dedicated to which leader of Indian freedom struggle?",
+            "options": [
+                "Vallabhbhai Patel",
+                "Mahatma Gandhi",
+                "Jawahar Lal Nehru",
+                "Vinayak Damodar Savarkar"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "The Siachen Glacier is located in which mountain range?",
+            "options": [
+                "The Purvanchal Range",
+                "The Satpura and Vindhya Range",
+                "The Himalayan Range",
+                "The Eastern Karakoram Range"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "Which mountain is called the Great Escarpment of India?",
+            "options": [
+                "Great Himalayas",
+                "Satpura Ranges",
+                "Arawali Ranges",
+                "Western Ghats"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "The supply function for a product is given by: Qs = 3P - 4. A unit tax t is imposed on the supplier. The new supply function becomes:",
+            "options": [
+                "Qs' = 3P - 4 + t",
+                "Qs' = 3(P-t) - 4",
+                "Qs' = 3P - 5 - 3t",
+                "Qs' = 3P - 4 - t"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "For a firm whose total cost and total revenue functions are given by: TC = mQ + c, TR = P.Q which of the following statements is true?",
+            "options": [
+                "If variable costs per unit (m) increase, the break-even point (Q) will fall",
+                "If price (P) falls, the break-even point will rise",
+                "If costs (c) fall, the break-even point will fall",
+                "If fixed costs (c) rise, the break-even point will be unchanged"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "A main advantage of specialization results from",
+            "options": [
+                "Economies of large-scale production",
+                "The specializing country behaving as a monopoly",
+                "Smaller production runs resulting in lower unit costs",
+                "High wages paid to foreign workers"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "The law of marginal utility states",
+            "options": [
+                "MUx.Px = MUy.Py",
+                "MUx/Px = MUy/Py",
+                "MUx/Px > MUy/Py",
+                "MUx/Px < MUy/Py"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Average product of labour is defined as",
+            "options": [
+                "Change in Q / Change in L",
+                "Q / L",
+                "dQ / dL",
+                "Q * L"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 31,
+            "question_text": "Which of the following functions are homogeneous to degree 1 (i.e. linear homogeneous)?",
+            "options": [
+                "Q = 100 K^(1/4) L^(3/4)",
+                "Q = 10 L^(1-n)",
+                "Q = K^2 + 2KL + L^2",
+                "Q = (K^2 + 2L + L^2)^(1/2)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 32,
+            "question_text": "An isoquant for perfect substitute would be",
+            "options": [
+                "Right angle shape",
+                "Negative sloped straight line",
+                "Straight line parallel to the x-axis",
+                "Straight line parallel to the y-axis"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 33,
+            "question_text": "The equilibrium prices of duopoly model are obtained at the intersections of their reaction curves. It is correct in the case of",
+            "options": [
+                "Edgeworth's model",
+                "Chamberlin's model",
+                "Bertrand's duopoly model",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 34,
+            "question_text": "In stage third, which is also known as negative returns",
+            "options": [
+                "AP becomes negative",
+                "TP becomes negative",
+                "MP becomes negative",
+                "AP and TP both becomes negative"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 35,
+            "question_text": "Which of the following functions have unit elasticity of price at P=6?",
+            "options": [
+                "Demand: Qd = 10",
+                "Demand: log Qd = 100 - 3 log P",
+                "Demand: Qd = 24 - 2P",
+                "Supply: Qs = 5P"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 36,
+            "question_text": "National product at current prices is higher than national product at constant prices during a period of",
+            "options": [
+                "Rising prices",
+                "Falling prices",
+                "Stable prices",
+                "Changing costs"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 37,
+            "question_text": "Which one of the following represent the saving in the private corporate sector?",
+            "options": [
+                "Total profits of a company",
+                "Undistributed profits",
+                "Excess of income over expenditure",
+                "Dividends paid to share holders"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 38,
+            "question_text": "Investment multiplier can be obtained from",
+            "options": [
+                "1 / (1 - MPC)",
+                "1 / (1 - MPS)",
+                "1 / (MPC + MPS)",
+                "1 / (1 + MPC)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 39,
+            "question_text": "Assuming that: Change in investment = 25, MPS = 0.5, MPI = 0. The change in income will equal to",
+            "options": [
+                "25",
+                "50",
+                "200",
+                "12.5"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 40,
+            "question_text": "When a liner consumption function undergoes a parallel shift downwards, the investment multiplier will",
+            "options": [
+                "Fall",
+                "Rise marginally",
+                "Remain as before",
+                "Become double"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 41,
+            "question_text": "Which of the following is not correct regarding IS-LM model?",
+            "options": [
+                "Saving is the increasing function of income",
+                "Investment is the function of both the rate of interest and the level of income",
+                "IS curve and LM curve show the equilibrium in the money market and in the goods market respectively",
+                "The interaction of IS an LM schedules shows the simultaneous equilibrium in the goods market and in the money market."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 42,
+            "question_text": "Y = C + I + G + (X - M) is",
+            "options": [
+                "An equation",
+                "An identity",
+                "A formula",
+                "A function"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 43,
+            "question_text": "For the equation of PT = MV to explain short-run price behaviour, it is necessary that",
+            "options": [
+                "P varies inversely with M",
+                "T remains unchanged",
+                "Short-run change in V be predicted",
+                "There is no change in interest rate"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 44,
+            "question_text": "Assume, consumption function C=30 + 0.8Y. Investment is 40. Then, the equilibrium level of income is",
+            "options": [
+                "150",
+                "350",
+                "55",
+                "10"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 45,
+            "question_text": "The Keynesian IS-LM model",
+            "options": [
+                "is an entirely demand oriented theory",
+                "is an entirely supply-oriented theory",
+                "Applies to the long run determination of output",
+                "Assumes perfectly inelastic supply of output function up to the full employment level"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 46,
+            "question_text": "Redeemable debt is also called",
+            "options": [
+                "Perpetual loans",
+                "Terminable loans",
+                "Flexible loans",
+                "Rigid Loans"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 47,
+            "question_text": "In the simple Keynesian model, a one rupee increase in the fiscal deficit, brought about through some combination of changes in government expenditure and taxes, leads to",
+            "options": [
+                "An increase in the GDP",
+                "A decrease in the GDP",
+                "An increase of exactly one rupee in the GDP",
+                "Cannot be specified based on given information"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 48,
+            "question_text": "Neutrality of money implies that a given increases in the money supply will",
+            "options": [
+                "Increase all prices in the same proportion",
+                "Increase all prices in different proportion",
+                "Decrease all prices in the same direction",
+                "No change in price at all"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 49,
+            "question_text": "High powered money is",
+            "options": [
+                "Bank's reserves at the Central bank",
+                "All loans and advances of banks",
+                "Money held by bank",
+                "Currency held by public and reserves with the Central Bank"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 50,
+            "question_text": "A firm with total costs TC = 50 + 3Q, which sells its output at price P = 5, breaks even at the output level",
+            "options": [
+                "Q = 50/8",
+                "Q = 50/2",
+                "Q = 45/3",
+                "Q = 50/3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "Okun's law postulates a",
+            "options": [
+                "Positive relationship between unemployment and gross domestic product",
+                "Negative relationship between unemployment and gross domestic product",
+                "Positive relationship between money supply and price level",
+                "Negative relationship between money supply and rate of interest"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "Which of the following saving functions corresponds to the investment multiplier of 5?",
+            "options": [
+                "S = -28 + 0.25y",
+                "S = -40 + 0.75y",
+                "S = -5 + 0.2y",
+                "S = -75 + 0.5y"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "The elasticity in respect of speculative demand for money under the liquidity trap condition is",
+            "options": [
+                "Zero",
+                "One",
+                "(-) One",
+                "Infinite"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "Economic growth is depicted by",
+            "options": [
+                "a shift in the production possibilities frontier outward",
+                "a movement along a production possibilities frontier toward consumer goods",
+                "a shift in the production possibilities frontier inward",
+                "a movement along a production possibilities frontier toward capital goods"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "'Capital widening' refers to that part of investment needed to",
+            "options": [
+                "Increase the capital per unit effective labour ratio.",
+                "Replace capital that has depreciated.",
+                "Equip new units of effective workers at the same capital per unit effective labour ratio.",
+                "More sophisticated technology"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "The production function Y = F(K, L) states that",
+            "options": [
+                "If K rises, L also needs to rise",
+                "Output is a function of K and L",
+                "Only if K rises, Y rises",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "The marginal product of labor (MPL) is the increase in output per unit increase in labor. If labor increases by dL, output increases by",
+            "options": [
+                "dL units",
+                "MPK x dK units",
+                "dK units",
+                "MPL x dL units"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "The labour measure (L) is",
+            "options": [
+                "the average number of workers employed * average hours worked",
+                "the average number of workers (employed + unemployed) * average hours worked",
+                "the total number of workers employed * average hours worked",
+                "the total number of workers (employed + unemployed) * average hours worked"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "In the Solow growth model, the assumption of constant returns to scale means that",
+            "options": [
+                "the number of workers in an economy does not affect the relationship between output per worker and capital per worker.",
+                "all economies have the same amount of capital per worker.",
+                "the steady-state level of output is constant regardless of the number of workers.",
+                "the saving rate equals the constant rate of depreciation."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
+            "question_text": "The intermediate solutions of constraints must be checked by substituting them back into",
+            "options": [
+                "Objective function",
+                "Constraint equations",
+                "Not required",
+                "None of these"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 61,
+            "question_text": "(x + y)(x - y) =",
+            "options": [
+                "x^2 + 2xy - y^2",
+                "x^2 - 2xy + y^2",
+                "x^2 - y^2",
+                "x^2 + yx - y^2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 62,
+            "question_text": "For each set A,",
+            "options": [
+                "{A} is a subset of 2^A",
+                "{A} is not a subset of 2^A",
+                "A is not an element of 2^A",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 63,
+            "question_text": "Which of the following is true?",
+            "options": [
+                "Pi is an irrational number",
+                "-1/6 is a rational number",
+                "Sqrt(-4) is a real number",
+                "5^(1/2) is rational"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 64,
+            "question_text": "The function y = f(x) reaches a (relative) minimum where",
+            "options": [
+                "f'(x) = 0 and f''(x) > 0",
+                "f'(x) = 0 and f''(x) < 0",
+                "f(x) = 0 and f'(x) > 0",
+                "f(x) = 0 and f'(x) < 0"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 65,
+            "question_text": "x^2 - 4x + 4 =",
+            "options": [
+                "(x - 2)^2",
+                "(x - 2)(x - 3)",
+                "(x - 2)(x + 2)",
+                "(x - 4)^2"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 66,
+            "question_text": "d(x^(1/2)) / dx =",
+            "options": [
+                "1 / x^(1/2)",
+                "1 / 2x^(1/2)",
+                "x^(1/2) / 2",
+                "x^(-1/2)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 67,
+            "question_text": "Which of the following is/are true?",
+            "options": [
+                "x^b . x = x^b",
+                "x^b / x^(b+1) = 1/x",
+                "x / x = x^0",
+                "x^(b-1) / x^b = x"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 68,
+            "question_text": "Which of the following are true?",
+            "options": [
+                "f(x) = 6x^3 - 3x^-2 ... implies f'(x) = 18x^2 + 6x^-3",
+                "f(x) = 3x^(2/3) implies f'(x) = 6x^(-1/3)",
+                "f(x) = ax^3 - bx + c implies f'(x) = 3ax^2 - b",
+                "f(x) = 4x + 3/x^2 implies f'(x) = 4 - 6/x^3"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 69,
+            "question_text": "The number of non-zero rows in an echelon form is called?",
+            "options": [
+                "reduced echelon form",
+                "rank of a matrix",
+                "conjugate of the matrix",
+                "co-factor of the matrix"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 70,
+            "question_text": "In a frequency distribution, the last cumulative frequency is 500. Q3 (Third Quartile) must lie in",
+            "options": [
+                "300th item",
+                "375th item",
+                "325th item",
+                "310th item"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 71,
+            "question_text": "In a Binomial Distribution, if p = q, then P(X = x) is given by?",
+            "options": [
+                "nCx p^(n-x)",
+                "nCx (0.5)^n",
+                "nCx (0.5)",
+                "C (0.5)^n"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 72,
+            "question_text": "The mean of a distribution is 23, the median is 24, and the mode is 25.5. The distribution is",
+            "options": [
+                "Positively Skewed",
+                "Symmetrical",
+                "Asymptotic",
+                "Negatively Skewed"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 73,
+            "question_text": "Sum of dots when two dice are rolled is",
+            "options": [
+                "A discrete variable",
+                "A continuous variable",
+                "A constant",
+                "A qualitative variable"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 74,
+            "question_text": "Core inflation is a measure of inflation",
+            "options": [
+                "that is based only on food and energy prices",
+                "that excludes items that face volatile price movements, notably food and energy",
+                "that includes items that face volatile price movements, notably food and energy",
+                "None of the above"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 75,
+            "question_text": "Multicollinearity exists when",
+            "options": [
+                "Independent variables are correlated less than -0.70 or more than 0.70",
+                "An independent variable is strongly correlated with a dependent variable",
+                "There is only one independent variable",
+                "The relationship between the dependent and independent variable is non-linear"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 76,
+            "question_text": "In multiple regression, when the global test of significance is rejected, we can conclude that",
+            "options": [
+                "All of the net sample regression coefficients are equal to zero",
+                "All of the sample regression coefficients are not equal to zero",
+                "At least one sample regression coefficient is not equal to zero",
+                "The regression equation intersects the Y-axis at zero."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 77,
+            "question_text": "A residual is defined as",
+            "options": [
+                "Actual (Y) - Estimated (Y)",
+                "Error Sum of Square",
+                "Regression Sum of Squares",
+                "Type I Error"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 78,
+            "question_text": "If x_bar is 4 and the distribution is 2, 3, 4, 5, 6, the sum of squared deviations from the x will be:",
+            "options": [
+                "8",
+                "10",
+                "6",
+                "12"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 79,
+            "question_text": "In a week, the prices of a bag of rice were 350, 280, 340, 290, 320, 310, 300. The range is",
+            "options": [
+                "60",
+                "90",
+                "70",
+                "100"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 80,
+            "question_text": "Find the median of the following data: 160, 180, 200, 280, 300, 320, 400",
+            "options": [
+                "140",
+                "300",
+                "200",
+                "280"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 81,
+            "question_text": "Which of the following is a union tax?",
+            "options": [
+                "Corporation tax",
+                "Taxes on agricultural income",
+                "Capitation taxes",
+                "Land revenues"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 82,
+            "question_text": "Which committee recommended abolition of tax rebate under section 88?",
+            "options": [
+                "Chelliah Committee",
+                "Kelkar Committee",
+                "Shome Committee",
+                "Narsimhan Committee"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 83,
+            "question_text": "The 'Principle of Maximum Social Advantage' was introduced by",
+            "options": [
+                "Dalton",
+                "Smith",
+                "Modigliani",
+                "Lewis"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 84,
+            "question_text": "Which of the following statement would describe the term 'Public Finance'?",
+            "options": [
+                "It is a study of economic efficiency, distribution of resources and government policies and its effects",
+                "It is a study of the public sector banking system in a country",
+                "It is a study of the finances of the general public and their pattern of spending",
+                "It is a study of the direct and indirect taxes in an economy"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 85,
+            "question_text": "According to Prof. Seligman, Which of the following are the three main principles on the basis of which revenue sources (such as taxes) should be divided between the different layers of government?",
+            "options": [
+                "Principles of Efficiency, Effectiveness and Economy",
+                "Principles of Economy, Decentralisation and Necessity",
+                "Principles of Autonomy, Necessity and Surplus",
+                "Principles of Efficiency, Suitability, and Adequacy"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 86,
+            "question_text": "The horizontal fiscal imbalance that arises in a fiscal federation is also called",
+            "options": [
+                "Problem of Equalisation",
+                "Problem of Efficiency",
+                "Problem of Effectiveness",
+                "Problem of Economy"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 87,
+            "question_text": "Tax revenue sharing between the federal and sub-national governments is aimed at correcting which of the following type of imbalances?",
+            "options": [
+                "Vertical imbalances",
+                "Horizontal imbalances",
+                "Diagonal imbalances",
+                "Criss-cross imbalances"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 88,
+            "question_text": "Which of the following is an imprest placed at the disposal of the President of India to facilitate Government to meet urgent unforeseen expenditure pending authorization from Parliament?",
+            "options": [
+                "Consolidated Fund",
+                "Public Funds",
+                "Prime Ministers Relief Fund",
+                "Contingency Fund"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 89,
+            "question_text": "Taxes are levied to",
+            "options": [
+                "Provide general benefits to the People",
+                "Discourage people from unnecessary spending",
+                "Accumulate funds for the government for future use",
+                "To assert authority of government over its citizens"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 90,
+            "question_text": "The managed exchange rates since 1973",
+            "options": [
+                "Supported some restriction on exchange rate fluctuations.",
+                "Supported a flexible exchange rate system.",
+                "Strongly supported a freely flexible exchange rate system.",
+                "Strongly supported a fixed exchange rate system."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 91,
+            "question_text": "Which one of the following tax is within the jurisdiction of the State Governments as enumerated in List-ll of the Constitution of India?",
+            "options": [
+                "Taxes other than stamp duties on transactions in stock exchange and future markets.",
+                "Taxes on Railway freights and fares.",
+                "Taxes on mineral rights subject to any limitations imposed by the Parliament.",
+                "Rate of stamp duty in respect of certain financial documents."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 92,
+            "question_text": "Fiscal deficit less interest payments is called",
+            "options": [
+                "Primary deficit",
+                "Monetised deficit",
+                "Budgetary deficit",
+                "Net fiscal deficit"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 93,
+            "question_text": "Grants from the Centre to the States under the recommendations of Finance Commission are known as",
+            "options": [
+                "Plan grants",
+                "Statutory grants",
+                "Development assistance",
+                "Discretionary grants"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 94,
+            "question_text": "Monetised deficit means",
+            "options": [
+                "Fiscal deficit less interest payments",
+                "Government expenditure which is financed through the sale of adhoc treasury bills.",
+                "Increase in RBI credit to Central Government.",
+                "Fiscal deficit less loans and advances."
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 95,
+            "question_text": "NAFED is a",
+            "options": [
+                "Cooperative organisation",
+                "Statutory body",
+                "Non-Government Organization",
+                "Company"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 96,
+            "question_text": "According to Mundell in an optimum currency area, the achievement of internal and external balance is possible through",
+            "options": [
+                "Capital flows",
+                "The mobility of factors",
+                "Inflow of funds from abroad",
+                "Official development assistance"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 97,
+            "question_text": "Employment Guarantee Scheme was first introduced in",
+            "options": [
+                "Maharashtra",
+                "Gujarat",
+                "Madhya Pradesh",
+                "Tamil Nadu"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 98,
+            "question_text": "For an inferior goods, income consumption curve and Engles curves are",
+            "options": [
+                "Positively sloped",
+                "Negatively sloped",
+                "Are the same",
+                "Income consumption curve positively sloped and the Engles curve is negatively sloped"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 99,
+            "question_text": "Match 'labour force' with the appropriate item from amongst the following",
+            "options": [
+                "Work force",
+                "All educated",
+                "Employed + Unemployed",
+                "All rural workers"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 100,
+            "question_text": "Growth process resulting into broad based benefits and providing equality of opportunity to all is referred to as",
+            "options": [
+                "Inclusive growth",
+                "Faster growth",
+                "Exclusive growth",
+                "Sustained growth"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

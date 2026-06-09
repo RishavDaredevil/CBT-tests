@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2020,
+    "exam_title": "ISI PEA 2020",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Consider the functions\nf(x) =\n(\nx sin\n\u0010\n1\nx\n\u0011\nif x \u0338= 0\n0\nif x = 0\nand\ng(x) =\n(\nx2 sin\n\u0010\n1\nx\n\u0011\nif x \u0338= 0\n0\nif x = 0\nThen",
+            "options": [
+                "f is di\ufb00erentiable at zero but g is not di\ufb00erentiable at zero",
+                "g is di\ufb00erentiable at zero but f is not di\ufb00erentiable at zero",
+                "f and g are both di\ufb00erentiable at zero",
+                "Neither f nor g is di\ufb00erentiable at zero"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "How many ordered pairs of numbers (x, y) are there where x,y \u2208{1.2, . . . .100}. such\nthat |x \u2212y| \u226450?",
+            "options": [
+                "2550",
+                "5050",
+                "7550",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Let ABC be a right angled isosceles triangle with angle \u2220ABC being right-angled. Let\nD be the mid-point of AB.E be the foot of the perpendicular drawn from D to the side\nAC, and F be the foot of the perpendicular drawn from E to the side BC. What is the\nvalue of FC\nBC ?",
+            "options": [
+                "1\n\u221a\n2",
+                "3\n4",
+                "2 \u2212\n\u221a\n2",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Suppose that there are 30 MCQ type questions where each question has four options:\nA, B.C.D. For each question, a student gets 4 marks for a correct answer, 0 marks for a\nwrong answer, and 1 mark for not attempting the question. Suppose in each question,\nthe probability that option A is correct is 0.5 , option B is correct is 0.3 , option C is\ncurrect is 0.2 , and option D is correct is 0. Two students Gupi and Baglan how no clue\nabout the right answers. Gupi answers each question randomly, that is, ticks any of the\noptions with probability 0.25. Whereas Bagha attempts each question with probability\n0.5, but whenever he attempts a question, he randomly ticks an option. Which of the\nfollowing is correct?",
+            "options": [
+                "Both Gupi and Bagha have expected scores more than 30",
+                "Gupi\u2019s expected score is \u226530 and Bagha\u2019s expected scure is strictly less than\n30",
+                "Gupi\u2019s experted score is less than or equal to 30 and Bagha\u2019s expected score\nis strictly more than 30",
+                "None of the above options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Evaluate: limx\u2192\u221e[e3x \u22125x]\n1\nx",
+            "options": [
+                "e3",
+                "3",
+                "1",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Suppose f(x) =\n( |x\u22123|\nx\u22123 ,\nfor x \u0338= 3\n0.\nfor x = 3\n)\n. Then. limx\u21923 f(x) :",
+            "options": [
+                "is -1",
+                "is 0",
+                "does not exist",
+                "is 1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "Consider the following system of equations in x, y, z :\nx + 2y \u22123z = a\n2x + 6y \u221211z = b\nx \u22122y + 7z = c\nFor what values of a, b, c, does the above system have no solution?",
+            "options": [
+                "c + 2b \u22125a \u0338= 0",
+                "c + 2b \u22125a = 0",
+                "c + 2b \u22124a = 0",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "The sequence xn is given by the formula: for every positive integer n\nxn = n3 \u22129n2 + 631\nThe largest value of n such that xn > xn+1 is",
+            "options": [
+                "1",
+                "5",
+                "6",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Suppose an unbiased coin is tossed 10 times. Let D be the random variable that denotes\nthe number of heads minus the number of tails. What is the variance of D?",
+            "options": [
+                "10",
+                "1",
+                "0",
+                "None of the other eptions are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Suppose we are given a 4 \u00d7 4 square matrix A, which satis\ufb01es Aij = 0 if i < j. Suppose\nthe each diagonal entry Aii is drawn uniformly at random fron {0, 1, . . . , 9}. What is\nthe probability that A has full rank?",
+            "options": [
+                "1\n104",
+                "3\n5",
+                "1 \u2212\n1\n104",
+                "\u0010\n9\n10\n\u00114"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let a and b be two real numbers where b \u0338= 0 and g : R \u2192R is a continuous function\nwhich satis\ufb01es\ng(g(x)) = ag(x) + bx\n\u2200x \u2208R\nWhich of the following must be true?",
+            "options": [
+                "g is strictly increasing",
+                "g is strictly decreasing",
+                "limx\u2192\u221eg(x) is \ufb01nite",
+                "Either (A) or (B)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "For every positive integer n, let S(n) denote the sum of digits in n.\nFor instance,\ns(387) = 3 + 8 + 7 = 18. The value of the sum\nS(1) + S(2) + . . . + S(99)\nis",
+            "options": [
+                "450",
+                "495",
+                "900",
+                "990"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Suppose \ufb01ve cards are randomly drawn without replacement from an ordinary deck of\n52 plaving cards, with four suits of 13 cards each, which las been well shu\ufb04ed. Let a\n\ufb02ush be the event that all \ufb01ve cards are of the same suit. What is the probability of\ngetting a \ufb02ush?",
+            "options": [
+                "4C113C5\n52C5",
+                "4C213C4\n52C5",
+                "4P113C5\n52P5",
+                "4C112C5\n52C5"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Evaluate:\nR xn ln xdx, where n > 1",
+            "options": [
+                "ln x xn+1\nn+1 \u2212\n1\n(n+1)2xn+1 + c",
+                "ln x xn+1\n2(n+1) \u2212\n1\n(n+1)2xn+1 + c",
+                "ln x xn+1\nn+1 \u2212\n1\n(n+1)xn+1 + c",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The area of the region bounded by the curve y = ln(x), the Y \u2212axis. and the lince y = 1\nand y = \u22121 is",
+            "options": [
+                "e\n2",
+                "2",
+                "e \u22121\ne",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "A price discriminating monopolist \ufb01nds that a person\u2019s demand for its product depends\non the person\u2019s age. The inverse demand function of someone of age y, can be written\nas p = A(y)\u2212q where A(y) is an increasing function of y. The product cannot be resold\nfrom one buyer to another and the monopolist knows the ages of its consumers. (This is\noften the case with online subscriptions) . If the monopolist maximizes its pro\ufb01ts, then",
+            "options": [
+                "older people will pay higher prices and purchase more of this product compared\nto younger people",
+                "everyone pays the same price but older people consume more",
+                "older people will pay higher prices compared to the younger people but every-\none will consume the same quantity of the product",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Pam\u2019s family consists of herself and her 3 sisters. They own a small farm in the agricul-\ntural sector in Agriland. The value of their total output is $4000 which is divided equally\namongst the four. The urban sector has two kinds of jobs: informal sector (which anyone\ncan get) pays $500 and formal sector jobs give $1200. Pam would like to maximize her\nown total income and calculates her own expected returns to migration. The proportion\nof formal sector jobs to urban labor force that would deter her from migrating is:",
+            "options": [
+                "Less than 2/3",
+                "More than 5/6",
+                "More than 1\n2",
+                "Less than 5/7"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Hu and Li are two dealers of used tractors in a rural area of China. Hu sells high quality\nsecond hand tractors while Li sells low quality ones. Hu would be willing to sell his high\nquality tractor at $8000 while Lu would sell his low quality one for $5000, Consumers are\nwilling to pay up to $10, 000 for a high quality tractor and $7000 for a low quality one.\nThey expect a 50% chance of buying a high quality second-hand tractor. In order to\nsignal the quality of their tractors Hu and Li can o\ufb00er warranties. The cost of warranty\nfor a high quality tractor is 500Y and 1000Y for a low quality one (Y is the number of\nyears of warranty). What is the optimal number of years of warranty that Hu should\no\ufb00er so that consumers know his tractors are of good quality?",
+            "options": [
+                "Less than 2 years",
+                "0.5 years",
+                "More than 1.5 years",
+                "3 years"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Suppose the capacity curve for each laborer is described as follows: for all payments up\nto $100, capacity is zero and then begins to rise by 2 units for each additional $ paid.\nThis happens until the payment rises to $500. Thereafter, an additional $ payment\nincreases work capacity by only 1.1 units, until total income paid is $1000. At this\npoint, additional payments have no e\ufb00ect on work capacity. Assume all income is spent\non nutrition. Suppose you are an employer faced by the above capacity curve of your\nworkers. You need 8000 units of work or capacity units. How many workers would you\nhire and how much would you pay each worker so that you get 8000 units of work at\nminimum cost?",
+            "options": [
+                "5 workers: $1000 per worker",
+                "10 workers: $700 yer worker",
+                "10 workers; $500 per worker",
+                "15 workers; $400 per worker"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Suppose you were to believe that money illusion exists, that is as prices and income rise\nproportionally, then people buy more. Which of the following statements about demand\nshould not be true?",
+            "options": [
+                "Demand functions are downward sloping",
+                "Demand functions are homogeneous of degree zero",
+                "Demand has a positive vertical intercept",
+                "Demand functions are homogeneous of degree one"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "Consider a Bertrand price competition model between two pro\ufb01t maximizing widget\nproducers, say A and B. The marginal cost of producing a widget is 4 for each producer.\nEach widget producer has a capacity constraint to produce only 5 widgets. There are 8\nidentical individuals who demand 1 widget only, and value each widget at 6. If the \ufb01rms\nare maximizing pro\ufb01ts, then the following statement is true:2\n2Assuming only integer prices are allowed",
+            "options": [
+                "Firm A and B will charge 1",
+                "Firm A and B will charge 6",
+                "Firm A and B will charge greater than or equal to 5",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "The government estimates the market demand (QD) and market supply (QS) for turnips\nto be the following: Qd = 30 \u22122P, QS = 4 where P is the per unit price and Q is the\nquantity measured in kilograms. The government aims to increase the market price of\nturnips to $8 per unit to improve the welfare of domestic producers of turnships. It\nis considering three possible choices: i) per unit subsidy, ii) a price \ufb02oor and purchase\nof any surplus production, iii) a production quota. Which of these policies should the\ngovernment adopt if it aims to mazimize the producer\u2019s welfare but minimize the loss of\ne\ufb03ciency?",
+            "options": [
+                "A production quota",
+                "A price subsidy",
+                "Either a price subsidy or price \ufb02oor",
+                "Either a production quota or price \ufb02oor"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "A monopolist faces a demand curve q = 5\np. Her cost function is C(q) = 3q. Suppose, in\nthe same market, there are some competitive suppliers ready to sell the good at price\np = 5. The monopolist\u2019s pro\ufb01t maximizing price and output could be given by",
+            "options": [
+                "p = 3, q = 5\n3",
+                "p = 3.01, q =\n5\n3.01",
+                "p = 2.99, q =\n5\n2.99",
+                "p = 4.99, q =\n5\n4.99"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "The consumption function is given by C = AY \u03b2 with \u03b2 = 0.5 and A = 0.3. The marginal\npropensity to save is",
+            "options": [
+                "equal to 0.5",
+                "increasing in income. Y",
+                "equal to 0.3",
+                "equal to 0.7"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The production function is given by Y = AL. The wage rigidity constraint is given by\nW \u2265B. The labour endowment is given by C. Here, A, B, and C are \ufb01nite and positive\nconstants. Assume that the entire labour endowment is supplied. If A > B, then in a\nlabour market equilibrium",
+            "options": [
+                "L = C",
+                "L = 0",
+                "0 < L < C",
+                "None of the other options are correct"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Consider the Mundell-Flemming model with perfect capital mobility and a \ufb02exible ex-\nchange rate in the short run. A monetary expansion leads to\nin output ,\na \ufb01scal expansion leads to\nin output",
+            "options": [
+                "decrease; no change",
+                "increase, decrease",
+                "increase; no change",
+                "increase; increase"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Mr. X has an exogenous income W and his utility from consumption is u(.). Mr. X know\nthe an accident can occur with probability p and if it occurs, the monetary equivalent\nto the damage is T. Mr. X can however a\ufb00ect the accident probability p through the\nprevention e\ufb00ort e. In particular, e can take two values - zero and a and an assumption\nis that p(0) > p(a), that is by putting prevention e\ufb00ort. probability of occurring an\naccident can be reduced. Let us also assume that if Mr. X puts an e\ufb00ort e, the disutility\nfrom the e\ufb00ort is Ae2 where A is the per unit e\ufb00ort cost. What is the critical value of\nA, A\u2217. below which the e\ufb00ort will be undertaken, and above which the e\ufb00ort will not be\nundertaken, by Mr. X?",
+            "options": [
+                "A\u2217= |p(a)\u2212p(0)||u(W\u2212T)\u2212u(W)]\na2",
+                "A\u2217=\n|p(a)\u2212p(0)]a2\nu(W\u2212T)\u2212u(W)",
+                "A\u2217=\np(a)\np(0)\nu(w\u2212T )\nu(w)\na2",
+                "A\u2217=\np(a)p(0)a2\nu(W\u2212T)u(W)"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Labor supply in macro models results from individual decision making. Let c denote an\nindividual\u2019s consumption and L denote labor supply. Assume that individuals solve the\nfollowing optimization problem\nMax\n{c,L}U(c, L) = log c \u22121\n2\n1\nbL2\nsubject to c + \u00afS = wL where U(\u00b7) is the utility function, b > 0 is a constant, \u00afS is a\nconstant exogenous level of savings, and w is the real wage the person can earn in the\nlabor market. Derive the optimal labor supply. It is",
+            "options": [
+                "increasing in w; increasing in c",
+                "decreasing in w; decreasing in c",
+                "increasing in w; decreasing in c",
+                "decreasing in w; increasing in c"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider a Solow economy that begins in steady state. Then a strong eathquake destroys\nhalf the capital stock.\nThe steady state level of capital\n, the level of\noutput\non impact, and the growth rate of the economy\nas\nthe economy approaches its steady state.",
+            "options": [
+                "decreases; decreases; decreases",
+                "remains the same; decreases; decreases",
+                "remains the same; decreases; increases",
+                "decreases; remains the same, decreases"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Suppose the economy is characterized by the following equations\nC = c0 + c1YD\nYD = Y \u2212T\nI = b0 + b1Y\nwhere C = Consumption, c0 = Autonomous Consumption, c1 \u2208[0.1] YD = Disposable\nIncome, Y = Aggregate GDP, T = Taxes, I = Investinent , b0 = Autonomous Investment,\nand b1 \u2208[0, 1]. For the multiplier to be positive, what condition needs to be satis\ufb01ed?",
+            "options": [
+                "b1 + c1 = 0",
+                "b1 + c1 = 1",
+                "b1 + c1 < 1",
+                "b1 + c1 > 1"
+            ],
+            "correct_option": "Unknown",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

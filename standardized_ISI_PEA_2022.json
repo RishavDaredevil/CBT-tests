@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2022,
+    "exam_title": "ISI PEA 2022",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Consider an economy with two goods X and Y . Let the utility function be given by\nu(x, y) = A\u221axy where A > 0, x \u22650 is the amount of good X consumed and y \u22650\nis the amount of good Y consumed. Suppose that the budget constraint is given by\nPXx + PY y \u2264M where M > 0 is the money income of the consumer and PX and PY\nare the prices of the goods X and Y , respectively. Let PX = PY > 1 and let (x\u2217, y\u2217) be\nthe equilibrium quantities of this consumer who maximizes utility subject to the budget\nconstraint. Then,",
+            "options": [
+                "it must always be that x\u2217> y\u2217",
+                "it must always be that x\u2217= y\u2217",
+                "it must always be that x\u2217< y\u2217",
+                "it must always be that x\u2217+ y\u2217= M"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Consider the utility function u (x1, x2) = 3x1 + 2x2 of a consumer de\ufb01ned for all x1 \u22650\nand x2 \u22650. Let the price of good 1 be p1 > 0 and that of good 2 be p2 > 0. Let\nM > 0 be the money income of the consumer.\nConsider the optimization problem\nmaxx1\u22650,x2\u22650 3x1 + 2x2 subject to 2x1 + 3x2 \u2264M. The associated Lagrangian func-\ntion for this maximization problem is L (x1, x2 : \u03bb) = 3x1 + 2x2 + \u03bb [M \u22122x1 \u22123x2];\nwhere \u03bb denotes the non-negative Lagrangian multiplier. Then the equilibrium solution\n(x\u2217\n1, x\u2217\n2, \u03bb\u2217) to this Lagrangian function maximization problem is",
+            "options": [
+                "\u0010\nx\u2217\n1 = M\n2 , x\u2217\n2 = 0.\u03bb\u2217= 2\n3\n\u0011",
+                "\u0010\nx\u2217\n1 = M\n2 , x\u2217\n2 = 0, \u03bb\u2217= 3\n2\n\u0011",
+                "\u0010\nx\u2217\n1 = 0, x\u2217\n2 = M\n3 , \u03bb\u2217= 2\n3\n\u0011",
+                "\u0010\nx\u2217\n1 = 0, x\u2217\n2 = M\n3 , \u03bb\u2217= 3\n2\n\u0011"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "Consider a two good economy where the two goods are X and Y and consider two\nconsumers A and B. In a month when the price of good X was Rs. 2 and that of\ngood Y was Rs. 3, consumer A consumed 3 units of good X and 8 units of good Y and\nconsumer B consumed 6 units of both goods. In the next month. when the price of\ngood X was Rs. 3 and that of good Y was Rs. 2, consumer A consumed 8 units of good\nX and 3 units of good Y and consumer B consumed 4 units of good X and 9 units of\ngood Y . Given this information which one of the following statements is correct?",
+            "options": [
+                "Both consumers satisfy the weak axiom of revealed preference",
+                "Neither consumer satis\ufb01es the weak axiom of revealed preference",
+                "Consumer A satis\ufb01es the weak axiom of revealed preference but not consumer\nB",
+                "Consumer B satis\ufb01es the weak axiom of revealed preference but not consumer\nA"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "Let the production function be Y (L, K) = min{2L, K}, where L and K are the amounts\nof labor and capital, respectively. Consider the cost function C(L, K) = wL+rK, where\nw > 0 denotes the price of labor and r > 0 denotes the price of capital. Suppose that\n(L\u2217, K\u2217) is the combination of labor and capital at which cost is minimized subject to\nthe constraint Y (L, K) \u2265\u00afY . Then.",
+            "options": [
+                "L\u2217= \u00afY and K\u2217= \u00afY /2",
+                "L\u2217= \u00afY and K\u2217= \u00afY",
+                "L\u2217= \u00afY /2 and K\u2217= \u00afY",
+                "None of the other options is correct"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Suppose that there are two \ufb01rms 1 and 2 that produce the same good. Let the inverted\ndemand function be P (q1, q2) = 1 \u2212q1 \u2212q2, where \ufb01rm 1 produces q1 \u22650 and \ufb01rm\n2 produces q2 \u22650.\nSuppose that the cost function of \ufb01rm i \u2208{1, 2} is given by\nci (qi) = \u03baiqi, where \u03bai \u2208\n\u0010\n0, 1\n2\n\u0011\n. Note that there is no \ufb01xed cost for either \ufb01rm. Then,\nthe Cournot equilibrium pro\ufb01t of \ufb01rm 2",
+            "options": [
+                "(1\u2212\u03ba1+\u03ba2)2\n9",
+                "(1\u2212\u03ba2+\u03ba1)2\n9",
+                "(1\u22122\u03ba1+\u03ba2)2\n9",
+                "(1\u22122\u03ba2+\u03ba1)2\n9"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "Which of the following statements is correct in a two-good world?",
+            "options": [
+                "Diminishing marginal utility of both goods is su\ufb03cient for diminishing marginal\nrate of substitution",
+                "Diminishing marginal utility of both goods is necessary for diminishing marginal\nrate of substitution",
+                "Diminishing marginal utility of at least one good is necessary for diminishing\nmarginal rate of substitution",
+                "Diminishing marginal utility of at least one good is neither necessary nor suf-\n\ufb01cient for diminishing marginal rate of substitution"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "A non-transitive preference relation can be represented by a utility function",
+            "options": [
+                "Always",
+                "Only if preferences are complete",
+                "Only if preferences are complete and convex",
+                "Never"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "Rahul consumes two goods, X and Y , in amounts x and y, respectively. Rahul\u2019s utility\nfunction is U(x, y) = min{x, y}. Rahul makes Rs 200; the price of X and price of Y\nare both Rs. 2. Rahul\u2019s boss is thinking of sending him to another town where the\nprice of X is Rs 2 and the price of Y is Rs. 3. The boss o\ufb00ers no raise in pay. Rahul,\nwho understands compensating and equivalent variations perfectly, complains bitterly.\nHe says that although he doesn\u2019t mind moving for its own sake and the town is just\nas pleasant as the old, having to move is as bad as a cut in pay of Rs A in his current\nlocation. He also says that he would not mind moving if, when he moved, he got a raise\nof Rs. B. What are A and B equal to?",
+            "options": [
+                "A = 30, B = 70",
+                "A = 40, B = 50",
+                "A = 50, B = 75",
+                "A = 60, B = 60"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "Let U(x, y) = \u2212[(10 \u2212x)2 + (10 \u2212y)2] be a utility function of some consumer. All prices\nare equal to 1, and income is 40. Then the optimal values of x and y will be",
+            "options": [
+                "10, 10",
+                "0, 0",
+                "5, 5",
+                "None of these"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "Consider a production function F(K, L) = min\nn\nK\na , L\nb\no\n; a, b > 0 and a \u0338= b. For any\ngiven K = \u00afK > 0, the marginal productivity of labor is",
+            "options": [
+                "0",
+                "1\na if L <\n\u0010\na\nb\n\u0011 \u00afK and 0 otherwise",
+                "1\nb if L <\n\u0010\nb\na\n\u0011 \u00afK and 0 if L >\n\u0010\nb\na\n\u0011 \u00afK",
+                "None of the above"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Let ei (p0) be the price elasticity of demand for a good X of consumer i (i = 2, \u00b7 \u00b7 \u00b7 , N)\nat price p0, given its demand function. Consumers do not consume identical amounts\nof X at p0. Then the price elasticity of demand at price p0 for the aggregate demand\nfunction for X is",
+            "options": [
+                "P\ni (ei (p0))2",
+                "P\ni ei (p0)",
+                "P\ni ei(p0)\nN",
+                "None of these"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "There are m identical competitive \ufb01rms in an industry. Every \ufb01rm has the (total) cost\nfunction C(q) = q2 +1, where q is the level of its output, q \u22650. Industry demand for the\nproduct is given by D(P) = a \u2212bP, where P is price, and a, b > 0. Then the short-run\nequilibrium output of each \ufb01rm is",
+            "options": [
+                "0",
+                "a\nm+2b",
+                "a\nm\n2 +b",
+                "a\nm+ b\n2"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "Suppose the (total) cost function for a monopolist is C = 3q2+800, where q is its output.\nThe inverse market demand function is p = 280 \u22124q. What is the price elasticity of\ndemand at the pro\ufb01t maximizing price?",
+            "options": [
+                "\u22124.5",
+                "\u22123.5",
+                "\u22122.5",
+                "\u22121.5"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Consider the Solow growth model with constant average saving propensity s, rate of\ndepreciation \u03b4, and labor supply growth rate n.\nThere is no technological progress.\nThen, at steady state, the capital-output ratio is",
+            "options": [
+                "s\nn+\u03b4",
+                "n\n\u03b4+n",
+                "\u03b4\ns+n",
+                "1\ns+n+\u03b4"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The number of ways in which the word PANDEMIC can be arranged such that the\nvowels appear together is",
+            "options": [
+                "6 \u00d7 (3!)(5!)",
+                "5 \u00d7 (3!)(5!)",
+                "4 \u00d7 (3!)(5!)",
+                "1 \u00d7 (3!)(5!)"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "Consider the functions f(x) = x2 \u2212x \u22121 and g(x) = x + 1, both de\ufb01ned for all real\nvalues of x. Let \u03b11 > 0 be the positive real root and \u03b12 < 0 be the negative real root of\nthe equation f(x) = 0. Let \u03b21 > 0 be the positive real root and \u03b22 < 0 be the negative\nreal root of the equation f(g(x)) = 0. After identifying the exact values of \u03b11, \u03b12, \u03b21 and\n\u03b22, identify which one of the following four statements is incorrect.",
+            "options": [
+                "\u03b11 \u2212\u03b21 = \u03b12 \u2212\u03b22 = 1",
+                "a1 + \u03b22 = \u03b12 + \u03b21 = 0",
+                "a1 + \u03b21 = \u2212(\u03b12 + \u03b22) =\n\u221a\n5",
+                "\u03b11 + \u03b12 = \u2212(\u03b21 + \u03b22) = \u22121"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "Let the function f(x) = 1 \u2212\n\u221a\n1 \u2212x2 be de\ufb01ned only over all x belonging in [0, 1]. Then\nf(1 \u2212f(x)) equals",
+            "options": [
+                "x",
+                "1 \u2212x",
+                "x2",
+                "1 \u2212x2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "Suppose f(x) is increasing, concave and twice di\ufb00erentiable and g(x) is decreasing, con-\nvex and twice di\ufb00erentiable. Then the function G(x) = g(f(x)) is",
+            "options": [
+                "increasing and convex",
+                "decreasing and convex",
+                "increasing and concave",
+                "decreasing and concave"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "Suppose that f : R \u2192R is a twice di\ufb00erentiable function satisfying f \u2032\u2032(x) > 0 for all\nx \u2208R. Furthermore, assume that f(1) = 1 and f(2) = 2. Then,",
+            "options": [
+                "0 < f \u2032(2) < 1",
+                "f \u2032(2) > 1",
+                "f \u2032(2) = 1",
+                "f \u2032(2) = 0"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Let A and B be two non-singular matrices of the same order and let C be a matrix\nsuch that C = BAB\u22121. Then for any scalar \u03bb, the value of det(C + \u03bbI) (where I is the\nidentity matrix) is",
+            "options": [
+                "det A",
+                "det B",
+                "det(A + \u03bbI)",
+                "det(B + \u03bbI)"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "The value of limx\u2192e\nloge x\u22121\nx\u2212e\nis",
+            "options": [
+                "0",
+                "e",
+                "1\ne",
+                "None of these"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Let f : [0, \u221e) \u2192R be a function such that f(0) = 0 and f \u2032\u2032(x) > 0 for all x > 0. Then\nthe function g : (0.\u221e) \u2192R. de\ufb01ned by g(x) = f(x)\nx , is",
+            "options": [
+                "increasing in (0, \u221e)",
+                "decreasing in (0, x)",
+                "increasing in (0.1] and decreasing in (1.\u221e)",
+                "decreasing in (0.1] and increasing in (1, \u221e)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Let f : A \u2192B be a function where A = {1, 2, 3, 4, 5} and B = {1, 2}. How many onto\nfunctions can one generate?",
+            "options": [
+                "52 \u22121",
+                "52 \u22122",
+                "25 \u22121",
+                "25 \u22122"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "Let f : R \u2192R be a function de\ufb01ned by f(x) =\nx\n1+x2 for all x \u2208R. Then.",
+            "options": [
+                "\u22121 \u2264f(x) \u22641",
+                "\u22121 \u2264f(x) \u22641/2",
+                "\u22121/2 \u2264f(x) \u22641",
+                "\u22121/2 \u2264f(x) \u22641/2"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "If a 3 \u00d7 3 matrix A has rank 3 and a 3 \u00d7 4 matrix B has rank 3, then the rank of AB is",
+            "options": [
+                "3",
+                "4",
+                "6",
+                "7"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Let A =\n\uf8eb\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ec\n\uf8ed\n2\n0\n3\n1\n\u22121\n2\n3\n1\n0\n\u22121\n3\n1\n2\n0\n\u22121\n1\n2\n3\n\u22121\n0\n2\n1\n\u22121\n0\n3\n\uf8f6\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f7\n\uf8f8\nWhich one is an eigenvalue of A?",
+            "options": [
+                "2",
+                "1",
+                "3",
+                "5"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Let A be a 5 \u00d7 5 non-null singular matrix. Then which of the following statement is\ntrue?",
+            "options": [
+                "Ax = 0 has only a trivial solution",
+                "Ax = 0 has 5 solutions",
+                "Ax = 0 has no solution",
+                "Ax = 0 has in\ufb01nitely many solutions"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "A family has two children. What is the probability that both are boys given that at\nleast one is a boy?",
+            "options": [
+                "1\n2",
+                "2\n3",
+                "1\n3",
+                "1\n4"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Consider two boxes, one containing one black ball and one white ball, the other con-\ntaining two white balls and one black ball. A box is selected at random, and a ball is\nselected at random from the selected box. What is the probability that the ball is black?",
+            "options": [
+                "5\n12",
+                "2\n5",
+                "1\n6",
+                "5\n11"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "The function f : R \u2192R, de\ufb01ned by f(x) = (x2 + 1)2022, is",
+            "options": [
+                "one-one but not onto",
+                "onto but not one-one",
+                "both one-one and onto",
+                "neither one-one nor onto"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}

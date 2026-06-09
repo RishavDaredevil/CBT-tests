@@ -1,0 +1,398 @@
+{
+    "exam_name": "ISI PEA",
+    "exam_year": 2007,
+    "exam_title": "ISI PEA 2007",
+    "duration": 120,
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Let \u03b1 and \u03b2 be any two positive real numbers. Then limx\u21920\n(1+x)a\u22121\n(1+x)\u03b2\u22121 equals",
+            "options": [
+                "\u03b1\n\u03b2",
+                "\u03b1+1\n\u03b2+1",
+                "\u03b1\u22121\n\u03b2\u22121",
+                "1"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 2,
+            "question_text": "Suppose the number X is odd. Then X2 \u22121 is",
+            "options": [
+                "odd;",
+                "not prime;",
+                "necessarily positive;",
+                "none of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 3,
+            "question_text": "The value of k for which the function f(x) = kekx is a probability density function on\nthe interval [0, 1] is",
+            "options": [
+                "k = log 2;",
+                "k = 2 log 2;",
+                "k = 3 log 3;",
+                "k = 3 log 4"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 4,
+            "question_text": "p and q are positive integers such that p2 \u2212q2 is a prime number. Then, p \u2212q is",
+            "options": [
+                "a prime number;",
+                "an even number greater than 2",
+                "an odd number greater than 1 but not prime;",
+                "none of these."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 5,
+            "question_text": "Any non-decreasing function de\ufb01ned on the interval [a, b]",
+            "options": [
+                "is di\ufb00erentiable on (a, b)",
+                "is continuous in [a, b] but not di\ufb00erentiable;",
+                "has a continuous inverse;",
+                "none of these."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 6,
+            "question_text": "The equation\nx\n3\n4\n1\n2\n1\n1\n8\n1\n= 0 is satis\ufb01ed by",
+            "options": [
+                "x = 1;",
+                "x = 3",
+                "x = 4",
+                "none of these."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 7,
+            "question_text": "If f(x) =\ns\nx +\nr\nx +\nq\nx + \u221ax + . . ., then f \u2032(x) is",
+            "options": [
+                "x\n2f(x)\u22121",
+                "1\n2f(x)\u22121.",
+                "1\nx\u221a\nf(x);",
+                "1\n2f(x)+1."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 8,
+            "question_text": "If P = logx(xy) and Q = logy(xy), then P + Q equals",
+            "options": [
+                "PQ",
+                "P\nQ",
+                "Q\nP",
+                "PQ\n2"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 9,
+            "question_text": "The solution to\nR 2x3+1\nx4+2xdx is",
+            "options": [
+                "x4+2x\n4x3+2+ constant;",
+                "log x4 + log 2x+ constant;",
+                "1\n2 log |x4 + 2x| + constant;",
+                "x4+2x\n4x3+2\n+ constant."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 10,
+            "question_text": "The set of all values of x for which x2 \u22123x + 2 > 0 is",
+            "options": [
+                "(\u2212\u221e, 1)",
+                "(2, \u221e)",
+                "(\u2212\u221e, 2) \u2229(1, \u221e)",
+                "(\u2212\u221e, 1) \u222a(2, \u221e)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 11,
+            "question_text": "Consider the functions f1(x) = x2 and f2(x) = 4x3 + 7 de\ufb01ned on the real line. Then",
+            "options": [
+                "f1 is one-to-one and onto, but not f2",
+                "f2 is one-to-one and onto, but not f1",
+                "both f1 and f2 are one-to-one and onto;",
+                "none of the above."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 12,
+            "question_text": "If f(x) =\n\u0010\na+x\nb+x\n\u0011a+b+2x , a > 0, b > 0, then f \u2032(0) equals",
+            "options": [
+                "\u0010\nb2\u2212a2\nb2\n\u0011 \u0010\na\nb\n\u0011a+b\u22121",
+                "\u0010\n2 log\n\u0010\na\nb\n\u0011\n+ b2\u2212a2\nab\n\u0011 \u0010\na\nb\n\u0011a+b",
+                "2 log\n\u0010\na\nb\n\u0011\n+ b2\u2212a2\nab",
+                "\u0010\nb2\u2212a2\nba\n\u0011\n."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 13,
+            "question_text": "The linear programming problem\nmaxx,y z = 0.5x + 1.5y\nsubject to:\nx + y \u22646\n3x + y \u226415\nx + 3y \u226415\nx, y \u22650\nhas",
+            "options": [
+                "no solution;",
+                "a unique non-degenerate solution;",
+                "a corner solution;",
+                "in\ufb01nitely many solutions."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 14,
+            "question_text": "Let f(x; \u03b8) = \u03b8f(x; 1)+(1\u2212\u03b8)f(x; 0), where \u03b8 is a constant satisfying 0 < \u03b8 < 1 Further,\nboth f(x; 1) and f(x; 0) are probability density functions (p \u00b7 d, f.). Then",
+            "options": [
+                "f(x; \u03b8) is a p.d.f. for all values of \u03b8",
+                "f(x; \u03b8) is a p.d.f. only for 0 < \u03b8 < 1\n2",
+                "f(x; \u03b8) is a p.d.f. only for 1\n2 \u2264\u03b8 < 1",
+                "f(x; \u03b8) is not a p.d.f. for any value of \u03b8."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 15,
+            "question_text": "The correlation coe\ufb03cient r for the following \ufb01ve pairs of observations satis\ufb01es\nx\n5\n1\n4\n3\n2\ny\n0\n4\n2\n0\n\u22121",
+            "options": [
+                "r > 0;",
+                "r < \u22120.5;",
+                "\u22120.5 < r < 0;",
+                "r = 0."
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 16,
+            "question_text": "An n -coordinated function f is called homothetic if it can be expressed as an increasing\ntransformation of a homogeneous function of degree one.\nLet f1(x) = Pn\ni=1 xr\ni, and\nf2(x) = Pn\ni=1 aixi + b, where xi > 0 for all i, 0 < r < 1, ai > 0 and b are constants. Then",
+            "options": [
+                "f1 is not homothetic but f2 is;",
+                "f2 is not homothetic but f1 is;",
+                "both f1 and f2 are homothetic;",
+                "none of the above."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 17,
+            "question_text": "If h(x) =\n1\n1\u2212x, then h(h(h(x)) equals",
+            "options": [
+                "1\n1\u2212x",
+                "x",
+                "1\nx",
+                "1 \u2212x"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 18,
+            "question_text": "The function x|x| +\n\u0010 |x|\nx\n\u00113 is",
+            "options": [
+                "continuous but not di\ufb00erentiable at x = 0",
+                "di\ufb00erentiable at x = 0",
+                "not continuous at x = 0;",
+                "continuously di\ufb00erentiable at x = 0."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 19,
+            "question_text": "R\n2dx\n(x\u22122)(x\u22121)x equals",
+            "options": [
+                "log\nx(x\u22122)\n(x\u22121)2\n+ constant;",
+                "log\n(x\u22122)\nx(x\u22121)2\n+ constant;",
+                "log\nx2\n(x\u22121)(x\u22122)\n+ constant;",
+                "log\n(x\u22122)2\nx(x\u22121)\n+ constant."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 20,
+            "question_text": "Experience shows that 20% of the people reserving tables at a certain restaurant never\nshow up. If the restaurant has 50 tables and takes 52 reservations, then the probability\nthat it will be able to accommodate everyone is",
+            "options": [
+                "1 \u2212209\n552",
+                "1 \u221214 \u00d7\n\u0010\n4\n5\n\u001152",
+                "\u0010\n4\n5\n\u001150",
+                "\u0010\n1\n5\n\u001150"
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 21,
+            "question_text": "For any real number x, de\ufb01ne [x] as the highest integer value not greater than x. For\nexample, [0.5] = 0, [1] = 1 and [1.5] = 1. Let I =\nR 3/2\n0\n[x] + [x2] dx. Then I equals",
+            "options": [
+                "1",
+                "5\u22122\n\u221a\n2\n2",
+                "2\n\u221a\n2",
+                "none of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 22,
+            "question_text": "Every integer of the form (n3 \u2212n) (n2 \u22124) ( for n = 3, 4, . . .) is",
+            "options": [
+                "divisible by 6 but not always divisible by 12",
+                "divisible by 12 but not always divisible by 24",
+                "divisible by 24 but not always divisible by 120",
+                "divisible by 120 but not always divisible by 720 ."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 23,
+            "question_text": "Two varieties of mango, A and B, are available at prices Rs. p1 and Rs. p2 per kg,\nrespectively. One buyer buys 5 kg. of A and 10 kg. of B and another buyer spends\nRs 100 on A and Rs. 150 on B. If the average expenditure per mango (irrespective of\nvariety) is the same for the two buyers, then which of the following statements is the\nmost appropriate?",
+            "options": [
+                "p1 = p2",
+                "p2 = 3\n4p1",
+                "p1 = p2 or p2 = 3\n4p1",
+                "3\n4 \u2264p2\np1 < 1"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 24,
+            "question_text": "For a given bivariate data set (xi, yi; i = 1, 2, . . . , n) , the squared correlation coe\ufb03cient\n(r2) between x2 and y is found to be 1. Which of the following statements is the most\nappropriate?",
+            "options": [
+                "In the (x, y) scatter diagram, all points lie on a straight line.",
+                "In the (x, y) scatter diagram, all points lie on the curve y = x2.",
+                "In the (x, y) scatter diagram, all points lie on the curve y = a+bx2, a > 0, b > 0",
+                "In the (x, y) scatter diagram, all points lie on the curve y = a + bx2, a, b any\nreal numbers."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 25,
+            "question_text": "The number of possible permutations of the integers 1 to 7 such that the numbers 1 and\n2 always precede the number 3 and the numbers 6 and 7 always succeed the number 3 is",
+            "options": [
+                "720",
+                "168",
+                "84",
+                "none of these."
+            ],
+            "correct_option": "B",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 26,
+            "question_text": "Suppose the real valued continuous function f de\ufb01ned on the set of non-negative real\nnumbers satis\ufb01es the condition f(x) = xf(x), then f(2) equals",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "f(1)"
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 27,
+            "question_text": "Suppose a discrete random variable X takes on the values 0, 1, 2, . . . , n with frequencies\nproportional to binomial coe\ufb03cients\nn\n0\n!\n,\nn\n1\n!\n, . . . ,\nn\nn\n!\nrespectively. Then the\nmean (\u00b5) and the variance (\u03c32) of the distribution are",
+            "options": [
+                "\u00b5 = n\n2 and \u03c32 = n\n2",
+                "\u00b5 = n\n4 and \u03c32 = n\n4",
+                "\u00b5 = n\n2 and \u03c32 = n\n4",
+                "\u00b5 = n\n4 and \u03c32 = n\n2"
+            ],
+            "correct_option": "C",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 28,
+            "question_text": "Consider a square that has sides of length 2 units. Five points are placed anywhere\ninside this square. Which of the following statements is incorrect?",
+            "options": [
+                "There cannot be any two points whose distance is more than 2\n\u221a\n2.",
+                "The square can be partitioned into four squares of side 1 unit each such that\nat least one unit square has two points that lies on or inside it.",
+                "At least two points can be found whose distance is less than\n\u221a\n2.",
+                "Statements (a), (b) and (c) are all incorrect."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 29,
+            "question_text": "Given that f is a real-valued di\ufb00erentiable function such that f(x)f \u2032(x) < 0 for all real\nx, it follows that",
+            "options": [
+                "f(x) is an increasing function;",
+                "f(x) is a decreasing function;",
+                "|f(x)| is an increasing function;",
+                "|f(x)| is a decreasing function."
+            ],
+            "correct_option": "D",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 30,
+            "question_text": "Let p, q, r, s be four arbitrary positive numbers. Then the value of (p2+p+1)(q2+q+1)(r2+r+1)(s2+s+1)\npqrs\nis at least as large as",
+            "options": [
+                "81",
+                "91",
+                "101.",
+                "None of these."
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        }
+    ]
+}
