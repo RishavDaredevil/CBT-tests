@@ -1,19 +1,19 @@
-import os
 import json
 from utils.migrate_jnu import migrate_jnu
 
 def test_migrate_jnu(tmp_path):
-    # Setup dummy JNU input with unordered keys and a non-numeric key
     input_file = tmp_path / "JNU_Answer_key.json"
     input_file.write_text(json.dumps({
         "2": "B", "10": "C", "1": "A", "version": "1.0", "metadata": {}
     }))
     
     output_file = tmp_path / "standardized_JNU.json"
-    migrate_jnu(input_file, output_file, "JNU Entrance", 180, positive_marks=3, negative_marks=0)
+    migrate_jnu(str(input_file), str(output_file), "JNU Exam", 2020, "JNU Entrance", 180, 3, 0)
     
     assert output_file.exists()
     data = json.loads(output_file.read_text())
+    assert data["exam_name"] == "JNU Exam"
+    assert data["exam_year"] == 2020
     assert data["exam_title"] == "JNU Entrance"
     assert data["duration"] == 180
     assert len(data["questions"]) == 3
