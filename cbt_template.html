@@ -730,12 +730,13 @@
             let csvData = [];
 
             examData.questions.forEach((q, index) => {
-                const serialNumber = q.question_number || index + 1;
+                const questionId = q.question_number || index + 1;
+                const displaySerialNumber = index + 1;
                 
                 let actualCorrectOption = q.correct_option;
                 if (typeof actualCorrectOption === 'object' && actualCorrectOption !== null) {
                     if (actualCorrectOption.answers) {
-                        actualCorrectOption = actualCorrectOption.answers[serialNumber] || actualCorrectOption.answers[String(serialNumber)] || "Unknown";
+                        actualCorrectOption = actualCorrectOption.answers[questionId] || actualCorrectOption.answers[String(questionId)] || "Unknown";
                     } else {
                         actualCorrectOption = "Unknown";
                     }
@@ -767,7 +768,7 @@
                 const safeSelected = typeof selectedOpt === 'object' && selectedOpt !== null ? "Unknown" : String(selectedOpt);
 
                 csvData.push({
-                    serialNumber: serialNumber,
+                    serialNumber: displaySerialNumber,
                     status: status,
                     selectedOption: safeSelected,
                     correctOption: correctOpt,
