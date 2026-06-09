@@ -7,818 +7,838 @@
         {
             "question_number": 1,
             "question_text": "For a positively skewed frequency distribution,",
+            "question_type": "MCQ",
             "options": [
                 "(A) Mean > Median > Mode",
                 "(B) Mean < Median < Mode",
                 "(C) Mode > Mean > Median",
                 "(D) Median > Mode > Mean"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 2,
             "question_text": "In 1991, ______ Committee was set up by the Government of India to examine the structure, organisation, and functions of the Indian financial system.",
+            "question_type": "MCQ",
             "options": [
                 "(A) Rangarajan",
                 "(B) Reddy",
                 "(C) Narasimham",
                 "(D) Chakravarty"
             ],
-            "correct_option": "C",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "C"
         },
         {
             "question_number": 3,
             "question_text": "The inflation targeting policy adopted by the Reserve Bank of India in 2015 prescribed the targeted inflation to vary between ______ percent.",
+            "question_type": "MCQ",
             "options": [
                 "(A) 2-6",
                 "(B) 2-7",
                 "(C) 3-8",
                 "(D) 3-7"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 4,
             "question_text": "Which one of the following is distinct from the others?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Histogram",
                 "(B) Pictogram",
                 "(C) Ogive",
                 "(D) Frequency polygon"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 5,
             "question_text": "Which one of the following is the shut-down condition for a profit maximizing firm in a perfectly competitive market? (P-Price, AVC- Average Variable Cost, ATC- Average Total Cost)",
+            "question_type": "MCQ",
             "options": [
                 "(A) $P < AVC$",
                 "(B) $P > AVC$",
                 "(C) $P < ATC$",
                 "(D) $P > ATC$"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 6,
             "question_text": "Which one of the following is CORRECT in the context of a natural monopoly?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Monopoly arises because one key input is a precious natural resource.",
                 "(B) Total fixed cost is substantially larger than the total variable cost.",
                 "(C) Government does not allow other producers to produce the product.",
                 "(D) Indian Railway is an example of such a monopoly."
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 7,
             "question_text": "If a Japanese citizen owns an apartment in India, then the rental income that she earns from that apartment is part of",
+            "question_type": "MCQ",
             "options": [
                 "(A) India's GDP but not part of India's GNP",
                 "(B) both India's GDP and GNP",
                 "(C) India's GNP but not part of India's GDP",
                 "(D) neither GNP nor GDP of India"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 8,
             "question_text": "The consumer price index (CPI) differs from the GDP deflator since it includes goods and services ______ rather than goods and services ______.",
+            "question_type": "MCQ",
             "options": [
                 "(A) exported, imported",
                 "(B) consumed, produced",
                 "(C) exported, consumed",
                 "(D) consumed, imported"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 9,
             "question_text": "\"Garibi Hatao\" (removal of poverty) and \"Growth with Justice\" were the slogans of ______ Five Year Plan.",
+            "question_type": "MCQ",
             "options": [
                 "(A) First",
                 "(B) Second",
                 "(C) Third",
                 "(D) Fourth"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 10,
             "question_text": "Which is NOT a function of the Reserve Bank of India?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Lending to businesses",
                 "(B) Banker of the Bank",
                 "(C) Banker of the government",
                 "(D) Controller of credit"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 11,
             "question_text": "In statistical hypothesis testing, the area of non-rejection is defined as",
+            "question_type": "MCQ",
             "options": [
                 "(A) one minus probability of rejecting the Null hypothesis when it is true",
                 "(B) one minus probability of not rejecting the Null hypothesis when it is not true",
                 "(C) probability of rejecting the Null hypothesis when it is true minus probability of not rejecting the Null hypothesis when it is not true",
                 "(D) probability of rejecting the Null hypothesis when it is true"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 12,
             "question_text": "If $\\hat{\\beta}$ is a consistent estimator of a population parameter $\\beta$; $\\epsilon$ and $\\delta$ are very small positive quantities, then",
+            "question_type": "MCQ",
             "options": [
                 "(A) $Prob_{n\\rightarrow\\infty}[|\\hat{\\beta}-\\beta|<\\epsilon]\\ge1-\\delta$",
                 "(B) $Prob_{n\\rightarrow\\infty}[|\\hat{\\beta}-\\beta|<\\epsilon]=0$",
                 "(C) $Prob_{n\\rightarrow\\infty}[|\\hat{\\beta}-\\beta|<\\epsilon]=\\delta$",
                 "(D) $Prob_{n\\rightarrow\\infty}[|\\hat{\\beta}-\\beta|<\\epsilon]=1+\\delta$"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 13,
             "question_text": "Power of a statistical test is defined as",
+            "question_type": "MCQ",
             "options": [
                 "(A) one minus probability of rejecting the Null hypothesis when it is true",
                 "(B) one minus probability of not rejecting the Null hypothesis when it is not true",
                 "(C) probability of rejecting the Null hypothesis when it is true minus probability of not rejecting the Null hypothesis when it is not true",
                 "(D) probability of not rejecting the Null hypothesis when it is not true"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 14,
             "question_text": "If $Y=L^{\\alpha}K^{\\beta}$ is a Cobb-Douglas production function with two factors labor and capital, then the presence of constant returns to scale exhibited by the production function can be tested using",
+            "question_type": "MCQ",
             "options": [
                 "(A) only t statistic",
                 "(B) only F statistic",
                 "(C) both t and F statistic",
                 "(D) $\\chi^{2}$ statistic"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 15,
             "question_text": "In the context where sample mean of the dependent variable $(\\overline{Y})$ lies closer to the observed $Y_{i}$ than its least square predictor $(\\hat{Y}_{i})$,",
+            "question_type": "MCQ",
             "options": [
                 "(A) the goodness of fit $(R^{2})$ is negative",
                 "(B) the goodness of fit $(R^{2})$ is equal to 1",
                 "(C) the goodness of fit $(R^{2})$ is equal to 0",
                 "(D) the goodness of fit $(R^{2})$ must lie between 0 and 1"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 16,
             "question_text": "Which one of the following statements is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Higher the cash reserve ratio, smaller the money multiplier.",
                 "(B) Higher the cash reserve ratio, larger the money multiplier.",
                 "(C) If banks hold all deposits as reserve, larger the money multiplier.",
                 "(D) Cash reserve ratio does not influence the money multiplier."
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 17,
             "question_text": "Public sector undertakings can affect the government exchequer through",
+            "question_type": "MCQ",
             "options": [
                 "(A) tax payments only",
                 "(B) dividend payments only",
                 "(C) dividend, interest, and tax payments",
                 "(D) interest payments only"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 18,
             "question_text": "According to the IS-LM model, if the central bank increases money supply, then the rate of interest will ______ and income will ______",
+            "question_type": "MCQ",
             "options": [
                 "(A) fall, rise",
                 "(B) rise, fall",
                 "(C) rise, rise",
                 "(D) fall, fall"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 19,
             "question_text": "Consider the following cases:<br>I. Rosy buys a 50-year-old house for her family in this year.<br>II. This year, Cathy builds a new house for herself.<br>The total investment in the economy in this context is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 2 houses",
                 "(B) 1 house",
                 "(C) $1+(1/50)$ houses",
                 "(D) $1+(1/2)$ houses"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 20,
             "question_text": "Consider a firm that produces a single good using labour and capital. Let C, Q, L, K, w, r and p denote cost of production, level of output, labour, capital, wage rate, price of capital and the price of output, respectively. An example of the cost function for this firm is",
+            "question_type": "MCQ",
             "options": [
                 "(A) $C=wL+rK$",
                 "(B) $C=min\\{wL,rK\\}$",
                 "(C) $C=\\frac{pQ}{[wL+rK]}$",
                 "(D) $C=Q\\sqrt{r~w}$"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 21,
             "question_text": "Consider a consumer with the utility function, $U(x,y)=y+\\sqrt{x}$ where x and y are quantity of two commodities consumed. Which one of the following is TRUE?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Income elasticity of demand for both goods is 1.",
                 "(B) Income elasticity of demand for good x is 0.",
                 "(C) Income elasticity of demand for good y is 0.",
                 "(D) Income elasticity of demand for good x is 0.5 and good y is 1."
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 22,
             "question_text": "In a two-goods consumption framework, Engel curve shows the relationship between",
+            "question_type": "MCQ",
             "options": [
                 "(A) price of one good and quantity demanded of the other good",
                 "(B) relative price of the goods and ratio of their quantities demanded",
                 "(C) income and quantity demanded of one of the goods",
                 "(D) income and the ratio of quantities demanded of the two goods"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 23,
             "question_text": "Theory of revealed preference is used to derive",
+            "question_type": "MCQ",
             "options": [
                 "(A) optimal choice, using incomes, prices, and preference information",
                 "(B) level of income, using prices, preference, and optimal choice",
                 "(C) preference, using prices, incomes, and optimal choice information",
                 "(D) prices, using preference, incomes, and optimal choice information"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 24,
             "question_text": "Consider the statements I and II in a monopolistically competitive market scenario:<br>I. In the long-run equilibrium, the price of the good will be equal to the minimum of the average total cost.<br>II. In the short run, firms may earn a positive profit.<br>Which of the following options is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Both I and II are TRUE",
                 "(B) I is TRUE but II is FALSE",
                 "(C) I is FALSE but II is TRUE",
                 "(D) Both I and II are FALSE"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 25,
             "question_text": "If average variable cost (AVC) curve is an upward slopping straight line through the origin, then the marginal cost curve will be an",
+            "question_type": "MCQ",
             "options": [
                 "(A) upward slopping straight line through the origin and steeper than the AVC curve",
                 "(B) upward slopping straight line through the origin and flatter than the AVC curve",
                 "(C) usual \"U-shaped\" curve",
                 "(D) upward slopping straight line having a positive vertical intercept"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 26,
             "question_text": "In the case of 'liquidity trap',",
+            "question_type": "MCQ",
             "options": [
                 "(A) expansionary monetary policy is highly effective",
                 "(B) expansionary monetary policy raises supply of money leading to hyperinflation",
                 "(C) as the central bank increases the money supply, the interest rate will fall significantly",
                 "(D) expansionary monetary policy is completely ineffective"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 27,
             "question_text": "Mid-day meal scheme for Indian school children was first introduced in",
+            "question_type": "MCQ",
             "options": [
                 "(A) Calcutta Municipal Corporation",
                 "(B) Madras Corporation",
                 "(C) Trivandrum Corporation",
                 "(D) Bombay Municipal Corporation"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 28,
             "question_text": "Tax buoyancy is defined as",
+            "question_type": "MCQ",
             "options": [
                 "(A) growth in tax revenue",
                 "(B) growth in tax revenue as a ratio to growth in tax rate",
                 "(C) percentage change in tax revenue as a ratio to percentage change in tax base (GDP)",
                 "(D) percentage change in tax revenue as a ratio to percentage change in government expenditure"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 29,
             "question_text": "You are measuring level of consumption of a good commodity on the X-axis and that of a bad commodity on the Y-axis. The indifference curve is",
+            "question_type": "MCQ",
             "options": [
                 "(A) parallel to the X-axis",
                 "(B) parallel to the Y-axis",
                 "(C) of \"inverted-U\" shape",
                 "(D) having a positive slope"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 30,
             "question_text": "Marginal utility of a good refers to the",
+            "question_type": "MCQ",
             "options": [
                 "(A) change in utility by consuming the good",
                 "(B) change in utility by consuming some additional units of the good",
                 "(C) rate of change in utility from per unit change in consumption of the good",
                 "(D) rate of change in utility from per unit monetary change in expenditure on the good"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 31,
             "question_text": "Which of the following statements describe(s) the relationship between $R^{2}$ and adjusted $R^{2}$ (denoted by $\\overline{R}^{2}$)?",
+            "question_type": "MSQ",
             "options": [
                 "(A) If $R^{2}=1$, then $\\overline{R}^{2}=1$",
                 "(B) If $R^{2}=0$, then $\\overline{R}^{2}$ can be negative",
                 "(C) If $R^{2}=1$, then $\\overline{R}^{2}=0$",
                 "(D) If $R^{2}=0$, then $\\overline{R}^{2}=1$"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 32,
             "question_text": "Which of the following is/are NOT the assumption(s) of Classical Linear Regression Model (CLRM)?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Variance of the dependent variable ($Y_i$) is greater than the variance of the explanatory variable (X).",
                 "(B) The model is linear in both parameters and variables.",
                 "(C) The Cov $(Y_{i},u_{i})=0,$ where $u_{i}$ is the error term.",
                 "(D) The Cov $(X_{i},u_{i})=0$, where $u_{i}$ is the error term."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 33,
             "question_text": "Which of the following is/are NOT TRUE?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Arithmetic mean is always greater than or equal to the geometric mean of a set of positive values.",
                 "(B) Correlation coefficient between two variables varies between 0 and 1.",
                 "(C) Exact middle point of $-\\infty$ and $\\infty$ on the real line is 0.",
                 "(D) Domain of a random variable that follows $\\chi^{2}$ distribution with degree of freedom one is $[0,\\infty]$."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "C",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 34,
             "question_text": "Which of the following is/are the shock(s) to the IS curve?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Changes in the demand for consumer goods",
                 "(B) Self-fulfilling waves of optimism and pessimism of the agents in the economy",
                 "(C) Exogenous changes in the demand for money",
                 "(D) Changes in the government purchases"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 35,
             "question_text": "Which of the following is/are CORRECT in the case of a small open economy with floating exchange rate?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Fiscal expansion raises income.",
                 "(B) Fiscal expansion leaves income at the same level.",
                 "(C) Capital inflow leads to fall in net exports.",
                 "(D) Capital inflow leads to increase in net exports."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 36,
             "question_text": "Which of the following is/are CORRECT according to the classical macroeconomic school?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Long run aggregate supply curve is vertical.",
                 "(B) If long run aggregate supply curve is vertical, changes in aggregate demand affects prices but not output.",
                 "(C) If long run aggregate supply curve is vertical, changes in aggregate demand affects output but not prices.",
                 "(D) Vertical aggregate supply curve implies that output is independent of the money supply."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 37,
             "question_text": "In the case of first-degree price discrimination, which of the following statements is/are CORRECT in long run?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Total surplus is equal to firm's profit.",
                 "(B) Consumer surplus is equal to zero.",
                 "(C) Deadweight loss is positive.",
                 "(D) Producer surplus is zero."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 38,
             "question_text": "Which of the following statements is/are CORRECT for diseconomies of scale?",
+            "question_type": "MSQ",
             "options": [
                 "(A) The elasticity of cost with respect to output is less than one.",
                 "(B) The elasticity of cost with respect to output is greater than one.",
                 "(C) The elasticity of cost with respect to output is equal to one.",
                 "(D) Marginal cost is greater than average cost."
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 39,
             "question_text": "Market failure occur(s) in the presence of which of the following?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Externality",
                 "(B) Public good",
                 "(C) Market power",
                 "(D) Private good"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 40,
             "question_text": "Which of the following reference period(s) is/are used by the National Sample Survey for measuring employment and unemployment?",
+            "question_type": "MSQ",
             "options": [
                 "(A) One year",
                 "(B) One month",
                 "(C) One week",
                 "(D) Each day"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 41,
             "question_text": "The correlation coefficient between x and y using the following information is: $\\Sigma x_i=280, \\Sigma y_i=60, \\Sigma x_i^2=2384, \\Sigma y_i^2=117, \\Sigma x_iy_i=438$ (n=100).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.75",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.75,
+                0.75
+            ]
         },
         {
             "question_number": 42,
             "question_text": "Two cards are drawn from a full pack of 52 cards at random. The probability of getting a heart and a diamond is (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.13",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.13,
+                0.13
+            ]
         },
         {
             "question_number": 43,
             "question_text": "Monopolist 2 commodities. $AC_1=2.5, AC_2=3$. Demands $x_1=5(p_2-p_1), x_2=32+5p_1-10p_2$. Price $p_1$ maximizing total profit is (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "4.45",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                4.45,
+                4.45
+            ]
         },
         {
             "question_number": 44,
             "question_text": "GDP growth rate 8%, saving rate 40%. ICOR is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "5",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                5,
+                5
+            ]
         },
         {
             "question_number": 45,
             "question_text": "Fair coin tossed 3 times. Probability 'both first and second toss result in head' is (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.25",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.25,
+                0.25
+            ]
         },
         {
             "question_number": 46,
             "question_text": "Employed: 140m; Unemployed: 10m; Not in LF: 50m. Rate of unemployment is % (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "6.67",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                6.67,
+                6.67
+            ]
         },
         {
             "question_number": 47,
             "question_text": "Monopolist. A: $P=50-5Q$, B: $P=100-10Q$. Cost $C=90+20Q$. Profit max output for buyer B is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "4",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                4,
+                4
+            ]
         },
         {
             "question_number": 48,
             "question_text": "Sum of payoffs in Nash equilibrium of simultaneous game.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "100",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                100,
+                100
+            ]
         },
         {
             "question_number": 49,
             "question_text": "Economy 100kg rice at Rs.100/kg. Money supply Rs.500. Velocity of money is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "20",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                20,
+                20
+            ]
         },
         {
             "question_number": 50,
             "question_text": "$u(x,y)=xy$. Px=1, Py=2, Income=100. Utility max quantity of x is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "50",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                50,
+                50
+            ]
         },
         {
             "question_number": 51,
             "question_text": "Value of derivative of $y=x^{e^{x}}$ at $x=1$ is (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "2.72",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                2.72,
+                2.72
+            ]
         },
         {
             "question_number": 52,
             "question_text": "PV of perpetual cash flow Rs.250/year, discount rate 10%, is Rs.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "2500",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                2500,
+                2500
+            ]
         },
         {
             "question_number": 53,
             "question_text": "S=0.25Y. Invest 1000/yr. Initial Y=10,000. C depends on prev year Y. Income after 10 years is Rs. (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "4337.80",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                4337.8,
+                4337.8
+            ]
         },
         {
             "question_number": 54,
             "question_text": "MCQ 4 choices. Prob knows=0.5. Prob guess correct=0.25. Got full marks. Prob knew answer is (1 decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.8",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.8,
+                0.8
+            ]
         },
         {
             "question_number": 55,
             "question_text": "Expected number of tosses for a 'Head' with fair coin is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "2",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                2,
+                2
+            ]
         },
         {
             "question_number": 56,
             "question_text": "Lerner Index (L). Demand $P^{2}Q=7$. Value of L is (1 decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.5",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.5,
+                0.5
+            ]
         },
         {
             "question_number": 57,
             "question_text": "Demand $P^{2}Q^{5}=392.67$. Absolute own price elasticity of demand is (1 decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.4",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.4,
+                0.4
+            ]
         },
         {
             "question_number": 58,
             "question_text": "Price Rs.28/L and Rs.36/L. Equal money spent. Average monthly price paid is Rs./L (1 decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "31.5",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                31.5,
+                31.5
+            ]
         },
         {
             "question_number": 59,
             "question_text": "Y=5000, G=1000, T=1000, C=250+0.75(Y-T). Private saving is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "750",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                750,
+                750
+            ]
         },
         {
             "question_number": 60,
             "question_text": "Matrix A = [[4, -1], [12, -3]]. Determinant of $A^5$ is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0,
+                0
+            ]
         }
     ]
 }

@@ -7,812 +7,832 @@
         {
             "question_number": 1,
             "question_text": "Which one of the following is a non-parametric test?",
+            "question_type": "MCQ",
             "options": [
                 "(A) $\\chi^{2}$-test",
                 "(B) t-test",
                 "(C) F-test",
                 "(D) z-test"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 2,
             "question_text": "Let x and y be two consumption bundles, assumed to be nonnegative and perfectly divisible. Further, the assumptions of completeness, transitivity, reflexivity, non-satiation, continuity, and strict convexity are satisfied. Then, which of the following statements is NOT CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Either $x \\ge y$, or $y \\ge x$ or both",
                 "(B) $y > x$ if y contains more of at least one good and no less of any other",
                 "(C) x is not indifferent to itself",
                 "(D) For x (or y), its better set is strictly convex"
             ],
-            "correct_option": "C",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "C"
         },
         {
             "question_number": 3,
             "question_text": "Consider a production function of the form: $Y = a \\ln L + (1-a) \\ln K$, $a \\in (0,1)$, $a \\ne 0.5$. Where Y is output, L is labour, and K is capital. Then, the absolute value of elasticity of substitution is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1",
                 "(B) a",
                 "(C) $(1-a)$",
                 "(D) $\\infty$"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 4,
             "question_text": "Consider a closed economy with consumption function $C = 2 + 0.5Y$, where Y is income. The government expenditure is 3 and investment function is $I = 4 - 0.5r$, where r is interest rate. Then, the slope of the IS curve will be",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1",
                 "(B) -0.5",
                 "(C) 1.5",
                 "(D) -1"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 5,
             "question_text": "Which of the following was announced in the Union Budget 2023-24 to enhance the skills of lakhs of youth in the next 3 years?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 1.0",
                 "(B) Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 2.0",
                 "(C) Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 3.0",
                 "(D) Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 4.0"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 6,
             "question_text": "Suppose a random variable X follows an exponential distribution with mean 50. Then, the value of $P(X > 70 | X > 60)$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) $e^{-7/5}$",
                 "(B) $e^{-1/5}$",
                 "(C) $e^{-6/5}$",
                 "(D) $e^{-1}$"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 7,
             "question_text": "Which of the following measures was NOT initiated by the Government of India as a part of economic reforms in 1991?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Announcement of new industrial policy",
                 "(B) Full convertibility of rupee on the capital account",
                 "(C) Removal of Quantitative Restrictions",
                 "(D) Guidelines for investment by Foreign Institutional Investors (FIIs) in the capital market"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 8,
             "question_text": "Suppose nominal GDP equals 1,000 units and money supply equals 250 units. Based on the quantity theory of money, the velocity of money equals",
+            "question_type": "MCQ",
             "options": [
                 "(A) 40",
                 "(B) 4",
                 "(C) 0.25",
                 "(D) 250"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 9,
             "question_text": "Let $S_1 = \\{(x, y) \\in R^2: x + y \\ge 1, x + y \\le 2, y \\ge x^2, x,y \\ge 0\\}$ and $S_2 = \\{(x, y) \\in R^2: x + y \\ge 1, x + y \\le 2, y \\le x^2, x,y \\ge 0\\}$. Then, which of the following is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Both $S_1$ and $S_2$ are convex sets",
                 "(B) $S_1$ is a convex set but $S_2$ is not a convex set",
                 "(C) $S_2$ is a convex set but $S_1$ is not a convex set",
                 "(D) Neither $S_1$ nor $S_2$ are convex sets"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 10,
             "question_text": "$\\lim_{x \\to \\infty} (1 + \\frac{1}{x})^x$ is equal to",
+            "question_type": "MCQ",
             "options": [
                 "(A) e",
                 "(B) 1/e",
                 "(C) 1",
                 "(D) $\\infty$"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 11,
             "question_text": "Two distinct integers are chosen randomly from 5 consecutive integers. If the random variable X represents the absolute difference between them, then the mean and variance of X are, respectively,",
+            "question_type": "MCQ",
             "options": [
                 "(A) 3/2 and 1",
                 "(B) 1 and 2",
                 "(C) 2 and 1",
                 "(D) 2 and 5"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 12,
             "question_text": "Consider two independent random variables: $X \\sim N(5,4)$ and $Y \\sim N(3,2)$. If $(2X+3Y) \\sim N(\\mu, \\sigma^2)$, then the values of mean ($\\mu$) and variance ($\\sigma^2$) are",
+            "question_type": "MCQ",
             "options": [
                 "(A) $\\mu=19$ and $\\sigma^2=34$",
                 "(B) $\\mu=8$ and $\\sigma^2=14$",
                 "(C) $\\mu=19$ and $\\sigma^2=14$",
                 "(D) $\\mu=8$ and $\\sigma^2=34$"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 13,
             "question_text": "The optimal value of the linear programming problem<br>Maximise $Z=2x+3y$<br>subject to $5x+4y \\le 20$, $3x+5y \\le 15$, $2x+y \\le 4$, $x,y \\ge 0$, is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 4",
                 "(B) 64/7",
                 "(C) 9",
                 "(D) 72/7"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 14,
             "question_text": "The solution of the differential equation $xy~dx - (x^2+y^2)dy = 0$, $y(0)=1$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) $y=e^{x^2/y^2}$",
                 "(B) $y^2=e^{x^2/y^2}$",
                 "(C) $y^2=e^{x/y}$",
                 "(D) $y=e^{x/y}$"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 15,
             "question_text": "Which of the following is NOT CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Permanent settlement was introduced by Lord Cornwallis in Bengal in 1793",
                 "(B) The First War of Indian Independence occurred in 1857",
                 "(C) Dadabhai Naoroji prepared the estimate of national income in 1860",
                 "(D) In 1905, Swadeshi Movement was started in India"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 16,
             "question_text": "In a two-player game, player 1 can choose either M or N as strategies. Player 2 can choose either X, Y, or Z as strategies. The payoff matrix is:<br><table><tr><td></td><td>X</td><td>Y</td><td>Z</td></tr><tr><td>M</td><td>3,1</td><td>0,0</td><td>-1,2</td></tr><tr><td>N</td><td>0.5,1</td><td>0,0</td><td>1,3</td></tr></table><br>Which set of strategy profiles survives iterated elimination of strictly dominated strategies?",
+            "question_type": "MCQ",
             "options": [
                 "(A) (N, Y)",
                 "(B) (M, X)",
                 "(C) (N, Z)",
                 "(D) (M, Z)"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 17,
             "question_text": "For a profit maximising monopolist, the ratio of the profit margin to price (also known as the Lerner Index) has a relationship with the price-elasticity of demand. Which is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) The larger the elasticity of demand, the greater is the relative mark-up",
                 "(B) The power to sustain a price higher than marginal cost depends only on price",
                 "(C) At the profit maximising price, given costs are greater than zero, the price elasticity of demand is strictly larger than unity",
                 "(D) At the revenue maximising price, the price elasticity of demand is greater than unity"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 18,
             "question_text": "Regression: $Y = \\alpha + \\beta_1 X_1 + \\beta_2 X_2 + \\epsilon$. Estimates: $\\alpha=2.30$ (SE 1.15), $\\beta_1=0.39$ (SE 0.13), $\\beta_2=1.80$ (SE 1.00). Which is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) $\\alpha$ sig at 1%, $\\beta_1$ at 5%, $\\beta_2$ at 10%",
                 "(B) $\\alpha$ sig at 1%, $\\beta_1$ at 10%, $\\beta_2$ at 5%",
                 "(C) $\\alpha$ sig at 5%, $\\beta_1$ at 1%, $\\beta_2$ at 10%",
                 "(D) $\\alpha$ sig at 5%, $\\beta_1$ at 10%, $\\beta_2$ at 5%"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 19,
             "question_text": "Suppose high quality and low quality products are sold at the same price. Buyers have less information than sellers. This leads to:",
+            "question_type": "MCQ",
             "options": [
                 "(A) Moral hazard problem",
                 "(B) Market signaling problem",
                 "(C) Principal-agent problem",
                 "(D) Adverse selection problem"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 20,
             "question_text": "Individuals who were either unemployed or out of labour force but had worked for at least 30 days over the reference year were included in the labour force by the NSSO. This falls under:",
+            "question_type": "MCQ",
             "options": [
                 "(A) Usual Principal Status",
                 "(B) Usual Principal and Subsidiary Status",
                 "(C) Current Weekly Status",
                 "(D) Current Daily Status"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 21,
             "question_text": "Production: $Y_t = A_t K_t^\\alpha H_t^\\beta L_t^{1-\\alpha-\\beta}$. $\\alpha=1/5, \\beta=2/5$. Growth rates: $Y=10\\%, K=5\\%, H=5\\%, L=10\\%$. Growth rate of $A_t$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 2 percent",
                 "(B) 3 percent",
                 "(C) 5 percent",
                 "(D) 10 percent"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 22,
             "question_text": "$Y=50K^{0.4}L^{0.6}$. Under perfect competition, share of total income paid to labour is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 0.2",
                 "(B) 0.3",
                 "(C) 0.4",
                 "(D) 0.6"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 23,
             "question_text": "Two player game. P1: U, D. P2: L, R. $0 < c < 1$. Payoffs: U(0,0), U(0,-c); D(-c,0), D(1-c,1). Number of pure strategy Nash Equilibria is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1",
                 "(B) 2",
                 "(C) 3",
                 "(D) 4"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 24,
             "question_text": "The Rangarajan Panel (1993) on BoP. Which was NOT a recommendation?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Replace debt flows with equity flows",
                 "(B) Full convertibility of rupee on the capital account",
                 "(C) Foreign reserves to cover 3 months imports",
                 "(D) No sovereign guarantee to private sector"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 25,
             "question_text": "According to \"\"State of Inequality in India Report\"\" (2022), which is CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Anaemic children percentage decreased",
                 "(B) Female labour force participation increased",
                 "(C) Salary Rs 25,000/month are among top 10 percent earners",
                 "(D) 95 percent schools have toilets for girls"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 26,
             "question_text": "$Q(K,L) = (2\\sqrt{K} + 3\\sqrt{L})^2$. If $\\eta_K$ and $\\eta_L$ are output elasticities, value of $\\eta_K + \\eta_L$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 2",
                 "(B) 1",
                 "(C) 4",
                 "(D) 0.5"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 27,
             "question_text": "Short-run Phillips curve with constant expected inflation. If AD decreases unexpectedly (labour force constant), what happens?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Aggregate price rises, unemp falls",
                 "(B) Aggregate price falls, unemp rises",
                 "(C) Aggregate price rises, unemp rises",
                 "(D) Aggregate price falls, unemp falls"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 28,
             "question_text": "Price elasticity of demand is -1/5, supply is 2/5. Incidence of specific tax on firms is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1/3",
                 "(B) 2/3",
                 "(C) 1/2",
                 "(D) 1/4"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 29,
             "question_text": "Differential equation for circles with radius 3 and center on Y-axis is",
+            "question_type": "MCQ",
             "options": [
                 "(A) $(y')^2 = x^2 / (9+x^2)$",
                 "(B) $(y')^2 = (9+y^2)/y^2$",
                 "(C) $(y')^2 = x^2 / (9-x^2)$",
                 "(D) $(y')^2 = (9-y^2)/y^2$"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 30,
             "question_text": "Expected inflation $\\pi_t^e = (1-\\theta)\\bar{\\pi} + \\theta \\pi_{t-1}$. Which is NOT CORRECT?",
+            "question_type": "MCQ",
             "options": [
                 "(A) $\\theta=0$ assumes constant inflation",
                 "(B) If $\\theta \\approx 1$ and $\\bar{\\pi} < \\pi_{t-1}$, exp inflation similar to last year",
                 "(C) The original Phillips curve is derived under assumption $\\theta \\approx 1$",
                 "(D) A modified Phillips curve is derived under assumption $\\theta=1$"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 31,
             "question_text": "Small open economy, fixed exchange rate, imperfect capital mobility. Which are CORRECT?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Fiscal contraction leads to BoP deficit in short run if LM slope > BP slope",
                 "(B) Fiscal contraction leads to BoP deficit in short run if LM slope < BP slope",
                 "(C) Monetary expansion leads to BoP surplus irrespective of slopes",
                 "(D) Monetary expansion leads to BoP deficit irrespective of slopes"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 32,
             "question_text": "Utility functions $F=4x_1+2x_2$, $G=\\min(4x_1, 2x_2)$, $H=\\sqrt{x_1}+x_2$. Which are CORRECT?",
+            "question_type": "MSQ",
             "options": [
                 "(A) MRS are -1, -2, and $-0.5\\sqrt{x_1}$ respectively (Incorrect)",
                 "(B) If $p_1=p_2$, F has corner solution",
                 "(C) Income 100, $p_1=p_2=2$, G optimal sum is 50",
                 "(D) Income 100, $p_1=5, p_2=5000$, H optimal x2 is 20 (Incorrect)"
             ],
-            "correct_option": [
-                "B"
-            ],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_options_msq": [
+                "B"
+            ]
         },
         {
             "question_number": 33,
             "question_text": "Characteristics of pure public good is/are",
+            "question_type": "MSQ",
             "options": [
                 "(A) rival",
                 "(B) excludable",
                 "(C) non-rival",
                 "(D) non-excludable"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "C",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 34,
             "question_text": "Apples/Oranges Economy. 2015-2017 data. Which are CORRECT?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Real GDP 2017 (base 2016) is 4250",
                 "(B) Real GDP 2016 (base 2015) is 3500",
                 "(C) Nominal GDP 2015 is 6600",
                 "(D) GDP deflator increased in 2017 vs 2016"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 35,
             "question_text": "Random variables X, Y. Correlation $\\rho$. Correct statements?",
+            "question_type": "MSQ",
             "options": [
                 "(A) $|\\rho| \\le 1$",
                 "(B) Regression line Y on X is correct formula (Incorrect)",
                 "(C) Variance of X-Y is $\\sigma_x^2 + \\sigma_y^2 - 2\\rho\\sigma_x\\sigma_y$",
                 "(D) $\\rho=0$ implies independence (Incorrect for general, correct for normal? Question doesn't say normal)"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 36,
             "question_text": "Sample size n>1 from dist with mean $\\mu$, var $\\sigma^2$. Correct?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Sample mean SD is $\\sigma/\\sqrt{n}$",
                 "(B) Standardized sum tends to standard normal (CLT)",
                 "(C) $(n-1)S^2/\\sigma^2$ follows Chi-square (Only if population is normal)",
                 "(D) Sample mean is consistent estimator"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 37,
             "question_text": "Matrix $M = [[\\alpha, -6], [-1, 1]]$. Eigenvalues $\\beta, 4$. Correct?",
+            "question_type": "MSQ",
             "options": [
                 "(A) $\\alpha+\\beta=1$",
                 "(B) Eigenvector for $\\beta$ is $[2,1]^T$",
                 "(C) Rank is 2",
                 "(D) $M^2+M$ is invertible"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 38,
             "question_text": "Function $f(x,y) = x^2y / (x^4+y^2)$ if non-zero. Correct?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Limit is 0",
                 "(B) $f_x(0,0)=0$",
                 "(C) Not continuous at (0,0)",
                 "(D) Partials do not exist"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 39,
             "question_text": "Which is/are NOT CORRECT regarding banking?",
+            "question_type": "MSQ",
             "options": [
                 "(A) RBI Act 1938? (Actually 1934)",
                 "(B) CRR is statutory",
                 "(C) Higher SLR increases lending capacity (Incorrect)",
                 "(D) High SLR considered tax"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 40,
             "question_text": "NITI Aayog Multidimensional Poverty Index 2023. Correct?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Rural decline",
                 "(B) Urban increase",
                 "(C) Decline due to 12 indicators",
                 "(D) Intensity decline"
             ],
-            "correct_option": [
-                "B"
-            ],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_options_msq": [
+                "B"
+            ]
         },
         {
             "question_number": 41,
             "question_text": "A firm has a production function that is homogenous of degree one given by $Q = 2\\sqrt{LK}$, where $Q$ is quantity, $L$ is labour and $K$ is capital. The unit price of $L$ is Rs. 4 and the unit price of $K$ is Rs. 16. Assuming that there is zero fixed cost, the total cost (long run) of producing 10 units of $Q$ is Rs. __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "80",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                80,
+                80
+            ]
         },
         {
             "question_number": 42,
             "question_text": "Two students $A$ and $B$ are assigned to solve a problem separately. The (conditional) probability that $A$ can solve the problem given that $B$ cannot solve it, is $1/5$. The (conditional) probability that $B$ can solve the problem given that $A$ can solve the problem is $3/5$. The probability that $A$ can solve the problem is $1/10$. Then, the probability that $B$ can solve the problem is __________ (rounded off to one decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.8",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.8,
+                0.8
+            ]
         },
         {
             "question_number": 43,
             "question_text": "Suppose the cash reserve ratio is 5 percent in a country. Assume that commercial banks keep zero excess reserve and the cash-to-deposit ratio is 5 percent. To increase the money supply by Rs. 10,500 crores, the central bank of the country should inject Rs. __________ crores (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "1000",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                1000,
+                1000
+            ]
         },
         {
             "question_number": 44,
             "question_text": "Suppose an Indian company borrowed 300 dollars from a foreign bank at the beginning of the year and repaid it in dollars along with the agreed interest rate of 12 percent per annum. At the time of borrowing, the exchange rate was Rs. 70 per dollar. Assuming zero inflation rate in both the countries, the real cost of borrowing will be zero if the exchange rate is Rs. __________ per dollar at the time of repayment (rounded off to one decimal place).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "62.5",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                62.5,
+                62.5
+            ]
         },
         {
             "question_number": 45,
             "question_text": "There are 32 students in a class. Three courses namely English, Hindi and Mathematics are offered to them. Each student must register for at least one course. If 16 students take English, 8 students take Hindi, 18 students take Mathematics, 4 students take both English and Hindi, 5 students take both Hindi and Mathematics, and 5 students take both English and Mathematics, then the number of students who take Mathematics only is __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "12",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                12,
+                12
+            ]
         },
         {
             "question_number": 46,
             "question_text": "Let an inverse demand function for a commodity be $p = e^{-x/2}$, where $x$ is the quantity and $p$ is the price. Then, at $p = 0.5$, the consumer surplus is equal to __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.31",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.31,
+                0.31
+            ]
         },
         {
             "question_number": 47,
             "question_text": "The linear system of equations<br> $x + y = 3$,<br> $x + (k^2 - 8)y = k, k \\in R$<br> has no solution for $k =$ __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "-3",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                -3,
+                -3
+            ]
         },
         {
             "question_number": 48,
             "question_text": "A manufacturer producing pens has the following information regarding the cost of production of pens:<br><table><thead><tr><th>Output ($Q$)</th><th>1</th><th>2</th><th>3</th></tr></thead><tbody><tr><td>Total Costs ($TC$)</td><td>4</td><td>13</td><td>32</td></tr></tbody></table><br>If the total cost function is of the form $TC(Q) = aQ^2 + bQ + c$ where $a, b$, and $c$ are constants, then the value of $TC(Q)$ at $Q = 4$ is __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "61",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                61,
+                61
+            ]
         },
         {
             "question_number": 49,
             "question_text": "Consider the information given in the table below:<br><table><thead><tr><th>Year</th><th>Unemployment Rate (in percent)</th><th>Number of unemployed (in millions)</th><th>Labour Force Participation Rate (in percent)</th></tr></thead><tbody><tr><td>2010</td><td>15</td><td>30</td><td>70</td></tr><tr><td>2020</td><td>20</td><td>50</td><td>80</td></tr></tbody></table><br>The percentage change in working-age population from 2010 to 2020 is __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "9.38",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                9.38,
+                9.38
+            ]
         },
         {
             "question_number": 50,
             "question_text": "Consider the following information:<br>Consumption ($C$) = $250 + 0.25Y_d$, where $Y_d$ is disposable income<br>Autonomous Investment ($I_0$) = 100<br>Government Expenditure ($G_0$) = 50<br>Income tax rate ($t$) = 20 percent<br>The equilibrium level of consumption in the economy is __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "350",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                350,
+                350
+            ]
         },
         {
             "question_number": 51,
             "question_text": "An individual owns a mobile phone, currently valued at Rs. 40,000. The current wealth of the individual is Rs. 2,00,000 (including the value of the mobile phone). According to reports, there is a 20 percent chance of mobile phone theft and an actuarially fair insurance policy is available to insure the loss of the mobile phone against a theft. The individual’s von-Neumann-Morgenstern utility of wealth function is given by $U(W) = \\sqrt{W}$, where $W$ is the wealth. Then, the maximum willingness to pay for such an actuarially fair insurance policy is Rs. __________ (rounded off to nearest integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "8358",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                8358,
+                8358
+            ]
         },
         {
             "question_number": 52,
             "question_text": "Consider the following AK model where the production function is given by $Y = AK$ where $Y$ is output, $K$ is capital, and $A$ is a constant that reflects the level of technology. Suppose there is zero technological progress in the economy and $A = 0.50$. In the economy, the savings rate equals 0.60 and the depreciation rate for the capital stock equals 0.05. The population growth rate equals zero and the size of the labour force is normalised to 1. Based on the AK model, the steady state growth rate of output per capita in the economy equals __________ percent (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "25",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                25,
+                25
+            ]
         },
         {
             "question_number": 53,
             "question_text": "A regression equation $Y = -2.5 + 2X$ is estimated using the following data:<br><table><thead><tr><th>Y</th><th>2</th><th>5</th><th>9</th><th>14</th></tr></thead><tbody><tr><td>X</td><td>2</td><td>4</td><td>6</td><td>8</td></tr></tbody></table><br>The coefficient of determination is __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.98",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.98,
+                0.98
+            ]
         },
         {
             "question_number": 54,
             "question_text": "A consumer’s utility function is given by: $u(x_1, x_2) = (2x_1 - 1)^{0.25}(x_2 - 4)^{0.75}$. If the consumer has a budget of 73 and the unit prices of $x_1$ and $x_2$ are given by 2 and 1, respectively, then the value of $(x_1 + x_2)$ is __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "64",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                64,
+                64
+            ]
         },
         {
             "question_number": 55,
             "question_text": "An industry has 6 firms in Cournot competition. Each of the 6 firms has zero fixed costs, and a constant marginal cost equal to 20. The product is homogenous and the industry inverse demand function is given by $P = 230 - Q$, where $P$ is the market price and $Q$ is the industry output (sum of outputs of the 6 firms). The market price under Cournot-Nash equilibrium is equal to __________ (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "50",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                50,
+                50
+            ]
         },
         {
             "question_number": 56,
             "question_text": "Let the value of a random sample drawn from a normal distribution with mean 5 and unknown standard deviation $\\sigma$ be 4.8, 4.5, 5.1, 5.2, 5.3, 5.5. Then, the maximum likelihood estimate of $\\sigma^2$ is __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.11",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.11,
+                0.11
+            ]
         },
         {
             "question_number": 57,
             "question_text": "An economy produces a consumption good and also has a research sector which produces new ideas. Time is discrete and indexed by $t = 0, 1, 2, \\dots$<br>The production function for the consumption good is given by $Y_t = A_t L_{yt}$ where, at time $t$, $Y_t$ is the amount of consumption good produced, $A_t$ is the stock of existing knowledge, and $L_{yt}$ is the amount of labour devoted to production of consumption good. It is known that $A_0 = 1$.<br>The production function for new ideas is given by $A_{t+1} - A_t = \\frac{1}{250} A_t L_{at}$ where $L_{at}$ is the amount of labour devoted to production of new ideas at time $t$. Suppose that for all $t$, $L_{at} = 10$ and $L_{yt} = 90$. Then, the growth rate of the consumption good ($Y_t$) at $t = 50$ is __________ percent (in integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "4",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                4,
+                4
+            ]
         },
         {
             "question_number": 58,
             "question_text": "Consider a closed economy IS-LM model. The goods and the money market equations are respectively given as follows:<br>$Y = 90 + 0.8Y_d - 100i + G$<br>$M_s = 750 + 0.2Y - 260i$<br>where, $Y$ = national income; $Y_d$ = disposable income; $T$ = total tax given by $T = 5 + 0.2Y$; $i$ = interest rate; $G$ = government expenditure = 300; $M_s$ = constant money supply = 950.<br>The value of $T$ at equilibrium $Y$ is __________ (rounded off to the nearest integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "217",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                217,
+                217
+            ]
         },
         {
             "question_number": 59,
             "question_text": "The supply curve is given as $p = 10 + x + 0.1x^2$, where $p$ is the market price and $x$ is the quantity of goods supplied. The change in the producer surplus due to an increase in market price from 30 to 70 is __________ (rounded off to nearest integer).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "617",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                617,
+                617
+            ]
         },
         {
             "question_number": 60,
             "question_text": "There are two goods $X$ and $Y$ and there are two consumers $A$ and $B$ in a pure exchange economy. $A$ and $B$ have Cobb-Douglas utility functions of the form $U_A = 2X^{0.4}Y^{0.6}$ and $U_B = X^{0.3}Y^{0.7}$, respectively. Initially, $A$ is endowed with 50 units of good $X$ and 20 units of good $Y$. Similarly, $B$ is endowed with 50 units of good $X$ and 20 units of good $Y$. If the unit price of good $Y$ is normalised to 1, then the equilibrium unit price for good $X$ is __________ (rounded off to two decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.22",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.22,
+                0.22
+            ]
         }
     ]
 }

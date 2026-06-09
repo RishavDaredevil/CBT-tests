@@ -7,814 +7,834 @@
         {
             "question_number": 1,
             "question_text": "When the expected future marginal product of capital increases, then the IS curve",
+            "question_type": "MCQ",
             "options": [
                 "(A) shifts up and to the right",
                 "(B) shifts down and to the left",
                 "(C) becomes steeper",
                 "(D) becomes flatter"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 2,
             "question_text": "An unanticipated inflation would cause",
+            "question_type": "MCQ",
             "options": [
                 "(A) redistribution of wealth from lenders to borrowers",
                 "(B) redistribution of wealth from borrowers to lenders",
                 "(C) gains for both borrowers and lenders",
                 "(D) losses for both borrowers and lenders"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 3,
             "question_text": "Let $\\{x_1, x_2, \\dots, x_n\\}$ be the realization of a randomly drawn sample of size $n$ with sample mean $\\bar{x}$, and $k$ be a real number other than $\\bar{x}$. Let $S_1 = \\sum_{i=1}^n (x_i - \\bar{x})^2$ and $S_2 = \\sum_{i=1}^n (x_i - k)^2$. Then,",
+            "question_type": "MCQ",
             "options": [
                 "(A) $S_1 > S_2$",
                 "(B) $S_1 > S_2$ only if $\\bar{x} < k$",
                 "(C) $S_1 < S_2$",
                 "(D) $S_1 > S_2$ only if $\\bar{x} > k$"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 4,
             "question_text": "You have a budget of Rs. 4000 and would like to purchase LPG cylinders from a local seller who charges Rs. 50 per cylinder. The seller has a subsidy scheme by which if you return the empty cylinder purchased from him, you will get a refund of Rs. 20 per cylinder. You cannot borrow money from anyone. The maximum number of cylinders you can purchase is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 131",
                 "(B) 132",
                 "(C) 133",
                 "(D) 134"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 5,
             "question_text": "Which one of the following is NOT a feature of the New Industrial Policy, 1991?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Abolition of industrial licensing",
                 "(B) Privatisation of public industries",
                 "(C) Removal of restrictions on foreign trade",
                 "(D) Restrictions on foreign technology agreements"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 6,
             "question_text": "Which one of the following is a possible reason for underestimation of the official poverty ratio in India?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Changes in the World Bank's definition of poverty",
                 "(B) Price indices used in the official poverty estimation may not be adequately capturing the actual increase in the cost of living over the years",
                 "(C) Existence of identical poverty lines for all the states and union territories",
                 "(D) Existence of identical poverty lines for rural and urban areas"
             ],
-            "correct_option": "B",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "B"
         },
         {
             "question_number": 7,
             "question_text": "Which one of the following committees is NOT associated with financial sector reforms in India?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Raghuram Rajan Committee (2013)",
                 "(B) Narasimham Committee (1991)",
                 "(C) Tarapore Committee (1997)",
                 "(D) Urjit Patel Committee (2013)"
             ],
-            "correct_option": "C",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "C"
         },
         {
             "question_number": 8,
             "question_text": "The differential equation $(3x^2y + y^3)dx + (x^3 + 3xy^2)dy = 0$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) homogenous and exact",
                 "(B) neither separable nor exact",
                 "(C) exact and not homogenous",
                 "(D) homogenous and not exact"
             ],
-            "correct_option": "A",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "A"
         },
         {
             "question_number": 9,
             "question_text": "Which one of the following statements is correct?",
+            "question_type": "MCQ",
             "options": [
                 "(A) If $\\langle a_n \\rangle$ is a bounded sequence, then it is convergent",
                 "(B) If $\\langle a_n \\rangle$ is a convergent sequence, then it is monotonic",
                 "(C) If $\\langle a_n \\rangle$ is a convergent sequence and converges to zero, then the series $\\sum a_n$ is convergent",
                 "(D) If a series $\\sum a_n$ is convergent, then the sequence $\\langle a_n \\rangle$ is convergent and converges to zero"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 10,
             "question_text": "Let $||.||$ and $\\langle .,. \\rangle$ denote the standard norm and inner product in $\\mathbb{R}^n$ respectively. If $u, v \\in \\mathbb{R}^3$ such that $||u|| = ||v|| = 2$ and the angle between $u$ and $v$ is $\\pi/3$, then $||u+v||$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) $2\\sqrt{2}$",
                 "(B) $2\\sqrt{3}$",
                 "(C) $2\\sqrt{3}$",
                 "(D) $2\\sqrt{3}$"
             ],
-            "correct_option": "D",
             "positive_marks": 1,
-            "negative_marks": 0.3333333333333333
+            "negative_marks": 0.3333333333333333,
+            "correct_option": "D"
         },
         {
             "question_number": 11,
             "question_text": "A monopoly canteen serves packed meals to two groups of consumers, group X and group Y. Demand: $Q_X = 200 - 4P$ and $Q_Y = 300 - P$. Uniform price $P$. Unit cost Rs. 50. The value of $P$ that maximizes profit is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 75",
                 "(B) 50",
                 "(C) 125",
                 "(D) 175"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 12,
             "question_text": "Solow growth model: $Y_t = K_t^\\alpha N_t^{1-\\alpha}$. Population grows at $g_N$. Savings $s$, depreciation $\\delta$. Steady state $k^*$. If population growth increases to $g_N'$, at the new steady state, the aggregate output will grow at a rate",
+            "question_type": "MCQ",
             "options": [
                 "(A) $g_N$",
                 "(B) $g_N'$",
                 "(C) $(1-\\alpha)g_N$",
                 "(D) $(1-\\alpha)g_N'$"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 13,
             "question_text": "Utility from wealth $u(w) = \\sqrt{w}$. Risky asset yields Rs. 400 or Rs. 900 with equal probability. The risk premium (in Rs.) is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 5",
                 "(B) 25",
                 "(C) 625",
                 "(D) 650"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 14,
             "question_text": "Let $\\hat{\\alpha}_1$ and $\\hat{\\alpha}_2$ be independent unbiased estimators with SE $\\sigma_1, \\sigma_2$. The linear combination yielding minimum variance is",
+            "question_type": "MCQ",
             "options": [
                 "(A) ...",
                 "(B) ...",
                 "(C) ...",
                 "(D) $(\\frac{\\sigma_2^2}{\\sigma_1^2+\\sigma_2^2})\\hat{\\alpha}_1 + (\\frac{\\sigma_1^2}{\\sigma_1^2+\\sigma_2^2})\\hat{\\alpha}_2$"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 15,
             "question_text": "X is uniform in $[0, b]$. Test $H_0: b=2$ vs $H_A: b \\ne 2$. Critical region: $\\{x \\le 0.1 \\text{ or } x \\ge 1.9\\}$. Probability of Type-I error is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 0.2",
                 "(B) 0.1",
                 "(C) 0.05",
                 "(D) 0.01"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 16,
             "question_text": "X is uniform $[a, b]$. Sample: {1.3, 0.8, 9.5, 20.2, 8.2}. MLE for $a$ and $b$ are",
+            "question_type": "MCQ",
             "options": [
                 "(A) $\\hat{a}=0.8; \\hat{b}=20.2$",
                 "(B) $\\hat{a}=1.3; \\hat{b}=9.5$",
                 "(C) $\\hat{a}=1.3; \\hat{b}=8.2$",
                 "(D) $\\hat{a}=0; \\hat{b}=21$"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 17,
             "question_text": "Two firms, identical technology $C_i(q_i) = q_i^2$. Demand $p = 100 - q$. Firms are price takers. Competitive equilibrium $p$ and $q$ are",
+            "question_type": "MCQ",
             "options": [
                 "(A) $p=80, q=20$",
                 "(B) $p=20, q=80$",
                 "(C) $p=200/3, q=100/3$",
                 "(D) $p=50, q=50$"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 18,
             "question_text": "Upstream paper mill. $TB = 120Q - Q^2$, $TC = 20Q$. Externality $EC = Q^2$. Optimal tax $t$ per unit is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 6",
                 "(B) 25",
                 "(C) 50",
                 "(D) 70"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 19,
             "question_text": "Which statement is NOT correct regarding occupational structure changes in India (1951-1991)?",
+            "question_type": "MCQ",
             "options": [
                 "(A) Proportion of cultivators has increased",
                 "(B) Proportion of agriculture labour has increased",
                 "(C) Proportion of tertiary sector has increased",
                 "(D) Proportion of primary sector has decreased"
             ],
-            "correct_option": "A",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "A"
         },
         {
             "question_number": 20,
             "question_text": "Subspace W spanned by $(0, -1, 2)^T$ and $(2, -1, 0)^T$. Which vector lies in W?",
+            "question_type": "MCQ",
             "options": [
                 "(A) $(1,1,1)^T$",
                 "(B) $(-1,1,1)^T$",
                 "(C) $(1,-1,1)^T$",
                 "(D) $(1,1,-1)^T$"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 21,
             "question_text": "$f(x)=xe^{-x}$ and $g(x)=x|x|$. On $\\mathbb{R}$:",
+            "question_type": "MCQ",
             "options": [
                 "(A) both f and g are convex",
                 "(B) f is convex, g not",
                 "(C) f is not quasiconvex and g is quasiconvex",
                 "(D) neither is quasiconvex"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 22,
             "question_text": "Optimal primal solution $(1, 0, 2)$. Dual variables $\\lambda_1^*, \\lambda_2^*$. Then",
+            "question_type": "MCQ",
             "options": [
                 "(A) $2\\lambda_1^* = 3\\lambda_2^*$",
                 "(B) $2\\lambda_1^* = \\lambda_2^*$",
                 "(C) $\\lambda_1^* = 2\\lambda_2^*$",
                 "(D) $\\lambda_1^* = \\lambda_2^*$"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 23,
             "question_text": "$F_X(x) = 1 - (3/4)^x$, $G_Y(y) = 1 - (2/3)^y$. $Z = \\min\\{X,Y\\}$. $P(Z \\ge 6)$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1/64",
                 "(B) 1/32",
                 "(C) 63/64",
                 "(D) 31/32"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 24,
             "question_text": "Joint PDF $f(x,y) = 6xy$ if $0 < y \\le \\sqrt{x} \\le 1$. $P(Y \\ge 1/3 | X = 2/3)$ is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 1/2",
                 "(B) 5/9",
                 "(C) 5/6",
                 "(D) 3/4"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 25,
             "question_text": "Which statement is NOT correct regarding economic planning in India?",
+            "question_type": "MCQ",
             "options": [
                 "(A) ...",
                 "(B) Sectoral allocation to industry was highest in First Five Year Plan",
                 "(C) ...",
                 "(D) ..."
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 26,
             "question_text": "$P = \\{x: x^2-2x-3 \\le 0\\}$, $Q = \\{x: \\log_5(1+x^2) \\le 1\\}$. Then",
+            "question_type": "MCQ",
             "options": [
                 "(A) P-Q = [2,3]",
                 "(B) Q-P = (1,2]",
                 "(C) P-Q = [-3,-2)",
                 "(D) Q-P = [-2,-1)"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 27,
             "question_text": "Workforce participation 60%. Pop 100 million. 6 million unemployed. Unemployment rate is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 2/11",
                 "(B) 1/11",
                 "(C) 3/50",
                 "(D) 1/10"
             ],
-            "correct_option": "D",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "D"
         },
         {
             "question_number": 28,
             "question_text": "According to Keynes, for a closed economy at less than full employment:",
+            "question_type": "MCQ",
             "options": [
                 "(A) Savings determines investment",
                 "(B) Investment determines savings",
                 "(C) Money supply no impact",
                 "(D) Speculative demand determined by income"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 29,
             "question_text": "Monopolist with linear demand, variable cost zero. Profit maximizing price will",
+            "question_type": "MCQ",
             "options": [
                 "(A) lie in strictly inelastic region",
                 "(B) lie in strictly elastic region",
                 "(C) be at unitary elastic point",
                 "(D) be equal to marginal cost"
             ],
-            "correct_option": "C",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "C"
         },
         {
             "question_number": 30,
             "question_text": "X pays 5 lakhs to transport fake currency worth 50 lakhs. Police pays 5 lakhs to detective. Detective income taxed 10%. Contribution to GDP (in Rs. lakhs) is",
+            "question_type": "MCQ",
             "options": [
                 "(A) 5.5",
                 "(B) 5",
                 "(C) 10",
                 "(D) 4.5"
             ],
-            "correct_option": "B",
             "positive_marks": 2,
-            "negative_marks": 0.6666666666666666
+            "negative_marks": 0.6666666666666666,
+            "correct_option": "B"
         },
         {
             "question_number": 31,
             "question_text": "Singer recording. $Q=40000-800P$. Cost Rs 8. Contracts: (i) 20% revenue, (ii) Rs 2 per album, (iii) Fixed Rs 32,000. Which correct?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Contract (i) yields highest",
                 "(B) Contract (ii) yields highest",
                 "(C) Contract (iii) yields highest",
                 "(D) Contract (ii) and (iii) yield same"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 32,
             "question_text": "Oligopoly, price competition. $C_i(q_i) = 10q_i$. Demand discontinuous based on price. Nash Equilibria?",
+            "question_type": "MSQ",
             "options": [
                 "(A) $p_1=10, p_2=10$",
                 "(B) $p_1=12, p_2=12$",
                 "(C) $p_1=40, p_2=40$",
                 "(D) $p_1=11, p_2=11$"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 33,
             "question_text": "Indian economy during colonial period. Correct statements?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Avg annual growth of per capita income lower 1920-47",
                 "(B) Colonial admin generated large revenue from land",
                 "(C) British brought capital for railways, burden on Indians",
                 "(D) Drain of wealth included home charges"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B",
                 "C",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 34,
             "question_text": "Expectations Augmented Phillips Curve (EAPC). Correct statements?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Increase in natural rate shifts EAPC left",
                 "(B) Increase in expected inflation shifts EAPC up/right",
                 "(C) If actual U = natural U, unanticipated inflation is zero",
                 "(D) If actual U > natural U, actual inflation > expected inflation"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "C",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 35,
             "question_text": "$f(x) = \\frac{\\cos(\\pi/2 + |x|)}{\\sin(\\pi/2 - |x|)}$. Then",
+            "question_type": "MSQ",
             "options": [
                 "(A) f not continuous at 0",
                 "(B) f continuous but not differentiable at 0",
                 "(C) $\\lim (f(x)-f(0))/x = -1$",
                 "(D) $f'(0)=-1$"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 36,
             "question_text": "Matrix $M$ with entries involving $x, y$. If $M(3,1)^T = (-1,3)^T$. Then",
+            "question_type": "MSQ",
             "options": [
                 "(A) $x+y = -3/4$",
                 "(B) $x-y = 3/4$",
                 "(C) $det(M) = -1$",
                 "(D) $det(adj(M)) = 1$"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 37,
             "question_text": "Net inflow of foreign currency on current+capital account is negative. Possible scenarios?",
+            "question_type": "MSQ",
             "options": [
                 "(A) Forex reserves may increase",
                 "(B) Exchange rate may appreciate",
                 "(C) Forex reserves may decrease",
                 "(D) Exchange rate may depreciate"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 38,
             "question_text": "Roots of $x^2 + 2(k+1)x + 9k - 5 = 0$.",
+            "question_type": "MSQ",
             "options": [
                 "(A) $k \\le 1$, real and positive",
                 "(B) $2 \\le k \\le 4$, complex",
                 "(C) $4 < k < 6$, real and opposite sign",
                 "(D) $k \\ge 6$, real and negative"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "B",
                 "D"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 39,
             "question_text": "If number of employed workers increases while population constant, unemployment rate:",
+            "question_type": "MSQ",
             "options": [
                 "(A) will always increase",
                 "(B) will always decrease",
                 "(C) may increase",
                 "(D) may decrease"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "B"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 40,
             "question_text": "Second-hand market. H and L sellers. Information asymmetry. This market will suffer from",
+            "question_type": "MSQ",
             "options": [
                 "(A) adverse selection",
                 "(B) moral hazard",
                 "(C) market failure",
                 "(D) excess supply"
             ],
-            "correct_option": [
+            "positive_marks": 2,
+            "negative_marks": 0,
+            "correct_options_msq": [
                 "A",
                 "C"
-            ],
-            "positive_marks": 2,
-            "negative_marks": 0
+            ]
         },
         {
             "question_number": 41,
             "question_text": "Gambler dice roll. Win 800 (3 sixes), 400 (2 sixes), 100 (1 six). Prob winning at least 100 is (2 decimal places).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.42",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.42,
+                0.42
+            ]
         },
         {
             "question_number": 42,
             "question_text": "Okun's law. Full emp output 1 trillion. Natural U 6%. Actual U 8%. Absolute gap (billion Rs).",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "40",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                40,
+                40
+            ]
         },
         {
             "question_number": 43,
             "question_text": "HDI. Standard 0.4, Edu 0.2, Health 0.8. Geometric mean.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.4",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.4,
+                0.4
+            ]
         },
         {
             "question_number": 44,
             "question_text": "Value of $\\int_0^9 \\frac{x-1}{1+\\sqrt{x}} dx$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "9",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                9,
+                9
+            ]
         },
         {
             "question_number": 45,
             "question_text": "$x_n = (\\frac{n+1}{n})x_{n-1}$, $x_0=2$. $x_{100}-x_{50}$ is.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "100",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                100,
+                100
+            ]
         },
         {
             "question_number": 46,
             "question_text": "Small open economy. $S^d = 10 + 100r^w$, $I^d = 15 - 100r^w$. $r^w = 3\\%$. Current Account Balance.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "1",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                1,
+                1
+            ]
         },
         {
             "question_number": 47,
             "question_text": "Normal variables. $\\sigma_1^2=4, \\sigma_2^2=9, \\rho=0.5$. Variance of $(X_1+X_2)$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "19",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                19,
+                19
+            ]
         },
         {
             "question_number": 48,
             "question_text": "Consumer spends 50% income on food. Price +20%. Income unchanged. Price elasticity of demand.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "-1",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                -1,
+                -1
+            ]
         },
         {
             "question_number": 49,
             "question_text": "$u(x_1, x_2) = x_1 + 2\\sqrt{x_2}$. Optimal at $(10, 10)$. If income +50%, price unchanged, new $x_2$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "10",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                10,
+                10
+            ]
         },
         {
             "question_number": 50,
             "question_text": "GDP 59816. Inv 17811. Exp 14499. Gov Inv 6620. Gov Cons 11221 (implied from data context or missing?). Consumption 35695. Net Factor... Value of Imports.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "19895",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 1,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                19895,
+                19895
+            ]
         },
         {
             "question_number": 51,
             "question_text": "Amar $U_A = f_A^2 w_A$. Barun $U_B = \\min\\{f_B, w_B\\}$. Endowments (2,5), (8,5). Eq Price ratio $p_f/p_w$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "2",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                2,
+                2
+            ]
         },
         {
             "question_number": 52,
             "question_text": "Vaccine. $q=14+5p$, $q=329-5p$. Max price 25. Subsidy to clear market. Total expenditure.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "2652",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                2652,
+                2652
+            ]
         },
         {
             "question_number": 53,
             "question_text": "Two plants. $TC_1 = 500+30Q_1$, $TC_2 = 1500+20Q_2$. Demand $Q = 150 - P/3$. Optimal $Q_1$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "70",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                70,
+                70
+            ]
         },
         {
             "question_number": 54,
             "question_text": "$\\frac{dy}{dx} + y = y^2$. $y(\\ln 2) = 1/3$. $y(\\ln 3) = ?$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "0.25",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                0.25,
+                0.25
+            ]
         },
         {
             "question_number": 55,
             "question_text": "Minimize $2xy$ subject to $9x^2 + 4y^2 \\le 36$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "-6",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                -6,
+                -6
+            ]
         },
         {
             "question_number": 56,
             "question_text": "Linear Prog. Max $x_1+2x_2+3x_3$. Optimal val 7. Find $\\beta$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "3",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                3,
+                3
+            ]
         },
         {
             "question_number": 57,
             "question_text": "Indep Normal variables. Variance of $Y = (X_1+X_2)^2 + (X_3+X_4)^2$.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "16",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                16,
+                16
+            ]
         },
         {
             "question_number": 58,
             "question_text": "$Y = 10N - 0.005N^2$. $N^s = 55 + 5w$. Eq Real Wage.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "9",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                9,
+                9
+            ]
         },
         {
             "question_number": 59,
             "question_text": "Life cycle. Earn 18-60. Die 90. Income $100t - t^2$. Zero interest. Avg annual consumption.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "1302",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                1302,
+                1302
+            ]
         },
         {
             "question_number": 60,
             "question_text": "IS-LM. $C=200+...$. $G=196$. Full emp Y=1000. Eq Price P.",
-            "options": [
-                "Option A",
-                "Option B",
-                "Option C",
-                "Option D"
-            ],
-            "correct_option": "23",
+            "question_type": "NAT",
+            "options": [],
             "positive_marks": 2,
-            "negative_marks": 0
+            "negative_marks": 0,
+            "correct_range_nat": [
+                23,
+                23
+            ]
         }
     ]
 }

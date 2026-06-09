@@ -533,19 +533,75 @@
                 qTextDiv.innerHTML = qData.question_text;
                 optionsContainer.innerHTML = '';
                 
-                if(qData.options && qData.options.length > 0) {
-                    qData.options.forEach((opt, i) => {
-                        const isSelected = answers[index] === i.toString();
-                        const optRow = document.createElement('div');
-                        optRow.className = `option-row ${isSelected ? 'selected' : ''}`;
-                        optRow.onclick = () => selectOption(index, i);
-                        
-                        optRow.innerHTML = `
-                            <input type="radio" class="option-radio" name="q${index}" ${isSelected ? 'checked' : ''}>
-                            <div class="option-text">${opt}</div>
-                        `;
-                        optionsContainer.appendChild(optRow);
-                    });
+                const qType = qData.question_type || "MCQ";
+                
+                if (qType === "MCQ") {
+                    if(qData.options && qData.options.length > 0) {
+                        qData.options.forEach((opt, i) => {
+                            const isSelected = answers[index] === i.toString();
+                            const optRow = document.createElement('div');
+                            optRow.className = `option-row ${isSelected ? 'selected' : ''}`;
+                            optRow.onclick = () => selectOption(index, i.toString(), 'MCQ');
+                            
+                            optRow.innerHTML = `
+                                <input type="radio" class="option-radio" name="q${index}" ${isSelected ? 'checked' : ''}>
+                                <div class="option-text">${opt}</div>
+                            `;
+                            optionsContainer.appendChild(optRow);
+                        });
+                    }
+                } else if (qType === "MSQ") {
+                    const currentAnswers = Array.isArray(answers[index]) ? answers[index] : [];
+                    if(qData.options && qData.options.length > 0) {
+                        qData.options.forEach((opt, i) => {
+                            const isSelected = currentAnswers.includes(i.toString());
+                            const optRow = document.createElement('div');
+                            optRow.className = `option-row ${isSelected ? 'selected' : ''}`;
+                            optRow.onclick = (e) => {
+                                // prevent double toggle if clicking on checkbox directly
+                                if (e.target.tagName.toLowerCase() !== 'input') {
+                                    selectOption(index, i.toString(), 'MSQ');
+                                }
+                            };
+                            
+                            const checkbox = document.createElement('input');
+                            checkbox.type = 'checkbox';
+                            checkbox.className = 'option-radio'; // reuse class for styling
+                            checkbox.name = `q${index}[]`;
+                            checkbox.checked = isSelected;
+                            checkbox.onchange = () => selectOption(index, i.toString(), 'MSQ');
+                            
+                            const textDiv = document.createElement('div');
+                            textDiv.className = 'option-text';
+                            textDiv.innerHTML = opt;
+                            
+                            optRow.appendChild(checkbox);
+                            optRow.appendChild(textDiv);
+                            optionsContainer.appendChild(optRow);
+                        });
+                    }
+                } else if (qType === "NAT") {
+                    const natContainer = document.createElement('div');
+                    natContainer.style.padding = "20px 0";
+                    
+                    const natInput = document.createElement('input');
+                    natInput.type = "number";
+                    natInput.step = "any";
+                    natInput.className = "nat-input";
+                    natInput.placeholder = "Enter numerical answer...";
+                    natInput.value = answers[index] !== undefined ? answers[index] : "";
+                    natInput.style.width = "100%";
+                    natInput.style.padding = "15px";
+                    natInput.style.fontSize = "1.2rem";
+                    natInput.style.border = "1px solid var(--border)";
+                    natInput.style.borderRadius = "5px";
+                    
+                    natInput.oninput = (e) => {
+                        answers[index] = e.target.value;
+                    };
+                    
+                    natContainer.appendChild(natInput);
+                    optionsContainer.appendChild(natContainer);
                 }
             }
 
@@ -568,24 +624,26 @@
         // ==========================================
         // INTERACTION LOGIC
         // ==========================================
-        function selectOption(qIndex, optIndex) {
-            answers[qIndex] = optIndex.toString();
-            // Re-render just the options to update UI selection quickly without reloading MathJax
-            const rows = document.querySelectorAll('.option-row');
-            const radios = document.querySelectorAll('.option-radio');
-            rows.forEach((row, i) => {
-                if(i === optIndex) {
-                    row.classList.add('selected');
-                    radios[i].checked = true;
-                } else {
-                    row.classList.remove('selected');
-                    radios[i].checked = false;
+        function selectOption(qIndex, optVal, qType = 'MCQ') {
+            if (qType === 'MCQ') {
+                answers[qIndex] = optVal;
+            } else if (qType === 'MSQ') {
+                if (!Array.isArray(answers[qIndex])) {
+                    answers[qIndex] = [];
                 }
-            });
+                const idx = answers[qIndex].indexOf(optVal);
+                if (idx > -1) {
+                    answers[qIndex].splice(idx, 1);
+                } else {
+                    answers[qIndex].push(optVal);
+                }
+            }
+            loadQuestion(currentQuestionIndex);
         }
 
         function handleAction(action) {
-            const hasAnswer = answers[currentQuestionIndex] !== undefined;
+            const currentAns = answers[currentQuestionIndex];
+            const hasAnswer = currentAns !== undefined && currentAns !== "" && (Array.isArray(currentAns) ? currentAns.length > 0 : true);
 
             if (action === 'save') {
                 reviewStatus[currentQuestionIndex] = hasAnswer ? 'answered' : 'not-answered';
@@ -730,35 +788,52 @@
             let csvData = [];
 
             examData.questions.forEach((q, index) => {
-                const questionId = q.question_number || index + 1;
-                const displaySerialNumber = index + 1;
-                
-                let actualCorrectOption = q.correct_option;
-                if (typeof actualCorrectOption === 'object' && actualCorrectOption !== null) {
-                    if (actualCorrectOption.answers) {
-                        actualCorrectOption = actualCorrectOption.answers[questionId] || actualCorrectOption.answers[String(questionId)] || "Unknown";
-                    } else {
-                        actualCorrectOption = "Unknown";
-                    }
-                }
-
                 const userAns = answers[index];
                 const qTime = timeSpentPerQuestion[index] || 0;
                 let status = "Unattempted";
-                let selectedOpt = "None";
+                let selectedOptForCsv = "None";
+                const qType = q.question_type || "MCQ";
+                let isCorrect = false;
+                const questionId = q.question_number || index + 1;
+                const displaySerialNumber = index + 1;
 
-                if (userAns !== undefined) {
+                // 1. Scoring Logic
+                if (userAns !== undefined && userAns !== "" && (Array.isArray(userAns) ? userAns.length > 0 : true)) {
                     status = "Attempted";
-                    // Convert numeric index to letter A, B, C, D
-                    const parsedAns = parseInt(userAns);
-                    if (!isNaN(parsedAns)) {
-                        selectedOpt = String.fromCharCode(65 + parsedAns);
-                    } else {
-                        selectedOpt = userAns;
-                    }
                     
-                    // Note: Ensure the JSON schema correct_option maps cleanly to the options array index
-                    if (userAns === String(actualCorrectOption) || selectedOpt === String(actualCorrectOption) || (q.options && q.options[parsedAns] === actualCorrectOption)) {
+                    if (qType === "MCQ") {
+                        let actualCorrectOption = q.correct_option;
+                        if (typeof actualCorrectOption === 'object' && actualCorrectOption !== null) {
+                            actualCorrectOption = actualCorrectOption.answers ? (actualCorrectOption.answers[questionId] || actualCorrectOption.answers[String(questionId)] || "Unknown") : "Unknown";
+                        }
+                        
+                        const parsedAns = parseInt(userAns);
+                        let selectedLetter = isNaN(parsedAns) ? userAns : String.fromCharCode(65 + parsedAns);
+                        
+                        selectedOptForCsv = selectedLetter;
+                        
+                        if (userAns === String(actualCorrectOption) || selectedLetter === String(actualCorrectOption) || (q.options && q.options[parsedAns] === actualCorrectOption)) {
+                            isCorrect = true;
+                        }
+                    } else if (qType === "MSQ") {
+                        const selectedLetters = userAns.map(val => String.fromCharCode(65 + parseInt(val))).sort();
+                        selectedOptForCsv = selectedLetters.join(", ");
+                        
+                        const correctLetters = (q.correct_options_msq || []).sort();
+                        
+                        if (selectedLetters.length === correctLetters.length && selectedLetters.every((val, i) => val === correctLetters[i])) {
+                            isCorrect = true;
+                        }
+                    } else if (qType === "NAT") {
+                        selectedOptForCsv = String(userAns);
+                        const userVal = parseFloat(userAns);
+                        const range = q.correct_range_nat || [0, 0];
+                        if (!isNaN(userVal) && userVal >= range[0] && userVal <= range[1]) {
+                            isCorrect = true;
+                        }
+                    }
+
+                    if (isCorrect) {
                         totalMarks += q.positive_marks;
                         correctCount++;
                     } else {
@@ -769,14 +844,23 @@
                     unattemptedCount++;
                 }
 
-                let finalCorrectOpt = actualCorrectOption;
-                if (typeof finalCorrectOpt === 'object' && finalCorrectOpt !== null) {
-                    finalCorrectOpt = "FormatError";
-                } else {
-                    finalCorrectOpt = String(finalCorrectOpt);
+                // 2. CSV formatting
+                let finalCorrectOpt = "Unknown";
+                
+                if (qType === "MCQ") {
+                    let actualCorrectOption = q.correct_option;
+                    if (typeof actualCorrectOption === 'object' && actualCorrectOption !== null) {
+                        finalCorrectOpt = actualCorrectOption.answers ? (actualCorrectOption.answers[questionId] || actualCorrectOption.answers[String(questionId)] || "Unknown") : "Unknown";
+                    } else {
+                        finalCorrectOpt = String(actualCorrectOption);
+                    }
+                } else if (qType === "MSQ") {
+                    finalCorrectOpt = (q.correct_options_msq || []).join(", ");
+                } else if (qType === "NAT") {
+                    finalCorrectOpt = (q.correct_range_nat || []).join(" to ");
                 }
 
-                let finalSelectedOpt = selectedOpt;
+                let finalSelectedOpt = selectedOptForCsv;
                 if (typeof finalSelectedOpt === 'object' && finalSelectedOpt !== null) {
                     finalSelectedOpt = "FormatError";
                 } else {
@@ -787,7 +871,7 @@
                     serialNumber: displaySerialNumber,
                     status: status,
                     selectedOption: finalSelectedOpt,
-                    correctOption: finalCorrectOpt,
+                    correctOption: String(finalCorrectOpt),
                     timeTaken: qTime
                 });
             });

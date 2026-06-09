@@ -49,19 +49,53 @@ files.forEach(file => {
     const standardizedQs = questionsData.map((q, index) => {
         let options = q.options;
         if (!options || !Array.isArray(options)) {
-            options = ["Option A", "Option B", "Option C", "Option D"];
+            options = [];
         }
         
-        let correctOption = q.correct || "Unknown";
-        
-        return {
+        let qType = q.type || "MCQ";
+        let outQ = {
             question_number: index + 1,
             question_text: q.text || "",
+            question_type: qType,
             options: options,
-            correct_option: correctOption,
             positive_marks: q.marks || 1,
             negative_marks: q.negative || 0
         };
+        
+        if (qType === "MCQ") {
+            // Options are usually ["(A) ...", "(B) ..."]
+            // correct is usually "A", "B", "C", "D"
+            // Let's store "A", "B", "C", "D" in correct_option for simplicity, or the index
+            let correctOption = q.correct || "Unknown";
+            outQ.correct_option = correctOption;
+        } else if (qType === "MSQ") {
+            // correct might be "A,B" or ["A", "B"]
+            let correctArr = Array.isArray(q.correct) ? q.correct : (typeof q.correct === 'string' ? q.correct.split(',').map(s=>s.trim()) : []);
+            outQ.correct_options_msq = correctArr;
+        } else if (qType === "NAT") {
+            // correct might be "2.4 to 2.5" or "2.4 - 2.5" or "2"
+            let correctRange = [0, 0];
+            if (typeof q.correct === 'string') {
+                if (q.correct.includes('to')) {
+                    const parts = q.correct.split('to');
+                    correctRange = [parseFloat(parts[0]), parseFloat(parts[1])];
+                } else if (q.correct.includes('-') && !q.correct.startsWith('-')) { // crude check for range vs negative number
+                    const parts = q.correct.split('-');
+                    if (parts.length === 2 && !isNaN(parseFloat(parts[0])) && !isNaN(parseFloat(parts[1]))) {
+                        correctRange = [parseFloat(parts[0]), parseFloat(parts[1])];
+                    } else {
+                        correctRange = [parseFloat(q.correct), parseFloat(q.correct)];
+                    }
+                } else {
+                    correctRange = [parseFloat(q.correct), parseFloat(q.correct)];
+                }
+            } else if (typeof q.correct === 'number') {
+                correctRange = [q.correct, q.correct];
+            }
+            outQ.correct_range_nat = correctRange;
+        }
+        
+        return outQ;
     });
     
     const standardizedData = {
