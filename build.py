@@ -30,7 +30,7 @@ def build_site(data_dir: str | Path, dist_dir: str | Path, template_path: str | 
         duration = data.get("duration", 180)
         
         slugified_title = re.sub(r'[^a-zA-Z0-9_\-]', '_', exam_title)
-        filename = f"{slugified_title}.html"
+        filename = f"{slugified_title}_{exam_year}.html"
         
         rendered_html = template.render(
             exam_title=exam_title,
