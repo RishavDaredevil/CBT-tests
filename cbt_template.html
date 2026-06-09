@@ -727,10 +727,20 @@
             let incorrectCount = 0;
             let unattemptedCount = 0;
             
-            // Generate CSV content
-            let csvContent = "Serial Number,Status,Selected Option,Correct Option,Time Taken (seconds)\n";
+            let csvData = [];
 
             examData.questions.forEach((q, index) => {
+                const serialNumber = q.question_number || index + 1;
+                
+                let actualCorrectOption = q.correct_option;
+                if (typeof actualCorrectOption === 'object' && actualCorrectOption !== null) {
+                    if (actualCorrectOption.answers) {
+                        actualCorrectOption = actualCorrectOption.answers[serialNumber] || actualCorrectOption.answers[String(serialNumber)] || "Unknown";
+                    } else {
+                        actualCorrectOption = "Unknown";
+                    }
+                }
+
                 const userAns = answers[index];
                 const qTime = timeSpentPerQuestion[index] || 0;
                 let status = "Unattempted";
@@ -742,7 +752,7 @@
                     selectedOpt = q.options && q.options[parseInt(userAns)] !== undefined ? q.options[parseInt(userAns)] : userAns;
                     
                     // Note: Ensure the JSON schema correct_option maps cleanly to the options array index
-                    if (userAns === q.correct_option.toString() || (q.options && q.options[parseInt(userAns)] === q.correct_option)) {
+                    if (userAns === String(actualCorrectOption) || (q.options && q.options[parseInt(userAns)] === actualCorrectOption)) {
                         totalMarks += q.positive_marks;
                         correctCount++;
                     } else {
@@ -753,11 +763,40 @@
                     unattemptedCount++;
                 }
 
-                // Escape commas in options
-                const safeSelectedOpt = typeof selectedOpt === 'string' ? `"${selectedOpt.replace(/"/g, '""')}"` : `"${selectedOpt}"`;
-                const safeCorrectOpt = typeof q.correct_option === 'string' ? `"${q.correct_option.replace(/"/g, '""')}"` : `"${q.correct_option}"`;
+                const correctOpt = String(actualCorrectOption);
+                const safeSelected = typeof selectedOpt === 'object' && selectedOpt !== null ? "Unknown" : String(selectedOpt);
 
-                csvContent += `${q.question_number || index + 1},${status},${safeSelectedOpt},${safeCorrectOpt},${qTime}\\n`;
+                csvData.push({
+                    serialNumber: serialNumber,
+                    status: status,
+                    selectedOption: safeSelected,
+                    correctOption: correctOpt,
+                    timeTaken: qTime
+                });
+            });
+
+            // Convert to proper CSV
+            const sanitizeCSVField = (field) => {
+                let str = String(field);
+                str = str.replace(/\r?\n|\r/g, ' '); // remove embedded newlines
+                if (str.includes(',') || str.includes('"')) {
+                    str = '"' + str.replace(/"/g, '""') + '"';
+                }
+                return str;
+            };
+
+            const header = ["Serial Number", "Status", "Selected Option", "Correct Option", "Time Taken (seconds)"];
+            let csvContent = header.map(sanitizeCSVField).join(",") + "\n";
+            
+            csvData.forEach(row => {
+                const rowArray = [
+                    row.serialNumber,
+                    row.status,
+                    row.selectedOption,
+                    row.correctOption,
+                    row.timeTaken
+                ];
+                csvContent += rowArray.map(sanitizeCSVField).join(",") + "\n";
             });
 
             document.getElementById('result-stats').innerHTML = `

@@ -1,11 +1,17 @@
 # Unified Economics CBT Platform
 
-This platform transforms fragmented JSON exam data into a unified, static Computer-Based Test (CBT) interface. It uses a two-step process: standardizing exam data into a universal JSON schema, and building a static HTML site using Jinja2.
+This platform transforms fragmented JSON exam data into a unified, static Computer-Based Test (CBT) interface. It uses a two-step process: standardizing exam data into a universal JSON schema, and building an interactive static HTML site using Jinja2 and Vanilla JS.
+
+## Project Features
+1. **Interactive Categorized Dashboard**: Easily select tests grouped by Exam Name and Year. 
+2. **Customizable Durations**: Before starting a test, students can override the default time limits directly from the dashboard.
+3. **Advanced Time Tracking**: Records the exact number of seconds spent on each individual question during the attempt.
+4. **CSV Analytics Export**: Generates an exhaustive CSV report on test completion detailing selected options, correct answers, and time spent on a per-question basis.
 
 ## Project Architecture
 1. **Migration Utilities (`utils/`)**: Scripts to convert specific exam formats (like JNU answer keys) into the universal schema.
-2. **Schema Validator (`utils/migrate_base.py`)**: Ensures all generated JSONs have `exam_title`, `duration`, and properly structured `questions`.
-3. **Static CLI Builder (`build.py`)**: Finds all `standardized_*.json` files in the repository, injects them into `cbt_template.html`, and outputs a final website in the `dist/` folder.
+2. **Schema Validator (`utils/migrate_base.py`)**: Ensures all generated JSONs have `exam_name`, `exam_year`, `exam_title`, `duration`, and properly structured `questions`.
+3. **Static CLI Builder (`build.py`)**: Finds all `standardized_*.json` files in the repository, processes the `cbt_template.html` and `dashboard_template.html`, and outputs a final website in the `dist/` folder.
 
 ## Setup
 
@@ -26,8 +32,15 @@ You can run the migrator in a python shell or write a quick script:
 ```python
 from utils.migrate_jnu import migrate_jnu
 
-# migrate_jnu(input_path, output_path, exam_title, duration, positive_marks, negative_marks)
-migrate_jnu("JNU_Answer_key.json", "standardized_JNU_2020.json", "JNU Economics 2020", 180)
+# migrate_jnu(input_path, output_path, exam_name, exam_year, exam_title, duration, positive_marks, negative_marks)
+migrate_jnu(
+    "JNU_Answer_key.json", 
+    "standardized_JNU_2020.json", 
+    exam_name="JNU Economics", 
+    exam_year=2020, 
+    exam_title="JNU Economics 2020", 
+    duration=180
+)
 ```
 
 ### Step 2: Build the Static Site
@@ -40,7 +53,7 @@ This script will:
 - Parse all `standardized_*.json` files.
 - Render them into `cbt_template.html`.
 - Save the standalone exam HTML files to the `dist/` directory.
-- Generate a `dist/index.html` dashboard linking to all your exams.
+- Generate an interactive categorized `dist/index.html` dashboard using `dashboard_template.html`.
 
 ### Step 3: View the Site
 Open the generated dashboard in your browser:
