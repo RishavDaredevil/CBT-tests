@@ -67,7 +67,7 @@ Object.keys(examsDB).forEach(yearKey => {
         questions: standardizedQs
     };
     
-    const outputPath = path.join(__dirname, `standardized_DSE_${year}.json`);
+    const outputPath = path.join(__dirname, '..', 'data', 'standardized', `standardized_DSE_${year}.json`);
     fs.writeFileSync(outputPath, JSON.stringify(standardizedData, null, 4));
     console.log(`Migrated DSE ${year}`);
 });

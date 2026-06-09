@@ -106,7 +106,7 @@ files.forEach(file => {
         questions: standardizedQs
     };
     
-    const outputPath = path.join(__dirname, `standardized_IIT_JAM_${year}.json`);
+    const outputPath = path.join(__dirname, '..', 'data', 'standardized', `standardized_IIT_JAM_${year}.json`);
     fs.writeFileSync(outputPath, JSON.stringify(standardizedData, null, 4));
     console.log(`Migrated IIT JAM ${year}`);
 });

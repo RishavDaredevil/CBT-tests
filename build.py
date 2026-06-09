@@ -53,4 +53,4 @@ def build_site(data_dir: str | Path, dist_dir: str | Path, template_path: str | 
         f.write(dash_html)
 
 if __name__ == "__main__":
-    build_site(".", "dist", "cbt_template.html", "dashboard_template.html")
+    build_site("data/standardized", "dist", "templates/cbt_template.html", "templates/dashboard_template.html")

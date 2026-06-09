@@ -12,7 +12,7 @@ def write_standard(name, year, title, duration, questions):
         "questions": questions
     }
     validate_standard_schema(out)
-    with open(f"standardized_{name.replace(' ', '_')}_{year}.json", "w") as f:
+    with open(f"data/standardized/standardized_{name.replace(' ', '_')}_{year}.json", "w") as f:
         json.dump(out, f, indent=4)
 
 def migrate_isi_pea():

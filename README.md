@@ -9,9 +9,9 @@ This platform transforms fragmented JSON exam data into a unified, static Comput
 4. **CSV Analytics Export**: Generates an exhaustive CSV report on test completion detailing selected options, correct answers, and time spent on a per-question basis.
 
 ## Project Architecture
-1. **Migration Utilities (`utils/`)**: Scripts to convert specific exam formats (like JNU answer keys) into the universal schema.
+1. **Migration Utilities (`scripts/` & `utils/`)**: Scripts to convert specific exam formats (like JNU answer keys) into the universal schema.
 2. **Schema Validator (`utils/migrate_base.py`)**: Ensures all generated JSONs have `exam_name`, `exam_year`, `exam_title`, `duration`, and properly structured `questions`.
-3. **Static CLI Builder (`build.py`)**: Finds all `standardized_*.json` files in the repository, processes the `cbt_template.html` and `dashboard_template.html`, and outputs a final website in the `dist/` folder.
+3. **Static CLI Builder (`build.py`)**: Finds all `standardized_*.json` files in `data/standardized/`, processes the `templates/cbt_template.html` and `templates/dashboard_template.html`, and outputs a final website in the `dist/` folder.
 
 ## Setup
 
@@ -26,25 +26,17 @@ uv sync
 ## How to Operate
 
 ### Step 1: Migrate Exam Data
-First, you need to migrate raw exam data into the standardized format. We currently have a migrator for JNU answer keys.
+First, you need to migrate raw exam data into the standardized format inside `data/standardized/`. We currently have migrators for JNU, CUET, DSE, and IIT JAM.
 
-You can run the migrator in a python shell or write a quick script:
-```python
-from utils.migrate_jnu import migrate_jnu
-
-# migrate_jnu(input_path, output_path, exam_name, exam_year, exam_title, duration, positive_marks, negative_marks)
-migrate_jnu(
-    "JNU_Answer_key.json", 
-    "standardized_JNU_2020.json", 
-    exam_name="JNU Economics", 
-    exam_year=2020, 
-    exam_title="JNU Economics 2020", 
-    duration=180
-)
+You can run the migrators via the shell:
+```bash
+node scripts/migrate_iit_jam.js
+node scripts/migrate_dse.js
+python scripts/migrate_all.py
 ```
 
 ### Step 2: Build the Static Site
-Once you have `standardized_*.json` files in your repository, build the static site:
+Once you have `standardized_*.json` files in your `data/standardized/` directory, build the static site:
 
 ```bash
 python build.py
