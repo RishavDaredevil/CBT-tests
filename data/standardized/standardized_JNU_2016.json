@@ -1,7 +1,7 @@
 {
     "exam_name": "JNU Economics",
-    "exam_year": 2020,
-    "exam_title": "JNU Economics 2020",
+    "exam_year": 2016,
+    "exam_title": "JNU Economics 2016",
     "duration": 180,
     "questions": [
         {
@@ -210,7 +210,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "D",
+            "correct_option": "A",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -692,6 +692,146 @@
         },
         {
             "question_number": 50,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 51,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 52,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 53,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 54,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 55,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 56,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 57,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 58,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 59,
+            "question_text": "",
+            "question_type": "MCQ",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_option": "A",
+            "positive_marks": 4,
+            "negative_marks": 1
+        },
+        {
+            "question_number": 60,
             "question_text": "",
             "question_type": "MCQ",
             "options": [

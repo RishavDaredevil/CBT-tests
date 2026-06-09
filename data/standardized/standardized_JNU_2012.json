@@ -1,7 +1,7 @@
 {
     "exam_name": "JNU Economics",
-    "exam_year": 2020,
-    "exam_title": "JNU Economics 2020",
+    "exam_year": 2012,
+    "exam_title": "JNU Economics 2012",
     "duration": 180,
     "questions": [
         {
@@ -14,7 +14,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "C",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -56,7 +56,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "C",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -210,7 +210,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "D",
+            "correct_option": "A",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -378,7 +378,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "D",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -392,7 +392,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "A/D",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -406,7 +406,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "B",
             "positive_marks": 4,
             "negative_marks": 1
         },
@@ -434,7 +434,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "A",
+            "correct_option": "B",
             "positive_marks": 4,
             "negative_marks": 1
         },

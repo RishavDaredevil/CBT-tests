@@ -1,7 +1,7 @@
 {
     "exam_name": "JNU Economics",
-    "exam_year": 2020,
-    "exam_title": "JNU Economics 2020",
+    "exam_year": 2006,
+    "exam_title": "JNU Economics 2006",
     "duration": 180,
     "questions": [
         {
@@ -210,7 +210,7 @@
                 "C",
                 "D"
             ],
-            "correct_option": "D",
+            "correct_option": "A",
             "positive_marks": 4,
             "negative_marks": 1
         },
