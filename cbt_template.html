@@ -749,11 +749,16 @@
 
                 if (userAns !== undefined) {
                     status = "Attempted";
-                    // Attempt to get selected string, otherwise use index
-                    selectedOpt = q.options && q.options[parseInt(userAns)] !== undefined ? q.options[parseInt(userAns)] : userAns;
+                    // Convert numeric index to letter A, B, C, D
+                    const parsedAns = parseInt(userAns);
+                    if (!isNaN(parsedAns)) {
+                        selectedOpt = String.fromCharCode(65 + parsedAns);
+                    } else {
+                        selectedOpt = userAns;
+                    }
                     
                     // Note: Ensure the JSON schema correct_option maps cleanly to the options array index
-                    if (userAns === String(actualCorrectOption) || (q.options && q.options[parseInt(userAns)] === actualCorrectOption)) {
+                    if (userAns === String(actualCorrectOption) || selectedOpt === String(actualCorrectOption) || (q.options && q.options[parsedAns] === actualCorrectOption)) {
                         totalMarks += q.positive_marks;
                         correctCount++;
                     } else {
@@ -764,14 +769,25 @@
                     unattemptedCount++;
                 }
 
-                const correctOpt = String(actualCorrectOption);
-                const safeSelected = typeof selectedOpt === 'object' && selectedOpt !== null ? "Unknown" : String(selectedOpt);
+                let finalCorrectOpt = actualCorrectOption;
+                if (typeof finalCorrectOpt === 'object' && finalCorrectOpt !== null) {
+                    finalCorrectOpt = "FormatError";
+                } else {
+                    finalCorrectOpt = String(finalCorrectOpt);
+                }
+
+                let finalSelectedOpt = selectedOpt;
+                if (typeof finalSelectedOpt === 'object' && finalSelectedOpt !== null) {
+                    finalSelectedOpt = "FormatError";
+                } else {
+                    finalSelectedOpt = String(finalSelectedOpt);
+                }
 
                 csvData.push({
                     serialNumber: displaySerialNumber,
                     status: status,
-                    selectedOption: safeSelected,
-                    correctOption: correctOpt,
+                    selectedOption: finalSelectedOpt,
+                    correctOption: finalCorrectOpt,
                     timeTaken: qTime
                 });
             });

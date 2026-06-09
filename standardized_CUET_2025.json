@@ -8,10 +8,10 @@
             "question_number": 1,
             "question_text": "If the demand function is given as P=110-Q^2 and market equilibrium is attained at P0=29 and Q0=9, calculate the consumer surplus.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "460",
+                "456",
+                "466",
+                "486"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -21,10 +21,10 @@
             "question_number": 2,
             "question_text": "The Pareto optimality criterion implies fulfillment of all the following conditions except",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "The marginal rate of transformation between any two goods is equal to the marginal rate of substitution between the same two goods.",
+                "The economy is operating on its production possibility frontier.",
+                "Production techniques embody the most efficient technology.",
+                "Income is distributed fairly among all individuals."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -34,10 +34,10 @@
             "question_number": 3,
             "question_text": "The exports of goods of a country, G=G(t) has a growth rate of a/t, and its exports of services S=S(t) has a growth rate of b/t. What is the growth rate of its total exports (X)?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "a/t + b/t",
+                "a/G + b/S",
+                "(a+b)/(G+S)",
+                "(Ga + Sb)/(tX)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -47,10 +47,10 @@
             "question_number": 4,
             "question_text": "Arrange the following sectors in descending order as per the union government capital expenditure amount for FY2023-24: (A) Defence Services (B) Railways (C) Road Transport and Highways (D) Telecommunications",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (D), (C), (B)",
+                "(C), (B), (A), (D)",
+                "(B), (A), (D), (C)",
+                "(C), (B), (D), (A)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -60,10 +60,10 @@
             "question_number": 5,
             "question_text": "Assuming that the production function is homogeneous of degree one and Euler's equation holds, if MP_L (marginal product of labour) is greater than AP_L (average product of labour), then",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "MP_K will be negative",
+                "MP_K will be zero",
+                "MP_K will be negative",
+                "MP_L and MP_K will both be negative"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -73,10 +73,10 @@
             "question_number": 6,
             "question_text": "Which of the following is incorrect about the problem of externalities?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "They may be reciprocal or unidirectional.",
+                "They refer to an interdependence between two parties that operates outside the price mechanism.",
+                "They may be marginal or infra-marginal.",
+                "The process of internalization of the negative externality requires that both parties must gain."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -86,10 +86,10 @@
             "question_number": 7,
             "question_text": "If the marginal cost of a firm is given as the function of output C'(Q) = 2e^(0.2Q) and if the fixed cost is 75, find the total cost function.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "10 e^(0.2Q) + 65",
+                "10 e^(0.2Q)",
+                "10 e^(0.2Q) + 75",
+                "e^(0.2Q) + 75"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -99,10 +99,10 @@
             "question_number": 8,
             "question_text": "Which of the following is excluded from headline inflation to arrive at core inflation?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Energy prices",
+                "Gold prices",
+                "Automobile prices",
+                "Share prices"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -112,10 +112,10 @@
             "question_number": 9,
             "question_text": "Which of the following is not considered in the calculation of GDP?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Inventory stock",
+                "Wages",
+                "Brokerage/commission on purchasing second-hand goods",
+                "Sale/purchase of second-hand goods"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -125,10 +125,10 @@
             "question_number": 10,
             "question_text": "In the case of classical economics, an increase in the nominal money stock causes",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "An increase in output",
+                "Shift in aggregate demand curve to the left",
+                "No change in the price level",
+                "Shift in the aggregate demand curve to the right"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -138,10 +138,10 @@
             "question_number": 11,
             "question_text": "Which of the following does not constitute liabilities of commercial banks in India?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Paid-up capital and reserves",
+                "Time and demand deposits",
+                "Money at call and short notice",
+                "Borrowings"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -151,10 +151,10 @@
             "question_number": 12,
             "question_text": "Which of the following is not correct about the offer curves?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Offer curves were devised and introduced in International Economics by Marshall and Edgeworth.",
+                "The offer curve of a nation shows the nation's willingness to import and export at various relative commodity prices.",
+                "The offer curve of a nation can be derived from the nation's production frontier.",
+                "Offer curve of a nation bends towards the axis measuring the commodity of its comparative disadvantage."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -164,10 +164,10 @@
             "question_number": 13,
             "question_text": "Which of the following is not correct about residential investment?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "It depends on the net real return obtained by owning housing.",
+                "The combination of high nominal interest rates and high inflation strongly encourages housing investment.",
+                "The demand for housing is insensitive to the nominal interest rate.",
+                "The cost of owning a house rises almost proportionately with the real interest rate."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -177,10 +177,10 @@
             "question_number": 14,
             "question_text": "The following are the reasons for firms to hold stock of inventories except",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "To meet future demand for goods.",
+                "It is more costly for a firm to order goods less frequently in large quantities than to order small quantities frequently.",
+                "To smoothen the production process.",
+                "Some inventories are held as an unavoidable part of the production process."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -190,10 +190,10 @@
             "question_number": 15,
             "question_text": "Commercial banks in India are subject to a statutory liquidity requirement (SLR). Which of the following is not part of the SLR?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Required reserves",
+                "Treasury bill",
+                "Unencumbered government and other approved securities.",
+                "Current account balances with other banks."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -203,10 +203,10 @@
             "question_number": 16,
             "question_text": "Which of the following is not correct about the effectiveness of monetary and fiscal policies under perfect mobility?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Under the fixed exchange rate, monetary policy is powerless to affect output.",
+                "Under the fixed exchange rate, the central bank runs an independent monetary policy.",
+                "Under the fixed exchange rate, fiscal policy is highly effective",
+                "Under the floating exchange rate, a monetary expansion leads to currency depreciation, increased exports and increased output."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -216,10 +216,10 @@
             "question_number": 17,
             "question_text": "Which of the following is not correct about the steady state equilibrium for the economy according to neoclassical growth theory?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "The growth rate of output is endogenously determined.",
+                "The growth rate of output is equal to the population growth rate.",
+                "The growth rate of output is independent of the saving rate.",
+                "Per capita GDP and per capita capital are constant."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -229,10 +229,10 @@
             "question_number": 18,
             "question_text": "In Solow's growth model, the output per capita is a function of",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Capital labor ratio",
+                "Capital output ratio",
+                "Labor output ratio",
+                "Technological progress"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -242,10 +242,10 @@
             "question_number": 19,
             "question_text": "If we twice flip a balanced coin, what is the probability of getting at least one head?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "1/4",
+                "2/4",
+                "1/6",
+                "3/4"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -255,10 +255,10 @@
             "question_number": 20,
             "question_text": "Which of the following are applicable to the individual's expenditure function? (A) it is homogeneous of degree zero in all prices. (B) it represents the maximum expenditure to achieve a given level of utility. (C) it is non-decreasing in prices. (D) it is concave in prices",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B), (C) and (D)",
+                "(A), (B) and (C) only",
+                "(A) and (B) only",
+                "(C) and (D) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -268,10 +268,10 @@
             "question_number": 21,
             "question_text": "What is the geometric mean of 2, 4 and 8?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "4.67",
+                "3.43",
+                "4",
+                "4.5"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -281,10 +281,10 @@
             "question_number": 22,
             "question_text": "In correlation analysis, the two variables",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Are treated with distinction.",
+                "Are treated differently based on individual characteristics.",
+                "Are treated symmetrically.",
+                "Are regressed."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -294,10 +294,10 @@
             "question_number": 23,
             "question_text": "In statistics, standard error measures the",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Specification error of the model.",
+                "Autocorrelation in the regression model.",
+                "Correlation between dependent and independent variables.",
+                "Precision of an estimate."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -307,10 +307,10 @@
             "question_number": 24,
             "question_text": "If A and B are symmetric matrices of the same order, which one of the following is not correct?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "A + B is a symmetric matrix.",
+                "AB + BA is a symmetric matrix.",
+                "A + A^T and B + B^T are symmetric matrices.",
+                "AB - BA is a symmetric matrix."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -320,10 +320,10 @@
             "question_number": 25,
             "question_text": "Given the two matrices A=[[1,3],[2,8],[4,0]] and B=[[5],[9]]. Find AB.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "[[32],[82],[20]]",
+                "[[62],[20],[32]]",
+                "[[72],[22],[20]]",
+                "[[82],[32],[32]]"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -333,10 +333,10 @@
             "question_number": 26,
             "question_text": "Total foodgrain production (in million tonnes) in India for the year 2022-23 is",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "315.62",
+                "329.69",
+                "332.30",
+                "310.74"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -346,10 +346,10 @@
             "question_number": 27,
             "question_text": "In which of the following year India had a surplus in its current account?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "2018-19",
+                "2019-20",
+                "2020-21",
+                "2021-22"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -359,10 +359,10 @@
             "question_number": 28,
             "question_text": "The direct tax to GDP ratio in India for the year 2022-23 is",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "5.23",
+                "6.78",
+                "5.97",
+                "6.11"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -372,10 +372,10 @@
             "question_number": 29,
             "question_text": "With respect to the landholding pattern in India \"medium\" farmers refer to those who have a landholding in the range of",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "1 to 2 hectares",
+                "2 to 4 hectares",
+                "4 to 10 hectares",
+                "10 to 15 hectares"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -385,10 +385,10 @@
             "question_number": 30,
             "question_text": "Which of the following is not the correct assumption of Hecksher-Ohlin theory of international trade?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "All resources are fully employed in both nations.",
+                "Trade between the two countries is balanced.",
+                "Both commodities are produced under constant returns to scale in both countries.",
+                "Demand preferences are not identical in both countries."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -398,10 +398,10 @@
             "question_number": 31,
             "question_text": "Which of the following is not true about the Classical and Keynesian aggregate demand (AD) and aggregate supply (AS) schedules?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Classical AS schedule is vertical.",
+                "Keynesian AS schedule slopes upward to the right.",
+                "Classical AD schedule depends only on the level of money supply.",
+                "Keynesian AD schedule depends only on the existing capital stock."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -411,10 +411,10 @@
             "question_number": 32,
             "question_text": "Which of the following is not correct about the effect of taxes on income and output?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Income taxes lower the multiplier effect.",
+                "Inclusion of taxes makes the aggregate demand curve steeper and hence increases the multiplier.",
+                "Income taxes reduce the induced increase of consumption out of changes in income",
+                "Swings in investment demand have a smaller effect on output when automatic stabilizers such as proportional income tax are in place."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -424,10 +424,10 @@
             "question_number": 33,
             "question_text": "Arrange the following components of monetary aggregates in descending order as per their liquidity. (A) currency notes (B) demand deposits (C) time deposits (D) money market mutual fund",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B), (C), (D)",
+                "(A), (B), (D), (C)",
+                "(D), (A), (C), (B)",
+                "(D), (A), (B), (C)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -437,10 +437,10 @@
             "question_number": 34,
             "question_text": "Linear regression model is",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "linear in explanatory variables but may not be linear in parameters",
+                "non-linear in parameters and must be linear in variables",
+                "linear in parameters and must be linear in variables",
+                "linear in parameters and may be linear in variables"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -450,10 +450,10 @@
             "question_number": 35,
             "question_text": "Which of the following does not hold at the equilibrium price and quantity in a perfectly competitive market?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "total surplus gets maximised",
+                "marginal benefit equals marginal cost",
+                "minimum willingness to pay equals minimum acceptable price",
+                "all competitive equilibria are Pareto optimal."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -463,10 +463,10 @@
             "question_number": 36,
             "question_text": "In the context of the Keynesian concept of a multiplier, a $1 increase in government spending financed by a $1 increase in taxes will cause equilibrium income",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "unchanged",
+                "increased by $1",
+                "to change depending on the value of the marginal propensity to consume",
+                "decrease by $1"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -476,10 +476,10 @@
             "question_number": 37,
             "question_text": "Arrange the following theories in chronological order starting from oldest to latest: (A) Keynesian Theory of Demand for Money (B) Quantity Theory of Money (C) Cambridge Cash Balance Approach (D) Modern Quantity Theory of Money",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                " (B), (C), (D), (A)",
+                " (A), (C), (B), (D)",
+                " (B), (C), (A), (D)",
+                " (C), (B), (D), (A)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -489,10 +489,10 @@
             "question_number": 38,
             "question_text": "The statement that 'currency held in the hand yields no income' is given by",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "A. C. Pigou",
+                "A. Marshall",
+                "I. Fisher",
+                "J. M. Keynes"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -502,10 +502,10 @@
             "question_number": 39,
             "question_text": "The decision by consumers to buy larger quantities of a good at each possible price can not be caused by",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "an increase in the number of buyers",
+                "a favourable change in the consumer tastes",
+                "consumer expectation that the prices will be higher in the future",
+                "rising incomes if it is an inferior good."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -515,10 +515,10 @@
             "question_number": 40,
             "question_text": "Arrange the following theories in chronological order, starting from oldest to the latest: (A) The Rybczynski Theorem (B) Product Cycle Model (C) Technological Gap Model (D) Specific Factor Model",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (C), (B), (D)",
+                "(A), (C), (D), (B)",
+                "(A), (B), (D), (C)",
+                "(A), (D), (C), (B)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -528,10 +528,10 @@
             "question_number": 41,
             "question_text": "If the probability function for a random variable x is given as f(x) = (x+3)/15 when x = 1, 2 and 3. Find the sum of the values of the probability distribution for x.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "0.75",
+                "0.85",
+                "0.95",
+                "1.0"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -541,10 +541,10 @@
             "question_number": 42,
             "question_text": "Calculate the standard deviation for the following sample: 8, 7, and 9.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "\u221a2",
+                "\u221a2.15",
+                "1",
+                "\u221a1.5"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -554,10 +554,10 @@
             "question_number": 43,
             "question_text": "Which of the following is not a type of non-random sampling?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Convenience sampling",
+                "Cluster sampling",
+                "Quota sampling",
+                "Snowball sampling"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -567,10 +567,10 @@
             "question_number": 44,
             "question_text": "According to monetarist thought, the natural rate of unemployment and output is not determined by",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Capital Stock",
+                "Size of labour force",
+                "Level of technology",
+                "Aggregate demand"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -580,10 +580,10 @@
             "question_number": 45,
             "question_text": "Expenditure towards the maintenance of embassies and diplomatic missions are included in which of the following account of the balance of payments.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "Current Account",
+                "Capital Account",
+                "Official Reserves Account",
+                "Errors and Omissions Account"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -593,10 +593,10 @@
             "question_number": 46,
             "question_text": "Arrange the following Chairman of the Finance Commission as per their year of appointment in chronological order: (A) AM Khusro (B) N K Singh (C) Vijay Kelkar (D) NKP Salve",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (D), (C), (B)",
+                "(D), (A), (C), (B)",
+                "(B), (A), (D), (C)",
+                "(C), (A), (D), (B)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -606,10 +606,10 @@
             "question_number": 47,
             "question_text": "Arrange the following authors and their publications in chronological order starting from the oldest to latest: (A) P A Samuelson (B) S B Linder (C) Eli Heckscher (D) B Balassa",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (D), (C), (B)",
+                "(C), (B), (A), (D)",
+                "(C), (A), (B), (D)",
+                "(C), (D), (B), (A)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -619,10 +619,10 @@
             "question_number": 48,
             "question_text": "Arrange the following financial institutions as per their year of establishment in chronological order, starting from the oldest to latest: (A) NABARD (B) IFCI (C) IRBI (D) IDBI",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(C), (B), (A), (D)",
+                "(A), (C), (B), (D)",
+                "(C), (D), (A), (B)",
+                "(B), (D), (C), (A)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -632,10 +632,10 @@
             "question_number": 49,
             "question_text": "As per Union Budget 2024-25, arrange the following sources of revenue in ascending order in terms of their contribution to the overall revenue of the central government for 2023-24. (A) GST and other related taxes (B) Income Tax (C) Union Excise Duties (D) Corporate Tax",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B), (C), (D)",
+                "(D), (C), (B), (A)",
+                "(A), (C), (D), (B)",
+                "(C), (D), (A), (B)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -645,10 +645,10 @@
             "question_number": 50,
             "question_text": "An individual's utility function for two goods milk (M) and butter (B) is given as U(M,B) = 5M + 10B and the cost of each unit of the two goods is Rs 1 and the individuals weekly budget is Rs 5. Find the individual's utility maximizing choice",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "2.5 units of M and 2.5 units of B",
+                "0 unit of M and 5 units of B",
+                "5 units of M and 5 units of B",
+                "5 units of M and 0 unit of B"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -658,10 +658,10 @@
             "question_number": 51,
             "question_text": "Which of the following statements is not correct?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "If f(x) is quasiconcave then -f(x) is quasiconvex",
+                "If f(x) is a linear function, then it is quasiconcave as well as quasiconvex.",
+                "Any concave function is quasiconcave but the converse is not true.",
+                "Any convex function is quasiconvex and its converse also holds."
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -671,10 +671,10 @@
             "question_number": 52,
             "question_text": "Arrange the following steps in the proper sequence concerning the solution of a linear programming problem. (A) Graph each constraint (B) Find feasible region (C) Superimpose contours (D) Construct graph, placing variable on axis",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B), (C), (D)",
+                "(D), (A), (B), (C)",
+                "(D), (B), (A), (C)",
+                "(C), (B), (D), (A)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -684,10 +684,10 @@
             "question_number": 53,
             "question_text": "Let the total cost C=f(X) for a firm in the short run, which of the following expressions represents the relationship between marginal cost (MC) and average cost (AC)?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "slope of AC = 1/X [MC - AC]",
+                "slope of AC = 1/X [AC - MC]",
+                "MC = AC + (X) * (slope of AC)",
+                "X * (slope of AC) = MC - C"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -697,10 +697,10 @@
             "question_number": 54,
             "question_text": "Arrange the following scholarly contributions in their chronological order starting from the oldest to latest: (A) Kaldor-Hicks (B) Bergson (C) Rawls (D) Pareto",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B), (C), (D)",
+                "(B), (A), (C), (D)",
+                "(B), (A), (D), (C)",
+                "(D), (B), (A), (C)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -710,10 +710,10 @@
             "question_number": 55,
             "question_text": "One of the conditions for national income or output to be in equilibrium is that the desired investment (I) must equal the realised investment (Ir). If I > Ir, the difference results in",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "unintended inventory accumulation",
+                "unintended inventory shortfall",
+                "no change in inventory stock",
+                "increasing tax rate"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -723,10 +723,10 @@
             "question_number": 56,
             "question_text": "Which of the following statements are correct about the IS curve?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B) and (D) only",
+                "(A), (B) and (C) only",
+                "(B), (C) and (D) only",
+                "(B) and (D) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -736,10 +736,10 @@
             "question_number": 57,
             "question_text": "Which of the following statements are correct about the money multiplier?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B) and (D) only",
+                "(A), (B) and (C) only",
+                "(A), (C) and (D) only",
+                "(A), (B), (C) and (D)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -749,10 +749,10 @@
             "question_number": 58,
             "question_text": "Life cycle theory of consumption postulates that",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(B) and (C) only",
+                "(A) and (D) only",
+                "(B), (C), and (D) only",
+                "(A), (B), (C) and (D)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -762,10 +762,10 @@
             "question_number": 59,
             "question_text": "The Kinked demand curve model can explain",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A) and (B) only",
+                "(C) and (D) only",
+                "(A), (B), and (D) only",
+                "(B), (C) and (D) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -775,10 +775,10 @@
             "question_number": 60,
             "question_text": "Suppose that the random variable X takes on the values -1, 0, and 2 with probability [incomplete]. Find the expected value of X.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "1",
+                "2",
+                "3",
+                "4"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -788,10 +788,10 @@
             "question_number": 61,
             "question_text": "Which of the following are correct in the context of monopolistic competition? (A) firms may earn economic profits or incur losses in the short-run. (B) long-run equilibrium is more efficient than pure competition. (C) firms strive to increase demand through product development. (D) consumers benefit from variety.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (C) and (D) only",
+                "(A), (B) and (D) only",
+                "(A), (B), (C) and (D)",
+                "(B), (C) and (D) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -801,10 +801,10 @@
             "question_number": 62,
             "question_text": "Coefficient of determination measures (A) correlation between the dependent and independent variables. (B) the residual sum of squares as a proportion of the total sum of squares (C) the explained sum of squares as a proportion of the total sum of squares (D) how well the sample regression fits the data.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B) and (D) only",
+                "(A), (C) and (D) only",
+                "(A) and (D) only",
+                "(C) and (D) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -814,10 +814,10 @@
             "question_number": 63,
             "question_text": "Which of the following statements are correct about the contrast between pure public and pure private goods?",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A), (B) and (D) only",
+                "(A), (B) and (C) only",
+                "(B), (C) and (D) only",
+                "(A), (B), (C) and (D)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -827,10 +827,10 @@
             "question_number": 64,
             "question_text": "According to the law of comparative advantage, trade will not be beneficial for both countries if",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A) only",
+                "(A) and (B) only",
+                "(C) and (D) only",
+                "(B) and (C) only"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -840,10 +840,10 @@
             "question_number": 65,
             "question_text": "In the Keynesian framework, determination of an equilibrium interest rate also implies (A) the rate that equates the supply of and the demand for bonds. (B) the rate that equates the supply of money with the demand for money.",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(C) only",
+                "(C) and (D) only",
+                "(A) and (B) only",
+                "(A), (B), (C) and (D)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -853,10 +853,10 @@
             "question_number": 66,
             "question_text": "Match List-I (Books) with List-II (Authors): (A) Economics of Imperfect Competition (B) Monopolistic Competition (C) Risk, Uncertainty and Profit (D) Theory of Market Economy",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+                "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -866,10 +866,10 @@
             "question_number": 67,
             "question_text": "Match List-I (Interval Types) with List-II (Representation). (A) Closed (B) Open (C) Unbounded (D) Half Open",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+                "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+                "(A)-(I), (B)-(II), (C)-(IV), (D)-(I)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -879,10 +879,10 @@
             "question_number": 68,
             "question_text": "Match List-I (Mean Types) with List-II (Formula)",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+                "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+                "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+                "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -892,10 +892,10 @@
             "question_number": 69,
             "question_text": "Match List-I (Skewness) with List-II (Relationship Mean/Median/Mode). (A) Positively Skewed (B) Moderately Skewed (C) Negatively Skewed (D) Symmetric",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+                "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -905,10 +905,10 @@
             "question_number": 70,
             "question_text": "Match List-I (Production Functions) with List-II (Functional Forms)",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+                "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+                "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -918,10 +918,10 @@
             "question_number": 71,
             "question_text": "Match List-I with List-II (Concepts vs Meaning): (A) Foreign Exchange Swaps (B) Forward Transaction (C) Foreign Exchange Futures (D) Hedging",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -931,10 +931,10 @@
             "question_number": 72,
             "question_text": "Match List-I (Time Series Patterns: Seasonal, Random, Business Cycles, Trends) with List-II (Meaning)",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+                "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -944,10 +944,10 @@
             "question_number": 73,
             "question_text": "Match List-I (M3, M2, M1, M4) with List-II (Components)",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+                "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -957,10 +957,10 @@
             "question_number": 74,
             "question_text": "Match List-I with List-II: Types of Deficit vs Level as % of GDP for FY2021. (A) Revenue Deficit (B) Fiscal Deficit (C) Primary Deficit (D) Current Account Deficit. List II: (I) 1.2 (II) 5.7 (III) 9.2 (IV) 7.3",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+                "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+                "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,
@@ -970,10 +970,10 @@
             "question_number": 75,
             "question_text": "Match List-I with List-II: Name of State vs Dependency Ratio for 2023-24. (A) Andhra Pradesh (B) Bihar (C) Kerala (D) Uttar Pradesh. Values: (I) 66.3 (II) 52.2 (III) 41.4 (IV) 50.6",
             "options": [
-                "",
-                "",
-                "",
-                ""
+                "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+                "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+                "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+                "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
             ],
             "correct_option": "Unknown",
             "positive_marks": 4,

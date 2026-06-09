@@ -45,7 +45,9 @@ def migrate_cuet():
         for i, q in enumerate(paper["questions"]):
             opts = q.get("options", {})
             if isinstance(opts, dict):
-                options = [opts.get(k, "") for k in ["A", "B", "C", "D"]]
+                options = list(opts.values())
+                options = options + [""] * max(0, 4 - len(options))
+                options = options[:4]
             elif isinstance(opts, list):
                 # pad with empty strings if < 4
                 options = opts + [""] * max(0, 4 - len(opts))
