@@ -4,10 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "jinja2>=3.1.6"
+]
 
 [dependency-groups]
 dev = [
-    "jinja2>=3.1.6",
     "pytest>=9.0.3",
 ]
+
+[tool.setuptools.packages.find]
+include = ["utils*"]
