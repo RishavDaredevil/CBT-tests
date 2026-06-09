@@ -871,7 +871,6 @@
                     serialNumber: displaySerialNumber,
                     status: status,
                     selectedOption: finalSelectedOpt,
-                    correctOption: String(finalCorrectOpt),
                     timeTaken: qTime
                 });
             });
@@ -886,7 +885,7 @@
                 return str;
             };
 
-            const header = ["Serial Number", "Status", "Selected Option", "Correct Option", "Time Taken (seconds)"];
+            const header = ["Serial Number", "Status", "Selected Option", "Time Taken (seconds)"];
             let csvContent = header.map(sanitizeCSVField).join(",") + "\n";
             
             csvData.forEach(row => {
@@ -894,7 +893,6 @@
                     row.serialNumber,
                     row.status,
                     row.selectedOption,
-                    row.correctOption,
                     row.timeTaken
                 ];
                 csvContent += rowArray.map(sanitizeCSVField).join(",") + "\n";
