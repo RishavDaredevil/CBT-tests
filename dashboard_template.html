@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CBT Platform Dashboard</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
+        .card { border: 1px solid #ccc; padding: 20px; border-radius: 8px; }
+        select, input, button { width: 100%; padding: 10px; margin-top: 10px; box-sizing: border-box; }
+        button { background: #007bff; color: white; border: none; cursor: pointer; }
+        button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Select an Exam</h2>
+        <select id="examSelect">
+            <option value="">-- Choose Exam --</option>
+        </select>
+        <select id="yearSelect" disabled>
+            <option value="">-- Choose Year --</option>
+        </select>
+        <label style="display:block; margin-top:15px;">Duration (minutes):</label>
+        <input type="number" id="durationInput" disabled>
+        <button id="startBtn" disabled>Start Test</button>
+    </div>
+
+    <script>
+        const catalog = {{ catalog_json | safe }};
+        const examSelect = document.getElementById('examSelect');
+        const yearSelect = document.getElementById('yearSelect');
+        const durationInput = document.getElementById('durationInput');
+        const startBtn = document.getElementById('startBtn');
+        let currentLink = "";
+
+        Object.keys(catalog).forEach(examName => {
+            const opt = document.createElement('option');
+            opt.value = examName;
+            opt.textContent = examName;
+            examSelect.appendChild(opt);
+        });
+
+        examSelect.addEventListener('change', (e) => {
+            const name = e.target.value;
+            yearSelect.innerHTML = '<option value="">-- Choose Year --</option>';
+            yearSelect.disabled = !name;
+            durationInput.disabled = true;
+            startBtn.disabled = true;
+            if (name) {
+                catalog[name].forEach(exam => {
+                    const opt = document.createElement('option');
+                    opt.value = JSON.stringify(exam);
+                    opt.textContent = exam.year;
+                    yearSelect.appendChild(opt);
+                });
+            }
+        });
+
+        yearSelect.addEventListener('change', (e) => {
+            if (!e.target.value) {
+                durationInput.disabled = true;
+                startBtn.disabled = true;
+                return;
+            }
+            const exam = JSON.parse(e.target.value);
+            durationInput.value = exam.duration;
+            durationInput.disabled = false;
+            currentLink = exam.link;
+            startBtn.disabled = false;
+        });
+
+        startBtn.addEventListener('click', () => {
+            if (currentLink && durationInput.value) {
+                window.location.href = currentLink + "?duration=" + durationInput.value;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -11,14 +11,20 @@ def test_build_site(tmp_path):
     # Create mock standard JSON
     json_path = tmp_path / "standardized_Test.json"
     json_path.write_text(json.dumps({
+        "exam_name": "JNU",
+        "exam_year": 2020,
         "exam_title": "Test",
         "duration": 120,
         "questions": []
     }))
     
+    # Create mock dashboard template
+    dash_path = tmp_path / "dashboard_template.html"
+    dash_path.write_text("Catalog: {{ catalog_json | safe }}")
+    
     dist_dir = tmp_path / "dist"
     
-    build_site(str(tmp_path), str(dist_dir), str(template_path))
+    build_site(str(tmp_path), str(dist_dir), str(template_path), str(dash_path))
     
     # Check output
     assert dist_dir.exists()
@@ -29,4 +35,5 @@ def test_build_site(tmp_path):
     assert "Title: Test" in html_content
     
     index_content = (dist_dir / "index.html").read_text()
-    assert "href=\"Test.html\"" in index_content
+    assert '"JNU"' in index_content
+    assert '"year": 2020' in index_content
