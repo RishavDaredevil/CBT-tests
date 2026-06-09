@@ -728,7 +728,7 @@
             let unattemptedCount = 0;
             
             // Generate CSV content
-            let csvContent = "Serial Number,Status,Selected Option,Correct Option,Time Taken (seconds)\\n";
+            let csvContent = "Serial Number,Status,Selected Option,Correct Option,Time Taken (seconds)\n";
 
             examData.questions.forEach((q, index) => {
                 const userAns = answers[index];
@@ -783,7 +783,7 @@
             const url = URL.createObjectURL(blob);
             const link = document.createElement("a");
             link.setAttribute("href", url);
-            link.setAttribute("download", `${examData.exam_title.replace(/\\s+/g, '_')}_Results.csv`);
+            link.setAttribute("download", `${examData.exam_title.replace(/\s+/g, '_')}_Results.csv`);
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
