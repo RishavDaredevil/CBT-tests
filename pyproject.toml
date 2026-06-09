@@ -8,5 +8,6 @@ dependencies = []
 
 [dependency-groups]
 dev = [
+    "jinja2>=3.1.6",
     "pytest>=9.0.3",
 ]
