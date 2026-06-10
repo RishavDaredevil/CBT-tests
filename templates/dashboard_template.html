@@ -4,14 +4,30 @@
     <meta charset="UTF-8">
     <title>CBT Platform Dashboard</title>
     <style>
-        body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
-        .card { border: 1px solid #ccc; padding: 20px; border-radius: 8px; }
+        body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+        .card { border: 1px solid #ccc; padding: 20px; border-radius: 8px; margin-bottom: 20px; background: #fff; }
+        .instructions { background: #e9ecef; border-left: 4px solid #007bff; padding: 20px; border-radius: 4px; margin-bottom: 30px; }
+        .instructions h3 { margin-top: 0; color: #0056b3; }
+        .instructions ol { padding-left: 20px; }
+        .instructions li { margin-bottom: 10px; }
         select, input, button { width: 100%; padding: 10px; margin-top: 10px; box-sizing: border-box; }
-        button { background: #007bff; color: white; border: none; cursor: pointer; }
+        button { background: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; font-weight: bold; }
         button:hover { background: #0056b3; }
+        button:disabled { background: #cccccc; cursor: not-allowed; }
     </style>
 </head>
-<body>
+<body style="background-color: #f4f7f6;">
+    <div class="instructions">
+        <h3>📖 How to Use This Platform</h3>
+        <p>This CBT (Computer Based Test) interface is designed to help aspirants practice Previous Year Questions (PYQs) and track their attempt statistics.</p>
+        <ol>
+            <li><strong>Download the Question Paper:</strong> Due to limitations in displaying complex mathematical equations and formatting, this interface should be used <strong>alongside another device</strong> displaying the actual question paper. Please download the respective PDF from the <code>All_test_papers_pdf</code> folder in the repository beforehand.</li>
+            <li><strong>Attempt the Exam:</strong> Use this interface to mark your answers and manage your time just like the real CBT exam <em>(Note: ISI exams use a pen-and-paper OMR format, but you can still use this tool to record your attempts)</em>.</li>
+            <li><strong>Download Your Report:</strong> After submitting the exam, click the button to download a CSV report containing your marked options, time taken per question, and other statistics.</li>
+            <li><strong>Calculate Your Result:</strong> Open the compiled Excel sheet provided in the repository, and copy-paste your attempts from the CSV to calculate your final score.</li>
+        </ol>
+    </div>
+
     <div class="card">
         <h2>Select an Exam</h2>
         <select id="examSelect">
@@ -78,5 +94,6 @@
             }
         });
     </script>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8f79df0e88ff4e21a19948b51151fdcb"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

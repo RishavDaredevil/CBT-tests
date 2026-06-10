@@ -759,10 +759,11 @@
 
             document.getElementById('submit-stats').innerHTML = `
                 <div><strong>Total Questions:</strong> ${examData.questions.length}</div>
-                <div><strong>Answered:</strong> ${counts.answered + counts.answeredMarked}</div>
-                <div><strong>Not Answered:</strong> ${counts.notAnswered}</div>
-                <div><strong>Not Visited:</strong> ${counts.notVisited}</div>
-                <div><strong>Marked for Review:</strong> ${counts.marked}</div>
+                <div><strong>Attempted:</strong> ${counts.answered}</div>
+                <div><strong>Unattempted:</strong> ${counts.notAnswered}</div>
+                <div><strong>Marked for review and answered:</strong> ${counts.answeredMarked}</div>
+                <div><strong>Marked for review and not answered:</strong> ${counts.marked}</div>
+                <div><strong>Not visited:</strong> ${counts.notVisited}</div>
             `;
             
             document.getElementById('submit-modal').style.display = 'flex';
@@ -898,17 +899,24 @@
                 csvContent += rowArray.map(sanitizeCSVField).join(",") + "\n";
             });
 
+            let counts = { answered: 0, notAnswered: 0, marked: 0, answeredMarked: 0, notVisited: 0 };
+            
+            for (let i = 0; i < examData.questions.length; i++) {
+                const status = reviewStatus[i];
+                if(status === 'answered') counts.answered++;
+                else if(status === 'not-answered') counts.notAnswered++;
+                else if(status === 'marked') counts.marked++;
+                else if(status === 'answered-marked') counts.answeredMarked++;
+                else counts.notVisited++;
+            }
+
             document.getElementById('result-stats').innerHTML = `
-                <div style="font-size: 1.2rem; margin-bottom: 15px; text-align:center;">
-                    <strong>Total Score: <span style="color:var(--primary); font-size: 1.5rem;">${totalMarks}</span></strong>
-                </div>
-                <hr style="border: 0; border-top: 1px solid var(--border); margin-bottom: 15px;">
-                <div><strong>Correct Answers:</strong> <span style="color: var(--answered)">${correctCount}</span></div>
-                <div><strong>Incorrect Answers:</strong> <span style="color: var(--not-answered)">${incorrectCount}</span></div>
-                <div><strong>Unattempted:</strong> ${unattemptedCount}</div>
-                <div style="margin-top: 15px; font-size: 0.9rem; color: #7f8c8d;">
-                    Note: Answered & Marked for Review questions are considered for evaluation.
-                </div>
+                <div><strong>Total Questions:</strong> ${examData.questions.length}</div>
+                <div><strong>Attempted:</strong> ${counts.answered}</div>
+                <div><strong>Unattempted:</strong> ${counts.notAnswered}</div>
+                <div><strong>Marked for review and answered:</strong> ${counts.answeredMarked}</div>
+                <div><strong>Marked for review and not answered:</strong> ${counts.marked}</div>
+                <div><strong>Not visited:</strong> ${counts.notVisited}</div>
                 <button onclick="downloadCSV()" style="margin-top: 20px; padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; width: 100%;">Download Detailed Report (CSV)</button>
             `;
             
@@ -930,5 +938,6 @@
         // Fire Initialization on Load
         window.onload = init;
     </script>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8f79df0e88ff4e21a19948b51151fdcb"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
