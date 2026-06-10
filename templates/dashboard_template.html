@@ -11,37 +11,68 @@
         .instructions ol { padding-left: 20px; }
         .instructions li { margin-bottom: 10px; }
         select, input, button { width: 100%; padding: 10px; margin-top: 10px; box-sizing: border-box; }
-        button { background: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; font-weight: bold; }
-        button:hover { background: #0056b3; }
-        button:disabled { background: #cccccc; cursor: not-allowed; }
+        .primary-btn { background: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; font-weight: bold; }
+        .primary-btn:hover { background: #0056b3; }
+        .primary-btn:disabled { background: #cccccc; cursor: not-allowed; }
+
+        /* Tab Styles */
+        .tabs { display: flex; border-bottom: 2px solid #ccc; margin-bottom: 20px; }
+        .tab-btn { background: none; border: none; padding: 12px 20px; cursor: pointer; font-size: 16px; font-weight: bold; color: #555; border-bottom: 3px solid transparent; margin-bottom: -2px; width: auto; margin-top: 0; border-radius: 0; }
+        .tab-btn:hover { background: transparent; color: #007bff; }
+        .tab-btn.active { color: #007bff; border-bottom: 3px solid #007bff; }
+        .tab-content { display: none; animation: fadeIn 0.3s; }
+        .tab-content.active { display: block; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
     </style>
 </head>
 <body style="background-color: #f4f7f6;">
-    <div class="instructions">
-        <h3>📖 How to Use This Platform</h3>
-        <p>This CBT (Computer Based Test) interface is designed to help aspirants practice Previous Year Questions (PYQs) and track their attempt statistics.</p>
-        <ol>
-            <li><strong>Download the Question Paper:</strong> Due to limitations in displaying complex mathematical equations and formatting, this interface should be used <strong>alongside another device</strong> displaying the actual question paper. Please download the respective PDF from the <code>All_test_papers_pdf</code> folder in the repository beforehand.</li>
-            <li><strong>Attempt the Exam:</strong> Use this interface to mark your answers and manage your time just like the real CBT exam <em>(Note: ISI exams use a pen-and-paper OMR format, but you can still use this tool to record your attempts)</em>.</li>
-            <li><strong>Download Your Report:</strong> After submitting the exam, click the button to download a CSV report containing your marked options, time taken per question, and other statistics.</li>
-            <li><strong>Calculate Your Result:</strong> Open the compiled Excel sheet provided in the repository, and copy-paste your attempts from the CSV to calculate your final score.</li>
-        </ol>
+    <h1 style="text-align: center; color: #2c3e50; margin-bottom: 30px;">CBT Practice Platform</h1>
+
+    <div class="tabs">
+        <button class="tab-btn active" onclick="openTab(event, 'instructionsTab')">Instructions</button>
+        <button class="tab-btn" onclick="openTab(event, 'examTab')">Start Test</button>
     </div>
 
-    <div class="card">
-        <h2>Select an Exam</h2>
-        <select id="examSelect">
-            <option value="">-- Choose Exam --</option>
-        </select>
-        <select id="yearSelect" disabled>
-            <option value="">-- Choose Year --</option>
-        </select>
-        <label style="display:block; margin-top:15px;">Duration (minutes):</label>
-        <input type="number" id="durationInput" disabled>
-        <button id="startBtn" disabled>Start Test</button>
+    <div id="instructionsTab" class="tab-content active">
+        <div class="instructions">
+            <h3>📖 How to Use This Platform</h3>
+            <p>This CBT (Computer Based Test) interface is designed to help aspirants practice Previous Year Questions (PYQs) and track their attempt statistics.</p>
+            <ol>
+                <li><strong>Download the Question Paper:</strong> Due to limitations in displaying complex mathematical equations and formatting, this interface should be used <strong>alongside another device</strong> displaying the actual question paper. Please download the respective PDF from the <code>All_test_papers_pdf</code> folder in the repository beforehand.</li>
+                <li><strong>Attempt the Exam:</strong> Use this interface to mark your answers and manage your time just like the real CBT exam <em>(Note: ISI exams use a pen-and-paper OMR format, but you can still use this tool to record your attempts)</em>.</li>
+                <li><strong>Download Your Report:</strong> After submitting the exam, click the button to download a CSV report containing your marked options, time taken per question, and other statistics.</li>
+                <li><strong>Calculate Your Result:</strong> Open the compiled Excel sheet provided in the repository, and copy-paste your attempts from the CSV to calculate your final score.</li>
+            </ol>
+        </div>
+    </div>
+
+    <div id="examTab" class="tab-content">
+        <div class="card">
+            <h2>Select an Exam</h2>
+            <select id="examSelect">
+                <option value="">-- Choose Exam --</option>
+            </select>
+            <select id="yearSelect" disabled>
+                <option value="">-- Choose Year --</option>
+            </select>
+            <label style="display:block; margin-top:15px;">Duration (minutes):</label>
+            <input type="number" id="durationInput" disabled>
+            <button id="startBtn" class="primary-btn" disabled>Start Test</button>
+        </div>
     </div>
 
     <script>
+        // Tab functionality
+        function openTab(evt, tabId) {
+            document.querySelectorAll('.tab-content').forEach(tc => tc.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(tb => tb.classList.remove('active'));
+            document.getElementById(tabId).classList.add('active');
+            evt.currentTarget.classList.add('active');
+        }
         const catalog = {{ catalog_json | safe }};
         const examSelect = document.getElementById('examSelect');
         const yearSelect = document.getElementById('yearSelect');
